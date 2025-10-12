@@ -1,4 +1,4 @@
-"use client"; // React 18+ için client component
+"use client"; 
 
 import { useEffect } from "react";
 import * as d3 from "d3";
@@ -7,9 +7,9 @@ export default function Home() {
   useEffect(() => {
     const svg = d3.select("#map");
 
-    // Haritayı çizmek için fonksiyon oluştur
+    // Haritayı çizmek 
     const drawMap = () => {
-      svg.selectAll("*").remove(); // eski haritayı temizle
+      svg.selectAll("*").remove(); 
       const width = svg.node().clientWidth;
       const height = svg.node().clientHeight;
 
@@ -19,14 +19,14 @@ export default function Home() {
       ]).then(([geoData, depremData]) => {
         const projection = d3.geoMercator()
           .center([35.5, 39.2])
-          .scale(Math.min(width, height) * 3) // boyuta göre ölçek
+          .scale(Math.min(width, height) * 3) 
           .translate([width / 2, height / 2]);
 
         const path = d3.geoPath().projection(projection);
 
         const mapGroup = svg.append("g").attr("class", "map-group");
 
-        // Türkiye sınırlarını çiz
+         // Türkiye sınırlarını çiz
         mapGroup.selectAll("path")
           .data(geoData.features)
           .join("path")
@@ -36,7 +36,36 @@ export default function Home() {
           .attr("stroke", "#333")
           .attr("stroke-width", 0.5);
 
-        // Renk skalası
+        // 🏷️ İsimleri ekle
+        mapGroup.selectAll("text")
+          .data(geoData.features)
+          .join("text")
+          .attr("transform", d => {
+              // Her ilin merkezine metni yerleştir
+            const centroid = path.centroid(d);
+            return `translate(${centroid[0]}, ${centroid[1]})`;
+            })
+          .attr("text-anchor", "middle")
+          .attr("dy", ".35em")
+          .attr("font-size", "8px")
+          .attr("fill", "#333")
+          .text(d => d.properties.name);
+
+
+          // İllerin isimlerin yazılması
+        svg.selectAll("text")
+          .data(geojson.features)
+          .enter()
+          .append("text")
+          .attr("x", d => path.centroid(d)[0])
+          .attr("y", d => path.centroid(d)[1])
+          .text(d => d.properties.name) // GeoJSON içindeki il ismi
+          .attr("text-anchor", "middle")
+          .attr("font-size", "10px")
+          .attr("fill", "#333")
+          .attr("pointer-events", "none");
+
+        // Renk dağılımı
         function getColor(ml) {
           if (ml >= 6) return "#d73027";
           else if (ml >= 4) return "#fc8d59";
@@ -75,7 +104,7 @@ export default function Home() {
       });
     };
 
-    drawMap(); // ilk çizim
+    drawMap(); 
     window.addEventListener("resize", drawMap); // pencere boyutu değişince yeniden çiz
 
     return () => window.removeEventListener("resize", drawMap);
