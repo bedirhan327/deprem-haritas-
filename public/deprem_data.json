@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.10.15",
+    "Saat":"16:46:23",
+    "Enlem":39.2933,
+    "Boylam":28.3187,
+    "Derinlik":6.1,
+    "ML":"2.1",
+    "Yer":"KEPEZ-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"16:41:17",
+    "Enlem":39.269,
+    "Boylam":28.9967,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"16:30:03",
+    "Enlem":38.6373,
+    "Boylam":39.555,
+    "Derinlik":7.4,
+    "ML":"2.3",
+    "Yer":"ICME-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
     "Saat":"16:02:57",
     "Enlem":38.7427,
     "Boylam":28.6378,
