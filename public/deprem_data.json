@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.10.15",
+    "Saat":"16:02:57",
+    "Enlem":38.7427,
+    "Boylam":28.6378,
+    "Derinlik":24.1,
+    "ML":"1.3",
+    "Yer":"ENCEKLER-KULA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"15:42:49",
+    "Enlem":39.4028,
+    "Boylam":28.1662,
+    "Derinlik":17.5,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
     "Saat":"15:02:59",
     "Enlem":39.2182,
     "Boylam":27.813,
@@ -37,6 +57,16 @@
     "Derinlik":5.3,
     "ML":"2.3",
     "Yer":"KINIK-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:34:54",
+    "Enlem":39.093,
+    "Boylam":28.1477,
+    "Derinlik":4.8,
+    "ML":"1.3",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -1101,6 +1131,16 @@
   },
   {
     "Tarih":"2025.10.14",
+    "Saat":"16:19:13",
+    "Enlem":37.9008,
+    "Boylam":36.5595,
+    "Derinlik":18.2,
+    "ML":"1.6",
+    "Yer":"TEKIR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
     "Saat":"15:58:46",
     "Enlem":39.1972,
     "Boylam":29.0182,
@@ -1217,6 +1257,16 @@
     "Derinlik":18.7,
     "ML":"1.5",
     "Yer":"DEDECINAR-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"12:40:53",
+    "Enlem":39.0868,
+    "Boylam":27.8867,
+    "Derinlik":21.1,
+    "ML":"1.6",
+    "Yer":"SELCIKLI-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
@@ -1421,6 +1471,16 @@
   },
   {
     "Tarih":"2025.10.14",
+    "Saat":"06:24:37",
+    "Enlem":38.0513,
+    "Boylam":37.61,
+    "Derinlik":12.0,
+    "ML":"1.3",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
     "Saat":"06:21:27",
     "Enlem":39.2598,
     "Boylam":28.9485,
@@ -1587,6 +1647,16 @@
     "Derinlik":7.3,
     "ML":"1.5",
     "Yer":"CANAKCI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"03:35:41",
+    "Enlem":40.1207,
+    "Boylam":31.7132,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"CAYIRHAN-NALLIHAN (ANKARA)",
     "Cozum":"�lksel"
   },
   {
