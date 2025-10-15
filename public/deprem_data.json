@@ -1,5 +1,1895 @@
 [
   {
+    "Tarih":"2025.10.15",
+    "Saat":"15:02:59",
+    "Enlem":39.2182,
+    "Boylam":27.813,
+    "Derinlik":0.0,
+    "ML":"2.3",
+    "Yer":"KARACAKAS-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:53:30",
+    "Enlem":37.8473,
+    "Boylam":29.349,
+    "Derinlik":19.2,
+    "ML":"2.4",
+    "Yer":"KOCABAS-HONAZ (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:49:32",
+    "Enlem":39.0888,
+    "Boylam":28.0788,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:45:51",
+    "Enlem":39.2055,
+    "Boylam":27.8598,
+    "Derinlik":5.3,
+    "ML":"2.3",
+    "Yer":"KINIK-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:31:58",
+    "Enlem":38.0753,
+    "Boylam":36.8943,
+    "Derinlik":12.7,
+    "ML":"2.1",
+    "Yer":"ERICEK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:08:04",
+    "Enlem":39.1582,
+    "Boylam":28.876,
+    "Derinlik":6.3,
+    "ML":"1.7",
+    "Yer":"GOLKOY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"14:02:10",
+    "Enlem":39.1828,
+    "Boylam":28.0735,
+    "Derinlik":8.3,
+    "ML":"2.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:51:14",
+    "Enlem":39.218,
+    "Boylam":28.0612,
+    "Derinlik":6.0,
+    "ML":"3.3",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:42:26",
+    "Enlem":38.1302,
+    "Boylam":38.5127,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:40:40",
+    "Enlem":40.2663,
+    "Boylam":31.9283,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"YIGERLER-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:37:24",
+    "Enlem":39.2447,
+    "Boylam":28.068,
+    "Derinlik":6.1,
+    "ML":"1.6",
+    "Yer":"ALACAATLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:31:08",
+    "Enlem":39.2317,
+    "Boylam":29.058,
+    "Derinlik":2.3,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:21:27",
+    "Enlem":38.917,
+    "Boylam":28.0545,
+    "Derinlik":20.3,
+    "ML":"1.0",
+    "Yer":"GOCEK-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"13:06:13",
+    "Enlem":39.2175,
+    "Boylam":27.6932,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"DENIS-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:57:05",
+    "Enlem":39.2597,
+    "Boylam":29.4573,
+    "Derinlik":16.7,
+    "ML":"1.5",
+    "Yer":"OMERFAKI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:55:50",
+    "Enlem":39.5202,
+    "Boylam":28.1732,
+    "Derinlik":18.6,
+    "ML":"1.6",
+    "Yer":"CALDERE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:39:19",
+    "Enlem":37.8695,
+    "Boylam":30.5675,
+    "Derinlik":5.3,
+    "ML":"1.2",
+    "Yer":"BOZANONU-(ISPARTA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:35:26",
+    "Enlem":39.5187,
+    "Boylam":29.7943,
+    "Derinlik":0.0,
+    "ML":"2.0",
+    "Yer":"AGACKOY-(KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:31:11",
+    "Enlem":36.3137,
+    "Boylam":34.0122,
+    "Derinlik":9.4,
+    "ML":"2.5",
+    "Yer":"KURTULUS-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:28:02",
+    "Enlem":36.2282,
+    "Boylam":33.79,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"AKDERE-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:25:26",
+    "Enlem":36.3248,
+    "Boylam":33.9955,
+    "Derinlik":4.8,
+    "ML":"2.4",
+    "Yer":"KURTULUS-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:18:23",
+    "Enlem":39.5957,
+    "Boylam":27.625,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"SOFULAR-IVRINDI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:15:52",
+    "Enlem":39.1155,
+    "Boylam":27.9452,
+    "Derinlik":16.4,
+    "ML":"1.0",
+    "Yer":"ASAGIDOLMA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:07:24",
+    "Enlem":38.3163,
+    "Boylam":38.4368,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"FURUNCU-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:02:01",
+    "Enlem":39.0675,
+    "Boylam":27.5055,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"KALEMKOY-KINIK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"12:00:21",
+    "Enlem":37.2432,
+    "Boylam":27.9132,
+    "Derinlik":10.1,
+    "ML":"1.5",
+    "Yer":"CAMLIBELEN-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"11:37:30",
+    "Enlem":39.2027,
+    "Boylam":27.6065,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"10:56:33",
+    "Enlem":39.1382,
+    "Boylam":28.155,
+    "Derinlik":27.4,
+    "ML":"1.3",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"10:45:24",
+    "Enlem":39.2715,
+    "Boylam":27.8283,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"SAKARLI-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"10:12:50",
+    "Enlem":40.8462,
+    "Boylam":30.2453,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"BESEVLER-SERDIVAN (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"09:21:47",
+    "Enlem":39.2497,
+    "Boylam":28.046,
+    "Derinlik":27.0,
+    "ML":"1.2",
+    "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"09:10:24",
+    "Enlem":39.1182,
+    "Boylam":29.0128,
+    "Derinlik":11.0,
+    "ML":"1.3",
+    "Yer":"HACIAHMETOGLU-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"08:33:19",
+    "Enlem":39.3562,
+    "Boylam":27.7988,
+    "Derinlik":3.8,
+    "ML":"1.2",
+    "Yer":"HIDIRBALI-SAVASTEPE (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"08:32:35",
+    "Enlem":39.1632,
+    "Boylam":28.1527,
+    "Derinlik":11.8,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"08:17:14",
+    "Enlem":40.8632,
+    "Boylam":27.9918,
+    "Derinlik":17.7,
+    "ML":"1.6",
+    "Yer":"MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"07:48:24",
+    "Enlem":39.193,
+    "Boylam":28.1508,
+    "Derinlik":10.4,
+    "ML":"2.8",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"07:20:27",
+    "Enlem":38.135,
+    "Boylam":36.5242,
+    "Derinlik":8.2,
+    "ML":"1.3",
+    "Yer":"BOZHUYUK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"06:53:47",
+    "Enlem":35.3898,
+    "Boylam":26.2005,
+    "Derinlik":8.2,
+    "ML":"2.3",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"06:33:12",
+    "Enlem":39.1937,
+    "Boylam":28.177,
+    "Derinlik":7.9,
+    "ML":"1.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"06:24:41",
+    "Enlem":34.9673,
+    "Boylam":29.0573,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"06:21:53",
+    "Enlem":39.2193,
+    "Boylam":28.1313,
+    "Derinlik":8.6,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"06:21:28",
+    "Enlem":39.2137,
+    "Boylam":28.1658,
+    "Derinlik":13.7,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"05:57:57",
+    "Enlem":39.1488,
+    "Boylam":28.0848,
+    "Derinlik":10.7,
+    "ML":"1.3",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"05:47:49",
+    "Enlem":37.038,
+    "Boylam":27.8502,
+    "Derinlik":5.9,
+    "ML":"1.6",
+    "Yer":"BOZALAN-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"05:46:41",
+    "Enlem":39.2397,
+    "Boylam":28.9665,
+    "Derinlik":11.3,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"05:02:26",
+    "Enlem":35.9893,
+    "Boylam":28.1062,
+    "Derinlik":22.0,
+    "ML":"3.4",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:55:02",
+    "Enlem":39.1928,
+    "Boylam":29.0763,
+    "Derinlik":5.3,
+    "ML":"2.0",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:50:32",
+    "Enlem":37.9988,
+    "Boylam":36.5723,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"KARAAHMET-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:40:55",
+    "Enlem":39.0823,
+    "Boylam":28.25,
+    "Derinlik":12.7,
+    "ML":"0.9",
+    "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:35:48",
+    "Enlem":39.1617,
+    "Boylam":28.1735,
+    "Derinlik":11.3,
+    "ML":"1.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:24:21",
+    "Enlem":38.787,
+    "Boylam":37.9547,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:03:25",
+    "Enlem":39.184,
+    "Boylam":28.1887,
+    "Derinlik":12.5,
+    "ML":"2.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"04:01:29",
+    "Enlem":39.1648,
+    "Boylam":28.187,
+    "Derinlik":13.2,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"03:46:55",
+    "Enlem":39.1248,
+    "Boylam":28.1602,
+    "Derinlik":14.4,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"03:44:43",
+    "Enlem":38.7463,
+    "Boylam":27.7972,
+    "Derinlik":19.5,
+    "ML":"0.7",
+    "Yer":"KUMKUYUCAK-SARUHANLI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"03:43:35",
+    "Enlem":39.1677,
+    "Boylam":28.0302,
+    "Derinlik":13.3,
+    "ML":"0.9",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"03:24:01",
+    "Enlem":39.252,
+    "Boylam":29.038,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"03:12:13",
+    "Enlem":39.1935,
+    "Boylam":28.1452,
+    "Derinlik":9.0,
+    "ML":"1.9",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"03:10:23",
+    "Enlem":39.1377,
+    "Boylam":28.1785,
+    "Derinlik":9.8,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"02:58:06",
+    "Enlem":40.2183,
+    "Boylam":27.4972,
+    "Derinlik":18.1,
+    "ML":"1.3",
+    "Yer":"KAVAKALANI-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"02:49:54",
+    "Enlem":38.3508,
+    "Boylam":38.8037,
+    "Derinlik":4.5,
+    "ML":"2.1",
+    "Yer":"CANAKCI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"02:38:01",
+    "Enlem":39.168,
+    "Boylam":28.266,
+    "Derinlik":8.5,
+    "ML":"1.3",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"02:26:27",
+    "Enlem":37.1247,
+    "Boylam":28.9093,
+    "Derinlik":2.4,
+    "ML":"2.1",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA) REVIZE01 (2025.10.15",
+    "Cozum":"02:26:27)"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"02:00:15",
+    "Enlem":39.1925,
+    "Boylam":29.085,
+    "Derinlik":2.4,
+    "ML":"0.7",
+    "Yer":"TOKAT-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"01:49:29",
+    "Enlem":37.3063,
+    "Boylam":36.1917,
+    "Derinlik":5.5,
+    "ML":"1.4",
+    "Yer":"MEHEDINLI-KADIRLI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"01:47:39",
+    "Enlem":40.7117,
+    "Boylam":29.1847,
+    "Derinlik":5.6,
+    "ML":"1.5",
+    "Yer":"YALOVA ACIKLARI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"01:41:20",
+    "Enlem":39.2937,
+    "Boylam":28.9353,
+    "Derinlik":13.1,
+    "ML":"1.1",
+    "Yer":"ORTACA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"01:13:54",
+    "Enlem":39.1528,
+    "Boylam":27.6095,
+    "Derinlik":15.4,
+    "ML":"1.4",
+    "Yer":"DARKALE-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"00:31:49",
+    "Enlem":39.2305,
+    "Boylam":28.083,
+    "Derinlik":9.0,
+    "ML":"1.3",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"00:30:01",
+    "Enlem":38.7203,
+    "Boylam":42.5928,
+    "Derinlik":5.0,
+    "ML":"2.7",
+    "Yer":"ULUDERE-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"00:27:47",
+    "Enlem":39.258,
+    "Boylam":28.9707,
+    "Derinlik":11.6,
+    "ML":"1.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.15",
+    "Saat":"00:12:01",
+    "Enlem":39.1662,
+    "Boylam":28.1047,
+    "Derinlik":17.8,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"23:28:51",
+    "Enlem":38.195,
+    "Boylam":38.4923,
+    "Derinlik":20.3,
+    "ML":"1.3",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:54:18",
+    "Enlem":37.3943,
+    "Boylam":27.5455,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"DANISMENT-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:52:13",
+    "Enlem":37.6667,
+    "Boylam":36.4405,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"KALEBOYNU-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:44:55",
+    "Enlem":39.193,
+    "Boylam":29.0377,
+    "Derinlik":10.6,
+    "ML":"1.7",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:32:00",
+    "Enlem":39.6122,
+    "Boylam":41.2575,
+    "Derinlik":9.1,
+    "ML":"1.9",
+    "Yer":"TOPTEPE-TEKMAN (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:23:03",
+    "Enlem":39.5683,
+    "Boylam":26.1223,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"TUZLA-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:18:31",
+    "Enlem":36.1808,
+    "Boylam":36.0253,
+    "Derinlik":14.3,
+    "ML":"1.9",
+    "Yer":"YAYLICA-SAMANDAG (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:13:11",
+    "Enlem":39.2292,
+    "Boylam":29.0217,
+    "Derinlik":7.0,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:08:57",
+    "Enlem":39.1783,
+    "Boylam":28.1293,
+    "Derinlik":12.7,
+    "ML":"1.8",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:07:31",
+    "Enlem":38.185,
+    "Boylam":36.8582,
+    "Derinlik":3.7,
+    "ML":"2.0",
+    "Yer":"ORDEKKOY-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"22:01:46",
+    "Enlem":36.401,
+    "Boylam":31.5377,
+    "Derinlik":76.4,
+    "ML":"2.4",
+    "Yer":"ANTALYA KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"21:58:50",
+    "Enlem":36.6713,
+    "Boylam":25.7088,
+    "Derinlik":8.4,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"21:01:43",
+    "Enlem":39.2375,
+    "Boylam":28.0257,
+    "Derinlik":9.7,
+    "ML":"1.7",
+    "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"20:57:53",
+    "Enlem":39.223,
+    "Boylam":29.0037,
+    "Derinlik":17.1,
+    "ML":"1.6",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"20:57:24",
+    "Enlem":40.2008,
+    "Boylam":31.784,
+    "Derinlik":6.5,
+    "ML":"2.1",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"20:33:36",
+    "Enlem":39.2135,
+    "Boylam":28.0528,
+    "Derinlik":11.0,
+    "ML":"4.1",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"20:19:17",
+    "Enlem":38.3015,
+    "Boylam":37.7893,
+    "Derinlik":5.1,
+    "ML":"1.4",
+    "Yer":"ORTAKOY-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"20:01:25",
+    "Enlem":37.4543,
+    "Boylam":33.5572,
+    "Derinlik":10.3,
+    "ML":"1.4",
+    "Yer":"KALEKOY-AYRANCI (KARAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"19:43:03",
+    "Enlem":37.91,
+    "Boylam":28.79,
+    "Derinlik":4.0,
+    "ML":"1.6",
+    "Yer":"TEKKEKOY-SARAYKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"19:42:38",
+    "Enlem":37.3947,
+    "Boylam":33.613,
+    "Derinlik":4.8,
+    "ML":"1.8",
+    "Yer":"HUYUKBURUN-AYRANCI (KARAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"19:28:44",
+    "Enlem":39.2585,
+    "Boylam":29.0028,
+    "Derinlik":7.2,
+    "ML":"1.7",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"19:17:45",
+    "Enlem":36.342,
+    "Boylam":28.8517,
+    "Derinlik":12.1,
+    "ML":"1.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"19:11:05",
+    "Enlem":39.144,
+    "Boylam":28.0642,
+    "Derinlik":17.0,
+    "ML":"1.4",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:42:56",
+    "Enlem":39.1662,
+    "Boylam":28.2357,
+    "Derinlik":9.0,
+    "ML":"1.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:38:34",
+    "Enlem":39.243,
+    "Boylam":28.9413,
+    "Derinlik":11.1,
+    "ML":"1.4",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:34:13",
+    "Enlem":39.2508,
+    "Boylam":28.9913,
+    "Derinlik":5.4,
+    "ML":"2.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:31:18",
+    "Enlem":39.2403,
+    "Boylam":29.0013,
+    "Derinlik":6.5,
+    "ML":"2.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:30:01",
+    "Enlem":39.091,
+    "Boylam":28.984,
+    "Derinlik":14.7,
+    "ML":"2.2",
+    "Yer":"SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:29:39",
+    "Enlem":39.2462,
+    "Boylam":29.0165,
+    "Derinlik":4.4,
+    "ML":"2.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:27:20",
+    "Enlem":39.1858,
+    "Boylam":29.0322,
+    "Derinlik":8.3,
+    "ML":"1.2",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:26:51",
+    "Enlem":39.2328,
+    "Boylam":29.0063,
+    "Derinlik":10.3,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:15:02",
+    "Enlem":39.1602,
+    "Boylam":28.1785,
+    "Derinlik":19.7,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"18:06:55",
+    "Enlem":38.4095,
+    "Boylam":38.8808,
+    "Derinlik":3.4,
+    "ML":"2.2",
+    "Yer":"HACIHUSEYINLER-BASKIL (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"17:57:03",
+    "Enlem":39.1168,
+    "Boylam":28.149,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"17:32:15",
+    "Enlem":39.3455,
+    "Boylam":26.0917,
+    "Derinlik":7.2,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"17:29:30",
+    "Enlem":37.1188,
+    "Boylam":35.9003,
+    "Derinlik":6.4,
+    "ML":"2.0",
+    "Yer":"KARAKAYALI-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"17:24:48",
+    "Enlem":40.8497,
+    "Boylam":31.5333,
+    "Derinlik":11.9,
+    "ML":"2.2",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"17:24:01",
+    "Enlem":40.2953,
+    "Boylam":31.6715,
+    "Derinlik":6.9,
+    "ML":"2.1",
+    "Yer":"DUDAS-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"15:58:46",
+    "Enlem":39.1972,
+    "Boylam":29.0182,
+    "Derinlik":11.0,
+    "ML":"1.7",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA) REVIZE01 (2025.10.14",
+    "Cozum":"15:58:46)"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"15:39:26",
+    "Enlem":38.3883,
+    "Boylam":38.8073,
+    "Derinlik":4.0,
+    "ML":"2.0",
+    "Yer":"KOZLUK-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"15:33:50",
+    "Enlem":39.2002,
+    "Boylam":28.9902,
+    "Derinlik":10.2,
+    "ML":"1.6",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"14:58:06",
+    "Enlem":36.628,
+    "Boylam":28.6905,
+    "Derinlik":9.3,
+    "ML":"1.8",
+    "Yer":"DALAMAN ACIKLARI-MUGLA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"14:29:25",
+    "Enlem":39.2628,
+    "Boylam":28.979,
+    "Derinlik":12.4,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"14:11:02",
+    "Enlem":38.922,
+    "Boylam":42.4675,
+    "Derinlik":5.0,
+    "ML":"3.0",
+    "Yer":"AKCAOREN-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"13:56:49",
+    "Enlem":38.8157,
+    "Boylam":37.9142,
+    "Derinlik":11.4,
+    "ML":"1.9",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"13:44:05",
+    "Enlem":37.8495,
+    "Boylam":37.6657,
+    "Derinlik":13.0,
+    "ML":"1.4",
+    "Yer":"AKTOPRAK-GOLBASI (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"13:40:12",
+    "Enlem":38.9858,
+    "Boylam":28.0638,
+    "Derinlik":11.7,
+    "ML":"2.0",
+    "Yer":"HACIIBRAHIMLER-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"13:12:55",
+    "Enlem":38.3038,
+    "Boylam":38.1015,
+    "Derinlik":20.2,
+    "ML":"1.2",
+    "Yer":"AYDINLAR-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"13:07:07",
+    "Enlem":37.4062,
+    "Boylam":37.0322,
+    "Derinlik":9.5,
+    "ML":"2.2",
+    "Yer":"ALIBEYUSAGI-(KAHRAMANMARAS) REVIZE01 (2025.10.14",
+    "Cozum":"13:07:07)"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"12:53:55",
+    "Enlem":39.4622,
+    "Boylam":28.0607,
+    "Derinlik":18.7,
+    "ML":"1.5",
+    "Yer":"DEDECINAR-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"12:38:37",
+    "Enlem":39.2507,
+    "Boylam":27.6518,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"KUCUKGUNEY-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"12:35:37",
+    "Enlem":38.9825,
+    "Boylam":28.0538,
+    "Derinlik":6.7,
+    "ML":"1.9",
+    "Yer":"HACIIBRAHIMLER-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"12:06:58",
+    "Enlem":39.8077,
+    "Boylam":27.9107,
+    "Derinlik":7.7,
+    "ML":"0.8",
+    "Yer":"HALKAPINAR-(BALIKESIR) REVIZE01 (2025.10.14",
+    "Cozum":"12:06:58)"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"11:52:53",
+    "Enlem":37.95,
+    "Boylam":38.2463,
+    "Derinlik":3.0,
+    "ML":"1.4",
+    "Yer":"BAGLICA-(ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"11:43:47",
+    "Enlem":37.1238,
+    "Boylam":28.6457,
+    "Derinlik":10.6,
+    "ML":"1.8",
+    "Yer":"KAVAKCALI-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"11:41:41",
+    "Enlem":39.1458,
+    "Boylam":27.7273,
+    "Derinlik":2.4,
+    "ML":"1.4",
+    "Yer":"MUSAHOCA-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"11:30:21",
+    "Enlem":39.8797,
+    "Boylam":27.9007,
+    "Derinlik":2.3,
+    "ML":"1.7",
+    "Yer":"YAGCILAR-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"11:20:21",
+    "Enlem":39.1742,
+    "Boylam":28.2232,
+    "Derinlik":8.9,
+    "ML":"1.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"11:11:17",
+    "Enlem":39.2532,
+    "Boylam":28.0557,
+    "Derinlik":5.8,
+    "ML":"1.2",
+    "Yer":"ALACAATLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"10:17:07",
+    "Enlem":39.2447,
+    "Boylam":28.9523,
+    "Derinlik":14.9,
+    "ML":"1.5",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"09:48:33",
+    "Enlem":39.2597,
+    "Boylam":28.9333,
+    "Derinlik":13.4,
+    "ML":"1.6",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA) REVIZE01 (2025.10.14",
+    "Cozum":"09:48:32)"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"09:44:56",
+    "Enlem":39.12,
+    "Boylam":28.126,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"09:44:32",
+    "Enlem":36.0735,
+    "Boylam":32.7163,
+    "Derinlik":20.6,
+    "ML":"2.0",
+    "Yer":"DEMIROREN-ANAMUR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"09:20:11",
+    "Enlem":39.2342,
+    "Boylam":28.936,
+    "Derinlik":19.2,
+    "ML":"1.4",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"08:21:29",
+    "Enlem":39.2482,
+    "Boylam":29.0158,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"08:20:29",
+    "Enlem":39.229,
+    "Boylam":28.9252,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"08:10:21",
+    "Enlem":39.2237,
+    "Boylam":29.0772,
+    "Derinlik":8.3,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"07:57:12",
+    "Enlem":39.3252,
+    "Boylam":25.834,
+    "Derinlik":6.5,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"06:46:09",
+    "Enlem":39.2487,
+    "Boylam":28.9577,
+    "Derinlik":6.6,
+    "ML":"1.7",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"06:26:52",
+    "Enlem":39.1618,
+    "Boylam":28.1225,
+    "Derinlik":14.8,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"06:21:27",
+    "Enlem":39.2598,
+    "Boylam":28.9485,
+    "Derinlik":5.6,
+    "ML":"2.0",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"06:06:52",
+    "Enlem":37.5838,
+    "Boylam":35.875,
+    "Derinlik":7.1,
+    "ML":"1.5",
+    "Yer":"DAGLICA-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:51:16",
+    "Enlem":39.1877,
+    "Boylam":28.9317,
+    "Derinlik":17.2,
+    "ML":"1.0",
+    "Yer":"GUNEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:50:00",
+    "Enlem":39.2397,
+    "Boylam":28.9283,
+    "Derinlik":11.1,
+    "ML":"1.5",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:49:24",
+    "Enlem":39.2498,
+    "Boylam":28.9372,
+    "Derinlik":11.4,
+    "ML":"1.7",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:48:43",
+    "Enlem":39.2127,
+    "Boylam":28.9325,
+    "Derinlik":14.4,
+    "ML":"1.6",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:44:44",
+    "Enlem":39.2137,
+    "Boylam":28.9987,
+    "Derinlik":15.8,
+    "ML":"1.4",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:25:02",
+    "Enlem":38.9358,
+    "Boylam":26.6522,
+    "Derinlik":11.2,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"05:05:13",
+    "Enlem":37.1905,
+    "Boylam":29.5753,
+    "Derinlik":6.6,
+    "ML":"2.2",
+    "Yer":"SORKUN-GOLHISAR (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"04:43:22",
+    "Enlem":39.2553,
+    "Boylam":28.989,
+    "Derinlik":12.3,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"04:39:29",
+    "Enlem":39.2438,
+    "Boylam":28.9353,
+    "Derinlik":5.9,
+    "ML":"2.6",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"04:30:29",
+    "Enlem":39.2187,
+    "Boylam":28.9612,
+    "Derinlik":14.9,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"04:16:40",
+    "Enlem":39.2115,
+    "Boylam":28.1343,
+    "Derinlik":8.7,
+    "ML":"1.2",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"04:12:46",
+    "Enlem":39.2152,
+    "Boylam":28.0742,
+    "Derinlik":7.6,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"04:08:17",
+    "Enlem":40.783,
+    "Boylam":27.975,
+    "Derinlik":8.3,
+    "ML":"2.0",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"03:54:19",
+    "Enlem":38.2767,
+    "Boylam":38.8687,
+    "Derinlik":17.4,
+    "ML":"1.3",
+    "Yer":"YEDIYOL-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"03:42:53",
+    "Enlem":38.3437,
+    "Boylam":38.7822,
+    "Derinlik":7.3,
+    "ML":"1.5",
+    "Yer":"CANAKCI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"03:22:17",
+    "Enlem":38.0018,
+    "Boylam":37.4905,
+    "Derinlik":4.1,
+    "ML":"1.4",
+    "Yer":"KULLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"03:18:58",
+    "Enlem":39.2485,
+    "Boylam":28.9622,
+    "Derinlik":9.3,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"02:49:05",
+    "Enlem":39.1552,
+    "Boylam":28.1692,
+    "Derinlik":11.8,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"02:36:54",
+    "Enlem":39.1975,
+    "Boylam":28.0988,
+    "Derinlik":9.8,
+    "ML":"2.2",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"02:13:45",
+    "Enlem":39.2678,
+    "Boylam":28.1387,
+    "Derinlik":8.6,
+    "ML":"1.9",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"02:10:03",
+    "Enlem":39.2512,
+    "Boylam":29.0217,
+    "Derinlik":8.7,
+    "ML":"1.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"01:13:15",
+    "Enlem":39.2525,
+    "Boylam":28.9505,
+    "Derinlik":9.5,
+    "ML":"0.8",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"00:44:49",
+    "Enlem":37.3138,
+    "Boylam":30.659,
+    "Derinlik":10.9,
+    "ML":"2.0",
+    "Yer":"DEMIRLI-BUCAK (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"00:42:00",
+    "Enlem":39.1983,
+    "Boylam":28.2595,
+    "Derinlik":6.9,
+    "ML":"1.5",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.14",
+    "Saat":"00:35:40",
+    "Enlem":39.1697,
+    "Boylam":28.189,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"23:45:30",
+    "Enlem":39.2558,
+    "Boylam":28.9637,
+    "Derinlik":10.3,
+    "ML":"1.8",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"23:24:28",
+    "Enlem":39.3035,
+    "Boylam":25.8098,
+    "Derinlik":13.6,
+    "ML":"3.7",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"23:18:56",
+    "Enlem":39.1917,
+    "Boylam":29.0252,
+    "Derinlik":8.2,
+    "ML":"1.3",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"23:12:36",
+    "Enlem":36.302,
+    "Boylam":34.0453,
+    "Derinlik":8.9,
+    "ML":"2.4",
+    "Yer":"KURTULUS-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"23:06:42",
+    "Enlem":36.2898,
+    "Boylam":34.0248,
+    "Derinlik":2.9,
+    "ML":"1.5",
+    "Yer":"KURTULUS-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"23:04:23",
+    "Enlem":39.2472,
+    "Boylam":28.9762,
+    "Derinlik":6.1,
+    "ML":"2.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"22:39:37",
+    "Enlem":39.2015,
+    "Boylam":28.0858,
+    "Derinlik":13.8,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"22:09:05",
+    "Enlem":39.269,
+    "Boylam":28.9927,
+    "Derinlik":17.5,
+    "ML":"1.0",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"21:41:09",
+    "Enlem":37.83,
+    "Boylam":26.8765,
+    "Derinlik":8.2,
+    "ML":"2.5",
+    "Yer":"SISAM ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"21:30:09",
+    "Enlem":39.2675,
+    "Boylam":28.9588,
+    "Derinlik":10.1,
+    "ML":"1.2",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"21:19:02",
+    "Enlem":39.1752,
+    "Boylam":28.2298,
+    "Derinlik":8.7,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"21:13:58",
+    "Enlem":39.2098,
+    "Boylam":28.2293,
+    "Derinlik":8.1,
+    "ML":"1.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"21:05:40",
+    "Enlem":39.1837,
+    "Boylam":28.2163,
+    "Derinlik":16.7,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"20:10:28",
+    "Enlem":40.8677,
+    "Boylam":27.8912,
+    "Derinlik":4.6,
+    "ML":"1.6",
+    "Yer":"MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"20:09:50",
+    "Enlem":40.765,
+    "Boylam":27.9527,
+    "Derinlik":2.8,
+    "ML":"1.8",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"19:17:46",
+    "Enlem":40.7888,
+    "Boylam":27.8642,
+    "Derinlik":16.9,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"19:13:21",
+    "Enlem":39.0917,
+    "Boylam":40.1938,
+    "Derinlik":16.3,
+    "ML":"1.8",
+    "Yer":"BAZLAMA-KARAKOCAN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"18:57:44",
+    "Enlem":38.4712,
+    "Boylam":37.7117,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"HISARKALE-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"18:30:04",
+    "Enlem":39.1652,
+    "Boylam":28.135,
+    "Derinlik":9.0,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"18:17:05",
+    "Enlem":39.2185,
+    "Boylam":28.2617,
+    "Derinlik":16.2,
+    "ML":"1.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.10.13",
     "Saat":"17:45:36",
     "Enlem":39.1717,
@@ -27,6 +1917,16 @@
     "Derinlik":22.1,
     "ML":"1.6",
     "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.13",
+    "Saat":"17:21:03",
+    "Enlem":39.1475,
+    "Boylam":28.0983,
+    "Derinlik":17.6,
+    "ML":"1.3",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
