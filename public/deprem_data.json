@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.10.16",
+    "Saat":"16:38:33",
+    "Enlem":37.1123,
+    "Boylam":28.6342,
+    "Derinlik":7.5,
+    "ML":"1.7",
+    "Yer":"KAVAKCALI-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"16:25:37",
+    "Enlem":39.2333,
+    "Boylam":28.974,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
     "Saat":"16:16:43",
     "Enlem":39.2613,
     "Boylam":28.968,
@@ -77,6 +97,16 @@
     "Derinlik":5.3,
     "ML":"1.5",
     "Yer":"SINIRTEKE-INCIRLIOVA (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"14:58:00",
+    "Enlem":40.7457,
+    "Boylam":27.9167,
+    "Derinlik":11.9,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
     "Cozum":"�lksel"
   },
   {
