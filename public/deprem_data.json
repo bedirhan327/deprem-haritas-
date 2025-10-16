@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.10.16",
+    "Saat":"18:47:50",
+    "Enlem":37.1003,
+    "Boylam":28.6088,
+    "Derinlik":5.8,
+    "ML":"3.2",
+    "Yer":"ARICILAR-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
     "Saat":"17:52:23",
     "Enlem":39.2622,
     "Boylam":28.9725,
@@ -27,6 +37,16 @@
     "Derinlik":5.0,
     "ML":"2.5",
     "Yer":"TOKMANAKLI-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:34:55",
+    "Enlem":39.195,
+    "Boylam":28.2785,
+    "Derinlik":9.1,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -66,6 +86,16 @@
     "Boylam":29.0142,
     "Derinlik":6.2,
     "ML":"2.1",
+    "Yer":"SENKOY-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:04:38",
+    "Enlem":40.5798,
+    "Boylam":29.01,
+    "Derinlik":5.0,
+    "ML":"1.8",
     "Yer":"SENKOY-CINARCIK (YALOVA)",
     "Cozum":"�lksel"
   },
