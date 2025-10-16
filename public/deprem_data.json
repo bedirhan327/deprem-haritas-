@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.10.16",
+    "Saat":"17:13:36",
+    "Enlem":37.7563,
+    "Boylam":35.9893,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"PASALI-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:12:50",
+    "Enlem":39.2458,
+    "Boylam":28.9673,
+    "Derinlik":13.1,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:10:37",
+    "Enlem":40.6027,
+    "Boylam":29.0142,
+    "Derinlik":6.2,
+    "ML":"2.1",
+    "Yer":"SENKOY-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
     "Saat":"16:38:33",
     "Enlem":37.1123,
     "Boylam":28.6342,
