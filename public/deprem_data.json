@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.10.16",
+    "Saat":"15:38:11",
+    "Enlem":39.2173,
+    "Boylam":29.1065,
+    "Derinlik":1.1,
+    "ML":"0.8",
+    "Yer":"KARAAGIL-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"15:34:09",
+    "Enlem":38.4885,
+    "Boylam":29.0928,
+    "Derinlik":5.4,
+    "ML":"1.3",
+    "Yer":"BEKISLI-ESME (USAK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"15:18:29",
+    "Enlem":39.1503,
+    "Boylam":29.1545,
+    "Derinlik":3.9,
+    "ML":"1.4",
+    "Yer":"INLICE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"15:09:08",
+    "Enlem":39.232,
+    "Boylam":29.0548,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
     "Saat":"14:45:15",
     "Enlem":39.251,
     "Boylam":28.995,
