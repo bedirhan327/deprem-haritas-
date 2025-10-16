@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.10.16",
+    "Saat":"14:45:15",
+    "Enlem":39.251,
+    "Boylam":28.995,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"14:36:10",
+    "Enlem":40.981,
+    "Boylam":28.7303,
+    "Derinlik":10.4,
+    "ML":"1.2",
+    "Yer":"AVCILAR (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
     "Saat":"14:30:36",
     "Enlem":39.1628,
     "Boylam":27.598,
