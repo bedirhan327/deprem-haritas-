@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.10.16",
+    "Saat":"17:52:23",
+    "Enlem":39.2622,
+    "Boylam":28.9725,
+    "Derinlik":11.4,
+    "ML":"1.3",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:38:24",
+    "Enlem":37.0607,
+    "Boylam":28.6562,
+    "Derinlik":24.5,
+    "ML":"1.7",
+    "Yer":"KAVAKCALI-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:36:22",
+    "Enlem":37.7248,
+    "Boylam":36.0687,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"TOKMANAKLI-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"17:25:30",
+    "Enlem":37.128,
+    "Boylam":28.5925,
+    "Derinlik":9.2,
+    "ML":"2.4",
+    "Yer":"ARICILAR-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
     "Saat":"17:13:36",
     "Enlem":37.7563,
     "Boylam":35.9893,
@@ -27,6 +67,16 @@
     "Derinlik":6.2,
     "ML":"2.1",
     "Yer":"SENKOY-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.16",
+    "Saat":"16:45:36",
+    "Enlem":35.6777,
+    "Boylam":27.9528,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
