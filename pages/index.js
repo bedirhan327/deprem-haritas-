@@ -80,7 +80,7 @@ export default function Home() {
         .attr("opacity", 0.8)
         .append("title")
         .text(
-          (d) => `Yer: ${d.Yer}\nML: ${d.ML}\nDerinlik: ${d["Derinlik(km)"]} km`
+          (d) => `Yer: ${d.Yer}\nML: ${d.ML}\nDerinlik: ${d["derinlik(km)"]} km`
         );
 
       // Zoom ve Pan
