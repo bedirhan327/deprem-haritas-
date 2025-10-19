@@ -79,9 +79,10 @@ export default function Home() {
         .attr("stroke-width", 0.1)
         .attr("opacity", 0.8)
         .append("title")
-        .text(
-          (d) => `Yer: ${d.Yer}\nML: ${d.ML}\nDerinlik: ${d["derinlik(km)"]} km`
+        .text((d) => 
+           `Yer: ${d.Yer || d.yer}\nML: ${d.ML || d.ml}\nDerinlik: ${d.Derinlik || d.derinlik} km`
         );
+
 
       // Zoom ve Pan
       const zoom = d3
