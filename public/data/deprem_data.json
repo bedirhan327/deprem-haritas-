@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.10.20",
+    "Saat":"15:38:41",
+    "Enlem":39.2278,
+    "Boylam":29.0018,
+    "Derinlik":14.0,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.20",
+    "Saat":"15:29:02",
+    "Enlem":39.208,
+    "Boylam":28.1507,
+    "Derinlik":4.6,
+    "ML":"3.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.20",
     "Saat":"15:24:58",
     "Enlem":37.7218,
     "Boylam":36.0622,
     "Derinlik":23.8,
     "ML":"1.8",
     "Yer":"TOKMANAKLI-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.20",
+    "Saat":"15:12:35",
+    "Enlem":37.9092,
+    "Boylam":36.2978,
+    "Derinlik":20.7,
+    "ML":"1.7",
+    "Yer":"HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.20",
+    "Saat":"15:12:00",
+    "Enlem":39.6202,
+    "Boylam":33.884,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"CEBISLER-AKPINAR (KIRSEHIR)",
     "Cozum":"�lksel"
   },
   {
