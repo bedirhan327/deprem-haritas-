@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.10.20",
+    "Saat":"15:56:33",
+    "Enlem":36.7245,
+    "Boylam":36.3228,
+    "Derinlik":21.5,
+    "ML":"1.6",
+    "Yer":"SINCAN-DORTYOL (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.20",
     "Saat":"15:38:41",
     "Enlem":39.2278,
     "Boylam":29.0018,
     "Derinlik":14.0,
     "ML":"1.4",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.20",
+    "Saat":"15:29:40",
+    "Enlem":39.1917,
+    "Boylam":28.1982,
+    "Derinlik":7.7,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
