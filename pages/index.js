@@ -97,19 +97,46 @@ Saat: ${d.Saat || d.saat}`
   }, [geoData, depremData, limit]);
 
   return (
-    <div style={{ margin: 0, background: "#f9f9f9" }}>
-      {/* Sabit Menü */}
+    <div
+      style={{
+        margin: 0,
+        padding: 0,
+        height: "100vh",
+        width: "100vw",
+        overflow: "hidden",
+        background: "#f9f9f9",
+        position: "relative",
+      }}
+    >
+      {/* Harita */}
+      <svg
+        ref={svgRef}
+        width="100%"
+        height="100%"
+        viewBox="0 0 1200 800"
+        preserveAspectRatio="xMidYMid slice"
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          backgroundColor: "#f8f9fa",
+        }}
+      ></svg>
+
+      {/* Üstte Sabit, Şeffaf Menü */}
       <div
         style={{
-          position: "fixed",
-          top: 0,
-          width: "100%",
-          background: "white",
+          position: "absolute",
+          top: "15px",
+          left: "50%",
+          transform: "translateX(-50%)",
           display: "flex",
-          justifyContent: "center",
           gap: "10px",
-          padding: "10px 0",
-          borderBottom: "1px solid #ddd",
+          backgroundColor: "rgba(255, 255, 255, 0.8)",
+          padding: "8px 16px",
+          borderRadius: "12px",
+          boxShadow: "0 2px 8px rgba(0,0,0,0.15)",
+          backdropFilter: "blur(5px)",
           zIndex: 1000,
         }}
       >
@@ -124,38 +151,12 @@ Saat: ${d.Saat || d.saat}`
               backgroundColor: limit === num ? "#e0e0e0" : "#fff",
               cursor: "pointer",
               fontWeight: limit === num ? "bold" : "normal",
+              transition: "all 0.2s ease-in-out",
             }}
           >
             Son {num}
           </button>
         ))}
-      </div>
-
-      {/* Harita Alanı */}
-      <div
-        style={{
-          marginTop: "60px", // Menü yüksekliği
-          height: "calc(100vh - 60px)",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
-        <svg
-          ref={svgRef}
-          width="100%"
-          height="100%"
-          viewBox="0 0 1200 800"
-          preserveAspectRatio="xMidYMid slice"
-          style={{
-            display: "block",
-            margin: 0,
-            overflow: "visible",
-            backgroundColor: "#f8f9fa",
-            maxWidth: "1200px",
-            aspectRatio: "16/9",
-          }}
-        ></svg>
       </div>
     </div>
   );
