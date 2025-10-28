@@ -7,7 +7,7 @@ export default function Home() {
   const svgRef = useRef(null);
   const [depremData, setDepremData] = useState([]);
   const [geoData, setGeoData] = useState(null);
-  const [limit, setLimit] = useState(1000); // default: 1000 kayıt
+  const [limit, setLimit] = useState(1000);
 
   useEffect(() => {
     Promise.all([
@@ -54,7 +54,6 @@ export default function Home() {
       else return "#91cf60";
     }
 
-    // Filtrelenmiş veri
     const filteredData = depremData.slice(0, limit);
     filteredData.sort((a, b) => a.ML - b.ML);
 
@@ -98,22 +97,20 @@ Saat: ${d.Saat || d.saat}`
   }, [geoData, depremData, limit]);
 
   return (
-    <div
-      style={{
-        margin: 0,
-        background: "#f9f9f9",
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-      }}
-    >
-      {/* Menü */}
+    <div style={{ margin: 0, background: "#f9f9f9" }}>
+      {/* Sabit Menü */}
       <div
         style={{
+          position: "fixed",
+          top: 0,
+          width: "100%",
+          background: "white",
           display: "flex",
+          justifyContent: "center",
           gap: "10px",
-          marginTop: "10px",
-          marginBottom: "10px",
+          padding: "10px 0",
+          borderBottom: "1px solid #ddd",
+          zIndex: 1000,
         }}
       >
         {[100, 500, 1000].map((num) => (
@@ -134,22 +131,32 @@ Saat: ${d.Saat || d.saat}`
         ))}
       </div>
 
-      {/* Harita */}
-      <svg
-        ref={svgRef}
-        width="100%"
-        height="100vh"
-        viewBox="0 0 1200 800"
-        preserveAspectRatio="xMidYMid slice"
+      {/* Harita Alanı */}
+      <div
         style={{
-          display: "block",
-          margin: 0,
-          overflow: "visible",
-          backgroundColor: "#f8f9fa",
-          maxWidth: "1200px",
-          aspectRatio: "16/9",
+          marginTop: "60px", // Menü yüksekliği
+          height: "calc(100vh - 60px)",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
         }}
-      ></svg>
+      >
+        <svg
+          ref={svgRef}
+          width="100%"
+          height="100%"
+          viewBox="0 0 1200 800"
+          preserveAspectRatio="xMidYMid slice"
+          style={{
+            display: "block",
+            margin: 0,
+            overflow: "visible",
+            backgroundColor: "#f8f9fa",
+            maxWidth: "1200px",
+            aspectRatio: "16/9",
+          }}
+        ></svg>
+      </div>
     </div>
   );
 }
