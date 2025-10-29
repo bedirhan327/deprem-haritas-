@@ -1,6 +1,86 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"21:21:26",
+    "Enlem":39.1965,
+    "Boylam":28.1632,
+    "Derinlik":11.5,
+    "ML":"2.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"21:17:52",
+    "Enlem":39.187,
+    "Boylam":28.0832,
+    "Derinlik":13.8,
+    "ML":"1.9",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"21:12:18",
+    "Enlem":37.0925,
+    "Boylam":28.6005,
+    "Derinlik":11.7,
+    "ML":"2.3",
+    "Yer":"ARICILAR-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"21:10:33",
+    "Enlem":37.0882,
+    "Boylam":28.5955,
+    "Derinlik":12.6,
+    "ML":"2.5",
+    "Yer":"BALCILAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"21:08:01",
+    "Enlem":39.2015,
+    "Boylam":28.1612,
+    "Derinlik":10.8,
+    "ML":"1.9",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"21:04:10",
+    "Enlem":39.1633,
+    "Boylam":28.2242,
+    "Derinlik":11.3,
+    "ML":"2.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"21:00:44",
+    "Enlem":39.2025,
+    "Boylam":28.1595,
+    "Derinlik":8.3,
+    "ML":"2.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:53:27",
+    "Enlem":39.2008,
+    "Boylam":28.1568,
+    "Derinlik":10.9,
+    "ML":"2.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"20:51:53",
     "Enlem":39.1507,
     "Boylam":28.1357,
