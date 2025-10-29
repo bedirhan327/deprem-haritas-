@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"13:09:28",
+    "Enlem":39.1327,
+    "Boylam":28.3193,
+    "Derinlik":13.1,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"13:08:04",
+    "Enlem":39.19,
+    "Boylam":28.1502,
+    "Derinlik":15.7,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"13:05:06",
     "Enlem":39.1625,
     "Boylam":28.2513,
@@ -47,6 +67,16 @@
     "Derinlik":6.2,
     "ML":"2.5",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"12:50:50",
+    "Enlem":39.1965,
+    "Boylam":28.1873,
+    "Derinlik":10.8,
+    "ML":"2.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
