@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"13:25:03",
+    "Enlem":39.1433,
+    "Boylam":28.2463,
+    "Derinlik":9.4,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"13:24:50",
+    "Enlem":37.571,
+    "Boylam":35.8373,
+    "Derinlik":1.9,
+    "ML":"2.6",
+    "Yer":"DUZAGAC-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"13:09:28",
     "Enlem":39.1327,
     "Boylam":28.3193,
