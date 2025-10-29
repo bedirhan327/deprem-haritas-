@@ -1,6 +1,106 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"20:51:53",
+    "Enlem":39.1507,
+    "Boylam":28.1357,
+    "Derinlik":12.9,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:49:51",
+    "Enlem":39.1202,
+    "Boylam":28.3237,
+    "Derinlik":16.3,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:48:03",
+    "Enlem":39.145,
+    "Boylam":28.3157,
+    "Derinlik":9.8,
+    "ML":"1.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:44:11",
+    "Enlem":39.1768,
+    "Boylam":28.1453,
+    "Derinlik":14.5,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:43:05",
+    "Enlem":39.1893,
+    "Boylam":28.1822,
+    "Derinlik":9.5,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:41:57",
+    "Enlem":39.1522,
+    "Boylam":28.103,
+    "Derinlik":15.6,
+    "ML":"1.9",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:36:12",
+    "Enlem":39.1375,
+    "Boylam":28.1235,
+    "Derinlik":13.5,
+    "ML":"2.3",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:35:26",
+    "Enlem":39.2052,
+    "Boylam":28.1472,
+    "Derinlik":12.4,
+    "ML":"2.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:33:54",
+    "Enlem":39.1742,
+    "Boylam":28.1727,
+    "Derinlik":10.9,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"20:26:56",
+    "Enlem":39.2627,
+    "Boylam":28.0928,
+    "Derinlik":10.8,
+    "ML":"2.1",
+    "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"20:15:04",
     "Enlem":39.2125,
     "Boylam":28.1883,
