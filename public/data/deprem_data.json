@@ -11,12 +11,32 @@
   },
   {
     "Tarih":"2025.10.29",
+    "Saat":"13:39:01",
+    "Enlem":39.2,
+    "Boylam":28.1223,
+    "Derinlik":8.9,
+    "ML":"2.9",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"13:38:16",
     "Enlem":39.2072,
     "Boylam":28.1312,
     "Derinlik":7.5,
     "ML":"3.5",
     "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"13:37:08",
+    "Enlem":39.0215,
+    "Boylam":37.9437,
+    "Derinlik":6.6,
+    "ML":"2.1",
+    "Yer":"KARSLILAR-HEKIMHAN (MALATYA)",
     "Cozum":"�lksel"
   },
   {
@@ -607,6 +627,16 @@
     "Derinlik":6.6,
     "ML":"2.1",
     "Yer":"CIKRIKCI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"10:22:32",
+    "Enlem":39.2207,
+    "Boylam":28.1752,
+    "Derinlik":14.3,
+    "ML":"2.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
