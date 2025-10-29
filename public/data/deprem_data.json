@@ -1,6 +1,86 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"14:20:05",
+    "Enlem":40.781,
+    "Boylam":31.3223,
+    "Derinlik":8.0,
+    "ML":"2.4",
+    "Yer":"SARICOKEK-KAYNASLI (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"14:15:50",
+    "Enlem":39.1613,
+    "Boylam":28.1855,
+    "Derinlik":9.3,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"14:13:22",
+    "Enlem":39.1548,
+    "Boylam":28.1653,
+    "Derinlik":11.1,
+    "ML":"2.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"14:11:01",
+    "Enlem":39.1677,
+    "Boylam":28.2518,
+    "Derinlik":13.6,
+    "ML":"3.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"14:09:25",
+    "Enlem":39.193,
+    "Boylam":28.1183,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"14:03:59",
+    "Enlem":39.1877,
+    "Boylam":28.2282,
+    "Derinlik":8.9,
+    "ML":"3.7",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"14:01:17",
+    "Enlem":39.231,
+    "Boylam":28.1073,
+    "Derinlik":9.0,
+    "ML":"3.0",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"13:56:09",
+    "Enlem":40.314,
+    "Boylam":24.1142,
+    "Derinlik":11.3,
+    "ML":"2.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"13:40:57",
     "Enlem":39.1928,
     "Boylam":28.151,
@@ -447,6 +527,16 @@
     "Derinlik":9.1,
     "ML":"3.2",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"11:20:25",
+    "Enlem":39.1568,
+    "Boylam":28.1968,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
