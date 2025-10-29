@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"17:37:33",
+    "Enlem":39.191,
+    "Boylam":28.2367,
+    "Derinlik":9.1,
+    "ML":"2.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:31:16",
+    "Enlem":39.2062,
+    "Boylam":28.237,
+    "Derinlik":7.7,
+    "ML":"2.5",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:30:01",
+    "Enlem":39.1608,
+    "Boylam":28.1198,
+    "Derinlik":10.5,
+    "ML":"1.9",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:26:02",
+    "Enlem":39.1595,
+    "Boylam":28.1178,
+    "Derinlik":9.4,
+    "ML":"2.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"17:18:33",
     "Enlem":39.1832,
     "Boylam":28.187,
