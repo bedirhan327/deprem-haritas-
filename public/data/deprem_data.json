@@ -1,6 +1,116 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"17:18:33",
+    "Enlem":39.1832,
+    "Boylam":28.187,
+    "Derinlik":5.1,
+    "ML":"1.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:17:33",
+    "Enlem":39.1123,
+    "Boylam":28.2703,
+    "Derinlik":14.9,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:14:30",
+    "Enlem":39.1753,
+    "Boylam":28.2347,
+    "Derinlik":8.9,
+    "ML":"2.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:09:35",
+    "Enlem":39.142,
+    "Boylam":28.2192,
+    "Derinlik":10.7,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:03:34",
+    "Enlem":39.0523,
+    "Boylam":28.118,
+    "Derinlik":21.2,
+    "ML":"2.0",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"17:01:33",
+    "Enlem":39.1787,
+    "Boylam":28.2187,
+    "Derinlik":9.0,
+    "ML":"2.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"16:56:03",
+    "Enlem":39.174,
+    "Boylam":28.18,
+    "Derinlik":10.9,
+    "ML":"3.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"16:55:41",
+    "Enlem":39.175,
+    "Boylam":28.1702,
+    "Derinlik":15.3,
+    "ML":"3.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"16:55:14",
+    "Enlem":39.1895,
+    "Boylam":28.2127,
+    "Derinlik":12.1,
+    "ML":"2.9",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"16:48:33",
+    "Enlem":39.1122,
+    "Boylam":28.1067,
+    "Derinlik":16.0,
+    "ML":"1.7",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"16:47:53",
+    "Enlem":39.1835,
+    "Boylam":28.1475,
+    "Derinlik":12.4,
+    "ML":"2.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"16:46:46",
     "Enlem":39.1847,
     "Boylam":28.1787,
