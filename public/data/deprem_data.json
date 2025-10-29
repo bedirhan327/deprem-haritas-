@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"13:40:57",
+    "Enlem":39.1928,
+    "Boylam":28.151,
+    "Derinlik":8.2,
+    "ML":"1.7",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"13:38:16",
+    "Enlem":39.2072,
+    "Boylam":28.1312,
+    "Derinlik":7.5,
+    "ML":"3.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"13:35:08",
+    "Enlem":39.1665,
+    "Boylam":28.2458,
+    "Derinlik":11.7,
+    "ML":"2.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"13:34:10",
     "Enlem":39.1795,
     "Boylam":28.0993,
