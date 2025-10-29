@@ -1,6 +1,96 @@
 [
   {
     "Tarih":"2025.10.29",
+    "Saat":"15:52:21",
+    "Enlem":39.184,
+    "Boylam":28.1687,
+    "Derinlik":13.3,
+    "ML":"2.0",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:50:11",
+    "Enlem":39.1647,
+    "Boylam":28.2032,
+    "Derinlik":9.5,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:45:51",
+    "Enlem":39.174,
+    "Boylam":28.1473,
+    "Derinlik":12.9,
+    "ML":"2.6",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:39:01",
+    "Enlem":39.1775,
+    "Boylam":28.2485,
+    "Derinlik":8.1,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:37:15",
+    "Enlem":39.12,
+    "Boylam":28.225,
+    "Derinlik":16.6,
+    "ML":"2.0",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:33:31",
+    "Enlem":39.1597,
+    "Boylam":28.229,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:30:36",
+    "Enlem":39.1805,
+    "Boylam":28.299,
+    "Derinlik":7.6,
+    "ML":"1.5",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:28:30",
+    "Enlem":39.1665,
+    "Boylam":28.1203,
+    "Derinlik":10.6,
+    "ML":"2.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:24:06",
+    "Enlem":39.1477,
+    "Boylam":28.2665,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
     "Saat":"15:18:21",
     "Enlem":39.2007,
     "Boylam":28.3368,
@@ -15,6 +105,16 @@
     "Enlem":39.1762,
     "Boylam":28.2088,
     "Derinlik":12.5,
+    "ML":"2.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.10.29",
+    "Saat":"15:16:51",
+    "Enlem":39.1752,
+    "Boylam":28.2055,
+    "Derinlik":12.4,
     "ML":"2.1",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
