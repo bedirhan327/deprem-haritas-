@@ -1,37 +1,13 @@
-"use client";
-
-import { useEffect, useRef, useState } from "react";
+import { useRef, useEffect, useState } from "react";
 import * as d3 from "d3";
 
-export default function Home() {
+export default function Home({ geoData, depremData }) {
   const svgRef = useRef(null);
-  const [depremData, setDepremData] = useState([]);
-  const [geoData, setGeoData] = useState(null);
   const [limit, setLimit] = useState(1000);
+  const [data, setData] = useState(depremData || []);
 
   useEffect(() => {
-    const fetchData = async () => {
-      const [geo, deprem] = await Promise.all([
-        d3.json(
-          "https://raw.githubusercontent.com/bedirhan327/deprem-haritas-/main/public/data/turkey-geojson.json"
-        ),
-        d3.json(
-          "https://raw.githubusercontent.com/bedirhan327/deprem-veri-collector/main/public/data/deprem_data.json"
-        ),
-      ]);
-
-      setGeoData(geo);
-      setDepremData(deprem);
-    };
-
-    fetchData(); // sayfa açılır açılmaz veri çek
-    const interval = setInterval(fetchData, 20 * 60 * 1000); // 20 dakika
-
-    return () => clearInterval(interval); // component unmount olunca intervali temizle
-  }, []);
-
-  useEffect(() => {
-    if (!geoData || depremData.length === 0) return;
+    if (!geoData || data.length === 0) return;
 
     const svg = d3.select(svgRef.current);
     const width = 1000;
@@ -65,7 +41,7 @@ export default function Home() {
       else return "#91cf60";
     }
 
-    const filteredData = depremData.slice(0, limit);
+    const filteredData = data.slice(0, limit);
     filteredData.sort((a, b) => a.ML - b.ML);
 
     // Noktalar
@@ -105,7 +81,7 @@ Saat: ${d.Saat || d.saat}`
       });
 
     svg.call(zoom);
-  }, [geoData, depremData, limit]);
+  }, [geoData, data, limit]);
 
   return (
     <div
@@ -119,7 +95,6 @@ Saat: ${d.Saat || d.saat}`
         position: "relative",
       }}
     >
-      {/* Harita */}
       <svg
         ref={svgRef}
         width="100%"
@@ -134,7 +109,7 @@ Saat: ${d.Saat || d.saat}`
         }}
       ></svg>
 
-      {/* Üstte Sabit, Şeffaf Menü */}
+      {/* Üst Menü */}
       <div
         style={{
           position: "absolute",
@@ -171,4 +146,24 @@ Saat: ${d.Saat || d.saat}`
       </div>
     </div>
   );
+}
+
+// ISR ile veri çekme
+export async function getStaticProps() {
+  const [geo, deprem] = await Promise.all([
+    fetch(
+      "https://raw.githubusercontent.com/bedirhan327/deprem-haritas-/main/public/data/turkey-geojson.json"
+    ).then((r) => r.json()),
+    fetch(
+      "https://raw.githubusercontent.com/bedirhan327/deprem-veri-collector/main/public/data/deprem_data.json"
+    ).then((r) => r.json()),
+  ]);
+
+  return {
+    props: {
+      geoData: geo,
+      depremData: deprem,
+    },
+    revalidate: 1200, // 20 dakika
+  };
 }
