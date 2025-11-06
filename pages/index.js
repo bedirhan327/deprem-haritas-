@@ -10,13 +10,24 @@ export default function Home() {
   const [limit, setLimit] = useState(1000);
 
   useEffect(() => {
-    Promise.all([
-      d3.json("/data/turkey-geojson.json"),
-      d3.json("/data/deprem_data.json"),
-    ]).then(([geo, deprem]) => {
+    const fetchData = async () => {
+      const [geo, deprem] = await Promise.all([
+        d3.json(
+          "https://raw.githubusercontent.com/bedirhan327/deprem-haritas-/main/public/data/turkey-geojson.json"
+        ),
+        d3.json(
+          "https://raw.githubusercontent.com/bedirhan327/deprem-veri-collector/main/public/data/deprem_data.json"
+        ),
+      ]);
+
       setGeoData(geo);
       setDepremData(deprem);
-    });
+    };
+
+    fetchData(); // sayfa açılır açılmaz veri çek
+    const interval = setInterval(fetchData, 20 * 60 * 1000); // 20 dakika
+
+    return () => clearInterval(interval); // component unmount olunca intervali temizle
   }, []);
 
   useEffect(() => {
