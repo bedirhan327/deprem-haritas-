@@ -1,35 +1,42 @@
+import { Suspense } from "react";
+import dynamic from "next/dynamic";
+
+// Haritayı client-side render etmemiz için dinamik import
+const MapClient = dynamic(() => import("./MapClientInline"), { ssr: false });
+
+export const revalidate = 1200; // 20 dakikada bir otomatik yenileme
+
+export default async function Home() {
+  const [geoData, depremData] = await Promise.all([
+    fetch(
+      "https://raw.githubusercontent.com/bedirhan327/deprem-haritas-/main/public/data/turkey-geojson.json",
+      { next: { revalidate: 1200 } }
+    ).then((res) => res.json()),
+    fetch(
+      "https://raw.githubusercontent.com/bedirhan327/deprem-veri-collector/main/public/data/deprem_data.json",
+      { next: { revalidate: 1200 } }
+    ).then((res) => res.json()),
+  ]);
+
+  return (
+    <Suspense fallback={<p>Yükleniyor...</p>}>
+      <MapClient geoData={geoData} depremData={depremData} />
+    </Suspense>
+  );
+}
+
+/* ------------------------------------------------
+   Aşağıda client component inline olarak tanımlı.
+   Ayrı dosya açmaya gerek yok.
+------------------------------------------------ */
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useRef, useEffect, useState } from "react";
 import * as d3 from "d3";
 
-export default function Home() {
+function MapClientInline({ geoData, depremData }) {
   const svgRef = useRef(null);
-  const [depremData, setDepremData] = useState([]);
-  const [geoData, setGeoData] = useState(null);
   const [limit, setLimit] = useState(1000);
-
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const [geo, deprem] = await Promise.all([
-        d3.json(
-          "https://raw.githubusercontent.com/bedirhan327/deprem-haritas-/main/public/data/turkey-geojson.json"
-        ),
-        d3.json(
-          "https://raw.githubusercontent.com/bedirhan327/deprem-veri-collector/main/public/data/deprem_data.json"
-        ),
-      ]);
-
-      setGeoData(geo);
-      setDepremData(deprem);
-    };
-
-    fetchData(); // sayfa açılır açılmaz veri çek
-    const interval = setInterval(fetchData, 20 * 60 * 1000); // 20 dakika
-
-    return () => clearInterval(interval); // component unmount olunca intervali temizle
-  }, []);
 
   useEffect(() => {
     if (!geoData || depremData.length === 0) return;
@@ -48,7 +55,6 @@ export default function Home() {
     const path = d3.geoPath().projection(projection);
     const mapGroup = svg.append("g").attr("class", "map-group");
 
-    // Türkiye sınırları
     mapGroup
       .selectAll("path")
       .data(geoData.features)
@@ -58,7 +64,6 @@ export default function Home() {
       .attr("stroke", "#333")
       .attr("stroke-width", 0.5);
 
-    // Renk fonksiyonu
     function getColor(ml) {
       if (ml >= 6) return "#d73027";
       else if (ml >= 4) return "#fc8d59";
@@ -69,7 +74,6 @@ export default function Home() {
     const filteredData = depremData.slice(0, limit);
     filteredData.sort((a, b) => a.ML - b.ML);
 
-    // Noktalar
     mapGroup
       .selectAll("circle")
       .data(filteredData)
@@ -91,7 +95,6 @@ Tarih: ${d.Tarih || d.tarih}
 Saat: ${d.Saat || d.saat}`
       );
 
-    // Zoom & Pan
     const zoom = d3
       .zoom()
       .scaleExtent([1, 8])
@@ -120,7 +123,6 @@ Saat: ${d.Saat || d.saat}`
         position: "relative",
       }}
     >
-      {/* Harita */}
       <svg
         ref={svgRef}
         width="100%"
@@ -135,7 +137,6 @@ Saat: ${d.Saat || d.saat}`
         }}
       ></svg>
 
-      {/* Üstte Sabit, Şeffaf Menü */}
       <div
         style={{
           position: "absolute",
