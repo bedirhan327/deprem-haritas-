@@ -80,7 +80,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ message: "Method not allowed" });
   }
 
-  const { token, platform, deviceInfo } = req.body;
+  const { token, platform, deviceInfo, preferences } = req.body;
 
   if (!token) {
     return res.status(400).json({ message: "Token missing" });
@@ -102,11 +102,20 @@ export default async function handler(req, res) {
     // Tekrarlanan token'ları önle
     const isNew = !tokens.has(token);
     
-    // Token bilgilerini kaydet
+    // Token bilgilerini kaydet (tercihler dahil)
+    const existingToken = tokens.get(token);
     tokens.set(token, {
       platform: detectedPlatform,
-      createdAt: tokens.get(token)?.createdAt || new Date().toISOString(),
+      createdAt: existingToken?.createdAt || new Date().toISOString(),
       deviceInfo: deviceInfo || null,
+      preferences: preferences || existingToken?.preferences || {
+        // Varsayılan tercihler
+        notifyThreshold: 1,
+        distanceThreshold: 400,
+        minMagnitude: 6,
+        location: null
+      },
+      updatedAt: new Date().toISOString()
     });
     
     // Redis'e kaydet
@@ -141,7 +150,7 @@ export default async function handler(req, res) {
 export async function getTokens() {
   try {
     const tokens = await getTokensFromRedis();
-    // Map'ten sadece token string'lerini al
+    // Map'ten sadece token string'lerini al (geriye dönük uyumluluk için)
     return Array.from(tokens.keys());
   } catch (error) {
     console.warn("⚠️ Redis okuma hatası, geçici bellek kullanılıyor:", error.message);

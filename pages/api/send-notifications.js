@@ -1,55 +1,133 @@
 import { Expo } from "expo-server-sdk";
-import { getTokens } from "./register-token";
+import { getTokensWithInfo } from "./register-token";
 
 const expo = new Expo();
+
+// İki nokta arasındaki mesafeyi hesapla (Haversine formülü)
+function getDistanceKm(lat1, lon1, lat2, lon2) {
+  const R = 6371; // Dünya yarıçapı (km)
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(lat1 * Math.PI / 180) *
+    Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLon / 2) * Math.sin(dLon / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return R * c;
+}
+
+// ML değerini parse et
+function parseML(ml) {
+  if (!ml || ml === '-.-' || ml === '') return 0;
+  const parsed = parseFloat(ml);
+  return isNaN(parsed) ? 0 : parsed;
+}
+
+// Kullanıcının tercihlerine göre bildirim gönderilmeli mi?
+function shouldNotifyUser(preferences, earthquake) {
+  if (!preferences) return true; // Tercih yoksa gönder
+  
+  const { notifyThreshold, distanceThreshold, minMagnitude, location } = preferences;
+  const ml = parseML(earthquake.ML);
+  
+  // Yüksek büyüklük kontrolü (her zaman bildirim)
+  if (ml >= (minMagnitude || 6)) {
+    return true;
+  }
+  
+  // Konum bazlı kontrol
+  if (location && location.latitude && location.longitude) {
+    const distance = getDistanceKm(
+      location.latitude,
+      location.longitude,
+      parseML(earthquake.Enlem),
+      parseML(earthquake.Boylam)
+    );
+    
+    if (distance <= (distanceThreshold || 400) && ml >= (notifyThreshold || 1)) {
+      return true;
+    }
+  }
+  
+  return false;
+}
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ message: "Method not allowed" });
   }
 
-  const { title, body } = req.body;
+  const { title, body, earthquake } = req.body;
 
   if (!title || !body) {
     return res.status(400).json({ message: "Eksik bildirim verisi" });
   }
 
-  const tokens = await getTokens();
-  if (tokens.length === 0) {
+  const tokensWithInfo = await getTokensWithInfo();
+  if (tokensWithInfo.length === 0) {
     console.warn("⚠️ Kayıtlı token yok");
     return res.status(200).json({ message: "Kayıtlı token yok", sent: 0 });
   }
 
-  console.log(`📤 ${tokens.length} token'a bildirim gönderiliyor...`);
+  console.log(`📤 ${tokensWithInfo.length} token kontrol ediliyor...`);
 
   const messages = [];
   const invalidTokens = [];
+  let filteredCount = 0;
   
-  for (const pushToken of tokens) {
-    // Mock token'ları geç (gerçek bildirim göndermez)
-    // Mock token'lar "MOCK_" prefix'i ile başlar
-    if (pushToken.startsWith("MOCK_") || !Expo.isExpoPushToken(pushToken)) {
-      invalidTokens.push(pushToken);
+  for (const tokenInfo of tokensWithInfo) {
+    const { token, preferences } = tokenInfo;
+    
+    // Mock token'ları geç
+    if (token.startsWith("MOCK_") || !Expo.isExpoPushToken(token)) {
+      invalidTokens.push(token);
       continue;
     }
+    
+    // Eğer deprem bilgisi varsa, kullanıcı tercihlerine göre filtrele
+    if (earthquake && !shouldNotifyUser(preferences, earthquake)) {
+      filteredCount++;
+      continue;
+    }
+    
     messages.push({
-      to: pushToken,
+      to: token,
       sound: "default",
       title,
       body,
-      data: { timestamp: new Date().toISOString() },
+      data: { 
+        timestamp: new Date().toISOString(),
+        ...(earthquake && { type: 'earthquake_alert' })
+      },
+      priority: 'high',
     });
   }
 
   if (invalidTokens.length > 0) {
-    console.log(`⚠️ ${invalidTokens.length} geçersiz/mock token atlandı`);
+    const mockCount = invalidTokens.filter(t => t.startsWith("MOCK_")).length;
+    const invalidCount = invalidTokens.length - mockCount;
+    
+    if (mockCount > 0) {
+      console.log(`ℹ️ ${mockCount} mock token atlandı (simülatör test token'ları - normal)`);
+    }
+    if (invalidCount > 0) {
+      console.log(`⚠️ ${invalidCount} geçersiz token atlandı`);
+    }
   }
 
   if (messages.length === 0) {
+    const mockCount = invalidTokens.filter(t => t.startsWith("MOCK_")).length;
     return res.status(200).json({ 
-      message: "Geçerli token yok (sadece mock token'lar var)", 
+      message: mockCount > 0 
+        ? "Sadece mock token'lar var (simülatör test token'ları - gerçek bildirim gönderilmez)" 
+        : filteredCount > 0
+        ? `Tercihler nedeniyle ${filteredCount} kullanıcıya bildirim gönderilmedi`
+        : "Geçerli token yok", 
       sent: 0,
-      totalTokens: tokens.length 
+      totalTokens: tokensWithInfo.length,
+      mockTokens: mockCount,
+      filtered: filteredCount
     });
   }
 
@@ -78,14 +156,15 @@ export default async function handler(req, res) {
     }
   }
 
-  console.log(`✅ ${successCount} bildirim başarıyla gönderildi, ❌ ${errorCount} hata`);
+  console.log(`✅ ${successCount} bildirim başarıyla gönderildi, ❌ ${errorCount} hata${filteredCount > 0 ? `, 🔇 ${filteredCount} tercih nedeniyle filtrelendi` : ''}`);
 
   res.status(200).json({ 
     message: "Bildirim gönderildi", 
     sent: successCount,
     errors: errorCount,
-    totalTokens: tokens.length,
+    totalTokens: tokensWithInfo.length,
     validTokens: messages.length,
+    filtered: filteredCount,
     tickets 
   });
 }
