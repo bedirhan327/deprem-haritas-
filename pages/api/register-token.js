@@ -10,7 +10,8 @@ const redis = process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_RE
   : null;
 
 // Fallback: Eğer Redis yoksa geçici bellek kullan (development için)
-let tokensMemory = new Set();
+// Token'ları object olarak sakla: { token: string, platform: string, createdAt: string }
+let tokensMemory = new Map(); // token -> { platform, createdAt }
 
 async function getTokensFromRedis() {
   if (!redis) {
@@ -19,27 +20,57 @@ async function getTokensFromRedis() {
   }
   
   try {
-    const tokens = await redis.get('push_tokens');
-    return tokens ? new Set(tokens) : new Set();
+    const tokensData = await redis.get('push_tokens');
+    if (!tokensData) return new Map();
+    
+    // Eski format (array of strings) veya yeni format (object) kontrolü
+    if (Array.isArray(tokensData)) {
+      const map = new Map();
+      tokensData.forEach(token => {
+        if (typeof token === 'string') {
+          // Eski format - sadece token string
+          map.set(token, { 
+            platform: token.startsWith("MOCK_") ? "simulator" : "unknown",
+            createdAt: new Date().toISOString()
+          });
+        } else {
+          // Yeni format - object
+          map.set(token.token, { platform: token.platform, createdAt: token.createdAt });
+        }
+      });
+      return map;
+    }
+    
+    // Object formatından Map'e çevir
+    const map = new Map();
+    Object.entries(tokensData).forEach(([token, info]) => {
+      map.set(token, info);
+    });
+    return map;
   } catch (error) {
     console.warn("⚠️ Redis okuma hatası, geçici bellek kullanılıyor:", error.message);
     return tokensMemory;
   }
 }
 
-async function saveTokensToRedis(tokensSet) {
+async function saveTokensToRedis(tokensMap) {
   if (!redis) {
     console.warn("⚠️ Redis yapılandırılmamış, geçici bellek kullanılıyor");
-    tokensMemory = tokensSet;
+    tokensMemory = tokensMap;
     return false;
   }
   
   try {
-    await redis.set('push_tokens', Array.from(tokensSet));
+    // Map'i object'e çevir
+    const tokensObj = {};
+    tokensMap.forEach((info, token) => {
+      tokensObj[token] = info;
+    });
+    await redis.set('push_tokens', tokensObj);
     return true;
   } catch (error) {
     console.warn("⚠️ Redis kayıt hatası, geçici bellek kullanılıyor:", error.message);
-    tokensMemory = tokensSet;
+    tokensMemory = tokensMap;
     return false;
   }
 }
@@ -49,7 +80,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ message: "Method not allowed" });
   }
 
-  const { token } = req.body;
+  const { token, platform, deviceInfo } = req.body;
 
   if (!token) {
     return res.status(400).json({ message: "Token missing" });
@@ -65,20 +96,40 @@ export default async function handler(req, res) {
     // Token'ları Redis'ten al
     const tokens = await getTokensFromRedis();
     
+    // Platform bilgisini belirle
+    const detectedPlatform = platform || (token.startsWith("MOCK_") ? "simulator" : "unknown");
+    
     // Tekrarlanan token'ları önle
     const isNew = !tokens.has(token);
-    tokens.add(token);
+    
+    // Token bilgilerini kaydet
+    tokens.set(token, {
+      platform: detectedPlatform,
+      createdAt: tokens.get(token)?.createdAt || new Date().toISOString(),
+      deviceInfo: deviceInfo || null,
+    });
     
     // Redis'e kaydet
     await saveTokensToRedis(tokens);
     
-    console.log(isNew ? "✅ Yeni token kaydedildi:" : "🔄 Mevcut token tekrar kaydedildi:", token);
+    const platformEmoji = {
+      simulator: "🖥️",
+      android: "🤖",
+      ios: "🍎",
+      unknown: "❓"
+    };
+    
+    console.log(
+      isNew ? "✅ Yeni token kaydedildi:" : "🔄 Mevcut token güncellendi:",
+      `${platformEmoji[detectedPlatform] || "❓"} ${detectedPlatform} - ${token.substring(0, 30)}...`
+    );
     console.log("📊 Toplam token sayısı:", tokens.size);
 
     return res.status(200).json({ 
-      message: isNew ? "Token kaydedildi" : "Token zaten kayıtlı", 
+      message: isNew ? "Token kaydedildi" : "Token güncellendi", 
       count: tokens.size,
-      isNew 
+      isNew,
+      platform: detectedPlatform
     });
   } catch (error) {
     console.error("❌ Token kayıt hatası:", error);
@@ -90,9 +141,29 @@ export default async function handler(req, res) {
 export async function getTokens() {
   try {
     const tokens = await getTokensFromRedis();
-    return Array.from(tokens);
+    // Map'ten sadece token string'lerini al
+    return Array.from(tokens.keys());
   } catch (error) {
     console.warn("⚠️ Redis okuma hatası, geçici bellek kullanılıyor:", error.message);
-    return Array.from(tokensMemory);
+    return Array.from(tokensMemory.keys());
+  }
+}
+
+// Token bilgilerini al (platform bilgisi ile)
+export async function getTokensWithInfo() {
+  try {
+    const tokens = await getTokensFromRedis();
+    const tokensArray = [];
+    tokens.forEach((info, token) => {
+      tokensArray.push({ token, ...info });
+    });
+    return tokensArray;
+  } catch (error) {
+    console.warn("⚠️ Redis okuma hatası, geçici bellek kullanılıyor:", error.message);
+    const tokensArray = [];
+    tokensMemory.forEach((info, token) => {
+      tokensArray.push({ token, ...info });
+    });
+    return tokensArray;
   }
 }
