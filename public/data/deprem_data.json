@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"21:16:10",
+    "Enlem":38.4262,
+    "Boylam":37.984,
+    "Derinlik":27.0,
+    "ML":"0.9",
+    "Yer":"FATIH-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:14:43",
+    "Enlem":39.2383,
+    "Boylam":28.9645,
+    "Derinlik":8.6,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:07:21",
+    "Enlem":38.275,
+    "Boylam":37.5772,
+    "Derinlik":28.3,
+    "ML":"1.4",
+    "Yer":"SEVDILI-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:07:11",
+    "Enlem":39.2207,
+    "Boylam":28.0005,
+    "Derinlik":10.4,
+    "ML":"1.6",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:02:02",
+    "Enlem":40.0257,
+    "Boylam":38.6233,
+    "Derinlik":2.9,
+    "ML":"3.4",
+    "Yer":"GUNALAN-GOLOVA (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:56:34",
+    "Enlem":40.1937,
+    "Boylam":31.7573,
+    "Derinlik":5.0,
+    "ML":"2.7",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"20:51:36",
     "Enlem":39.2058,
     "Boylam":28.1682,
