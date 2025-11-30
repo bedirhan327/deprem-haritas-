@@ -1,5 +1,65 @@
 [
   {
+    "Tarih":"2025.12.01",
+    "Saat":"00:19:33",
+    "Enlem":39.2053,
+    "Boylam":27.9697,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:10:31",
+    "Enlem":38.276,
+    "Boylam":37.557,
+    "Derinlik":18.2,
+    "ML":"1.3",
+    "Yer":"SEVDILI-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:10:24",
+    "Enlem":39.1997,
+    "Boylam":28.9108,
+    "Derinlik":13.8,
+    "ML":"1.4",
+    "Yer":"ORENLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:06:19",
+    "Enlem":39.2207,
+    "Boylam":28.94,
+    "Derinlik":13.9,
+    "ML":"1.3",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:01:02",
+    "Enlem":39.2452,
+    "Boylam":28.9877,
+    "Derinlik":3.1,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"23:57:46",
+    "Enlem":38.4832,
+    "Boylam":38.039,
+    "Derinlik":4.4,
+    "ML":"1.5",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.11.30",
     "Saat":"23:53:26",
     "Enlem":38.8398,
