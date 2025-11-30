@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"21:44:56",
+    "Enlem":37.2433,
+    "Boylam":37.031,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:36:31",
+    "Enlem":38.0767,
+    "Boylam":36.5727,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"YAGMURLU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:33:38",
+    "Enlem":39.1742,
+    "Boylam":25.9358,
+    "Derinlik":9.7,
+    "ML":"1.7",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:28:57",
+    "Enlem":38.2708,
+    "Boylam":37.5843,
+    "Derinlik":3.6,
+    "ML":"1.3",
+    "Yer":"SEVDILI-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:27:33",
+    "Enlem":38.2845,
+    "Boylam":38.6768,
+    "Derinlik":7.2,
+    "ML":"1.9",
+    "Yer":"KAMISTAS-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"21:16:10",
     "Enlem":38.4262,
     "Boylam":37.984,
@@ -47,6 +97,16 @@
     "Derinlik":2.9,
     "ML":"3.4",
     "Yer":"GUNALAN-GOLOVA (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:58:37",
+    "Enlem":39.219,
+    "Boylam":28.1013,
+    "Derinlik":8.4,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
