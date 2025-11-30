@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"15:57:57",
+    "Enlem":40.6887,
+    "Boylam":28.0645,
+    "Derinlik":12.3,
+    "ML":"1.4",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"15:35:21",
+    "Enlem":40.0452,
+    "Boylam":38.6297,
+    "Derinlik":7.9,
+    "ML":"2.2",
+    "Yer":"BOZAT-GOLOVA (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"15:06:19",
     "Enlem":40.8208,
     "Boylam":29.1145,
