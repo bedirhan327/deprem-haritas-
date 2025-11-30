@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"19:51:12",
+    "Enlem":39.1533,
+    "Boylam":28.327,
+    "Derinlik":11.2,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:50:16",
+    "Enlem":39.1818,
+    "Boylam":28.2167,
+    "Derinlik":10.3,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:38:57",
+    "Enlem":39.0735,
+    "Boylam":26.0057,
+    "Derinlik":5.4,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:33:25",
+    "Enlem":39.1678,
+    "Boylam":28.2298,
+    "Derinlik":9.8,
+    "ML":"2.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:27:55",
+    "Enlem":39.957,
+    "Boylam":35.5845,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"CAKIRKOY-CEKEREK (YOZGAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:27:54",
+    "Enlem":37.8153,
+    "Boylam":36.5263,
+    "Derinlik":4.9,
+    "ML":"2.3",
+    "Yer":"KUMARLI-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"18:58:54",
     "Enlem":37.1505,
     "Boylam":36.9357,
