@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"01:49:23",
+    "Enlem":39.2073,
+    "Boylam":28.1798,
+    "Derinlik":11.4,
+    "ML":"1.4",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"01:46:49",
+    "Enlem":37.0723,
+    "Boylam":28.3217,
+    "Derinlik":4.8,
+    "ML":"2.5",
+    "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"01:43:31",
+    "Enlem":36.1213,
+    "Boylam":28.2962,
+    "Derinlik":27.3,
+    "ML":"2.4",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"01:33:15",
+    "Enlem":39.105,
+    "Boylam":25.9675,
+    "Derinlik":6.9,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"01:24:52",
+    "Enlem":39.0777,
+    "Boylam":25.9785,
+    "Derinlik":7.1,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"01:23:28",
     "Enlem":40.7368,
     "Boylam":32.846,
