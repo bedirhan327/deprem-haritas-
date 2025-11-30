@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"00:53:46",
+    "Enlem":38.2122,
+    "Boylam":38.08,
+    "Derinlik":19.4,
+    "ML":"1.0",
+    "Yer":"ISIKLI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:48:26",
+    "Enlem":38.0908,
+    "Boylam":36.6132,
+    "Derinlik":4.7,
+    "ML":"1.1",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:34:26",
+    "Enlem":40.0272,
+    "Boylam":38.6322,
+    "Derinlik":4.4,
+    "ML":"2.4",
+    "Yer":"GUNALAN-GOLOVA (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"00:21:23",
+    "Enlem":38.5858,
+    "Boylam":27.1037,
+    "Derinlik":2.1,
+    "ML":"1.7",
+    "Yer":"YAHSELLI-MENEMEN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"00:19:33",
     "Enlem":39.2053,
     "Boylam":27.9697,
