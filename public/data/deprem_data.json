@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"22:22:29",
+    "Enlem":38.1688,
+    "Boylam":36.7095,
+    "Derinlik":5.2,
+    "ML":"1.4",
+    "Yer":"BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"22:17:31",
+    "Enlem":38.2938,
+    "Boylam":38.2342,
+    "Derinlik":5.1,
+    "ML":"2.3",
+    "Yer":"YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"22:11:22",
+    "Enlem":39.092,
+    "Boylam":26.0235,
+    "Derinlik":8.2,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"22:05:33",
+    "Enlem":39.199,
+    "Boylam":28.2527,
+    "Derinlik":8.3,
+    "ML":"1.4",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:55:20",
+    "Enlem":39.1732,
+    "Boylam":25.9037,
+    "Derinlik":13.7,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"21:53:42",
+    "Enlem":39.244,
+    "Boylam":28.9462,
+    "Derinlik":10.6,
+    "ML":"2.1",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"21:44:56",
     "Enlem":37.2433,
     "Boylam":37.031,
