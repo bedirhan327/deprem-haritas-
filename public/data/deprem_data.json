@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"20:19:39",
+    "Enlem":39.0845,
+    "Boylam":26.0172,
+    "Derinlik":13.7,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:10:17",
+    "Enlem":38.4528,
+    "Boylam":39.3107,
+    "Derinlik":3.5,
+    "ML":"1.4",
+    "Yer":"SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:06:25",
+    "Enlem":39.0117,
+    "Boylam":29.701,
+    "Derinlik":2.5,
+    "ML":"2.3",
+    "Yer":"CUKUROREN-GEDIZ (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:58:43",
+    "Enlem":39.1632,
+    "Boylam":28.2788,
+    "Derinlik":9.3,
+    "ML":"2.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:52:14",
+    "Enlem":38.2712,
+    "Boylam":38.1097,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"19:51:12",
     "Enlem":39.1533,
     "Boylam":28.327,
@@ -31,12 +81,32 @@
   },
   {
     "Tarih":"2025.11.30",
+    "Saat":"19:38:09",
+    "Enlem":39.0923,
+    "Boylam":26.0168,
+    "Derinlik":4.7,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"19:33:25",
     "Enlem":39.1678,
     "Boylam":28.2298,
     "Derinlik":9.8,
     "ML":"2.5",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"19:32:32",
+    "Enlem":39.2138,
+    "Boylam":28.0358,
+    "Derinlik":12.1,
+    "ML":"1.8",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
