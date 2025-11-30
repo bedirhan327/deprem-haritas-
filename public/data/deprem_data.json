@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"13:14:25",
+    "Enlem":36.5758,
+    "Boylam":29.2848,
+    "Derinlik":3.4,
+    "ML":"1.9",
+    "Yer":"CALTIOZU-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"12:49:20",
+    "Enlem":36.8703,
+    "Boylam":28.0338,
+    "Derinlik":22.8,
+    "ML":"1.6",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"12:40:21",
     "Enlem":37.8142,
     "Boylam":27.1722,
