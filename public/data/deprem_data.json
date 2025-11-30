@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"23:53:26",
+    "Enlem":38.8398,
+    "Boylam":37.4763,
+    "Derinlik":3.0,
+    "ML":"1.8",
+    "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"23:49:48",
+    "Enlem":39.2545,
+    "Boylam":28.9603,
+    "Derinlik":6.9,
+    "ML":"2.6",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"23:46:44",
+    "Enlem":38.7665,
+    "Boylam":40.3003,
+    "Derinlik":22.5,
+    "ML":"1.6",
+    "Yer":"BEYDOGAN-PALU (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"23:38:24",
+    "Enlem":39.2427,
+    "Boylam":28.9535,
+    "Derinlik":5.2,
+    "ML":"1.8",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"23:36:48",
+    "Enlem":38.8183,
+    "Boylam":37.4842,
+    "Derinlik":18.1,
+    "ML":"2.0",
+    "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"23:31:36",
+    "Enlem":38.1843,
+    "Boylam":38.054,
+    "Derinlik":4.9,
+    "ML":"1.5",
+    "Yer":"GOZENE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"23:16:27",
     "Enlem":37.6628,
     "Boylam":35.8508,
