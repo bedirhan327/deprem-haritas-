@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"18:17:39",
+    "Enlem":38.56,
+    "Boylam":39.5022,
+    "Derinlik":7.7,
+    "ML":"2.0",
+    "Yer":"KOCKALE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"18:13:07",
+    "Enlem":40.7843,
+    "Boylam":31.631,
+    "Derinlik":2.5,
+    "ML":"1.7",
+    "Yer":"FASIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"17:59:54",
+    "Enlem":38.4805,
+    "Boylam":38.0435,
+    "Derinlik":13.6,
+    "ML":"1.5",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"17:36:14",
     "Enlem":39.137,
     "Boylam":28.215,
