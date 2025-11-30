@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"20:51:36",
+    "Enlem":39.2058,
+    "Boylam":28.1682,
+    "Derinlik":7.9,
+    "ML":"1.4",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:34:02",
+    "Enlem":39.1533,
+    "Boylam":28.1072,
+    "Derinlik":9.7,
+    "ML":"1.3",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:31:37",
+    "Enlem":39.4458,
+    "Boylam":37.2902,
+    "Derinlik":9.0,
+    "ML":"1.9",
+    "Yer":"ORENLICE-ULAS (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"20:26:19",
+    "Enlem":37.0653,
+    "Boylam":28.281,
+    "Derinlik":4.1,
+    "ML":"2.0",
+    "Yer":"KUYUCAK-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"20:19:39",
     "Enlem":39.0845,
     "Boylam":26.0172,
