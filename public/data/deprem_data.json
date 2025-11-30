@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.11.30",
+    "Saat":"08:16:09",
+    "Enlem":39.1447,
+    "Boylam":28.2927,
+    "Derinlik":13.4,
+    "ML":"3.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"08:06:43",
+    "Enlem":39.0713,
+    "Boylam":28.3405,
+    "Derinlik":12.3,
+    "ML":"1.1",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"08:05:39",
+    "Enlem":39.141,
+    "Boylam":28.2862,
+    "Derinlik":11.7,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
+    "Saat":"08:00:00",
+    "Enlem":39.2353,
+    "Boylam":28.1473,
+    "Derinlik":9.6,
+    "ML":"1.7",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.11.30",
     "Saat":"07:45:54",
     "Enlem":39.1527,
     "Boylam":28.2372,
