@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"15:11:00",
+    "Enlem":38.5952,
+    "Boylam":37.9668,
+    "Derinlik":8.8,
+    "ML":"1.9",
+    "Yer":"CAVUS-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"15:10:50",
+    "Enlem":39.1782,
+    "Boylam":28.2445,
+    "Derinlik":8.1,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"15:05:47",
+    "Enlem":36.163,
+    "Boylam":33.328,
+    "Derinlik":5.0,
+    "ML":"0.6",
+    "Yer":"AYDINCIK (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"14:56:59",
+    "Enlem":39.196,
+    "Boylam":28.2187,
+    "Derinlik":9.9,
+    "ML":"1.4",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"14:43:15",
     "Enlem":39.1,
     "Boylam":28.3212,
