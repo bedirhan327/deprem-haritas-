@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"11:45:40",
+    "Enlem":39.159,
+    "Boylam":28.0552,
+    "Derinlik":9.9,
+    "ML":"2.1",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"11:36:09",
+    "Enlem":36.982,
+    "Boylam":29.7745,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"KUCUKLU-KORKUTELI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"11:33:54",
+    "Enlem":39.4705,
+    "Boylam":28.1157,
+    "Derinlik":4.9,
+    "ML":"1.6",
+    "Yer":"DEGIRMENLI-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"11:23:51",
+    "Enlem":41.2483,
+    "Boylam":24.7068,
+    "Derinlik":4.4,
+    "ML":"2.6",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"11:21:28",
     "Enlem":38.4903,
     "Boylam":39.1713,
