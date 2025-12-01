@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"13:21:57",
+    "Enlem":39.2052,
+    "Boylam":28.2573,
+    "Derinlik":5.2,
+    "ML":"1.2",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"13:09:43",
+    "Enlem":39.6847,
+    "Boylam":27.6285,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"KOCAAVSAR-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"13:02:44",
+    "Enlem":39.2377,
+    "Boylam":28.1345,
+    "Derinlik":17.2,
+    "ML":"1.6",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"13:02:40",
+    "Enlem":35.2975,
+    "Boylam":33.6528,
+    "Derinlik":4.0,
+    "ML":"1.6",
+    "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"12:52:57",
+    "Enlem":39.2233,
+    "Boylam":28.1855,
+    "Derinlik":9.6,
+    "ML":"1.5",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"12:43:19",
+    "Enlem":39.204,
+    "Boylam":28.1572,
+    "Derinlik":13.3,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"12:40:10",
     "Enlem":39.9405,
     "Boylam":27.5293,
