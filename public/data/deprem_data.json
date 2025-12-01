@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"11:21:28",
+    "Enlem":38.4903,
+    "Boylam":39.1713,
+    "Derinlik":2.2,
+    "ML":"1.7",
+    "Yer":"DEDEPINARI-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"11:15:33",
+    "Enlem":39.5537,
+    "Boylam":32.8667,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"CIMSIT-GOLBASI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"10:34:32",
     "Enlem":39.2282,
     "Boylam":28.1733,
@@ -27,6 +47,16 @@
     "Derinlik":16.3,
     "ML":"1.0",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"10:21:36",
+    "Enlem":40.502,
+    "Boylam":30.1412,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"KARAPINAR-PAMUKOVA (SAKARYA)",
     "Cozum":"�lksel"
   },
   {
