@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"09:22:16",
+    "Enlem":39.23,
+    "Boylam":28.1115,
+    "Derinlik":10.6,
+    "ML":"1.8",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"09:12:11",
+    "Enlem":38.0602,
+    "Boylam":36.4885,
+    "Derinlik":6.5,
+    "ML":"1.6",
+    "Yer":"HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"08:49:20",
+    "Enlem":38.141,
+    "Boylam":38.4898,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"08:42:16",
     "Enlem":39.2047,
     "Boylam":28.1785,
