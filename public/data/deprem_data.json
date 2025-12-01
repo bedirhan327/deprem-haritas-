@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"23:20:31",
+    "Enlem":38.1425,
+    "Boylam":38.5642,
+    "Derinlik":4.2,
+    "ML":"1.9",
+    "Yer":"ARIKONAK-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"23:08:52",
+    "Enlem":39.1573,
+    "Boylam":28.2013,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"23:05:33",
+    "Enlem":39.2352,
+    "Boylam":28.0697,
+    "Derinlik":10.5,
+    "ML":"1.8",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"22:51:18",
     "Enlem":38.4782,
     "Boylam":38.0395,
@@ -17,6 +47,16 @@
     "Derinlik":9.2,
     "ML":"1.7",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"22:23:27",
+    "Enlem":35.4708,
+    "Boylam":29.455,
+    "Derinlik":14.0,
+    "ML":"1.9",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
