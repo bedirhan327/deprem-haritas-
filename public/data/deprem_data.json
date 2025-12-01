@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2025.12.02",
+    "Saat":"00:18:08",
+    "Enlem":38.939,
+    "Boylam":26.0952,
+    "Derinlik":3.7,
+    "ML":"2.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"23:59:00",
+    "Enlem":37.0943,
+    "Boylam":28.6112,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"ARICILAR-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"23:57:04",
+    "Enlem":39.1547,
+    "Boylam":28.1908,
+    "Derinlik":11.8,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"23:54:38",
+    "Enlem":38.4512,
+    "Boylam":38.0255,
+    "Derinlik":21.7,
+    "ML":"1.0",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.01",
     "Saat":"23:50:22",
     "Enlem":40.7963,
