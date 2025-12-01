@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"12:40:10",
+    "Enlem":39.9405,
+    "Boylam":27.5293,
+    "Derinlik":4.8,
+    "ML":"1.2",
+    "Yer":"YESILKOY-YENICE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"12:15:49",
+    "Enlem":39.2645,
+    "Boylam":29.057,
+    "Derinlik":18.0,
+    "ML":"0.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA) REVIZE01 (2025.12.01",
+    "Cozum":"12:15:49)"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"12:01:26",
     "Enlem":38.0055,
     "Boylam":36.3133,
