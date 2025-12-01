@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"02:40:52",
+    "Enlem":39.0702,
+    "Boylam":28.0405,
+    "Derinlik":11.2,
+    "ML":"1.7",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"02:31:40",
+    "Enlem":38.134,
+    "Boylam":38.3743,
+    "Derinlik":16.5,
+    "ML":"1.0",
+    "Yer":"SALKONAK-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"02:20:53",
+    "Enlem":39.0355,
+    "Boylam":40.4213,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"SUDUGUNU-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"02:07:25",
+    "Enlem":37.136,
+    "Boylam":28.8368,
+    "Derinlik":2.8,
+    "ML":"1.4",
+    "Yer":"KARACAOREN-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"01:49:23",
     "Enlem":39.2073,
     "Boylam":28.1798,
