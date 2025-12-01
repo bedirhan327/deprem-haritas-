@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"18:35:30",
+    "Enlem":38.9327,
+    "Boylam":26.0572,
+    "Derinlik":7.6,
+    "ML":"3.4",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"18:32:05",
+    "Enlem":38.9763,
+    "Boylam":35.8685,
+    "Derinlik":7.7,
+    "ML":"1.4",
+    "Yer":"SULTANHANI-BUNYAN (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"18:23:31",
+    "Enlem":39.217,
+    "Boylam":28.0107,
+    "Derinlik":9.8,
+    "ML":"1.9",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"18:15:14",
+    "Enlem":40.413,
+    "Boylam":26.3047,
+    "Derinlik":18.5,
+    "ML":"1.4",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"18:11:05",
     "Enlem":38.4403,
     "Boylam":40.4118,
