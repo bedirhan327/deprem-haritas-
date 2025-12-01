@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"12:01:26",
+    "Enlem":38.0055,
+    "Boylam":36.3133,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KAZANDERE-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"11:57:04",
+    "Enlem":39.2858,
+    "Boylam":27.5948,
+    "Derinlik":9.2,
+    "ML":"1.5",
+    "Yer":"KUM-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"11:45:40",
     "Enlem":39.159,
     "Boylam":28.0552,
