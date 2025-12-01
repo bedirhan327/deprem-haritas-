@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"01:36:24",
+    "Enlem":37.9132,
+    "Boylam":36.6472,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"TEKIR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"01:25:10",
+    "Enlem":40.3755,
+    "Boylam":27.246,
+    "Derinlik":5.2,
+    "ML":"0.9",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"01:22:08",
+    "Enlem":39.188,
+    "Boylam":28.2197,
+    "Derinlik":8.6,
+    "ML":"1.1",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"01:06:34",
     "Enlem":38.2117,
     "Boylam":38.515,
