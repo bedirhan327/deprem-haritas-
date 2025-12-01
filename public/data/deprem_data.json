@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.01",
+    "Saat":"22:51:18",
+    "Enlem":38.4782,
+    "Boylam":38.0395,
+    "Derinlik":4.4,
+    "ML":"3.2",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"22:50:52",
+    "Enlem":39.2143,
+    "Boylam":28.1572,
+    "Derinlik":9.2,
+    "ML":"1.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"22:14:33",
+    "Enlem":39.241,
+    "Boylam":28.1387,
+    "Derinlik":11.4,
+    "ML":"1.4",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"22:10:03",
+    "Enlem":38.9243,
+    "Boylam":26.0758,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"22:07:30",
+    "Enlem":38.9273,
+    "Boylam":26.0862,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
     "Saat":"22:04:00",
     "Enlem":38.9202,
     "Boylam":26.059,
@@ -17,6 +67,16 @@
     "Derinlik":4.2,
     "ML":"1.1",
     "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"21:59:10",
+    "Enlem":36.5352,
+    "Boylam":28.8668,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"FETHIYE KORFEZI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
