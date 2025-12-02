@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"17:39:05",
+    "Enlem":38.213,
+    "Boylam":38.5667,
+    "Derinlik":4.0,
+    "ML":"2.3",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"17:27:23",
+    "Enlem":39.1643,
+    "Boylam":28.259,
+    "Derinlik":10.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"17:12:22",
+    "Enlem":39.5673,
+    "Boylam":25.9707,
+    "Derinlik":12.7,
+    "ML":"1.6",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"17:09:29",
+    "Enlem":39.1067,
+    "Boylam":28.1913,
+    "Derinlik":18.4,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"17:08:39",
     "Enlem":39.192,
     "Boylam":28.1388,
