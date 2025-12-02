@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"06:18:10",
+    "Enlem":39.2188,
+    "Boylam":28.056,
+    "Derinlik":11.2,
+    "ML":"2.9",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"06:10:22",
+    "Enlem":37.9423,
+    "Boylam":36.3423,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"06:07:16",
+    "Enlem":40.6085,
+    "Boylam":27.8672,
+    "Derinlik":11.7,
+    "ML":"3.2",
+    "Yer":"ERDEK ACIKLARI-BALIKESIR (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"06:03:48",
+    "Enlem":37.9758,
+    "Boylam":36.3842,
+    "Derinlik":7.5,
+    "ML":"2.0",
+    "Yer":"HUGTAS-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"05:55:39",
+    "Enlem":39.093,
+    "Boylam":28.1352,
+    "Derinlik":4.9,
+    "ML":"1.4",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"05:53:01",
+    "Enlem":37.943,
+    "Boylam":38.0158,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"RESADIYE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"05:45:13",
     "Enlem":39.1923,
     "Boylam":27.7318,
