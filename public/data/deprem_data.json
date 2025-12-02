@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"20:32:44",
+    "Enlem":39.0547,
+    "Boylam":26.6818,
+    "Derinlik":6.3,
+    "ML":"1.9",
+    "Yer":"DIKILI ACIKLARI-IZMIR (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"20:32:04",
+    "Enlem":41.026,
+    "Boylam":33.0333,
+    "Derinlik":5.0,
+    "ML":"3.8",
+    "Yer":"BELEN-OVACIK (KARABUK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"20:31:38",
+    "Enlem":39.1428,
+    "Boylam":28.2825,
+    "Derinlik":8.7,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"19:52:47",
     "Enlem":38.472,
     "Boylam":38.064,
@@ -37,6 +67,16 @@
     "Derinlik":18.6,
     "ML":"1.3",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"19:03:18",
+    "Enlem":38.1288,
+    "Boylam":37.1402,
+    "Derinlik":6.3,
+    "ML":"1.5",
+    "Yer":"GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
