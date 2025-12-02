@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"18:28:50",
+    "Enlem":38.9082,
+    "Boylam":26.0798,
+    "Derinlik":15.3,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"18:23:17",
+    "Enlem":40.8203,
+    "Boylam":28.0873,
+    "Derinlik":11.5,
+    "ML":"1.8",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"18:19:38",
+    "Enlem":39.209,
+    "Boylam":40.1005,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"BATIAYAZ-YAYLADERE (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"17:52:50",
+    "Enlem":36.7345,
+    "Boylam":28.1368,
+    "Derinlik":15.5,
+    "ML":"1.9",
+    "Yer":"TURGUTKOY-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"17:39:05",
     "Enlem":38.213,
     "Boylam":38.5667,
