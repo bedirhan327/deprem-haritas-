@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"22:46:35",
+    "Enlem":39.2382,
+    "Boylam":28.1208,
+    "Derinlik":8.7,
+    "ML":"2.1",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"22:40:49",
+    "Enlem":39.1835,
+    "Boylam":28.9977,
+    "Derinlik":16.2,
+    "ML":"1.4",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"22:30:52",
+    "Enlem":36.398,
+    "Boylam":31.4368,
+    "Derinlik":25.5,
+    "ML":"1.7",
+    "Yer":"ANTALYA KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"22:24:41",
+    "Enlem":41.0883,
+    "Boylam":33.9067,
+    "Derinlik":5.3,
+    "ML":"2.4",
+    "Yer":"YUKARIBERCIN-TOSYA (KASTAMONU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"22:18:37",
+    "Enlem":36.06,
+    "Boylam":28.3878,
+    "Derinlik":22.1,
+    "ML":"2.5",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"22:15:16",
     "Enlem":39.1285,
     "Boylam":28.2558,
