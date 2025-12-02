@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"13:12:07",
+    "Enlem":39.2542,
+    "Boylam":28.973,
+    "Derinlik":13.0,
+    "ML":"1.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"13:08:02",
+    "Enlem":39.2515,
+    "Boylam":28.9888,
+    "Derinlik":17.7,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"12:58:19",
+    "Enlem":39.2287,
+    "Boylam":28.1095,
+    "Derinlik":8.5,
+    "ML":"1.2",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"12:56:31",
+    "Enlem":39.4907,
+    "Boylam":28.1888,
+    "Derinlik":7.6,
+    "ML":"1.5",
+    "Yer":"BEGENDIKLER-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"12:29:41",
     "Enlem":39.0802,
     "Boylam":28.0392,
@@ -17,6 +57,26 @@
     "Derinlik":12.3,
     "ML":"1.2",
     "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"12:24:47",
+    "Enlem":36.2745,
+    "Boylam":33.7555,
+    "Derinlik":0.0,
+    "ML":"0.9",
+    "Yer":"IMAMUSAGI-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"12:21:52",
+    "Enlem":36.2822,
+    "Boylam":33.6978,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"KIRTIL-SILIFKE (MERSIN)",
     "Cozum":"�lksel"
   },
   {
