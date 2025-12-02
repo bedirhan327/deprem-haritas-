@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"15:07:00",
+    "Enlem":39.1988,
+    "Boylam":28.0005,
+    "Derinlik":14.2,
+    "ML":"1.3",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"15:04:29",
+    "Enlem":38.5925,
+    "Boylam":39.8347,
+    "Derinlik":5.3,
+    "ML":"2.0",
+    "Yer":"KARASALKIM-PALU (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"15:02:35",
+    "Enlem":39.1637,
+    "Boylam":28.2158,
+    "Derinlik":13.1,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"14:12:06",
     "Enlem":39.156,
     "Boylam":28.1995,
