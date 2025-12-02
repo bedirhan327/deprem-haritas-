@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"10:16:57",
+    "Enlem":39.1293,
+    "Boylam":28.1732,
+    "Derinlik":22.2,
+    "ML":"1.0",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"10:11:36",
+    "Enlem":39.1617,
+    "Boylam":28.284,
+    "Derinlik":19.3,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"10:06:20",
     "Enlem":39.0838,
     "Boylam":28.3162,
