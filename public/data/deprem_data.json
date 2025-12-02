@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"19:52:47",
+    "Enlem":38.472,
+    "Boylam":38.064,
+    "Derinlik":3.6,
+    "ML":"1.8",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"19:46:51",
+    "Enlem":37.8408,
+    "Boylam":29.3652,
+    "Derinlik":15.8,
+    "ML":"1.4",
+    "Yer":"DERECIFTLIK-HONAZ (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"19:44:50",
+    "Enlem":39.1598,
+    "Boylam":28.3007,
+    "Derinlik":16.7,
+    "ML":"1.3",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"19:29:56",
+    "Enlem":39.2013,
+    "Boylam":28.1818,
+    "Derinlik":18.6,
+    "ML":"1.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"19:02:11",
+    "Enlem":38.1177,
+    "Boylam":37.1322,
+    "Derinlik":12.1,
+    "ML":"1.5",
+    "Yer":"ORTAOREN-EKINOZU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"18:58:42",
     "Enlem":39.0925,
     "Boylam":28.244,
@@ -17,6 +67,16 @@
     "Derinlik":8.7,
     "ML":"1.3",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"18:45:57",
+    "Enlem":38.461,
+    "Boylam":38.1017,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"SEHLER-AKCADAG (MALATYA)",
     "Cozum":"�lksel"
   },
   {
