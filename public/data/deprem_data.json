@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"02:02:43",
+    "Enlem":36.9757,
+    "Boylam":28.3002,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"CETIBELI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"01:51:36",
+    "Enlem":39.1612,
+    "Boylam":28.2257,
+    "Derinlik":13.1,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"01:48:57",
     "Enlem":39.237,
     "Boylam":28.1017,
