@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.02",
+    "Saat":"04:17:49",
+    "Enlem":38.7145,
+    "Boylam":40.3263,
+    "Derinlik":13.0,
+    "ML":"1.5",
+    "Yer":"DEDEBAGI-GENC (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"03:57:59",
+    "Enlem":40.3297,
+    "Boylam":27.7808,
+    "Derinlik":14.8,
+    "ML":"2.3",
+    "Yer":"HIDIRKOY-BANDIRMA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
+    "Saat":"03:56:04",
+    "Enlem":40.3427,
+    "Boylam":27.7788,
+    "Derinlik":12.0,
+    "ML":"1.7",
+    "Yer":"ERDEK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.02",
     "Saat":"03:43:37",
     "Enlem":39.1828,
     "Boylam":28.137,
