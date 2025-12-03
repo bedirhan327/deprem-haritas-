@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"09:19:01",
+    "Enlem":39.2517,
+    "Boylam":28.949,
+    "Derinlik":11.3,
+    "ML":"1.8",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"09:14:44",
+    "Enlem":39.188,
+    "Boylam":28.1573,
+    "Derinlik":10.1,
+    "ML":"2.0",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"09:12:03",
+    "Enlem":39.2098,
+    "Boylam":27.9977,
+    "Derinlik":11.8,
+    "ML":"1.7",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"09:09:21",
+    "Enlem":34.54,
+    "Boylam":32.6363,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"09:04:20",
+    "Enlem":39.0658,
+    "Boylam":28.2467,
+    "Derinlik":12.3,
+    "ML":"1.2",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"08:46:29",
     "Enlem":39.1988,
     "Boylam":28.2973,
