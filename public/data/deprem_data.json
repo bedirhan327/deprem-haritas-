@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"19:38:12",
+    "Enlem":39.2177,
+    "Boylam":28.0938,
+    "Derinlik":9.1,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"19:19:40",
+    "Enlem":39.1533,
+    "Boylam":28.0142,
+    "Derinlik":12.8,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"18:57:14",
     "Enlem":39.1963,
     "Boylam":28.0475,
