@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"13:27:26",
+    "Enlem":39.2705,
+    "Boylam":28.1255,
+    "Derinlik":9.5,
+    "ML":"1.4",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"13:12:27",
+    "Enlem":38.6583,
+    "Boylam":36.858,
+    "Derinlik":27.3,
+    "ML":"1.5",
+    "Yer":"CAMILIYURT-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"12:50:02",
     "Enlem":37.9288,
     "Boylam":28.9733,
