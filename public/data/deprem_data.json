@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"03:15:39",
+    "Enlem":38.2878,
+    "Boylam":38.202,
+    "Derinlik":17.3,
+    "ML":"1.2",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"03:05:23",
+    "Enlem":39.2145,
+    "Boylam":28.0312,
+    "Derinlik":12.6,
+    "ML":"1.2",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"02:58:07",
+    "Enlem":39.0073,
+    "Boylam":25.9355,
+    "Derinlik":2.8,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"02:47:11",
     "Enlem":39.1147,
     "Boylam":28.2985,
