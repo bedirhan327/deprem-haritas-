@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"12:50:02",
+    "Enlem":37.9288,
+    "Boylam":28.9733,
+    "Derinlik":24.6,
+    "ML":"1.6",
+    "Yer":"SIGMA-SARAYKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"12:37:06",
+    "Enlem":36.0643,
+    "Boylam":31.4072,
+    "Derinlik":20.0,
+    "ML":"1.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"12:34:38",
+    "Enlem":39.2253,
+    "Boylam":27.9992,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"12:19:18",
+    "Enlem":39.4703,
+    "Boylam":26.283,
+    "Derinlik":5.9,
+    "ML":"2.1",
+    "Yer":"EDREMIT KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"12:07:57",
+    "Enlem":39.3225,
+    "Boylam":33.4273,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"BUYUKCAMILI-BALA (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"11:49:37",
     "Enlem":37.0085,
     "Boylam":28.8942,
