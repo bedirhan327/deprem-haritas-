@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"10:48:05",
+    "Enlem":37.8937,
+    "Boylam":27.6808,
+    "Derinlik":16.8,
+    "ML":"1.3",
+    "Yer":"HAMITLER-INCIRLIOVA (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"10:45:44",
+    "Enlem":39.2452,
+    "Boylam":28.9662,
+    "Derinlik":14.7,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"10:37:07",
+    "Enlem":39.7277,
+    "Boylam":25.5482,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"09:42:35",
     "Enlem":39.1893,
     "Boylam":28.1617,
