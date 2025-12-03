@@ -21,6 +21,26 @@
   },
   {
     "Tarih":"2025.12.03",
+    "Saat":"20:20:45",
+    "Enlem":40.642,
+    "Boylam":36.7465,
+    "Derinlik":13.1,
+    "ML":"1.7",
+    "Yer":"KUMBETLI-NIKSAR (TOKAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"19:56:01",
+    "Enlem":39.2035,
+    "Boylam":28.1483,
+    "Derinlik":10.7,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"19:45:07",
     "Enlem":39.1243,
     "Boylam":25.901,
