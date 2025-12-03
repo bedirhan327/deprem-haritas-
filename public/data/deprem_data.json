@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"01:39:37",
+    "Enlem":40.1678,
+    "Boylam":28.8375,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"TAHTALI-NILUFER (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"01:27:32",
+    "Enlem":39.135,
+    "Boylam":28.308,
+    "Derinlik":10.4,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"00:56:31",
     "Enlem":38.4698,
     "Boylam":38.0367,
