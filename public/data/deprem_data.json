@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"22:55:21",
+    "Enlem":39.5542,
+    "Boylam":28.2268,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"AKCAKERTIL-KEPSUT (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"22:49:06",
+    "Enlem":39.0438,
+    "Boylam":28.2585,
+    "Derinlik":11.7,
+    "ML":"2.1",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"22:35:12",
+    "Enlem":39.2368,
+    "Boylam":28.9395,
+    "Derinlik":13.3,
+    "ML":"1.6",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"22:19:36",
     "Enlem":39.2148,
     "Boylam":28.9513,
