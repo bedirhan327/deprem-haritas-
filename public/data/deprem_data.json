@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"11:49:37",
+    "Enlem":37.0085,
+    "Boylam":28.8942,
+    "Derinlik":4.9,
+    "ML":"1.5",
+    "Yer":"SAZAK-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"11:31:21",
+    "Enlem":39.442,
+    "Boylam":26.1382,
+    "Derinlik":15.4,
+    "ML":"1.4",
+    "Yer":"BADEMLI-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"11:14:18",
+    "Enlem":39.2483,
+    "Boylam":28.9567,
+    "Derinlik":13.6,
+    "ML":"1.6",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"10:51:09",
     "Enlem":39.1957,
     "Boylam":28.2355,
