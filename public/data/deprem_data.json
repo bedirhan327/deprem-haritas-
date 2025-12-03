@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"08:05:46",
+    "Enlem":39.176,
+    "Boylam":28.15,
+    "Derinlik":11.8,
+    "ML":"2.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"07:56:19",
+    "Enlem":36.5478,
+    "Boylam":36.496,
+    "Derinlik":1.4,
+    "ML":"2.3",
+    "Yer":"GULTEPE-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"07:44:21",
     "Enlem":37.9693,
     "Boylam":36.3578,
