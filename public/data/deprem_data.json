@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"20:37:05",
+    "Enlem":39.1643,
+    "Boylam":28.3138,
+    "Derinlik":9.6,
+    "ML":"2.8",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"20:35:44",
+    "Enlem":34.707,
+    "Boylam":32.6425,
+    "Derinlik":9.4,
+    "ML":"3.7",
+    "Yer":"KIBRIS RUM KESIMI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"19:45:07",
+    "Enlem":39.1243,
+    "Boylam":25.901,
+    "Derinlik":7.3,
+    "ML":"2.4",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"19:38:12",
     "Enlem":39.2177,
     "Boylam":28.0938,
