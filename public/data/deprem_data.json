@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"07:44:21",
+    "Enlem":37.9693,
+    "Boylam":36.3578,
+    "Derinlik":13.2,
+    "ML":"1.1",
+    "Yer":"SIRMALI-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"07:20:14",
+    "Enlem":38.1687,
+    "Boylam":38.5722,
+    "Derinlik":3.1,
+    "ML":"2.0",
+    "Yer":"ULUKOY-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"06:57:09",
     "Enlem":39.1437,
     "Boylam":28.3157,
