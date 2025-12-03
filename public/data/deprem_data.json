@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"08:46:29",
+    "Enlem":39.1988,
+    "Boylam":28.2973,
+    "Derinlik":13.1,
+    "ML":"1.7",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
+    "Saat":"08:34:52",
+    "Enlem":39.2438,
+    "Boylam":28.152,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"08:05:46",
     "Enlem":39.176,
     "Boylam":28.15,
