@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"23:19:59",
+    "Enlem":39.2358,
+    "Boylam":28.1732,
+    "Derinlik":7.9,
+    "ML":"1.6",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"23:01:56",
+    "Enlem":39.0965,
+    "Boylam":29.0547,
+    "Derinlik":17.3,
+    "ML":"1.1",
+    "Yer":"KALKAN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"22:58:55",
+    "Enlem":38.1915,
+    "Boylam":29.72,
+    "Derinlik":5.1,
+    "ML":"2.0",
+    "Yer":"KARAYAHSILER-CIVRIL (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"22:57:55",
+    "Enlem":39.186,
+    "Boylam":28.1238,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"22:29:39",
     "Enlem":39.3075,
     "Boylam":27.99,
