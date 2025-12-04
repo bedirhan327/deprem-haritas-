@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"17:45:13",
+    "Enlem":39.2288,
+    "Boylam":28.9392,
+    "Derinlik":9.4,
+    "ML":"1.8",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"17:38:18",
+    "Enlem":36.9887,
+    "Boylam":29.5165,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"KIZILYAKA-ALTINYAYLA (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"17:19:16",
     "Enlem":39.1588,
     "Boylam":25.9058,
     "Derinlik":9.5,
     "ML":"2.1",
     "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"16:48:34",
+    "Enlem":35.592,
+    "Boylam":29.3177,
+    "Derinlik":9.8,
+    "ML":"1.9",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
