@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"09:02:03",
+    "Enlem":39.2593,
+    "Boylam":28.104,
+    "Derinlik":9.2,
+    "ML":"2.8",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"08:34:25",
+    "Enlem":38.653,
+    "Boylam":43.1117,
+    "Derinlik":3.4,
+    "ML":"1.7",
+    "Yer":"VAN GOLU",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"08:33:56",
     "Enlem":39.1695,
     "Boylam":28.1583,
