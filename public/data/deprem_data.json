@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"02:36:43",
+    "Enlem":40.2358,
+    "Boylam":31.7552,
+    "Derinlik":6.3,
+    "ML":"1.5",
+    "Yer":"KOZAGAC-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"02:35:31",
+    "Enlem":40.24,
+    "Boylam":31.7983,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"KAPLAN-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"02:14:51",
+    "Enlem":39.333,
+    "Boylam":28.8485,
+    "Derinlik":5.3,
+    "ML":"0.8",
+    "Yer":"CAMLIK-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"02:10:04",
     "Enlem":39.1165,
     "Boylam":28.1278,
