@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2025.12.05",
+    "Saat":"00:05:37",
+    "Enlem":39.2375,
+    "Boylam":28.1327,
+    "Derinlik":9.6,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"00:01:24",
+    "Enlem":38.2527,
+    "Boylam":37.6572,
+    "Derinlik":5.4,
+    "ML":"0.9",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"23:58:49",
+    "Enlem":38.0758,
+    "Boylam":38.4175,
+    "Derinlik":6.0,
+    "ML":"2.6",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"23:53:37",
+    "Enlem":40.3827,
+    "Boylam":27.1513,
+    "Derinlik":6.1,
+    "ML":"2.1",
+    "Yer":"CAKIRLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.04",
     "Saat":"23:51:06",
     "Enlem":39.3748,
