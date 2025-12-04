@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"14:27:30",
+    "Enlem":39.1215,
+    "Boylam":28.2818,
+    "Derinlik":9.6,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"13:50:38",
+    "Enlem":40.0463,
+    "Boylam":25.9195,
+    "Derinlik":6.0,
+    "ML":"1.8",
+    "Yer":"ESELEK-GOKCEADA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"13:45:30",
+    "Enlem":39.189,
+    "Boylam":28.2148,
+    "Derinlik":20.5,
+    "ML":"1.0",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"13:25:00",
     "Enlem":40.2105,
     "Boylam":29.4715,
