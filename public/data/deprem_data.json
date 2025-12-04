@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"10:55:14",
+    "Enlem":39.1397,
+    "Boylam":28.0917,
+    "Derinlik":9.9,
+    "ML":"1.6",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"10:34:42",
+    "Enlem":37.9677,
+    "Boylam":36.0978,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"10:30:08",
     "Enlem":39.1843,
     "Boylam":28.0687,
