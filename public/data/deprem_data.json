@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.04",
+    "Saat":"05:19:50",
+    "Enlem":34.5447,
+    "Boylam":32.745,
+    "Derinlik":9.2,
+    "ML":"3.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"05:19:06",
+    "Enlem":34.761,
+    "Boylam":32.6397,
+    "Derinlik":7.2,
+    "ML":"3.0",
+    "Yer":"KIBRIS RUM KESIMI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
+    "Saat":"05:09:56",
+    "Enlem":36.651,
+    "Boylam":29.3593,
+    "Derinlik":7.4,
+    "ML":"1.8",
+    "Yer":"KEMER-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.04",
     "Saat":"04:08:15",
     "Enlem":37.377,
     "Boylam":36.8565,
