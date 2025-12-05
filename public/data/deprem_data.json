@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"07:06:16",
+    "Enlem":39.0955,
+    "Boylam":28.1,
+    "Derinlik":15.7,
+    "ML":"1.0",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"06:55:18",
+    "Enlem":39.1662,
+    "Boylam":28.23,
+    "Derinlik":18.0,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"06:37:30",
+    "Enlem":39.1583,
+    "Boylam":28.1785,
+    "Derinlik":12.8,
+    "ML":"0.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"06:14:58",
+    "Enlem":39.1697,
+    "Boylam":28.2282,
+    "Derinlik":9.0,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"05:42:46",
+    "Enlem":39.2525,
+    "Boylam":29.0225,
+    "Derinlik":5.3,
+    "ML":"1.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"05:31:39",
     "Enlem":38.488,
     "Boylam":39.1632,
