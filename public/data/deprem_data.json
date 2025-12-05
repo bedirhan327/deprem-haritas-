@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"15:35:35",
+    "Enlem":41.1713,
+    "Boylam":32.2713,
+    "Derinlik":8.8,
+    "ML":"2.5",
+    "Yer":"CELTIK-YENICE (KARABUK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"14:58:55",
+    "Enlem":40.8265,
+    "Boylam":27.7347,
+    "Derinlik":5.3,
+    "ML":"1.7",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"14:38:21",
     "Enlem":39.2312,
     "Boylam":28.1027,
