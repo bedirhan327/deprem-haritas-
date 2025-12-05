@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"16:28:33",
+    "Enlem":37.8225,
+    "Boylam":36.0698,
+    "Derinlik":8.5,
+    "ML":"1.7",
+    "Yer":"HIMMETLI-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"16:25:23",
+    "Enlem":39.219,
+    "Boylam":28.1258,
+    "Derinlik":8.1,
+    "ML":"1.5",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"16:18:52",
+    "Enlem":38.462,
+    "Boylam":38.112,
+    "Derinlik":17.9,
+    "ML":"1.8",
+    "Yer":"SEHLER-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"15:35:35",
     "Enlem":41.1713,
     "Boylam":32.2713,
