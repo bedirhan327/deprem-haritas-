@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"21:53:00",
+    "Enlem":39.1975,
+    "Boylam":28.2692,
+    "Derinlik":4.6,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"21:27:07",
+    "Enlem":35.189,
+    "Boylam":31.217,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"21:19:41",
+    "Enlem":39.1548,
+    "Boylam":27.9817,
+    "Derinlik":19.6,
+    "ML":"1.3",
+    "Yer":"KOBASDERE-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"21:09:55",
     "Enlem":40.2222,
     "Boylam":27.0262,
@@ -27,6 +57,16 @@
     "Derinlik":15.4,
     "ML":"2.7",
     "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"21:00:00",
+    "Enlem":35.5745,
+    "Boylam":23.4715,
+    "Derinlik":5.0,
+    "ML":"3.1",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
