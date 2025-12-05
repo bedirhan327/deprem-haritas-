@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"04:14:06",
+    "Enlem":38.7463,
+    "Boylam":27.7747,
+    "Derinlik":7.1,
+    "ML":"2.1",
+    "Yer":"LUTFIYE-SARUHANLI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"03:52:19",
+    "Enlem":39.3248,
+    "Boylam":41.6157,
+    "Derinlik":6.2,
+    "ML":"1.2",
+    "Yer":"KARAMOLLA-HINIS (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"03:40:03",
+    "Enlem":39.2508,
+    "Boylam":28.1157,
+    "Derinlik":11.2,
+    "ML":"1.1",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"03:08:53",
     "Enlem":39.18,
     "Boylam":27.9542,
