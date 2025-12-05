@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"21:09:55",
+    "Enlem":40.2222,
+    "Boylam":27.0262,
+    "Derinlik":12.3,
+    "ML":"2.0",
+    "Yer":"GURCESME-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"21:07:29",
+    "Enlem":37.6067,
+    "Boylam":35.8522,
+    "Derinlik":7.1,
+    "ML":"1.8",
+    "Yer":"KARABUCAK-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"21:05:58",
+    "Enlem":34.7065,
+    "Boylam":33.2305,
+    "Derinlik":15.4,
+    "ML":"2.7",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"20:58:38",
+    "Enlem":39.218,
+    "Boylam":28.9767,
+    "Derinlik":10.9,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"20:57:19",
+    "Enlem":39.1835,
+    "Boylam":28.9767,
+    "Derinlik":6.2,
+    "ML":"1.4",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"20:56:42",
+    "Enlem":39.2402,
+    "Boylam":29.01,
+    "Derinlik":7.9,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"20:32:31",
     "Enlem":39.1447,
     "Boylam":28.3697,
