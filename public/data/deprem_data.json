@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"08:59:18",
+    "Enlem":39.246,
+    "Boylam":28.1177,
+    "Derinlik":13.4,
+    "ML":"2.8",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"08:50:52",
+    "Enlem":39.3953,
+    "Boylam":28.016,
+    "Derinlik":6.3,
+    "ML":"1.5",
+    "Yer":"BABAKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"08:46:32",
+    "Enlem":39.8168,
+    "Boylam":26.2508,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"MECIDIYE-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"08:06:33",
     "Enlem":38.1328,
     "Boylam":38.4778,
