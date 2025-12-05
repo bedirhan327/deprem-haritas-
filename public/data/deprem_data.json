@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2025.12.05",
+    "Saat":"15:33:06",
+    "Enlem":41.1322,
+    "Boylam":32.2618,
+    "Derinlik":8.7,
+    "ML":"2.4",
+    "Yer":"HISARKOY-YENICE (KARABUK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"14:58:55",
     "Enlem":40.8265,
     "Boylam":27.7347,
@@ -27,6 +37,16 @@
     "Derinlik":7.2,
     "ML":"1.7",
     "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"14:33:39",
+    "Enlem":39.223,
+    "Boylam":28.2147,
+    "Derinlik":9.0,
+    "ML":"1.5",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
