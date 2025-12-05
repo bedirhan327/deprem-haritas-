@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"19:38:27",
+    "Enlem":39.925,
+    "Boylam":28.8183,
+    "Derinlik":13.6,
+    "ML":"1.4",
+    "Yer":"DUNDAR-ORHANELI (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"19:29:23",
+    "Enlem":39.2292,
+    "Boylam":28.9975,
+    "Derinlik":11.8,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"18:58:05",
     "Enlem":39.155,
     "Boylam":29.0697,
