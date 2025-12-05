@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"02:30:35",
+    "Enlem":39.9652,
+    "Boylam":42.639,
+    "Derinlik":6.7,
+    "ML":"1.5",
+    "Yer":"KOCOGLU-SARIKAMIS (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"01:48:38",
     "Enlem":39.1607,
     "Boylam":28.3053,
@@ -17,6 +27,16 @@
     "Derinlik":30.4,
     "ML":"3.0",
     "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"00:28:41",
+    "Enlem":38.0793,
+    "Boylam":38.0883,
+    "Derinlik":6.1,
+    "ML":"1.2",
+    "Yer":"YALINKAYA-YESILYURT (MALATYA)",
     "Cozum":"�lksel"
   },
   {
