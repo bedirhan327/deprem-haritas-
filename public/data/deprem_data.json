@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.05",
+    "Saat":"23:49:39",
+    "Enlem":39.2175,
+    "Boylam":28.1508,
+    "Derinlik":7.2,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"23:24:50",
+    "Enlem":39.2165,
+    "Boylam":28.063,
+    "Derinlik":13.8,
+    "ML":"1.0",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
+    "Saat":"23:04:04",
+    "Enlem":38.9932,
+    "Boylam":26.0072,
+    "Derinlik":13.8,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.05",
     "Saat":"22:50:07",
     "Enlem":42.4475,
     "Boylam":35.9185,
