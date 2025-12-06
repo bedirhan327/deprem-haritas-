@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2025.12.07",
+    "Saat":"00:53:18",
+    "Enlem":39.2297,
+    "Boylam":28.1238,
+    "Derinlik":7.6,
+    "ML":"1.2",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"00:50:24",
+    "Enlem":39.3762,
+    "Boylam":33.5868,
+    "Derinlik":13.6,
+    "ML":"1.5",
+    "Yer":"BAYRAMOZU-KAMAN (KIRSEHIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"00:36:18",
+    "Enlem":39.143,
+    "Boylam":28.218,
+    "Derinlik":10.1,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.06",
     "Saat":"23:58:26",
     "Enlem":39.2345,
