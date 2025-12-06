@@ -1,12 +1,62 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"06:08:21",
+    "Enlem":38.258,
+    "Boylam":38.2032,
+    "Derinlik":16.8,
+    "ML":"0.8",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"06:06:12",
+    "Enlem":39.2072,
+    "Boylam":28.1647,
+    "Derinlik":8.2,
+    "ML":"3.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"06:04:31",
+    "Enlem":39.2013,
+    "Boylam":28.1663,
+    "Derinlik":9.7,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"05:54:00",
+    "Enlem":38.3452,
+    "Boylam":37.3445,
+    "Derinlik":3.4,
+    "ML":"1.8",
+    "Yer":"INCECIK-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"05:52:19",
     "Enlem":39.1772,
     "Boylam":28.33,
     "Derinlik":18.2,
     "ML":"1.5",
     "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"05:49:51",
+    "Enlem":38.1715,
+    "Boylam":36.9675,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"ALTAS-AFSIN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
