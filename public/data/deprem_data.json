@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"01:19:39",
+    "Enlem":38.3635,
+    "Boylam":37.4425,
+    "Derinlik":12.1,
+    "ML":"1.2",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"01:13:51",
+    "Enlem":35.8023,
+    "Boylam":27.1867,
+    "Derinlik":9.3,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"00:53:18",
     "Enlem":39.2297,
     "Boylam":28.1238,
