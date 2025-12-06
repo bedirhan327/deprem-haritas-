@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"15:14:50",
+    "Enlem":39.1518,
+    "Boylam":28.1763,
+    "Derinlik":9.5,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"14:51:38",
+    "Enlem":39.1558,
+    "Boylam":28.3042,
+    "Derinlik":8.2,
+    "ML":"2.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"14:47:09",
+    "Enlem":39.1987,
+    "Boylam":28.1915,
+    "Derinlik":7.5,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"14:25:07",
     "Enlem":36.9293,
     "Boylam":29.699,
@@ -27,6 +57,16 @@
     "Derinlik":12.1,
     "ML":"1.5",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"12:56:00",
+    "Enlem":39.458,
+    "Boylam":28.1445,
+    "Derinlik":19.6,
+    "ML":"1.8",
+    "Yer":"SALMANLI-BIGADIC (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
