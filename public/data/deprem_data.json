@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"10:19:17",
+    "Enlem":38.804,
+    "Boylam":40.0185,
+    "Derinlik":5.9,
+    "ML":"3.2",
+    "Yer":"BAYRAMYAZI-KOVANCILAR (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"10:02:30",
+    "Enlem":39.194,
+    "Boylam":28.1745,
+    "Derinlik":14.0,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"09:36:03",
+    "Enlem":39.1403,
+    "Boylam":28.2962,
+    "Derinlik":15.3,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"09:34:47",
+    "Enlem":39.2828,
+    "Boylam":28.1243,
+    "Derinlik":4.6,
+    "ML":"1.8",
+    "Yer":"KARAAGAC-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"09:09:00",
     "Enlem":39.1513,
     "Boylam":28.172,
