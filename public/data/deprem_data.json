@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"18:49:17",
+    "Enlem":39.324,
+    "Boylam":28.0602,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"18:40:54",
+    "Enlem":40.7462,
+    "Boylam":27.379,
+    "Derinlik":12.9,
+    "ML":"1.4",
+    "Yer":"GAZIKOY-SARKOY (TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"18:11:29",
+    "Enlem":39.034,
+    "Boylam":26.0162,
+    "Derinlik":7.3,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"18:07:47",
+    "Enlem":40.855,
+    "Boylam":31.735,
+    "Derinlik":5.2,
+    "ML":"1.4",
+    "Yer":"TETEMECELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"17:37:16",
+    "Enlem":37.317,
+    "Boylam":37.03,
+    "Derinlik":5.3,
+    "ML":"2.5",
+    "Yer":"CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"16:55:41",
     "Enlem":39.1823,
     "Boylam":28.1668,
