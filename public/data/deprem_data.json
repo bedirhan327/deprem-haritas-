@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"06:50:40",
+    "Enlem":39.2698,
+    "Boylam":28.1477,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"06:42:02",
+    "Enlem":39.8375,
+    "Boylam":27.583,
+    "Derinlik":11.5,
+    "ML":"2.0",
+    "Yer":"KAYAPINAR-BALYA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"06:40:24",
+    "Enlem":39.183,
+    "Boylam":28.1878,
+    "Derinlik":9.0,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"06:08:21",
     "Enlem":38.258,
     "Boylam":38.2032,
