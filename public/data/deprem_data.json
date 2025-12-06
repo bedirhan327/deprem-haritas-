@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"14:25:07",
+    "Enlem":36.9293,
+    "Boylam":29.699,
+    "Derinlik":11.1,
+    "ML":"2.0",
+    "Yer":"CALTILAR-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"14:22:08",
+    "Enlem":36.9563,
+    "Boylam":29.7172,
+    "Derinlik":4.9,
+    "ML":"2.2",
+    "Yer":"COBANISA-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"13:00:10",
+    "Enlem":39.1977,
+    "Boylam":28.1597,
+    "Derinlik":12.1,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"12:28:19",
+    "Enlem":38.1272,
+    "Boylam":32.6337,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"CANDIR-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"12:25:57",
     "Enlem":37.2232,
     "Boylam":28.7345,
