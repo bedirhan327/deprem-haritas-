@@ -1,12 +1,72 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"21:43:00",
+    "Enlem":35.022,
+    "Boylam":33.2702,
+    "Derinlik":58.3,
+    "ML":"3.2",
+    "Yer":"KIBRIS-LEFKOSA",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"21:22:05",
+    "Enlem":40.4398,
+    "Boylam":25.9498,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"21:10:32",
+    "Enlem":38.9118,
+    "Boylam":27.0935,
+    "Derinlik":8.9,
+    "ML":"1.5",
+    "Yer":"ASAGISAKRAN-ALIAGA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"21:03:45",
+    "Enlem":40.1858,
+    "Boylam":31.7722,
+    "Derinlik":1.7,
+    "ML":"2.5",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"20:38:48",
     "Enlem":40.8235,
     "Boylam":31.0613,
     "Derinlik":10.8,
     "ML":"1.7",
     "Yer":"FEVZIYE-(DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"20:29:48",
+    "Enlem":40.4082,
+    "Boylam":26.0688,
+    "Derinlik":12.6,
+    "ML":"2.2",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"20:26:06",
+    "Enlem":39.0837,
+    "Boylam":28.325,
+    "Derinlik":16.6,
+    "ML":"1.8",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
