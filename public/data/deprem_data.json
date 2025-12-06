@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"04:28:02",
+    "Enlem":39.1042,
+    "Boylam":26.9263,
+    "Derinlik":11.3,
+    "ML":"1.6",
+    "Yer":"KIZILCUKUR-DIKILI (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"04:26:39",
+    "Enlem":39.1988,
+    "Boylam":28.1972,
+    "Derinlik":9.3,
+    "ML":"1.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"04:03:46",
     "Enlem":39.2085,
     "Boylam":28.2228,
