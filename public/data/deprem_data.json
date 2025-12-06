@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"02:39:09",
+    "Enlem":40.4997,
+    "Boylam":32.8737,
+    "Derinlik":9.1,
+    "ML":"1.9",
+    "Yer":"YILDIRIMELOREN-CUBUK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"02:29:03",
+    "Enlem":39.1918,
+    "Boylam":28.1622,
+    "Derinlik":12.0,
+    "ML":"2.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"02:26:46",
+    "Enlem":40.6242,
+    "Boylam":27.461,
+    "Derinlik":12.1,
+    "ML":"1.8",
+    "Yer":"EKINLIK-MARMARA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
+    "Saat":"02:25:15",
+    "Enlem":40.1652,
+    "Boylam":27.1597,
+    "Derinlik":12.9,
+    "ML":"1.0",
+    "Yer":"SARISIVAT-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"01:48:05",
     "Enlem":39.3585,
     "Boylam":28.8523,
