@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"07:22:47",
+    "Enlem":37.1368,
+    "Boylam":28.9315,
+    "Derinlik":6.0,
+    "ML":"1.8",
+    "Yer":"ESENLER-BEYAGAC (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"07:15:42",
+    "Enlem":40.1897,
+    "Boylam":31.7688,
+    "Derinlik":10.7,
+    "ML":"1.8",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"07:09:34",
+    "Enlem":39.19,
+    "Boylam":28.1812,
+    "Derinlik":10.1,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"07:06:44",
+    "Enlem":36.9917,
+    "Boylam":28.4232,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"YESILCAM-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"06:52:17",
+    "Enlem":36.7227,
+    "Boylam":36.1283,
+    "Derinlik":5.5,
+    "ML":"2.5",
+    "Yer":"PAYAS-DORTYOL (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"06:43:10",
+    "Enlem":39.2388,
+    "Boylam":28.355,
+    "Derinlik":8.1,
+    "ML":"2.9",
+    "Yer":"ALAYAKA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"06:36:48",
+    "Enlem":39.2415,
+    "Boylam":28.9487,
+    "Derinlik":11.0,
+    "ML":"1.7",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"06:21:05",
     "Enlem":39.2478,
     "Boylam":28.93,
