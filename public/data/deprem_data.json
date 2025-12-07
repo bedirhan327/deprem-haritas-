@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"16:35:42",
+    "Enlem":39.1847,
+    "Boylam":28.2103,
+    "Derinlik":11.2,
+    "ML":"2.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"16:21:18",
     "Enlem":39.2063,
     "Boylam":28.1375,
     "Derinlik":5.4,
     "ML":"2.0",
     "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"16:03:02",
+    "Enlem":39.2045,
+    "Boylam":28.2085,
+    "Derinlik":9.1,
+    "ML":"1.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"16:01:08",
+    "Enlem":39.1905,
+    "Boylam":28.1865,
+    "Derinlik":14.0,
+    "ML":"1.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -111,6 +141,16 @@
   },
   {
     "Tarih":"2025.12.07",
+    "Saat":"13:12:36",
+    "Enlem":36.7142,
+    "Boylam":36.1165,
+    "Derinlik":8.2,
+    "ML":"1.6",
+    "Yer":"PAYAS-DORTYOL (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"13:12:03",
     "Enlem":39.2405,
     "Boylam":28.9235,
@@ -181,6 +221,16 @@
   },
   {
     "Tarih":"2025.12.07",
+    "Saat":"11:19:59",
+    "Enlem":36.643,
+    "Boylam":25.645,
+    "Derinlik":10.5,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"10:43:04",
     "Enlem":39.0685,
     "Boylam":33.7517,
@@ -207,6 +257,16 @@
     "Derinlik":9.0,
     "ML":"1.5",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"10:04:48",
+    "Enlem":36.7082,
+    "Boylam":25.6582,
+    "Derinlik":12.3,
+    "ML":"2.2",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
