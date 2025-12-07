@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"13:38:11",
+    "Enlem":39.1632,
+    "Boylam":28.2737,
+    "Derinlik":13.0,
+    "ML":"1.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"13:33:45",
+    "Enlem":39.2092,
+    "Boylam":28.1588,
+    "Derinlik":9.1,
+    "ML":"2.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"13:24:45",
+    "Enlem":39.198,
+    "Boylam":28.138,
+    "Derinlik":10.8,
+    "ML":"1.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"13:16:02",
+    "Enlem":33.9685,
+    "Boylam":27.6348,
+    "Derinlik":95.9,
+    "ML":"3.4",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"13:12:03",
     "Enlem":39.2405,
     "Boylam":28.9235,
