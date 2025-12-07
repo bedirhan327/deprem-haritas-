@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"10:43:04",
+    "Enlem":39.0685,
+    "Boylam":33.7517,
+    "Derinlik":2.0,
+    "ML":"1.1",
+    "Yer":"SOLAKUSAGI-EVREN (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"10:42:30",
+    "Enlem":36.8178,
+    "Boylam":28.5492,
+    "Derinlik":27.4,
+    "ML":"0.8",
+    "Yer":"EKINCIK-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"10:14:07",
+    "Enlem":39.2,
+    "Boylam":28.1502,
+    "Derinlik":9.0,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"10:04:25",
+    "Enlem":39.2027,
+    "Boylam":28.1285,
+    "Derinlik":7.8,
+    "ML":"1.6",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"10:01:35",
     "Enlem":39.177,
     "Boylam":28.0375,
