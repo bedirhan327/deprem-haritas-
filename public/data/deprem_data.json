@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"16:21:18",
+    "Enlem":39.2063,
+    "Boylam":28.1375,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"15:47:31",
+    "Enlem":38.9368,
+    "Boylam":42.355,
+    "Derinlik":23.4,
+    "ML":"2.1",
+    "Yer":"ERICEK-BULANIK (MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"15:44:19",
     "Enlem":36.3878,
     "Boylam":28.5737,
