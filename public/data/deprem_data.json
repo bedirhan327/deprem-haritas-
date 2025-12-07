@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"17:40:32",
+    "Enlem":37.8838,
+    "Boylam":27.3068,
+    "Derinlik":4.0,
+    "ML":"1.6",
+    "Yer":"SULTANIYE-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"17:37:52",
+    "Enlem":37.8707,
+    "Boylam":27.373,
+    "Derinlik":5.0,
+    "ML":"3.1",
+    "Yer":"CAMLIK-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"16:35:42",
     "Enlem":39.1847,
     "Boylam":28.2103,
