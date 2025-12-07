@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2025.12.08",
+    "Saat":"00:43:26",
+    "Enlem":39.1107,
+    "Boylam":28.2977,
+    "Derinlik":9.4,
+    "ML":"2.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"00:42:56",
+    "Enlem":38.8768,
+    "Boylam":26.7695,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"CANDARLI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"00:29:13",
+    "Enlem":38.4872,
+    "Boylam":38.0487,
+    "Derinlik":4.5,
+    "ML":"1.8",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.07",
     "Saat":"23:46:15",
     "Enlem":39.2195,
@@ -157,6 +187,16 @@
     "Derinlik":9.5,
     "ML":"1.5",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"21:03:28",
+    "Enlem":39.1862,
+    "Boylam":28.1793,
+    "Derinlik":13.5,
+    "ML":"1.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
