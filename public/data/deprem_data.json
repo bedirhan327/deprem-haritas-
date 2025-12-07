@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"20:09:17",
+    "Enlem":39.3617,
+    "Boylam":40.4782,
+    "Derinlik":4.9,
+    "ML":"1.1",
+    "Yer":"CEVIZLI-ADAKLI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"20:01:54",
+    "Enlem":39.2317,
+    "Boylam":28.3182,
+    "Derinlik":5.5,
+    "ML":"2.6",
+    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"19:47:06",
+    "Enlem":37.8817,
+    "Boylam":27.3418,
+    "Derinlik":1.5,
+    "ML":"2.2",
+    "Yer":"SULTANIYE-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"19:34:21",
     "Enlem":38.4058,
     "Boylam":37.873,
     "Derinlik":5.6,
     "ML":"2.7",
     "Yer":"SARIHACI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"19:28:55",
+    "Enlem":37.2968,
+    "Boylam":32.2445,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"SAZLI-BOZKIR (KONYA)",
     "Cozum":"�lksel"
   },
   {
