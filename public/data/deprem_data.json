@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"21:33:46",
+    "Enlem":39.1772,
+    "Boylam":28.184,
+    "Derinlik":15.8,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"21:31:06",
+    "Enlem":39.2138,
+    "Boylam":28.1635,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"21:18:47",
+    "Enlem":37.8753,
+    "Boylam":27.3242,
+    "Derinlik":3.9,
+    "ML":"2.2",
+    "Yer":"SULTANIYE-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"21:13:55",
     "Enlem":39.163,
     "Boylam":28.2603,
@@ -97,6 +127,16 @@
     "Derinlik":15.0,
     "ML":"1.7",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"18:57:27",
+    "Enlem":38.061,
+    "Boylam":40.0488,
+    "Derinlik":10.3,
+    "ML":"1.2",
+    "Yer":"PETEK-KAYAPINAR (DIYARBAKIR)",
     "Cozum":"�lksel"
   },
   {
