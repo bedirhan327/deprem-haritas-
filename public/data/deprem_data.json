@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"12:25:19",
+    "Enlem":37.1633,
+    "Boylam":35.687,
+    "Derinlik":15.6,
+    "ML":"1.6",
+    "Yer":"SAGKAYA-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"11:53:55",
+    "Enlem":39.2045,
+    "Boylam":28.1817,
+    "Derinlik":9.4,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"11:35:25",
+    "Enlem":39.2245,
+    "Boylam":28.1538,
+    "Derinlik":12.0,
+    "ML":"1.5",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"11:22:55",
+    "Enlem":39.1632,
+    "Boylam":28.0517,
+    "Derinlik":9.2,
+    "ML":"1.3",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"10:43:04",
     "Enlem":39.0685,
     "Boylam":33.7517,
