@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"08:43:44",
+    "Enlem":38.039,
+    "Boylam":37.9103,
+    "Derinlik":5.0,
+    "ML":"3.0",
+    "Yer":"SAVAKLI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"08:41:10",
+    "Enlem":39.1653,
+    "Boylam":28.1117,
+    "Derinlik":13.7,
+    "ML":"1.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"08:33:18",
+    "Enlem":39.3698,
+    "Boylam":28.0387,
+    "Derinlik":9.4,
+    "ML":"1.9",
+    "Yer":"CEKIRDEKLI-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"08:07:19",
     "Enlem":39.2025,
     "Boylam":28.1645,
