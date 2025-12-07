@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"03:10:24",
+    "Enlem":39.2408,
+    "Boylam":28.9588,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"03:09:32",
+    "Enlem":39.2125,
+    "Boylam":28.1438,
+    "Derinlik":9.6,
+    "ML":"1.7",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"03:05:29",
+    "Enlem":39.2308,
+    "Boylam":28.9467,
+    "Derinlik":15.4,
+    "ML":"1.2",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"03:00:48",
+    "Enlem":39.2047,
+    "Boylam":28.1608,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"02:54:49",
+    "Enlem":39.2318,
+    "Boylam":28.1305,
+    "Derinlik":9.2,
+    "ML":"1.1",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"02:51:22",
     "Enlem":38.642,
     "Boylam":39.4527,
