@@ -111,6 +111,16 @@
   },
   {
     "Tarih":"2025.12.07",
+    "Saat":"21:52:22",
+    "Enlem":39.6683,
+    "Boylam":38.0702,
+    "Derinlik":6.1,
+    "ML":"2.0",
+    "Yer":"SOGUTOZU-ZARA (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"21:33:46",
     "Enlem":39.1772,
     "Boylam":28.184,
@@ -147,6 +157,16 @@
     "Derinlik":9.5,
     "ML":"1.5",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"21:02:23",
+    "Enlem":37.8847,
+    "Boylam":27.3353,
+    "Derinlik":2.4,
+    "ML":"1.8",
+    "Yer":"SULTANIYE-SELCUK (IZMIR)",
     "Cozum":"�lksel"
   },
   {
