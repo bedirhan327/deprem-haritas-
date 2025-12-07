@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"22:41:08",
+    "Enlem":39.1508,
+    "Boylam":28.2553,
+    "Derinlik":14.8,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"22:31:01",
+    "Enlem":39.5893,
+    "Boylam":39.8788,
+    "Derinlik":7.2,
+    "ML":"1.5",
+    "Yer":"DEREBUK-UZUMLU (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"22:17:30",
     "Enlem":38.8017,
     "Boylam":43.5338,
     "Derinlik":5.7,
     "ML":"4.5",
     "Yer":"DEREBEY-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"22:17:19",
+    "Enlem":40.4805,
+    "Boylam":26.1577,
+    "Derinlik":17.4,
+    "ML":"2.2",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"22:04:41",
+    "Enlem":39.157,
+    "Boylam":28.2198,
+    "Derinlik":12.4,
+    "ML":"2.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
