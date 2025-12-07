@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"04:39:07",
+    "Enlem":38.0573,
+    "Boylam":30.0617,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"AVDAN-DINAR (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"04:36:27",
+    "Enlem":39.2703,
+    "Boylam":28.9478,
+    "Derinlik":10.4,
+    "ML":"1.6",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"04:33:59",
+    "Enlem":39.2322,
+    "Boylam":28.963,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"04:12:00",
     "Enlem":39.2095,
     "Boylam":28.1495,
