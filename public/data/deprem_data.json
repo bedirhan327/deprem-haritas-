@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"06:21:05",
+    "Enlem":39.2478,
+    "Boylam":28.93,
+    "Derinlik":8.7,
+    "ML":"2.4",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"06:11:51",
+    "Enlem":37.9702,
+    "Boylam":37.6532,
+    "Derinlik":4.3,
+    "ML":"1.8",
+    "Yer":"KAPIDERE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"06:10:37",
+    "Enlem":39.1883,
+    "Boylam":28.1543,
+    "Derinlik":12.3,
+    "ML":"1.3",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"06:06:06",
+    "Enlem":38.9357,
+    "Boylam":26.0825,
+    "Derinlik":4.2,
+    "ML":"2.6",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"05:58:29",
+    "Enlem":39.2505,
+    "Boylam":28.9723,
+    "Derinlik":12.1,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"05:53:43",
+    "Enlem":38.4882,
+    "Boylam":38.0417,
+    "Derinlik":4.3,
+    "ML":"1.7",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"05:11:00",
     "Enlem":39.1895,
     "Boylam":28.2157,
