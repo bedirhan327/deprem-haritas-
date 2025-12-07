@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.07",
+    "Saat":"07:44:10",
+    "Enlem":39.0948,
+    "Boylam":42.8792,
+    "Derinlik":23.1,
+    "ML":"1.7",
+    "Yer":"ANDACLI-PATNOS (AGRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"07:32:15",
+    "Enlem":36.978,
+    "Boylam":28.4348,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"YESILCAM-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"07:29:32",
+    "Enlem":36.996,
+    "Boylam":28.404,
+    "Derinlik":4.9,
+    "ML":"1.8",
+    "Yer":"YESILCAM-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
+    "Saat":"07:26:03",
+    "Enlem":38.918,
+    "Boylam":26.6262,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.07",
     "Saat":"07:22:47",
     "Enlem":37.1368,
     "Boylam":28.9315,
