@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"11:25:58",
+    "Enlem":39.2098,
+    "Boylam":28.0575,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"11:11:07",
+    "Enlem":39.1395,
+    "Boylam":28.2093,
+    "Derinlik":13.6,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"11:07:58",
     "Enlem":39.2225,
     "Boylam":28.1293,
@@ -87,6 +107,16 @@
     "Derinlik":6.0,
     "ML":"2.5",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"08:47:00",
+    "Enlem":39.1437,
+    "Boylam":28.0947,
+    "Derinlik":11.3,
+    "ML":"1.4",
+    "Yer":"ISACA-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
