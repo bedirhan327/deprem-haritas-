@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"14:13:34",
+    "Enlem":40.5528,
+    "Boylam":27.5773,
+    "Derinlik":11.1,
+    "ML":"1.6",
+    "Yer":"GUNDOGDU-MARMARA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"14:09:24",
+    "Enlem":36.3527,
+    "Boylam":35.7282,
+    "Derinlik":13.6,
+    "ML":"1.8",
+    "Yer":"ISKENDERUN KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"14:05:15",
+    "Enlem":39.2275,
+    "Boylam":28.9708,
+    "Derinlik":13.0,
+    "ML":"1.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"13:52:41",
+    "Enlem":39.173,
+    "Boylam":28.2553,
+    "Derinlik":8.9,
+    "ML":"2.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"13:50:38",
+    "Enlem":39.1573,
+    "Boylam":28.0965,
+    "Derinlik":9.3,
+    "ML":"1.7",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"13:21:32",
     "Enlem":37.0157,
     "Boylam":30.8015,
