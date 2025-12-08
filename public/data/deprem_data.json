@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"22:41:08",
+    "Enlem":39.1527,
+    "Boylam":28.2805,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"22:34:15",
+    "Enlem":38.0852,
+    "Boylam":37.3628,
+    "Derinlik":9.5,
+    "ML":"1.4",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"22:27:19",
+    "Enlem":39.1592,
+    "Boylam":28.2035,
+    "Derinlik":14.8,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"21:47:36",
     "Enlem":39.1852,
     "Boylam":28.2403,
