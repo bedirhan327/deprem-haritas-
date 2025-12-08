@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"18:48:17",
+    "Enlem":38.4823,
+    "Boylam":37.6248,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"YESILTAS-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"18:46:25",
+    "Enlem":39.1607,
+    "Boylam":28.215,
+    "Derinlik":10.8,
+    "ML":"1.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"18:34:11",
+    "Enlem":39.1638,
+    "Boylam":28.1957,
+    "Derinlik":9.7,
+    "ML":"1.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"18:25:10",
+    "Enlem":39.2538,
+    "Boylam":28.0953,
+    "Derinlik":14.1,
+    "ML":"1.5",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"17:56:52",
     "Enlem":39.1848,
     "Boylam":28.1588,
