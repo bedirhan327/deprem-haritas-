@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"15:54:16",
+    "Enlem":36.142,
+    "Boylam":31.0337,
+    "Derinlik":13.2,
+    "ML":"2.1",
+    "Yer":"ANTALYA KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"15:49:11",
+    "Enlem":36.3722,
+    "Boylam":36.8763,
+    "Derinlik":14.1,
+    "ML":"1.9",
+    "Yer":"SURIYE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"15:04:51",
     "Enlem":39.0592,
     "Boylam":28.1945,
