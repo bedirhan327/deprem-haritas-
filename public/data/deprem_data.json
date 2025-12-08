@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"12:41:30",
+    "Enlem":35.2718,
+    "Boylam":33.3633,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"KIBRIS-GIRNE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"12:34:10",
+    "Enlem":36.682,
+    "Boylam":30.8112,
+    "Derinlik":30.3,
+    "ML":"3.8",
+    "Yer":"ANTALYA KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"11:54:06",
+    "Enlem":38.4212,
+    "Boylam":36.931,
+    "Derinlik":18.2,
+    "ML":"1.3",
+    "Yer":"TANIR-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"11:52:09",
     "Enlem":39.1567,
     "Boylam":28.2683,
@@ -17,6 +47,16 @@
     "Derinlik":8.0,
     "ML":"1.4",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"11:42:05",
+    "Enlem":37.119,
+    "Boylam":37.1527,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"BESKUYU-SAHINBEY (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
