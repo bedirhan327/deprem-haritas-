@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"14:49:20",
+    "Enlem":37.3583,
+    "Boylam":37.0795,
+    "Derinlik":6.5,
+    "ML":"2.1",
+    "Yer":"ARSLANBEY-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"14:30:07",
+    "Enlem":39.225,
+    "Boylam":28.9947,
+    "Derinlik":13.5,
+    "ML":"1.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"14:29:05",
+    "Enlem":37.0313,
+    "Boylam":36.773,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"BAYRAKTEPE-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"14:13:34",
     "Enlem":40.5528,
     "Boylam":27.5773,
