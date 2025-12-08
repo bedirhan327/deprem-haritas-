@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"06:26:00",
+    "Enlem":39.2207,
+    "Boylam":29.0493,
+    "Derinlik":7.3,
+    "ML":"3.0",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"06:25:25",
+    "Enlem":39.2528,
+    "Boylam":28.9912,
+    "Derinlik":7.6,
+    "ML":"3.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"06:23:31",
+    "Enlem":39.1667,
+    "Boylam":28.9103,
+    "Derinlik":17.1,
+    "ML":"2.0",
+    "Yer":"GUNEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"05:37:53",
+    "Enlem":35.7797,
+    "Boylam":25.5133,
+    "Derinlik":8.5,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"05:35:02",
+    "Enlem":39.2152,
+    "Boylam":28.2287,
+    "Derinlik":7.7,
+    "ML":"1.3",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"05:28:10",
+    "Enlem":39.2143,
+    "Boylam":28.0835,
+    "Derinlik":8.5,
+    "ML":"1.3",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"05:19:50",
     "Enlem":39.543,
     "Boylam":28.8905,
