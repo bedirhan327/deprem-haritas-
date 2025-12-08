@@ -1,5 +1,15 @@
 [
   {
+    "Tarih":"2025.12.09",
+    "Saat":"00:06:43",
+    "Enlem":39.1138,
+    "Boylam":28.2493,
+    "Derinlik":11.5,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.08",
     "Saat":"23:52:54",
     "Enlem":39.2507,
@@ -7,6 +17,16 @@
     "Derinlik":7.5,
     "ML":"1.6",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"23:52:27",
+    "Enlem":38.0462,
+    "Boylam":36.6592,
+    "Derinlik":9.2,
+    "ML":"1.4",
+    "Yer":"GUCUKSU-GOKSUN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
