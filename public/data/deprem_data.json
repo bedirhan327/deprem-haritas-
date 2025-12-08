@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.08",
+    "Saat":"20:45:40",
+    "Enlem":39.1338,
+    "Boylam":28.2213,
+    "Derinlik":10.1,
+    "ML":"0.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"20:28:56",
+    "Enlem":39.2048,
+    "Boylam":28.0597,
+    "Derinlik":10.2,
+    "ML":"2.6",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
+    "Saat":"20:25:35",
+    "Enlem":38.1402,
+    "Boylam":36.6378,
+    "Derinlik":5.6,
+    "ML":"2.2",
+    "Yer":"YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.08",
     "Saat":"19:54:19",
     "Enlem":39.2503,
     "Boylam":29.0208,
