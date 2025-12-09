@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.09",
+    "Saat":"13:53:20",
+    "Enlem":37.656,
+    "Boylam":35.3698,
+    "Derinlik":4.7,
+    "ML":"2.1",
+    "Yer":"YETIMLI-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"13:41:18",
+    "Enlem":39.3273,
+    "Boylam":28.0902,
+    "Derinlik":12.9,
+    "ML":"2.8",
+    "Yer":"ARMUTLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"13:33:49",
+    "Enlem":39.161,
+    "Boylam":28.239,
+    "Derinlik":12.7,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"13:29:39",
+    "Enlem":37.0008,
+    "Boylam":31.9385,
+    "Derinlik":7.7,
+    "ML":"2.3",
+    "Yer":"CIMIKOY-AKSEKI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"13:26:21",
+    "Enlem":37.064,
+    "Boylam":31.9463,
+    "Derinlik":5.0,
+    "ML":"3.3",
+    "Yer":"CIMIKOY-AKSEKI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
     "Saat":"13:18:13",
     "Enlem":39.2495,
     "Boylam":28.086,
