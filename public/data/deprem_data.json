@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.09",
+    "Saat":"10:42:29",
+    "Enlem":38.7185,
+    "Boylam":37.979,
+    "Derinlik":13.7,
+    "ML":"2.1",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"10:39:09",
+    "Enlem":37.2165,
+    "Boylam":35.8733,
+    "Derinlik":7.7,
+    "ML":"1.4",
+    "Yer":"YESILDAM-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
     "Saat":"10:18:03",
     "Enlem":39.1838,
     "Boylam":28.2483,
