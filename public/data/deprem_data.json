@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.09",
+    "Saat":"17:31:12",
+    "Enlem":39.187,
+    "Boylam":29.057,
+    "Derinlik":15.0,
+    "ML":"1.4",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"17:30:14",
+    "Enlem":39.1203,
+    "Boylam":28.3063,
+    "Derinlik":9.3,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
     "Saat":"17:08:16",
     "Enlem":39.1953,
     "Boylam":28.2152,
