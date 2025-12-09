@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.09",
+    "Saat":"20:13:11",
+    "Enlem":39.227,
+    "Boylam":28.9693,
+    "Derinlik":14.9,
+    "ML":"1.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"20:03:25",
+    "Enlem":39.2022,
+    "Boylam":28.0725,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"19:51:20",
+    "Enlem":37.1778,
+    "Boylam":37.0775,
+    "Derinlik":8.7,
+    "ML":"2.1",
+    "Yer":"YAMACOBA-SEHITKAMIL (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
     "Saat":"19:47:43",
     "Enlem":39.1652,
     "Boylam":28.1512,
