@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.09",
+    "Saat":"12:54:20",
+    "Enlem":39.2087,
+    "Boylam":28.9947,
+    "Derinlik":12.0,
+    "ML":"1.3",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"12:32:34",
+    "Enlem":39.217,
+    "Boylam":27.6618,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"EVCILER-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"12:14:38",
+    "Enlem":37.2223,
+    "Boylam":37.0475,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"EVRI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
     "Saat":"12:08:38",
     "Enlem":35.2977,
     "Boylam":33.5522,
