@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"01:15:36",
+    "Enlem":36.709,
+    "Boylam":26.3657,
+    "Derinlik":8.9,
+    "ML":"2.3",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"01:12:20",
+    "Enlem":39.2545,
+    "Boylam":28.9507,
+    "Derinlik":14.9,
+    "ML":"1.2",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"00:56:46",
+    "Enlem":40.2385,
+    "Boylam":32.358,
+    "Derinlik":9.3,
+    "ML":"1.7",
+    "Yer":"TURNALI-KIZILCAHAMAM (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"00:47:44",
     "Enlem":39.2542,
     "Boylam":29.0237,
