@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.09",
+    "Saat":"03:10:01",
+    "Enlem":39.1778,
+    "Boylam":28.1752,
+    "Derinlik":10.4,
+    "ML":"3.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"03:05:05",
+    "Enlem":40.1978,
+    "Boylam":31.7848,
+    "Derinlik":2.3,
+    "ML":"2.5",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
+    "Saat":"02:56:00",
+    "Enlem":37.8917,
+    "Boylam":27.3298,
+    "Derinlik":13.2,
+    "ML":"1.7",
+    "Yer":"SULTANIYE-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.09",
     "Saat":"02:54:35",
     "Enlem":39.2207,
     "Boylam":28.1193,
