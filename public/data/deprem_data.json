@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"06:50:53",
+    "Enlem":39.2492,
+    "Boylam":29.0362,
+    "Derinlik":12.4,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"06:42:54",
+    "Enlem":39.2508,
+    "Boylam":28.9427,
+    "Derinlik":6.9,
+    "ML":"2.7",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"06:35:55",
+    "Enlem":39.2023,
+    "Boylam":28.1412,
+    "Derinlik":11.5,
+    "ML":"2.1",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"06:03:13",
     "Enlem":38.9233,
     "Boylam":26.091,
@@ -57,6 +87,16 @@
     "Derinlik":10.4,
     "ML":"0.9",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"05:00:22",
+    "Enlem":36.6725,
+    "Boylam":36.4795,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"NARLIHOPUR-KIRIKHAN (HATAY)",
     "Cozum":"�lksel"
   },
   {
@@ -121,6 +161,16 @@
   },
   {
     "Tarih":"2025.12.10",
+    "Saat":"04:06:53",
+    "Enlem":39.155,
+    "Boylam":28.241,
+    "Derinlik":11.1,
+    "ML":"2.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"04:04:15",
     "Enlem":39.1702,
     "Boylam":28.2763,
@@ -137,6 +187,16 @@
     "Derinlik":2.9,
     "ML":"2.7",
     "Yer":"KULAC-YAYLADAGI (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"03:50:29",
+    "Enlem":38.0038,
+    "Boylam":26.9637,
+    "Derinlik":17.6,
+    "ML":"1.5",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
