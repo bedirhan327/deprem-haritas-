@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"20:29:57",
+    "Enlem":38.102,
+    "Boylam":38.473,
+    "Derinlik":12.0,
+    "ML":"1.7",
+    "Yer":"KARAKOSE-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"20:20:03",
+    "Enlem":39.2193,
+    "Boylam":28.0845,
+    "Derinlik":10.5,
+    "ML":"1.7",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"20:17:11",
+    "Enlem":39.1817,
+    "Boylam":28.2222,
+    "Derinlik":11.1,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"20:15:51",
     "Enlem":39.18,
     "Boylam":28.2398,
