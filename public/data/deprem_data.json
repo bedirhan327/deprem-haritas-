@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"01:52:07",
+    "Enlem":39.2348,
+    "Boylam":28.162,
+    "Derinlik":16.0,
+    "ML":"1.2",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"01:31:21",
+    "Enlem":37.9592,
+    "Boylam":28.4363,
+    "Derinlik":2.2,
+    "ML":"1.5",
+    "Yer":"KESTEL-NAZILLI (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"01:27:41",
+    "Enlem":39.2215,
+    "Boylam":28.141,
+    "Derinlik":7.0,
+    "ML":"1.6",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"01:18:20",
+    "Enlem":39.2117,
+    "Boylam":28.1733,
+    "Derinlik":11.5,
+    "ML":"1.9",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"01:09:46",
     "Enlem":38.1608,
     "Boylam":36.5815,
