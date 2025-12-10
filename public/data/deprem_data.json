@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"05:02:01",
+    "Enlem":39.1755,
+    "Boylam":28.218,
+    "Derinlik":10.4,
+    "ML":"0.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"04:57:54",
+    "Enlem":38.2632,
+    "Boylam":30.8142,
+    "Derinlik":15.7,
+    "ML":"1.6",
+    "Yer":"TASEVI-YALVAC (ISPARTA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"04:43:11",
     "Enlem":39.02,
     "Boylam":26.0128,
