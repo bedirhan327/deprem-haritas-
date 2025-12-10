@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"03:38:03",
+    "Enlem":38.539,
+    "Boylam":39.5975,
+    "Derinlik":7.6,
+    "ML":"1.1",
+    "Yer":"TEPECIK-MADEN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"03:31:01",
+    "Enlem":39.147,
+    "Boylam":28.2703,
+    "Derinlik":11.3,
+    "ML":"1.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"03:21:35",
     "Enlem":38.5385,
     "Boylam":26.8158,
