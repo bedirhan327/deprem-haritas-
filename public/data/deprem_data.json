@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"22:18:04",
+    "Enlem":39.1843,
+    "Boylam":29.3907,
+    "Derinlik":8.9,
+    "ML":"1.1",
+    "Yer":"KARBASAN-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"22:01:20",
+    "Enlem":36.4198,
+    "Boylam":28.3485,
+    "Derinlik":2.8,
+    "ML":"1.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"22:00:31",
     "Enlem":39.1877,
     "Boylam":28.2102,
