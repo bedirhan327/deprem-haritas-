@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"12:45:35",
+    "Enlem":37.6367,
+    "Boylam":29.4232,
+    "Derinlik":13.5,
+    "ML":"1.5",
+    "Yer":"KOCAPINAR-SERINHISAR (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"12:29:13",
+    "Enlem":40.4142,
+    "Boylam":28.8675,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"12:17:44",
+    "Enlem":39.1098,
+    "Boylam":40.9518,
+    "Derinlik":15.6,
+    "ML":"1.5",
+    "Yer":"GOYNUK-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"11:50:40",
     "Enlem":39.1222,
     "Boylam":28.2432,
