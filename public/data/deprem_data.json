@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"14:41:07",
+    "Enlem":38.2618,
+    "Boylam":38.591,
+    "Derinlik":16.5,
+    "ML":"2.4",
+    "Yer":"PELITLI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"14:23:05",
+    "Enlem":39.2097,
+    "Boylam":28.1672,
+    "Derinlik":7.9,
+    "ML":"1.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"14:05:41",
     "Enlem":37.8905,
     "Boylam":28.4563,
