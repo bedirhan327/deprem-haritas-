@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"04:04:15",
+    "Enlem":39.1702,
+    "Boylam":28.2763,
+    "Derinlik":9.3,
+    "ML":"1.8",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"03:54:36",
+    "Enlem":35.921,
+    "Boylam":36.1227,
+    "Derinlik":2.9,
+    "ML":"2.7",
+    "Yer":"KULAC-YAYLADAGI (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"03:44:06",
+    "Enlem":39.2425,
+    "Boylam":28.1735,
+    "Derinlik":8.2,
+    "ML":"1.5",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"03:39:16",
+    "Enlem":37.059,
+    "Boylam":28.3027,
+    "Derinlik":2.4,
+    "ML":"1.6",
+    "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"03:38:03",
     "Enlem":38.539,
     "Boylam":39.5975,
