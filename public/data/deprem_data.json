@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"20:15:51",
+    "Enlem":39.18,
+    "Boylam":28.2398,
+    "Derinlik":10.4,
+    "ML":"2.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"19:43:13",
+    "Enlem":39.1783,
+    "Boylam":28.236,
+    "Derinlik":7.7,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"19:36:20",
+    "Enlem":37.8195,
+    "Boylam":27.8048,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"KADIKOY-(AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"19:24:51",
+    "Enlem":39.2685,
+    "Boylam":27.6913,
+    "Derinlik":4.5,
+    "ML":"1.5",
+    "Yer":"KOZLUOREN-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"19:23:51",
+    "Enlem":37.8993,
+    "Boylam":28.447,
+    "Derinlik":4.9,
+    "ML":"2.7",
+    "Yer":"KUYUCAK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"19:11:35",
     "Enlem":39.1957,
     "Boylam":28.1885,
