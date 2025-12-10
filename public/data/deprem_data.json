@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"17:06:21",
+    "Enlem":39.1458,
+    "Boylam":28.185,
+    "Derinlik":12.0,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:04:05",
+    "Enlem":39.0962,
+    "Boylam":28.1048,
+    "Derinlik":13.2,
+    "ML":"1.2",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"16:52:09",
+    "Enlem":39.157,
+    "Boylam":28.2507,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"16:28:08",
     "Enlem":39.1905,
     "Boylam":28.2447,
