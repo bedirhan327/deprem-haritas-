@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"17:35:27",
+    "Enlem":39.19,
+    "Boylam":28.2372,
+    "Derinlik":8.0,
+    "ML":"3.5",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:32:10",
+    "Enlem":37.926,
+    "Boylam":28.3417,
+    "Derinlik":9.5,
+    "ML":"0.8",
+    "Yer":"BOZYURT-NAZILLI (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:18:06",
+    "Enlem":40.215,
+    "Boylam":31.814,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"KAPLAN-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:09:37",
+    "Enlem":39.152,
+    "Boylam":28.2388,
+    "Derinlik":17.9,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"17:06:21",
     "Enlem":39.1458,
     "Boylam":28.185,
