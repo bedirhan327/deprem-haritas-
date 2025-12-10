@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"01:09:46",
+    "Enlem":38.1608,
+    "Boylam":36.5815,
+    "Derinlik":2.4,
+    "ML":"1.0",
+    "Yer":"KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"01:01:44",
+    "Enlem":39.1607,
+    "Boylam":28.244,
+    "Derinlik":14.3,
+    "ML":"1.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"00:41:12",
     "Enlem":39.1812,
     "Boylam":28.2025,
