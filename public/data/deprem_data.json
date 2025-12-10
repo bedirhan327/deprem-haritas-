@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"02:21:51",
+    "Enlem":38.3038,
+    "Boylam":38.8363,
+    "Derinlik":17.7,
+    "ML":"1.7",
+    "Yer":"GUNDEGER-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"02:12:36",
+    "Enlem":39.1458,
+    "Boylam":28.2848,
+    "Derinlik":11.9,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"02:12:17",
+    "Enlem":39.1742,
+    "Boylam":28.2397,
+    "Derinlik":12.4,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"02:00:11",
     "Enlem":40.4132,
     "Boylam":28.0515,
     "Derinlik":12.3,
     "ML":"3.2",
     "Yer":"BANDIRMA KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"01:58:31",
+    "Enlem":38.4868,
+    "Boylam":38.0348,
+    "Derinlik":9.2,
+    "ML":"1.5",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
     "Cozum":"�lksel"
   },
   {
