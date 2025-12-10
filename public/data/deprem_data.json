@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"18:09:50",
+    "Enlem":39.0508,
+    "Boylam":28.447,
+    "Derinlik":23.0,
+    "ML":"1.0",
+    "Yer":"DOGANPINAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"18:06:49",
+    "Enlem":38.9978,
+    "Boylam":26.0133,
+    "Derinlik":7.8,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:50:37",
+    "Enlem":41.112,
+    "Boylam":28.9595,
+    "Derinlik":3.9,
+    "ML":"0.8",
+    "Yer":"KAGITHANE (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:46:55",
+    "Enlem":41.1315,
+    "Boylam":28.9443,
+    "Derinlik":2.5,
+    "ML":"1.0",
+    "Yer":"KAGITHANE (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"17:35:27",
     "Enlem":39.19,
     "Boylam":28.2372,
     "Derinlik":8.0,
     "ML":"3.5",
-    "Yer":"ILICA-SINDIRGI (BALIKESIR) ",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -17,6 +57,16 @@
     "Derinlik":9.5,
     "ML":"0.8",
     "Yer":"BOZYURT-NAZILLI (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"17:30:45",
+    "Enlem":38.8855,
+    "Boylam":44.6817,
+    "Derinlik":13.8,
+    "ML":"2.5",
+    "Yer":"TURKIYE-IRAN SINIR BOLGESI",
     "Cozum":"�lksel"
   },
   {
