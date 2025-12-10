@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"03:21:35",
+    "Enlem":38.5385,
+    "Boylam":26.8158,
+    "Derinlik":7.7,
+    "ML":"1.7",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"03:07:06",
+    "Enlem":38.5063,
+    "Boylam":38.0605,
+    "Derinlik":1.4,
+    "ML":"1.9",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"02:36:15",
+    "Enlem":36.892,
+    "Boylam":28.0458,
+    "Derinlik":5.3,
+    "ML":"1.3",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"02:21:51",
     "Enlem":38.3038,
     "Boylam":38.8363,
