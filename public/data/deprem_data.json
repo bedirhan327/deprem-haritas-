@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.10",
+    "Saat":"04:43:11",
+    "Enlem":39.02,
+    "Boylam":26.0128,
+    "Derinlik":8.6,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"04:37:03",
+    "Enlem":39.3315,
+    "Boylam":28.0615,
+    "Derinlik":23.3,
+    "ML":"1.5",
+    "Yer":"ESMEDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"04:33:43",
+    "Enlem":39.1648,
+    "Boylam":28.2473,
+    "Derinlik":10.9,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"04:25:22",
+    "Enlem":39.2072,
+    "Boylam":28.066,
+    "Derinlik":8.0,
+    "ML":"1.7",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
+    "Saat":"04:18:14",
+    "Enlem":39.2547,
+    "Boylam":28.1228,
+    "Derinlik":11.1,
+    "ML":"2.1",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.10",
     "Saat":"04:04:15",
     "Enlem":39.1702,
     "Boylam":28.2763,
