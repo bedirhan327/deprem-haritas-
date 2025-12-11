@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"04:54:47",
+    "Enlem":39.112,
+    "Boylam":32.8408,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"DOGUTEPE-KULU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"04:51:01",
+    "Enlem":39.1983,
+    "Boylam":28.1677,
+    "Derinlik":13.0,
+    "ML":"1.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"04:45:41",
     "Enlem":39.1967,
     "Boylam":28.2222,
     "Derinlik":11.4,
     "ML":"3.3",
     "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"04:42:03",
+    "Enlem":39.1733,
+    "Boylam":28.2342,
+    "Derinlik":11.4,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"04:40:33",
+    "Enlem":39.203,
+    "Boylam":28.1568,
+    "Derinlik":11.0,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
