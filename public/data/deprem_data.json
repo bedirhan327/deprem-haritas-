@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"08:50:30",
+    "Enlem":38.7665,
+    "Boylam":34.0472,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"GOKLER-ORTAKOY (AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"08:43:12",
+    "Enlem":38.7607,
+    "Boylam":34.0123,
+    "Derinlik":3.6,
+    "ML":"2.1",
+    "Yer":"AKPINAR-ORTAKOY (AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"08:41:27",
+    "Enlem":38.793,
+    "Boylam":34.0268,
+    "Derinlik":9.2,
+    "ML":"2.0",
+    "Yer":"GOKLER-ORTAKOY (AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"08:20:56",
     "Enlem":39.2653,
     "Boylam":28.997,
