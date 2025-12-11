@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"09:01:11",
+    "Enlem":40.1715,
+    "Boylam":31.7588,
+    "Derinlik":8.0,
+    "ML":"2.4",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"08:53:26",
+    "Enlem":38.3087,
+    "Boylam":38.2845,
+    "Derinlik":5.2,
+    "ML":"2.2",
+    "Yer":"BOSTANBASI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"08:51:40",
+    "Enlem":39.1528,
+    "Boylam":28.1392,
+    "Derinlik":21.4,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"08:50:30",
     "Enlem":38.7665,
     "Boylam":34.0472,
