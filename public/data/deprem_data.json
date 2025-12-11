@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"06:06:35",
+    "Enlem":37.0907,
+    "Boylam":28.6298,
+    "Derinlik":11.5,
+    "ML":"2.5",
+    "Yer":"KAVAKCALI-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"06:00:19",
+    "Enlem":39.1158,
+    "Boylam":28.3023,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"05:46:23",
+    "Enlem":38.086,
+    "Boylam":38.4155,
+    "Derinlik":1.5,
+    "ML":"2.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"05:43:44",
     "Enlem":39.7172,
     "Boylam":28.5297,
