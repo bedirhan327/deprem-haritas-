@@ -1,12 +1,92 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"10:39:11",
+    "Enlem":39.2108,
+    "Boylam":27.8868,
+    "Derinlik":7.2,
+    "ML":"1.8",
+    "Yer":"GUVENDIK-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:38:33",
+    "Enlem":39.1805,
+    "Boylam":28.3558,
+    "Derinlik":5.2,
+    "ML":"1.1",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:37:40",
+    "Enlem":39.1522,
+    "Boylam":28.2623,
+    "Derinlik":14.9,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:34:14",
+    "Enlem":39.1678,
+    "Boylam":28.3088,
+    "Derinlik":10.1,
+    "ML":"1.7",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:32:24",
+    "Enlem":39.1718,
+    "Boylam":28.3265,
+    "Derinlik":9.6,
+    "ML":"2.1",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:26:09",
+    "Enlem":39.1873,
+    "Boylam":28.2945,
+    "Derinlik":12.5,
+    "ML":"3.1",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:24:51",
+    "Enlem":39.2005,
+    "Boylam":28.3315,
+    "Derinlik":9.6,
+    "ML":"1.8",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"10:21:47",
     "Enlem":39.1912,
     "Boylam":28.339,
     "Derinlik":5.2,
     "ML":"1.9",
     "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:19:26",
+    "Enlem":39.1962,
+    "Boylam":28.3653,
+    "Derinlik":4.7,
+    "ML":"1.2",
+    "Yer":"CIKRIKCI-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -27,6 +107,26 @@
     "Derinlik":14.7,
     "ML":"4.9",
     "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:06:14",
+    "Enlem":39.183,
+    "Boylam":28.2995,
+    "Derinlik":14.0,
+    "ML":"4.8",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR) REVIZE01 (2025.12.11",
+    "Cozum":"10:06:14)"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"10:01:51",
+    "Enlem":39.073,
+    "Boylam":28.2845,
+    "Derinlik":17.7,
+    "ML":"1.0",
+    "Yer":"MALAZ-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
