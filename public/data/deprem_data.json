@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"00:51:17",
+    "Enlem":38.6158,
+    "Boylam":30.9745,
+    "Derinlik":6.0,
+    "ML":"1.7",
+    "Yer":"CUMHURIYET-CAY (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"00:38:32",
+    "Enlem":40.8948,
+    "Boylam":28.399,
+    "Derinlik":14.6,
+    "ML":"2.0",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"00:23:23",
+    "Enlem":39.1633,
+    "Boylam":28.2642,
+    "Derinlik":8.4,
+    "ML":"1.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"00:21:23",
+    "Enlem":39.1685,
+    "Boylam":28.2538,
+    "Derinlik":8.0,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"00:18:30",
     "Enlem":38.3653,
     "Boylam":37.4277,
