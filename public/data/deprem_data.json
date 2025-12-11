@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"03:44:07",
+    "Enlem":39.1482,
+    "Boylam":28.2882,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"03:39:32",
+    "Enlem":40.3758,
+    "Boylam":24.1665,
+    "Derinlik":6.3,
+    "ML":"2.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"03:02:57",
     "Enlem":39.1165,
     "Boylam":32.8373,
