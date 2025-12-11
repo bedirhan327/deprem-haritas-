@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"22:40:16",
+    "Enlem":39.1622,
+    "Boylam":28.2478,
+    "Derinlik":14.9,
+    "ML":"2.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"22:30:55",
+    "Enlem":39.1948,
+    "Boylam":28.2587,
+    "Derinlik":14.0,
+    "ML":"1.9",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"21:25:19",
     "Enlem":39.1222,
     "Boylam":28.3025,
