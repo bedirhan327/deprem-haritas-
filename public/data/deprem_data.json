@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"06:56:00",
+    "Enlem":39.1265,
+    "Boylam":28.2922,
+    "Derinlik":11.7,
+    "ML":"1.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"06:49:43",
     "Enlem":39.2617,
     "Boylam":28.9477,
@@ -67,6 +77,16 @@
     "Derinlik":2.2,
     "ML":"2.4",
     "Yer":"MAHMUDIYE-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"05:40:20",
+    "Enlem":39.2512,
+    "Boylam":28.1075,
+    "Derinlik":8.6,
+    "ML":"1.1",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
