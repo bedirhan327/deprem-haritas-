@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.11",
+    "Saat":"03:02:57",
+    "Enlem":39.1165,
+    "Boylam":32.8373,
+    "Derinlik":5.7,
+    "ML":"3.4",
+    "Yer":"KIRKPINAR-KULU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"02:50:07",
+    "Enlem":39.2138,
+    "Boylam":28.3217,
+    "Derinlik":5.9,
+    "ML":"1.2",
+    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"02:37:22",
+    "Enlem":39.2282,
+    "Boylam":28.1232,
+    "Derinlik":8.4,
+    "ML":"1.4",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
+    "Saat":"02:25:05",
+    "Enlem":39.1497,
+    "Boylam":28.278,
+    "Derinlik":12.6,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.11",
     "Saat":"02:13:50",
     "Enlem":39.239,
     "Boylam":28.1715,
