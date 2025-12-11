@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2025.12.12",
+    "Saat":"00:18:30",
+    "Enlem":38.3653,
+    "Boylam":37.4277,
+    "Derinlik":12.6,
+    "ML":"1.4",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"00:05:25",
+    "Enlem":38.1388,
+    "Boylam":37.2218,
+    "Derinlik":6.7,
+    "ML":"2.4",
+    "Yer":"TASBURUN-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"00:03:25",
+    "Enlem":34.8152,
+    "Boylam":33.769,
+    "Derinlik":45.2,
+    "ML":"2.5",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.11",
     "Saat":"23:47:47",
     "Enlem":39.1363,
