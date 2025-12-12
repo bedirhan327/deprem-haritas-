@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"22:31:24",
+    "Enlem":38.2405,
+    "Boylam":38.1185,
+    "Derinlik":18.2,
+    "ML":"1.6",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"22:29:11",
+    "Enlem":37.8942,
+    "Boylam":29.3782,
+    "Derinlik":6.3,
+    "ML":"1.8",
+    "Yer":"KARAPINAR-CAL (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"22:09:53",
     "Enlem":38.5733,
     "Boylam":39.6433,
@@ -71,6 +91,16 @@
   },
   {
     "Tarih":"2025.12.12",
+    "Saat":"20:20:18",
+    "Enlem":34.6828,
+    "Boylam":32.512,
+    "Derinlik":15.4,
+    "ML":"4.2",
+    "Yer":"AKDENIZ REVIZE01 (2025.12.12",
+    "Cozum":"20:20:25)"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"20:18:44",
     "Enlem":34.7462,
     "Boylam":32.5277,
@@ -87,6 +117,16 @@
     "Derinlik":12.3,
     "ML":"2.6",
     "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"19:53:57",
+    "Enlem":40.4972,
+    "Boylam":26.417,
+    "Derinlik":17.6,
+    "ML":"1.1",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
