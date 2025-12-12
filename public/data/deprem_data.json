@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"13:06:09",
+    "Enlem":37.3472,
+    "Boylam":27.5382,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"KIZILAGAC-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"13:02:26",
+    "Enlem":37.0407,
+    "Boylam":28.5528,
+    "Derinlik":10.0,
+    "ML":"1.1",
+    "Yer":"KARABOGURTLEN-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"12:57:12",
+    "Enlem":36.635,
+    "Boylam":28.0655,
+    "Derinlik":4.0,
+    "ML":"1.5",
+    "Yer":"TASLICA-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"12:53:03",
+    "Enlem":36.602,
+    "Boylam":36.413,
+    "Derinlik":5.5,
+    "ML":"2.2",
+    "Yer":"KARAMANKASI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"12:49:29",
+    "Enlem":39.1767,
+    "Boylam":27.7003,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"CAVDIR-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"12:39:09",
+    "Enlem":40.3517,
+    "Boylam":27.1597,
+    "Derinlik":16.0,
+    "ML":"2.5",
+    "Yer":"KARAPURCEK-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"12:27:07",
     "Enlem":39.1918,
     "Boylam":28.3055,
