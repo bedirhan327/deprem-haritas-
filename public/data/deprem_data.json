@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"08:04:50",
+    "Enlem":39.1862,
+    "Boylam":28.3088,
+    "Derinlik":8.0,
+    "ML":"1.3",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"08:00:36",
+    "Enlem":38.7562,
+    "Boylam":38.0028,
+    "Derinlik":24.7,
+    "ML":"1.7",
+    "Yer":"YAGCA-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"07:54:39",
+    "Enlem":37.2823,
+    "Boylam":30.9152,
+    "Derinlik":112.7,
+    "ML":"2.4",
+    "Yer":"BOZDOGAN-SERIK (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"07:50:18",
     "Enlem":39.1308,
     "Boylam":28.2473,
