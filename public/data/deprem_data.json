@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"16:15:34",
+    "Enlem":38.7635,
+    "Boylam":37.9598,
+    "Derinlik":9.5,
+    "ML":"2.1",
+    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"16:04:01",
+    "Enlem":35.1128,
+    "Boylam":32.5178,
+    "Derinlik":5.7,
+    "ML":"2.7",
+    "Yer":"KIBRIS RUM KESIMI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"15:53:20",
     "Enlem":39.1338,
     "Boylam":28.2992,
