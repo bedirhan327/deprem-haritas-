@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"10:06:29",
+    "Enlem":39.2002,
+    "Boylam":28.2832,
+    "Derinlik":8.1,
+    "ML":"1.3",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2025.12.12",
+    "Cozum":"10:06:29)"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"10:00:37",
+    "Enlem":39.0113,
+    "Boylam":27.8403,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"GOKCEAHMET-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"09:53:32",
     "Enlem":39.123,
     "Boylam":28.2607,
