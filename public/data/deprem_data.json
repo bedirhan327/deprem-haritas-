@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"07:50:18",
+    "Enlem":39.1308,
+    "Boylam":28.2473,
+    "Derinlik":13.9,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"07:45:34",
+    "Enlem":37.7605,
+    "Boylam":36.2973,
+    "Derinlik":8.0,
+    "ML":"1.9",
+    "Yer":"CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"07:41:34",
+    "Enlem":39.312,
+    "Boylam":28.0982,
+    "Derinlik":6.6,
+    "ML":"1.6",
+    "Yer":"ARMUTLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"07:31:15",
+    "Enlem":39.1493,
+    "Boylam":28.2415,
+    "Derinlik":11.8,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"07:15:58",
     "Enlem":38.7632,
     "Boylam":37.9667,
