@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"05:45:21",
+    "Enlem":39.1547,
+    "Boylam":28.2988,
+    "Derinlik":12.2,
+    "ML":"1.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"05:32:34",
+    "Enlem":39.2543,
+    "Boylam":28.9735,
+    "Derinlik":9.9,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"05:30:39",
+    "Enlem":39.1593,
+    "Boylam":28.2468,
+    "Derinlik":9.2,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"05:22:25",
     "Enlem":37.9635,
     "Boylam":27.611,
