@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"23:39:18",
+    "Enlem":38.7725,
+    "Boylam":37.965,
+    "Derinlik":7.7,
+    "ML":"1.9",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"23:37:25",
+    "Enlem":39.1818,
+    "Boylam":25.963,
+    "Derinlik":11.7,
+    "ML":"3.3",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"22:31:24",
     "Enlem":38.2405,
     "Boylam":38.1185,
