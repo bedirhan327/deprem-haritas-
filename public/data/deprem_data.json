@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"16:34:49",
+    "Enlem":38.7888,
+    "Boylam":37.9525,
+    "Derinlik":19.9,
+    "ML":"1.7",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"16:33:15",
+    "Enlem":38.7732,
+    "Boylam":37.9533,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"16:15:34",
     "Enlem":38.7635,
     "Boylam":37.9598,
