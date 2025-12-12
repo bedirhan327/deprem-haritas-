@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"12:27:07",
+    "Enlem":39.1918,
+    "Boylam":28.3055,
+    "Derinlik":9.8,
+    "ML":"2.1",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"12:07:22",
     "Enlem":39.8777,
     "Boylam":26.261,
@@ -87,6 +97,16 @@
     "Derinlik":15.5,
     "ML":"0.7",
     "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"11:21:22",
+    "Enlem":34.6158,
+    "Boylam":26.4002,
+    "Derinlik":20.2,
+    "ML":"3.1",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
