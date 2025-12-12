@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"10:38:57",
+    "Enlem":38.4357,
+    "Boylam":39.1693,
+    "Derinlik":5.1,
+    "ML":"2.2",
+    "Yer":"KAVAKKOY-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"10:38:33",
+    "Enlem":38.7373,
+    "Boylam":37.9808,
+    "Derinlik":19.0,
+    "ML":"1.9",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"10:06:29",
     "Enlem":39.2002,
     "Boylam":28.2832,
