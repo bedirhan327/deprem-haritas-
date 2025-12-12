@@ -1,5 +1,55 @@
 [
   {
+    "Tarih":"2025.12.13",
+    "Saat":"00:10:36",
+    "Enlem":39.2405,
+    "Boylam":28.1632,
+    "Derinlik":7.7,
+    "ML":"1.6",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"00:03:20",
+    "Enlem":38.0317,
+    "Boylam":37.5435,
+    "Derinlik":8.5,
+    "ML":"1.6",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"23:54:22",
+    "Enlem":39.191,
+    "Boylam":28.2965,
+    "Derinlik":12.4,
+    "ML":"1.2",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"23:54:20",
+    "Enlem":36.9857,
+    "Boylam":39.1327,
+    "Derinlik":2.6,
+    "ML":"1.6",
+    "Yer":"BAKISLAR-(SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"23:53:23",
+    "Enlem":39.1835,
+    "Boylam":28.16,
+    "Derinlik":12.2,
+    "ML":"1.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.12",
     "Saat":"23:39:18",
     "Enlem":38.7725,
