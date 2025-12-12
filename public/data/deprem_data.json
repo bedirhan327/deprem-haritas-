@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"19:22:11",
+    "Enlem":39.1672,
+    "Boylam":28.297,
+    "Derinlik":12.5,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"19:15:43",
+    "Enlem":39.1747,
+    "Boylam":28.1873,
+    "Derinlik":9.3,
+    "ML":"1.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"18:57:46",
+    "Enlem":36.7828,
+    "Boylam":26.6327,
+    "Derinlik":2.4,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"18:47:44",
+    "Enlem":36.916,
+    "Boylam":26.604,
+    "Derinlik":6.9,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"18:46:24",
     "Enlem":39.6465,
     "Boylam":27.8977,
