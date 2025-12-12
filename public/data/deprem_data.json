@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"05:22:25",
+    "Enlem":37.9635,
+    "Boylam":27.611,
+    "Derinlik":9.2,
+    "ML":"1.5",
+    "Yer":"CAMKOY-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"05:20:43",
+    "Enlem":39.146,
+    "Boylam":28.2335,
+    "Derinlik":14.5,
+    "ML":"1.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"05:12:46",
+    "Enlem":38.471,
+    "Boylam":38.0945,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:57:18",
+    "Enlem":38.4843,
+    "Boylam":38.0258,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:54:21",
+    "Enlem":38.7557,
+    "Boylam":37.9735,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"04:53:55",
     "Enlem":39.2448,
     "Boylam":29.0043,
