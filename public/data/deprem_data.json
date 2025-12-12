@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"18:07:13",
+    "Enlem":39.2702,
+    "Boylam":29.0045,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"18:00:38",
+    "Enlem":39.5348,
+    "Boylam":28.8242,
+    "Derinlik":4.8,
+    "ML":"1.6",
+    "Yer":"POYRACIK-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"18:00:34",
+    "Enlem":38.7693,
+    "Boylam":37.9538,
+    "Derinlik":2.1,
+    "ML":"2.3",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"17:55:48",
+    "Enlem":39.2547,
+    "Boylam":29.0448,
+    "Derinlik":8.5,
+    "ML":"2.0",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"17:53:02",
+    "Enlem":38.7657,
+    "Boylam":37.9643,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"17:48:33",
+    "Enlem":39.1725,
+    "Boylam":28.2973,
+    "Derinlik":14.3,
+    "ML":"2.1",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"17:47:20",
+    "Enlem":37.6715,
+    "Boylam":27.684,
+    "Derinlik":9.3,
+    "ML":"1.8",
+    "Yer":"CALLI-KOCARLI (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"17:41:51",
     "Enlem":38.4167,
     "Boylam":39.1622,
