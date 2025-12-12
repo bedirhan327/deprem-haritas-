@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"03:50:25",
+    "Enlem":39.1285,
+    "Boylam":28.277,
+    "Derinlik":9.6,
+    "ML":"1.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"03:41:14",
+    "Enlem":39.16,
+    "Boylam":28.2775,
+    "Derinlik":9.1,
+    "ML":"0.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"03:38:36",
+    "Enlem":39.1705,
+    "Boylam":28.2695,
+    "Derinlik":8.5,
+    "ML":"1.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"03:20:49",
     "Enlem":39.186,
     "Boylam":28.2768,
@@ -87,6 +117,16 @@
     "Derinlik":5.1,
     "ML":"1.3",
     "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"02:25:39",
+    "Enlem":38.5502,
+    "Boylam":40.4823,
+    "Derinlik":20.2,
+    "ML":"1.0",
+    "Yer":"BIRLIK-LICE (DIYARBAKIR)",
     "Cozum":"�lksel"
   },
   {
