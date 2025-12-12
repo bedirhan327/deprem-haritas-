@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"01:17:09",
+    "Enlem":38.1083,
+    "Boylam":37.0217,
+    "Derinlik":5.3,
+    "ML":"1.5",
+    "Yer":"CALIS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"01:11:08",
+    "Enlem":38.7733,
+    "Boylam":37.9557,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"01:10:35",
+    "Enlem":36.949,
+    "Boylam":28.1778,
+    "Derinlik":14.2,
+    "ML":"1.6",
+    "Yer":"KARACA-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"01:09:57",
+    "Enlem":39.1632,
+    "Boylam":28.098,
+    "Derinlik":16.2,
+    "ML":"1.6",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"01:04:41",
+    "Enlem":38.1095,
+    "Boylam":37.0085,
+    "Derinlik":3.8,
+    "ML":"3.4",
+    "Yer":"CALIS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"00:50:43",
     "Enlem":39.1932,
     "Boylam":28.2573,
