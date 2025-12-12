@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"19:41:01",
+    "Enlem":38.0535,
+    "Boylam":37.338,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"19:28:50",
+    "Enlem":36.6175,
+    "Boylam":25.7298,
+    "Derinlik":15.4,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"19:27:14",
+    "Enlem":39.1878,
+    "Boylam":28.2142,
+    "Derinlik":13.2,
+    "ML":"2.0",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"19:22:11",
     "Enlem":39.1672,
     "Boylam":28.297,
