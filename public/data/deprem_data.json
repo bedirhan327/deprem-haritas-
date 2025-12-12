@@ -1,6 +1,86 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"04:24:16",
+    "Enlem":39.153,
+    "Boylam":28.2075,
+    "Derinlik":10.3,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:15:53",
+    "Enlem":39.1583,
+    "Boylam":28.2428,
+    "Derinlik":8.7,
+    "ML":"1.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:13:17",
+    "Enlem":39.1657,
+    "Boylam":28.2205,
+    "Derinlik":11.3,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:13:00",
+    "Enlem":40.3087,
+    "Boylam":27.2893,
+    "Derinlik":14.4,
+    "ML":"1.2",
+    "Yer":"CINARKOPRU-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:08:06",
+    "Enlem":39.2443,
+    "Boylam":28.99,
+    "Derinlik":11.8,
+    "ML":"1.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:06:36",
+    "Enlem":39.1852,
+    "Boylam":28.9842,
+    "Derinlik":19.6,
+    "ML":"0.9",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"04:00:19",
+    "Enlem":39.2015,
+    "Boylam":28.2727,
+    "Derinlik":8.4,
+    "ML":"2.7",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"03:56:43",
+    "Enlem":39.4408,
+    "Boylam":33.0523,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"AFSAR-BALA (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"03:50:25",
     "Enlem":39.1285,
     "Boylam":28.277,
