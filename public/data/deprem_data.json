@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"02:18:59",
+    "Enlem":38.3063,
+    "Boylam":38.199,
+    "Derinlik":7.0,
+    "ML":"1.4",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"02:08:40",
+    "Enlem":39.8492,
+    "Boylam":39.7285,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"TURNACAYIRI-CAYIRLI (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"01:59:16",
+    "Enlem":39.1373,
+    "Boylam":28.16,
+    "Derinlik":5.1,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"01:57:28",
+    "Enlem":38.5477,
+    "Boylam":39.5263,
+    "Derinlik":8.9,
+    "ML":"1.2",
+    "Yer":"KUCUKOVA-MADEN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"01:17:09",
     "Enlem":38.1083,
     "Boylam":37.0217,
