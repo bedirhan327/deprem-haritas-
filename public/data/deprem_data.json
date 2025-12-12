@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"17:13:51",
+    "Enlem":39.1637,
+    "Boylam":28.112,
+    "Derinlik":5.2,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"17:12:51",
+    "Enlem":39.2357,
+    "Boylam":28.1327,
+    "Derinlik":7.8,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"17:01:34",
+    "Enlem":38.6683,
+    "Boylam":37.9725,
+    "Derinlik":9.0,
+    "ML":"1.5",
+    "Yer":"ERECEK-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"16:34:49",
     "Enlem":38.7888,
     "Boylam":37.9525,
