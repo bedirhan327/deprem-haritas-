@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.12",
+    "Saat":"13:47:14",
+    "Enlem":39.1762,
+    "Boylam":28.3128,
+    "Derinlik":7.9,
+    "ML":"1.7",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"13:43:46",
+    "Enlem":39.181,
+    "Boylam":28.3102,
+    "Derinlik":10.7,
+    "ML":"1.2",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"13:37:14",
+    "Enlem":37.0547,
+    "Boylam":36.645,
+    "Derinlik":11.8,
+    "ML":"2.4",
+    "Yer":"TURKBAHCE-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
+    "Saat":"13:31:21",
+    "Enlem":39.3273,
+    "Boylam":29.312,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"BAHATLAR-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.12",
     "Saat":"13:06:09",
     "Enlem":37.3472,
     "Boylam":27.5382,
