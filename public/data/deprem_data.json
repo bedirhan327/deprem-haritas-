@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"14:39:46",
+    "Enlem":35.7807,
+    "Boylam":35.672,
+    "Derinlik":16.1,
+    "ML":"2.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"14:34:33",
+    "Enlem":38.4472,
+    "Boylam":38.0598,
+    "Derinlik":14.5,
+    "ML":"2.1",
+    "Yer":"ASAGIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"13:49:31",
+    "Enlem":38.2527,
+    "Boylam":38.1362,
+    "Derinlik":16.6,
+    "ML":"1.7",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"13:40:40",
     "Enlem":39.1763,
     "Boylam":28.246,
