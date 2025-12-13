@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"04:19:07",
+    "Enlem":38.7575,
+    "Boylam":37.9692,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"04:17:02",
+    "Enlem":38.4797,
+    "Boylam":38.0642,
+    "Derinlik":7.3,
+    "ML":"1.2",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"04:07:00",
+    "Enlem":39.192,
+    "Boylam":28.1553,
+    "Derinlik":8.0,
+    "ML":"1.1",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"04:01:59",
+    "Enlem":38.1988,
+    "Boylam":38.4743,
+    "Derinlik":7.9,
+    "ML":"1.1",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"03:47:27",
     "Enlem":39.1852,
     "Boylam":28.3285,
