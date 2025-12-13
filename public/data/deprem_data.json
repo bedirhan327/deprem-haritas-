@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"11:06:10",
+    "Enlem":39.0872,
+    "Boylam":40.7738,
+    "Derinlik":17.8,
+    "ML":"1.5",
+    "Yer":"ALATEPE-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"10:34:14",
+    "Enlem":36.11,
+    "Boylam":24.9352,
+    "Derinlik":9.4,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"10:13:16",
     "Enlem":39.1342,
     "Boylam":28.2733,
