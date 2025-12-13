@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"17:18:46",
+    "Enlem":39.8383,
+    "Boylam":27.9242,
+    "Derinlik":9.2,
+    "ML":"1.7",
+    "Yer":"YAGCILAR-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"17:14:40",
+    "Enlem":38.7782,
+    "Boylam":37.9575,
+    "Derinlik":4.3,
+    "ML":"2.7",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"16:21:19",
     "Enlem":39.1637,
     "Boylam":28.1845,
