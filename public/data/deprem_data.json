@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"00:38:30",
+    "Enlem":37.8727,
+    "Boylam":26.9152,
+    "Derinlik":7.0,
+    "ML":"2.0",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"00:30:20",
+    "Enlem":39.2442,
+    "Boylam":28.232,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"CALTILI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"00:20:21",
     "Enlem":39.1753,
     "Boylam":28.2237,
