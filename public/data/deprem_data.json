@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"05:18:15",
+    "Enlem":36.9632,
+    "Boylam":29.466,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"ASMABAG-ALTINYAYLA (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"05:15:10",
+    "Enlem":38.7773,
+    "Boylam":37.9768,
+    "Derinlik":6.2,
+    "ML":"1.6",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"05:12:38",
+    "Enlem":38.7593,
+    "Boylam":37.9767,
+    "Derinlik":8.6,
+    "ML":"2.2",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"05:09:25",
+    "Enlem":39.2102,
+    "Boylam":28.118,
+    "Derinlik":10.4,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"05:08:02",
+    "Enlem":39.1952,
+    "Boylam":28.1392,
+    "Derinlik":10.2,
+    "ML":"1.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"04:54:51",
+    "Enlem":38.7918,
+    "Boylam":37.9723,
+    "Derinlik":4.9,
+    "ML":"1.2",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"04:47:32",
     "Enlem":39.1995,
     "Boylam":28.1213,
