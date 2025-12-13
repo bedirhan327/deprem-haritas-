@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"13:29:57",
+    "Enlem":39.1862,
+    "Boylam":28.2023,
+    "Derinlik":11.7,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"13:07:42",
     "Enlem":39.464,
     "Boylam":28.1107,
     "Derinlik":12.8,
     "ML":"1.9",
     "Yer":"KADIKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"12:51:40",
+    "Enlem":37.8802,
+    "Boylam":27.2327,
+    "Derinlik":4.4,
+    "ML":"1.6",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
