@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"08:42:45",
+    "Enlem":38.7352,
+    "Boylam":33.9987,
+    "Derinlik":9.1,
+    "ML":"1.4",
+    "Yer":"HOCABEYLI-ORTAKOY (AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"08:36:58",
+    "Enlem":39.1827,
+    "Boylam":28.283,
+    "Derinlik":12.0,
+    "ML":"1.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"07:51:34",
     "Enlem":39.1935,
     "Boylam":28.3115,
