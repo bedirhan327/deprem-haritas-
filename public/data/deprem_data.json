@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"03:47:27",
+    "Enlem":39.1852,
+    "Boylam":28.3285,
+    "Derinlik":8.6,
+    "ML":"1.1",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"03:45:54",
+    "Enlem":41.201,
+    "Boylam":23.7552,
+    "Derinlik":8.3,
+    "ML":"2.0",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"03:39:46",
+    "Enlem":39.2793,
+    "Boylam":28.975,
+    "Derinlik":3.8,
+    "ML":"0.8",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"03:32:19",
+    "Enlem":38.8937,
+    "Boylam":38.1113,
+    "Derinlik":11.1,
+    "ML":"1.5",
+    "Yer":"KOZDERE-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"03:29:38",
+    "Enlem":38.4668,
+    "Boylam":38.0312,
+    "Derinlik":16.4,
+    "ML":"0.9",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"03:13:36",
     "Enlem":37.8743,
     "Boylam":36.6688,
