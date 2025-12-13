@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"12:41:18",
+    "Enlem":37.0563,
+    "Boylam":28.3813,
+    "Derinlik":2.5,
+    "ML":"1.5",
+    "Yer":"GOKOVA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"12:29:37",
+    "Enlem":39.8578,
+    "Boylam":26.2638,
+    "Derinlik":4.6,
+    "ML":"1.1",
+    "Yer":"BOZALAN-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"12:22:05",
+    "Enlem":39.56,
+    "Boylam":27.7083,
+    "Derinlik":19.1,
+    "ML":"1.8",
+    "Yer":"BAHCEDERE-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"12:15:56",
     "Enlem":39.1412,
     "Boylam":28.2748,
