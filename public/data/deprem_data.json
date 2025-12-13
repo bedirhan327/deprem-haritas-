@@ -1,5 +1,65 @@
 [
   {
+    "Tarih":"2025.12.14",
+    "Saat":"00:20:21",
+    "Enlem":39.1753,
+    "Boylam":28.2237,
+    "Derinlik":14.1,
+    "ML":"1.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"00:14:56",
+    "Enlem":38.3125,
+    "Boylam":38.2137,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"YAKINCA-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"00:00:17",
+    "Enlem":38.4192,
+    "Boylam":39.1175,
+    "Derinlik":6.5,
+    "ML":"1.9",
+    "Yer":"KAMISLIK-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"23:57:29",
+    "Enlem":37.9657,
+    "Boylam":27.1058,
+    "Derinlik":4.9,
+    "ML":"1.7",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"23:53:32",
+    "Enlem":36.6505,
+    "Boylam":25.7152,
+    "Derinlik":8.9,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"23:50:10",
+    "Enlem":40.2323,
+    "Boylam":27.8497,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"ORHANIYE-BANDIRMA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.13",
     "Saat":"23:48:58",
     "Enlem":38.7463,
