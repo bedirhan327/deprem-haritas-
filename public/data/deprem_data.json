@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"22:18:38",
+    "Enlem":39.2078,
+    "Boylam":27.9533,
+    "Derinlik":10.7,
+    "ML":"2.2",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"21:52:20",
+    "Enlem":38.7635,
+    "Boylam":37.9687,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"21:42:59",
+    "Enlem":38.7785,
+    "Boylam":37.9477,
+    "Derinlik":16.5,
+    "ML":"1.7",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"21:40:47",
+    "Enlem":38.2342,
+    "Boylam":38.6795,
+    "Derinlik":12.8,
+    "ML":"1.1",
+    "Yer":"KOKPINAR-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"21:26:45",
     "Enlem":39.1273,
     "Boylam":28.1607,
