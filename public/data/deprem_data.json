@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"20:19:35",
+    "Enlem":39.1605,
+    "Boylam":28.1628,
+    "Derinlik":12.3,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"20:04:22",
+    "Enlem":39.1452,
+    "Boylam":28.2475,
+    "Derinlik":16.4,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"20:01:11",
+    "Enlem":37.883,
+    "Boylam":27.0595,
+    "Derinlik":6.7,
+    "ML":"1.9",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"19:50:58",
+    "Enlem":36.6497,
+    "Boylam":33.6082,
+    "Derinlik":9.0,
+    "ML":"1.6",
+    "Yer":"HACIAHMETLI-MUT (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"19:49:42",
     "Enlem":39.2185,
     "Boylam":28.9217,
