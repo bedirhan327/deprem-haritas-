@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"06:46:03",
+    "Enlem":38.4913,
+    "Boylam":39.6823,
+    "Derinlik":9.3,
+    "ML":"1.7",
+    "Yer":"KASLICA-MADEN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"06:27:18",
+    "Enlem":40.5055,
+    "Boylam":33.8815,
+    "Derinlik":9.7,
+    "ML":"1.3",
+    "Yer":"OVACIK-(CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"06:21:33",
+    "Enlem":40.1012,
+    "Boylam":23.6593,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"06:13:12",
     "Enlem":40.1175,
     "Boylam":23.676,
