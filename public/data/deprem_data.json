@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"10:13:16",
+    "Enlem":39.1342,
+    "Boylam":28.2733,
+    "Derinlik":16.7,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"10:09:29",
+    "Enlem":39.1373,
+    "Boylam":28.2272,
+    "Derinlik":10.8,
+    "ML":"1.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"09:54:38",
+    "Enlem":40.4233,
+    "Boylam":27.3557,
+    "Derinlik":4.4,
+    "ML":"0.9",
+    "Yer":"KARABIGA-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"09:49:35",
+    "Enlem":38.4745,
+    "Boylam":38.05,
+    "Derinlik":7.2,
+    "ML":"2.1",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"09:27:40",
     "Enlem":39.249,
     "Boylam":28.9598,
