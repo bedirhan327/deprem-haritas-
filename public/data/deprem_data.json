@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.13",
+    "Saat":"23:21:53",
+    "Enlem":39.2088,
+    "Boylam":28.1053,
+    "Derinlik":9.3,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"23:10:51",
+    "Enlem":39.2222,
+    "Boylam":28.139,
+    "Derinlik":12.5,
+    "ML":"3.7",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"23:02:36",
+    "Enlem":38.1177,
+    "Boylam":38.504,
+    "Derinlik":8.3,
+    "ML":"1.8",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"23:01:35",
+    "Enlem":40.2477,
+    "Boylam":27.1027,
+    "Derinlik":16.3,
+    "ML":"0.9",
+    "Yer":"DANISMENT-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"22:56:23",
+    "Enlem":38.1095,
+    "Boylam":38.476,
+    "Derinlik":2.6,
+    "ML":"2.5",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"22:55:01",
+    "Enlem":39.2885,
+    "Boylam":28.0213,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
     "Saat":"22:48:14",
     "Enlem":38.121,
     "Boylam":38.4198,
