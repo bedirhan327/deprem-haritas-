@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"13:21:23",
+    "Enlem":38.1073,
+    "Boylam":29.111,
+    "Derinlik":7.6,
+    "ML":"2.3",
+    "Yer":"GOZLER-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"12:58:28",
+    "Enlem":39.1753,
+    "Boylam":28.026,
+    "Derinlik":9.2,
+    "ML":"1.9",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"12:16:57",
     "Enlem":39.1683,
     "Boylam":27.7395,
