@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"11:41:11",
+    "Enlem":36.0203,
+    "Boylam":33.5868,
+    "Derinlik":9.2,
+    "ML":"2.2",
+    "Yer":"AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"11:39:21",
+    "Enlem":36.8253,
+    "Boylam":28.1157,
+    "Derinlik":70.5,
+    "ML":"2.6",
+    "Yer":"HISARONU-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"11:21:51",
+    "Enlem":39.1882,
+    "Boylam":28.3403,
+    "Derinlik":7.6,
+    "ML":"1.6",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"11:06:11",
     "Enlem":38.1278,
     "Boylam":38.4985,
