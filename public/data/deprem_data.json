@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"17:49:47",
+    "Enlem":40.4773,
+    "Boylam":33.0257,
+    "Derinlik":13.6,
+    "ML":"2.4",
+    "Yer":"AVCIOVA-CUBUK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"17:19:40",
+    "Enlem":39.2393,
+    "Boylam":28.1622,
+    "Derinlik":11.2,
+    "ML":"1.3",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"17:14:48",
+    "Enlem":39.8305,
+    "Boylam":40.003,
+    "Derinlik":24.3,
+    "ML":"1.7",
+    "Yer":"BALIKLI-CAYIRLI (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"16:34:57",
     "Enlem":39.1803,
     "Boylam":28.2495,
