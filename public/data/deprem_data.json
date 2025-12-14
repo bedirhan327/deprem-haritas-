@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"19:29:43",
+    "Enlem":39.1757,
+    "Boylam":28.3173,
+    "Derinlik":9.5,
+    "ML":"1.4",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"18:52:46",
+    "Enlem":38.7542,
+    "Boylam":26.0595,
+    "Derinlik":1.2,
+    "ML":"1.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"18:42:08",
+    "Enlem":39.29,
+    "Boylam":26.0772,
+    "Derinlik":7.7,
+    "ML":"2.3",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"18:35:43",
     "Enlem":40.2447,
     "Boylam":31.7345,
