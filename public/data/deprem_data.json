@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"22:18:40",
+    "Enlem":40.7997,
+    "Boylam":28.8338,
+    "Derinlik":9.1,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"22:02:04",
+    "Enlem":38.6772,
+    "Boylam":33.7805,
+    "Derinlik":5.9,
+    "ML":"2.7",
+    "Yer":"KUCUKGUVE-(AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"21:51:55",
+    "Enlem":37.555,
+    "Boylam":42.7262,
+    "Derinlik":7.9,
+    "ML":"1.8",
+    "Yer":"HILAL-ULUDERE (SIRNAK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"21:37:40",
     "Enlem":39.1955,
     "Boylam":28.2582,
     "Derinlik":8.0,
     "ML":"3.1",
     "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"21:13:36",
+    "Enlem":38.1783,
+    "Boylam":38.6187,
+    "Derinlik":2.4,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
     "Cozum":"�lksel"
   },
   {
