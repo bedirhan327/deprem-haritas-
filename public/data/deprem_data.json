@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"07:09:41",
+    "Enlem":37.9295,
+    "Boylam":27.3108,
+    "Derinlik":2.3,
+    "ML":"1.5",
+    "Yer":"ACARLAR-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"06:59:53",
     "Enlem":40.2928,
     "Boylam":27.0462,
     "Derinlik":11.8,
     "ML":"2.7",
     "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"06:56:28",
+    "Enlem":39.184,
+    "Boylam":28.2827,
+    "Derinlik":14.1,
+    "ML":"1.1",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -171,6 +191,16 @@
   },
   {
     "Tarih":"2025.12.14",
+    "Saat":"04:49:53",
+    "Enlem":39.175,
+    "Boylam":28.2157,
+    "Derinlik":10.0,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"04:48:32",
     "Enlem":39.4187,
     "Boylam":40.574,
@@ -327,6 +357,16 @@
     "Derinlik":5.1,
     "ML":"2.9",
     "Yer":"YUKARIDOLAYLAR-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"02:37:12",
+    "Enlem":35.2482,
+    "Boylam":26.2072,
+    "Derinlik":4.3,
+    "ML":"3.3",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
