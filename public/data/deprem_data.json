@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"02:23:19",
+    "Enlem":39.1722,
+    "Boylam":28.3278,
+    "Derinlik":7.3,
+    "ML":"1.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"02:15:46",
+    "Enlem":39.0223,
+    "Boylam":25.965,
+    "Derinlik":8.4,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"02:02:57",
+    "Enlem":37.0083,
+    "Boylam":28.2887,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"CETIBELI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"01:58:34",
+    "Enlem":37.639,
+    "Boylam":38.8447,
+    "Derinlik":12.4,
+    "ML":"1.1",
+    "Yer":"ULUYAZI-HILVAN (SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"01:56:22",
+    "Enlem":39.9897,
+    "Boylam":23.6407,
+    "Derinlik":12.5,
+    "ML":"1.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"01:54:34",
+    "Enlem":37.0135,
+    "Boylam":28.27,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"CETIBELI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"01:50:42",
     "Enlem":37.0145,
     "Boylam":28.3147,
