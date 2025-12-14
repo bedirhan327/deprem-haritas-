@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"06:59:53",
+    "Enlem":40.2928,
+    "Boylam":27.0462,
+    "Derinlik":11.8,
+    "ML":"2.7",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"06:35:38",
+    "Enlem":39.184,
+    "Boylam":28.257,
+    "Derinlik":9.1,
+    "ML":"2.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"06:33:12",
+    "Enlem":40.3045,
+    "Boylam":27.033,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"06:30:28",
+    "Enlem":39.6087,
+    "Boylam":27.0773,
+    "Derinlik":19.0,
+    "ML":"1.4",
+    "Yer":"YAYLAONU-EDREMIT (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"06:24:16",
+    "Enlem":39.0382,
+    "Boylam":40.4355,
+    "Derinlik":5.1,
+    "ML":"1.4",
+    "Yer":"SUDUGUNU-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"06:23:38",
     "Enlem":39.0835,
     "Boylam":40.4503,
