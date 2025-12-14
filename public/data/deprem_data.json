@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"06:23:38",
+    "Enlem":39.0835,
+    "Boylam":40.4503,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"SUDUGUNU-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"06:16:37",
+    "Enlem":40.2825,
+    "Boylam":27.0518,
+    "Derinlik":13.9,
+    "ML":"1.6",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"05:49:21",
     "Enlem":38.4742,
     "Boylam":38.0275,
