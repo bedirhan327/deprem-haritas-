@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"05:29:47",
+    "Enlem":40.2862,
+    "Boylam":27.0485,
+    "Derinlik":11.7,
+    "ML":"2.7",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"05:22:15",
+    "Enlem":39.1885,
+    "Boylam":28.034,
+    "Derinlik":5.4,
+    "ML":"1.3",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"05:21:27",
+    "Enlem":39.1675,
+    "Boylam":28.1748,
+    "Derinlik":14.0,
+    "ML":"1.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"05:17:37",
+    "Enlem":39.1455,
+    "Boylam":28.1713,
+    "Derinlik":16.5,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"05:16:58",
+    "Enlem":39.1735,
+    "Boylam":28.2035,
+    "Derinlik":11.1,
+    "ML":"1.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"05:13:57",
     "Enlem":39.1873,
     "Boylam":28.3195,
