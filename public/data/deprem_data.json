@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"04:32:14",
+    "Enlem":36.8945,
+    "Boylam":27.5468,
+    "Derinlik":7.1,
+    "ML":"1.7",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"04:30:00",
+    "Enlem":39.1878,
+    "Boylam":28.2372,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"04:11:00",
+    "Enlem":39.1925,
+    "Boylam":28.1748,
+    "Derinlik":10.5,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"04:07:42",
+    "Enlem":37.8067,
+    "Boylam":29.4433,
+    "Derinlik":8.7,
+    "ML":"1.3",
+    "Yer":"SAPACA-HONAZ (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"04:03:20",
     "Enlem":40.289,
     "Boylam":27.0267,
