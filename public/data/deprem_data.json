@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"18:35:43",
+    "Enlem":40.2447,
+    "Boylam":31.7345,
+    "Derinlik":15.1,
+    "ML":"1.9",
+    "Yer":"DUDAS-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"18:26:21",
+    "Enlem":38.5228,
+    "Boylam":39.26,
+    "Derinlik":7.8,
+    "ML":"1.4",
+    "Yer":"YEDIGOZE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"17:59:00",
+    "Enlem":38.7405,
+    "Boylam":26.0217,
+    "Derinlik":6.5,
+    "ML":"2.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"17:49:47",
     "Enlem":40.4773,
     "Boylam":33.0257,
