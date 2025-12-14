@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.14",
+    "Saat":"05:49:21",
+    "Enlem":38.4742,
+    "Boylam":38.0275,
+    "Derinlik":4.0,
+    "ML":"2.2",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
+    "Saat":"05:48:32",
+    "Enlem":39.1838,
+    "Boylam":28.1718,
+    "Derinlik":11.4,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.14",
     "Saat":"05:29:47",
     "Enlem":40.2862,
     "Boylam":27.0485,
