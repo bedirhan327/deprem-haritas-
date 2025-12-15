@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"19:37:12",
+    "Enlem":39.1273,
+    "Boylam":28.1053,
+    "Derinlik":11.1,
+    "ML":"1.5",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"19:16:50",
+    "Enlem":37.8195,
+    "Boylam":36.4395,
+    "Derinlik":6.1,
+    "ML":"1.7",
+    "Yer":"GEBEN-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"19:16:19",
+    "Enlem":39.6078,
+    "Boylam":27.4608,
+    "Derinlik":7.3,
+    "ML":"2.1",
+    "Yer":"YESILKOY-IVRINDI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"18:25:58",
     "Enlem":39.53,
     "Boylam":29.2597,
