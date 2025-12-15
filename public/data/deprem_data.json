@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"05:20:03",
+    "Enlem":39.0022,
+    "Boylam":25.9368,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"05:17:50",
+    "Enlem":39.0712,
+    "Boylam":40.5398,
+    "Derinlik":7.8,
+    "ML":"1.6",
+    "Yer":"TEPEBASI-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"04:59:05",
+    "Enlem":38.1297,
+    "Boylam":30.8668,
+    "Derinlik":12.0,
+    "ML":"1.5",
+    "Yer":"AKKECILI-SENIRKENT (ISPARTA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"04:49:49",
     "Enlem":39.2208,
     "Boylam":27.661,
