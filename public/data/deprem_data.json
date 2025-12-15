@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"10:04:49",
+    "Enlem":38.3143,
+    "Boylam":27.2118,
+    "Derinlik":15.4,
+    "ML":"2.0",
+    "Yer":"ZAFER-BUCA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"10:04:29",
+    "Enlem":39.467,
+    "Boylam":33.5408,
+    "Derinlik":15.2,
+    "ML":"1.1",
+    "Yer":"CELEBI (KIRIKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"09:43:57",
+    "Enlem":40.4985,
+    "Boylam":35.2528,
+    "Derinlik":6.8,
+    "ML":"2.1",
+    "Yer":"KUYUCAK-MECITOZU (CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"09:08:01",
     "Enlem":39.0475,
     "Boylam":40.509,
