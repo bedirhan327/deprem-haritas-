@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"22:08:37",
+    "Enlem":39.247,
+    "Boylam":28.9277,
+    "Derinlik":7.6,
+    "ML":"2.2",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"22:00:21",
+    "Enlem":38.7453,
+    "Boylam":38.0375,
+    "Derinlik":6.6,
+    "ML":"1.5",
+    "Yer":"YAGCA-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"21:53:01",
+    "Enlem":40.198,
+    "Boylam":31.7135,
+    "Derinlik":7.4,
+    "ML":"2.2",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"21:52:42",
+    "Enlem":39.1535,
+    "Boylam":28.3065,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"21:32:07",
     "Enlem":39.1037,
     "Boylam":28.24,
