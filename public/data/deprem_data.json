@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"04:49:49",
+    "Enlem":39.2208,
+    "Boylam":27.661,
+    "Derinlik":6.7,
+    "ML":"1.6",
+    "Yer":"EVCILER-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"04:42:59",
+    "Enlem":40.1722,
+    "Boylam":23.2942,
+    "Derinlik":11.9,
+    "ML":"2.0",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"04:28:47",
+    "Enlem":39.1517,
+    "Boylam":28.3103,
+    "Derinlik":8.4,
+    "ML":"1.2",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"04:05:43",
     "Enlem":39.1643,
     "Boylam":28.1418,
