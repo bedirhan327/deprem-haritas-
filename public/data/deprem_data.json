@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"11:51:46",
+    "Enlem":39.1667,
+    "Boylam":28.2925,
+    "Derinlik":12.3,
+    "ML":"2.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"11:49:03",
+    "Enlem":39.2457,
+    "Boylam":29.0292,
+    "Derinlik":15.1,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"11:31:23",
+    "Enlem":40.1897,
+    "Boylam":27.5028,
+    "Derinlik":7.8,
+    "ML":"2.5",
+    "Yer":"ARMUTLU-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"11:25:31",
+    "Enlem":39.1702,
+    "Boylam":28.2133,
+    "Derinlik":11.9,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"11:18:07",
+    "Enlem":39.7487,
+    "Boylam":38.9407,
+    "Derinlik":7.9,
+    "ML":"1.6",
+    "Yer":"AGACSARAY-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"11:00:50",
     "Enlem":39.1488,
     "Boylam":28.2958,
