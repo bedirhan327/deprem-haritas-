@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"13:40:20",
+    "Enlem":39.1888,
+    "Boylam":28.167,
+    "Derinlik":10.7,
+    "ML":"2.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"13:34:36",
+    "Enlem":39.0797,
+    "Boylam":27.5797,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"EGNEZ-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"13:14:24",
     "Enlem":39.0527,
     "Boylam":28.1953,
