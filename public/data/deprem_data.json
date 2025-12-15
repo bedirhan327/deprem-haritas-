@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"04:05:43",
+    "Enlem":39.1643,
+    "Boylam":28.1418,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"03:55:54",
+    "Enlem":38.4803,
+    "Boylam":38.0803,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"03:52:49",
     "Enlem":39.1622,
     "Boylam":28.0232,
