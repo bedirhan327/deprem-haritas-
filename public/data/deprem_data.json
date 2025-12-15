@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"23:26:12",
+    "Enlem":40.2782,
+    "Boylam":27.0713,
+    "Derinlik":15.8,
+    "ML":"1.2",
+    "Yer":"SELVI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"23:24:09",
+    "Enlem":40.2863,
+    "Boylam":27.023,
+    "Derinlik":10.2,
+    "ML":"1.7",
+    "Yer":"GURGENDERE-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"23:22:33",
+    "Enlem":40.2815,
+    "Boylam":27.021,
+    "Derinlik":8.9,
+    "ML":"1.4",
+    "Yer":"GURGENDERE-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"23:19:05",
     "Enlem":36.7637,
     "Boylam":30.4095,
