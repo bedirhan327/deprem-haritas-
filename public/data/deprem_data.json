@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"23:19:05",
+    "Enlem":36.7637,
+    "Boylam":30.4095,
+    "Derinlik":12.2,
+    "ML":"2.5",
+    "Yer":"YARBASCANDIR-KONYAALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"22:55:17",
+    "Enlem":40.2927,
+    "Boylam":27.0455,
+    "Derinlik":11.9,
+    "ML":"3.2",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"22:50:10",
+    "Enlem":39.2133,
+    "Boylam":27.9478,
+    "Derinlik":10.1,
+    "ML":"1.4",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"22:31:00",
     "Enlem":40.8392,
     "Boylam":28.7835,
