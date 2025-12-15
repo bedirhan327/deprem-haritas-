@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"09:08:01",
+    "Enlem":39.0475,
+    "Boylam":40.509,
+    "Derinlik":7.8,
+    "ML":"1.9",
+    "Yer":"OGULDERE-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"08:48:16",
+    "Enlem":38.8253,
+    "Boylam":33.5692,
+    "Derinlik":6.4,
+    "ML":"1.6",
+    "Yer":"KARAMOLLAUSAGI-SEREFLIKOCHISAR (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"08:43:37",
+    "Enlem":39.2253,
+    "Boylam":28.077,
+    "Derinlik":19.4,
+    "ML":"1.4",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"08:02:30",
     "Enlem":39.0565,
     "Boylam":28.459,
@@ -1907,6 +1937,16 @@
     "Derinlik":9.7,
     "ML":"2.4",
     "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.13",
+    "Saat":"15:14:21",
+    "Enlem":39.5213,
+    "Boylam":38.5987,
+    "Derinlik":13.0,
+    "ML":"2.0",
+    "Yer":"ATMA-ILIC (ERZINCAN)",
     "Cozum":"�lksel"
   },
   {
