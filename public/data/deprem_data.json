@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"13:14:24",
+    "Enlem":39.0527,
+    "Boylam":28.1953,
+    "Derinlik":19.1,
+    "ML":"1.3",
+    "Yer":"KALEMOGLU-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"12:58:14",
+    "Enlem":35.2913,
+    "Boylam":33.4778,
+    "Derinlik":0.0,
+    "ML":"1.9",
+    "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"12:51:43",
+    "Enlem":39.1707,
+    "Boylam":28.2148,
+    "Derinlik":16.1,
+    "ML":"3.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"12:33:15",
     "Enlem":39.2347,
     "Boylam":28.9433,
