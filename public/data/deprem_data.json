@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"02:15:59",
+    "Enlem":39.1783,
+    "Boylam":28.2105,
+    "Derinlik":13.2,
+    "ML":"2.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"02:04:14",
+    "Enlem":38.48,
+    "Boylam":38.0267,
+    "Derinlik":9.1,
+    "ML":"1.2",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"01:55:34",
+    "Enlem":38.3333,
+    "Boylam":38.272,
+    "Derinlik":9.8,
+    "ML":"1.3",
+    "Yer":"BOSTANBASI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"01:42:43",
     "Enlem":39.2163,
     "Boylam":29.0377,
