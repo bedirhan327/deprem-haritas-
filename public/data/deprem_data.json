@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"18:25:58",
+    "Enlem":39.53,
+    "Boylam":29.2597,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"DAGDEMIRLI-TAVSANLI (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"18:21:35",
+    "Enlem":39.5258,
+    "Boylam":29.2593,
+    "Derinlik":7.7,
+    "ML":"2.0",
+    "Yer":"KISLADEMIRLI-TAVSANLI (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"16:22:06",
     "Enlem":39.1302,
     "Boylam":28.296,
