@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"03:52:49",
+    "Enlem":39.1622,
+    "Boylam":28.0232,
+    "Derinlik":17.0,
+    "ML":"1.2",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"03:46:34",
+    "Enlem":38.9852,
+    "Boylam":28.1645,
+    "Derinlik":15.7,
+    "ML":"0.9",
+    "Yer":"YEGENOBA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"03:38:23",
+    "Enlem":39.2493,
+    "Boylam":28.934,
+    "Derinlik":7.5,
+    "ML":"2.3",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"03:37:06",
+    "Enlem":39.2292,
+    "Boylam":28.0287,
+    "Derinlik":9.9,
+    "ML":"2.1",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"03:30:37",
+    "Enlem":41.1327,
+    "Boylam":38.8648,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"YALIKOY-TIREBOLU (GIRESUN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"03:23:46",
+    "Enlem":39.1815,
+    "Boylam":28.1802,
+    "Derinlik":10.1,
+    "ML":"1.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"03:22:29",
     "Enlem":39.0633,
     "Boylam":40.5147,
