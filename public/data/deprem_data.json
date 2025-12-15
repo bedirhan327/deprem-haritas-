@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.15",
+    "Saat":"10:34:44",
+    "Enlem":38.7707,
+    "Boylam":39.1615,
+    "Derinlik":4.8,
+    "ML":"1.4",
+    "Yer":"KAPLIKAYA-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
+    "Saat":"10:33:26",
+    "Enlem":39.062,
+    "Boylam":40.5763,
+    "Derinlik":16.5,
+    "ML":"1.6",
+    "Yer":"DALLITEPE-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.15",
     "Saat":"10:04:49",
     "Enlem":38.3143,
     "Boylam":27.2118,
