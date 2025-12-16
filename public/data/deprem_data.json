@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"01:01:15",
+    "Enlem":39.1987,
+    "Boylam":28.2712,
+    "Derinlik":7.0,
+    "ML":"2.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"00:59:56",
+    "Enlem":37.5835,
+    "Boylam":42.0447,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"BULMUSLAR-GUCLUKONAK (SIRNAK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"00:49:05",
     "Enlem":37.4272,
     "Boylam":37.2118,
