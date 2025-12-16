@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"08:46:52",
+    "Enlem":35.0068,
+    "Boylam":33.0707,
+    "Derinlik":30.3,
+    "ML":"2.3",
+    "Yer":"KIBRIS-ZUMRUTKOY",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"08:24:25",
+    "Enlem":39.1797,
+    "Boylam":28.1935,
+    "Derinlik":11.6,
+    "ML":"2.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"08:16:17",
+    "Enlem":40.2917,
+    "Boylam":27.0495,
+    "Derinlik":13.8,
+    "ML":"1.5",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"08:16:03",
+    "Enlem":40.2873,
+    "Boylam":27.0467,
+    "Derinlik":12.3,
+    "ML":"1.6",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"08:03:10",
     "Enlem":39.2363,
     "Boylam":28.0822,
