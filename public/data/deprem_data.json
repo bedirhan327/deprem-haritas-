@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"11:02:41",
+    "Enlem":39.1368,
+    "Boylam":28.1965,
+    "Derinlik":17.1,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"10:41:38",
+    "Enlem":38.694,
+    "Boylam":43.4488,
+    "Derinlik":21.0,
+    "ML":"1.5",
+    "Yer":"ADIGUZEL-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"10:40:53",
+    "Enlem":39.2653,
+    "Boylam":28.114,
+    "Derinlik":15.5,
+    "ML":"1.1",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"10:38:00",
     "Enlem":40.5122,
     "Boylam":29.2872,
