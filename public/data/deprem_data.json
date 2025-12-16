@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"02:40:06",
+    "Enlem":36.6317,
+    "Boylam":28.0753,
+    "Derinlik":80.4,
+    "ML":"1.7",
+    "Yer":"TASLICA-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"02:29:27",
+    "Enlem":39.1503,
+    "Boylam":28.247,
+    "Derinlik":14.9,
+    "ML":"1.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"02:23:42",
+    "Enlem":40.2902,
+    "Boylam":27.0477,
+    "Derinlik":10.7,
+    "ML":"1.0",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"02:15:59",
     "Enlem":39.1783,
     "Boylam":28.2105,
@@ -77,6 +107,16 @@
     "Derinlik":4.8,
     "ML":"1.2",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"01:22:28",
+    "Enlem":40.2615,
+    "Boylam":27.0762,
+    "Derinlik":12.0,
+    "ML":"0.9",
+    "Yer":"GUNDOGDU-BIGA (CANAKKALE)",
     "Cozum":"�lksel"
   },
   {
