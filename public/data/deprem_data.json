@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"06:53:21",
+    "Enlem":38.0452,
+    "Boylam":37.329,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"06:30:08",
+    "Enlem":39.2168,
+    "Boylam":28.1717,
+    "Derinlik":7.4,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"06:25:48",
+    "Enlem":39.1642,
+    "Boylam":28.2557,
+    "Derinlik":14.9,
+    "ML":"2.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"06:14:02",
     "Enlem":39.1733,
     "Boylam":28.3198,
