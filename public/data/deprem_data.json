@@ -1,10 +1,50 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"03:11:20",
+    "Enlem":39.486,
+    "Boylam":26.0447,
+    "Derinlik":12.1,
+    "ML":"2.3",
+    "Yer":"BABAKALE-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"02:54:07",
+    "Enlem":38.0913,
+    "Boylam":36.6738,
+    "Derinlik":5.5,
+    "ML":"1.6",
+    "Yer":"KARAOMER-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"02:41:59",
+    "Enlem":38.5127,
+    "Boylam":37.4125,
+    "Derinlik":6.4,
+    "ML":"1.3",
+    "Yer":"BASDIREK-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"02:40:06",
     "Enlem":36.6317,
     "Boylam":28.0753,
     "Derinlik":80.4,
+    "ML":"1.7",
+    "Yer":"TASLICA-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"02:40:06",
+    "Enlem":36.6155,
+    "Boylam":28.0575,
+    "Derinlik":80.5,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"�lksel"
