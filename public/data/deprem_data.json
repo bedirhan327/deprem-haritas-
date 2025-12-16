@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"12:04:58",
+    "Enlem":37.1402,
+    "Boylam":27.9827,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"YOGUNOLUK-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"12:02:03",
+    "Enlem":39.5752,
+    "Boylam":34.1453,
+    "Derinlik":5.4,
+    "ML":"1.7",
+    "Yer":"KOSEFAKILI-AKCAKENT (KIRSEHIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"12:00:00",
+    "Enlem":37.0958,
+    "Boylam":35.9842,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"DAGISTAN-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"11:53:37",
     "Enlem":39.2187,
     "Boylam":28.9793,
