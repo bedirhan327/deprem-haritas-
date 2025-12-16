@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"21:22:51",
+    "Enlem":39.2408,
+    "Boylam":28.9412,
+    "Derinlik":6.2,
+    "ML":"2.0",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"20:56:09",
+    "Enlem":40.2925,
+    "Boylam":27.0397,
+    "Derinlik":10.4,
+    "ML":"1.6",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"20:51:29",
     "Enlem":38.4987,
     "Boylam":39.6537,
