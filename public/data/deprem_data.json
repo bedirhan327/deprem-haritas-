@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"18:08:58",
+    "Enlem":39.1645,
+    "Boylam":28.1412,
+    "Derinlik":8.8,
+    "ML":"1.6",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"17:58:28",
+    "Enlem":35.3118,
+    "Boylam":33.3882,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"KIBRIS-GIRNE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"17:35:55",
+    "Enlem":39.2155,
+    "Boylam":28.1337,
+    "Derinlik":10.8,
+    "ML":"1.5",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"17:31:52",
+    "Enlem":39.211,
+    "Boylam":28.0942,
+    "Derinlik":16.7,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"16:59:53",
+    "Enlem":39.196,
+    "Boylam":28.1208,
+    "Derinlik":8.1,
+    "ML":"1.6",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"16:31:00",
     "Enlem":40.286,
     "Boylam":27.0337,
