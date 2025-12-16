@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"11:53:37",
+    "Enlem":39.2187,
+    "Boylam":28.9793,
+    "Derinlik":17.8,
+    "ML":"1.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"11:43:16",
+    "Enlem":39.1515,
+    "Boylam":40.314,
+    "Derinlik":8.2,
+    "ML":"2.0",
+    "Yer":"CANAKCI-KIGI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"11:27:38",
+    "Enlem":40.3043,
+    "Boylam":27.0468,
+    "Derinlik":8.0,
+    "ML":"1.3",
+    "Yer":"CINARDERE-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"11:25:32",
+    "Enlem":36.1333,
+    "Boylam":33.5127,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"YANISLI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"11:10:29",
+    "Enlem":38.1123,
+    "Boylam":32.5937,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"CANDIR-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"11:02:41",
     "Enlem":39.1368,
     "Boylam":28.1965,
