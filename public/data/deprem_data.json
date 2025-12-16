@@ -1,5 +1,55 @@
 [
   {
+    "Tarih":"2025.12.17",
+    "Saat":"00:49:05",
+    "Enlem":37.4272,
+    "Boylam":37.2118,
+    "Derinlik":5.2,
+    "ML":"1.6",
+    "Yer":"SALMANIPAK-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"00:36:12",
+    "Enlem":40.2662,
+    "Boylam":27.0307,
+    "Derinlik":16.4,
+    "ML":"1.6",
+    "Yer":"KOZCESME-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"00:35:01",
+    "Enlem":40.2905,
+    "Boylam":27.023,
+    "Derinlik":9.6,
+    "ML":"1.6",
+    "Yer":"GURGENDERE-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"00:33:56",
+    "Enlem":39.2342,
+    "Boylam":28.0327,
+    "Derinlik":8.1,
+    "ML":"1.5",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"00:19:38",
+    "Enlem":40.3062,
+    "Boylam":27.0643,
+    "Derinlik":10.9,
+    "ML":"1.8",
+    "Yer":"BALIKLICESME-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.16",
     "Saat":"23:31:59",
     "Enlem":40.2873,
@@ -187,6 +237,16 @@
     "Derinlik":5.1,
     "ML":"1.3",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"21:47:50",
+    "Enlem":36.2392,
+    "Boylam":25.5693,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
