@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"10:02:24",
+    "Enlem":40.3015,
+    "Boylam":27.0212,
+    "Derinlik":3.4,
+    "ML":"1.0",
+    "Yer":"DISBUDAK-LAPSEKI (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"09:46:06",
+    "Enlem":38.8045,
+    "Boylam":43.307,
+    "Derinlik":15.5,
+    "ML":"2.6",
+    "Yer":"ESENPINAR-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"09:29:40",
     "Enlem":40.2997,
     "Boylam":27.0507,
@@ -37,6 +57,16 @@
     "Derinlik":11.1,
     "ML":"2.1",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"08:53:48",
+    "Enlem":39.422,
+    "Boylam":37.2692,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"ORENLICE-ULAS (SIVAS)",
     "Cozum":"�lksel"
   },
   {
