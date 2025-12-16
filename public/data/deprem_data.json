@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"07:09:04",
+    "Enlem":39.3765,
+    "Boylam":41.1412,
+    "Derinlik":7.2,
+    "ML":"2.1",
+    "Yer":"MOLLASAKIR-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"06:57:21",
+    "Enlem":39.1322,
+    "Boylam":28.1785,
+    "Derinlik":16.2,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"06:53:21",
     "Enlem":38.0452,
     "Boylam":37.329,
