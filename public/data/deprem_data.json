@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"05:11:28",
+    "Enlem":39.2332,
+    "Boylam":28.2102,
+    "Derinlik":7.7,
+    "ML":"1.2",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"04:54:36",
+    "Enlem":36.385,
+    "Boylam":29.1942,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"DODURGA-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"04:34:16",
+    "Enlem":36.36,
+    "Boylam":29.2437,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"KARADERE-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"04:30:28",
     "Enlem":39.1815,
     "Boylam":28.1443,
