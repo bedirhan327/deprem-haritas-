@@ -1,12 +1,72 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"05:46:58",
+    "Enlem":38.4978,
+    "Boylam":38.0373,
+    "Derinlik":7.5,
+    "ML":"1.5",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"05:42:44",
+    "Enlem":37.562,
+    "Boylam":42.0173,
+    "Derinlik":8.4,
+    "ML":"1.8",
+    "Yer":"YAGIZOYMAK-GUCLUKONAK (SIRNAK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"05:38:25",
+    "Enlem":39.1993,
+    "Boylam":28.1353,
+    "Derinlik":5.3,
+    "ML":"1.1",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"05:32:35",
+    "Enlem":39.2222,
+    "Boylam":28.2175,
+    "Derinlik":9.2,
+    "ML":"1.2",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"05:31:43",
+    "Enlem":40.5565,
+    "Boylam":35.7987,
+    "Derinlik":8.0,
+    "ML":"2.1",
+    "Yer":"DADI-(AMASYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"05:11:28",
     "Enlem":39.2332,
     "Boylam":28.2102,
     "Derinlik":7.7,
     "ML":"1.2",
     "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"05:06:58",
+    "Enlem":36.5512,
+    "Boylam":25.4613,
+    "Derinlik":7.4,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
