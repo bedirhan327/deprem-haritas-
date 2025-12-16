@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"22:30:30",
+    "Enlem":39.1845,
+    "Boylam":28.1447,
+    "Derinlik":13.1,
+    "ML":"2.9",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"22:15:04",
+    "Enlem":39.2335,
+    "Boylam":29.062,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"22:09:28",
+    "Enlem":36.8238,
+    "Boylam":28.246,
+    "Derinlik":19.3,
+    "ML":"1.2",
+    "Yer":"ICMELER-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"21:54:08",
     "Enlem":39.1738,
     "Boylam":28.1785,
