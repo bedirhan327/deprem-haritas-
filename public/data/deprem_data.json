@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"14:42:26",
+    "Enlem":40.2838,
+    "Boylam":27.0333,
+    "Derinlik":9.9,
+    "ML":"1.0",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"14:26:30",
+    "Enlem":40.013,
+    "Boylam":27.0215,
+    "Derinlik":9.7,
+    "ML":"1.6",
+    "Yer":"CEKICLER-CAN (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"14:09:32",
+    "Enlem":40.258,
+    "Boylam":27.0495,
+    "Derinlik":13.9,
+    "ML":"1.3",
+    "Yer":"KOZCESME-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"13:36:26",
     "Enlem":40.2957,
     "Boylam":27.0488,
