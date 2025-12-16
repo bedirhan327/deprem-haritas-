@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"16:31:00",
+    "Enlem":40.286,
+    "Boylam":27.0337,
+    "Derinlik":4.7,
+    "ML":"1.1",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"16:30:08",
+    "Enlem":40.2887,
+    "Boylam":27.0355,
+    "Derinlik":12.8,
+    "ML":"2.0",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"16:11:01",
     "Enlem":37.0433,
     "Boylam":30.816,
