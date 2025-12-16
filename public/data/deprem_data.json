@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.16",
+    "Saat":"20:12:51",
+    "Enlem":40.294,
+    "Boylam":27.0442,
+    "Derinlik":8.0,
+    "ML":"1.5",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"19:42:36",
+    "Enlem":39.2188,
+    "Boylam":28.3033,
+    "Derinlik":5.3,
+    "ML":"1.2",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"19:40:05",
+    "Enlem":38.2222,
+    "Boylam":38.6947,
+    "Derinlik":1.6,
+    "ML":"1.5",
+    "Yer":"KOKPINAR-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"19:31:53",
+    "Enlem":39.0875,
+    "Boylam":28.321,
+    "Derinlik":10.9,
+    "ML":"1.5",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
+    "Saat":"19:18:44",
+    "Enlem":39.4922,
+    "Boylam":25.1322,
+    "Derinlik":7.9,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.16",
     "Saat":"19:02:29",
     "Enlem":39.2038,
     "Boylam":28.0612,
