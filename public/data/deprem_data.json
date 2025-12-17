@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"15:21:18",
+    "Enlem":38.6955,
+    "Boylam":26.926,
+    "Derinlik":2.0,
+    "ML":"1.6",
+    "Yer":"ILIPINAR-FOCA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"15:18:15",
+    "Enlem":39.181,
+    "Boylam":28.1592,
+    "Derinlik":9.2,
+    "ML":"2.9",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"14:51:28",
     "Enlem":35.7592,
     "Boylam":33.1408,
