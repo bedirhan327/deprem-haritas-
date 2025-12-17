@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"06:33:20",
+    "Enlem":38.4927,
+    "Boylam":38.0788,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"06:14:31",
+    "Enlem":39.2235,
+    "Boylam":28.1702,
+    "Derinlik":9.2,
+    "ML":"1.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"06:14:19",
     "Enlem":40.3067,
     "Boylam":23.8583,
