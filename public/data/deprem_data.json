@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"05:18:48",
+    "Enlem":40.298,
+    "Boylam":24.1672,
+    "Derinlik":8.0,
+    "ML":"2.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"05:14:59",
+    "Enlem":39.2462,
+    "Boylam":28.095,
+    "Derinlik":7.7,
+    "ML":"2.2",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"05:05:05",
+    "Enlem":39.0178,
+    "Boylam":28.3635,
+    "Derinlik":13.5,
+    "ML":"0.7",
+    "Yer":"SEYHYAYLA-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"05:04:15",
+    "Enlem":39.1775,
+    "Boylam":28.1785,
+    "Derinlik":12.9,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"05:01:53",
+    "Enlem":36.862,
+    "Boylam":27.6723,
+    "Derinlik":4.7,
+    "ML":"1.1",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"04:47:35",
     "Enlem":40.2785,
     "Boylam":27.025,
@@ -27,6 +77,16 @@
     "Derinlik":12.5,
     "ML":"4.2",
     "Yer":"BEKTASLI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"03:58:35",
+    "Enlem":38.4952,
+    "Boylam":38.0055,
+    "Derinlik":5.9,
+    "ML":"1.3",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
     "Cozum":"�lksel"
   },
   {
