@@ -81,6 +81,16 @@
   },
   {
     "Tarih":"2025.12.17",
+    "Saat":"04:01:11",
+    "Enlem":40.2943,
+    "Boylam":27.0413,
+    "Derinlik":8.7,
+    "ML":"1.0",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"03:58:35",
     "Enlem":38.4952,
     "Boylam":38.0055,
@@ -97,6 +107,36 @@
     "Derinlik":9.4,
     "ML":"1.5",
     "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"03:53:26",
+    "Enlem":37.613,
+    "Boylam":26.9102,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"03:51:24",
+    "Enlem":39.1485,
+    "Boylam":28.1982,
+    "Derinlik":16.4,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"03:34:46",
+    "Enlem":39.806,
+    "Boylam":39.0308,
+    "Derinlik":6.6,
+    "ML":"1.5",
+    "Yer":"AKBUDAK-KEMAH (ERZINCAN)",
     "Cozum":"�lksel"
   },
   {
