@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"00:46:34",
+    "Enlem":37.9103,
+    "Boylam":36.6508,
+    "Derinlik":10.3,
+    "ML":"1.9",
+    "Yer":"TEKIR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"00:35:34",
+    "Enlem":38.2408,
+    "Boylam":38.919,
+    "Derinlik":13.0,
+    "ML":"1.6",
+    "Yer":"GOZLUCE-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"00:33:15",
+    "Enlem":38.3505,
+    "Boylam":37.5825,
+    "Derinlik":4.0,
+    "ML":"1.4",
+    "Yer":"YUKARIULUPINAR-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"00:18:56",
+    "Enlem":40.2838,
+    "Boylam":27.0482,
+    "Derinlik":13.3,
+    "ML":"2.2",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"00:09:40",
     "Enlem":40.29,
     "Boylam":27.0373,
