@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"01:51:41",
+    "Enlem":38.3602,
+    "Boylam":37.489,
+    "Derinlik":4.8,
+    "ML":"1.5",
+    "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"01:51:36",
+    "Enlem":39.1863,
+    "Boylam":28.2078,
+    "Derinlik":8.0,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"01:41:32",
     "Enlem":39.1687,
     "Boylam":28.2368,
