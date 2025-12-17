@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"17:14:54",
+    "Enlem":38.2268,
+    "Boylam":37.2728,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"CITLIK-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"17:08:37",
+    "Enlem":39.1578,
+    "Boylam":28.3472,
+    "Derinlik":14.3,
+    "ML":"1.4",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"16:19:09",
     "Enlem":39.182,
     "Boylam":28.1612,
