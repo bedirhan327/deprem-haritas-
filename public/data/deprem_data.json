@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"11:47:53",
+    "Enlem":36.2247,
+    "Boylam":33.4558,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"BEYDILI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"11:44:10",
+    "Enlem":39.2232,
+    "Boylam":28.1132,
+    "Derinlik":4.8,
+    "ML":"2.0",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"11:38:22",
+    "Enlem":41.1217,
+    "Boylam":28.9935,
+    "Derinlik":0.0,
+    "ML":"0.8",
+    "Yer":"KAGITHANE (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"11:32:49",
+    "Enlem":39.1803,
+    "Boylam":27.6902,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"CAVDIR-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"10:58:29",
     "Enlem":39.2327,
     "Boylam":28.0927,
