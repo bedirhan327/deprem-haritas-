@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"10:36:33",
+    "Enlem":39.1945,
+    "Boylam":28.1327,
+    "Derinlik":10.8,
+    "ML":"2.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"10:24:08",
+    "Enlem":39.22,
+    "Boylam":28.206,
+    "Derinlik":7.5,
+    "ML":"1.4",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"10:09:33",
     "Enlem":40.2707,
     "Boylam":27.0513,
