@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"12:37:53",
+    "Enlem":39.3933,
+    "Boylam":41.1258,
+    "Derinlik":7.5,
+    "ML":"2.0",
+    "Yer":"MOLLASAKIR-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"12:26:43",
+    "Enlem":39.8452,
+    "Boylam":26.251,
+    "Derinlik":0.0,
+    "ML":"1.3",
+    "Yer":"BOZALAN-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"12:26:29",
     "Enlem":39.344,
     "Boylam":33.731,
     "Derinlik":3.8,
     "ML":"1.2",
     "Yer":"KAMAN (KIRSEHIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"12:26:17",
+    "Enlem":38.4655,
+    "Boylam":30.3093,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"DUTAGAC-SANDIKLI (AFYONKARAHISAR)",
     "Cozum":"�lksel"
   },
   {
@@ -67,6 +97,16 @@
     "Derinlik":4.8,
     "ML":"2.0",
     "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"11:43:03",
+    "Enlem":39.1795,
+    "Boylam":28.0472,
+    "Derinlik":16.5,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
