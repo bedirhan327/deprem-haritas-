@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.17",
+    "Saat":"07:34:35",
+    "Enlem":38.0958,
+    "Boylam":38.3948,
+    "Derinlik":2.7,
+    "ML":"2.2",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"07:30:38",
+    "Enlem":40.2882,
+    "Boylam":27.0452,
+    "Derinlik":7.6,
+    "ML":"2.2",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"07:18:05",
+    "Enlem":39.189,
+    "Boylam":28.1262,
+    "Derinlik":19.8,
+    "ML":"1.0",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
+    "Saat":"07:12:13",
+    "Enlem":39.007,
+    "Boylam":28.2827,
+    "Derinlik":13.5,
+    "ML":"1.0",
+    "Yer":"EFENDILI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.17",
     "Saat":"07:01:08",
     "Enlem":39.077,
     "Boylam":28.1532,
