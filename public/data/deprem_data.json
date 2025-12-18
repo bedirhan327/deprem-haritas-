@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"08:27:56",
+    "Enlem":39.2887,
+    "Boylam":28.1397,
+    "Derinlik":11.6,
+    "ML":"1.5",
+    "Yer":"KARAAGAC-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"08:25:42",
+    "Enlem":40.2312,
+    "Boylam":27.83,
+    "Derinlik":13.4,
+    "ML":"1.6",
+    "Yer":"KILLIK-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"08:20:57",
+    "Enlem":39.4668,
+    "Boylam":26.373,
+    "Derinlik":15.1,
+    "ML":"1.5",
+    "Yer":"EDREMIT KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"07:34:45",
     "Enlem":39.1858,
     "Boylam":28.3033,
