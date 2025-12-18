@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"22:01:00",
+    "Enlem":38.537,
+    "Boylam":40.3308,
+    "Derinlik":5.4,
+    "ML":"2.5",
+    "Yer":"SARIBUDAK-GENC (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"21:57:14",
+    "Enlem":40.2922,
+    "Boylam":27.0495,
+    "Derinlik":11.5,
+    "ML":"1.5",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"21:44:48",
+    "Enlem":36.9115,
+    "Boylam":29.0192,
+    "Derinlik":19.7,
+    "ML":"1.1",
+    "Yer":"GURLEYIK-DALAMAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"21:12:43",
     "Enlem":38.2517,
     "Boylam":38.1282,
