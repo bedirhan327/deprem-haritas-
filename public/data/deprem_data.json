@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"23:23:11",
+    "Enlem":38.3807,
+    "Boylam":38.7547,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"TEPEKOY-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"22:44:52",
     "Enlem":39.152,
     "Boylam":28.2345,
@@ -47,6 +57,26 @@
     "Derinlik":12.7,
     "ML":"1.5",
     "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"22:25:45",
+    "Enlem":38.2948,
+    "Boylam":37.7688,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"DUTLU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"22:21:02",
+    "Enlem":40.2677,
+    "Boylam":27.0473,
+    "Derinlik":14.1,
+    "ML":"1.1",
+    "Yer":"KOZCESME-BIGA (CANAKKALE)",
     "Cozum":"�lksel"
   },
   {
