@@ -1,12 +1,62 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"22:44:52",
+    "Enlem":39.152,
+    "Boylam":28.2345,
+    "Derinlik":15.0,
+    "ML":"2.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"22:41:47",
+    "Enlem":39.1238,
+    "Boylam":28.2982,
+    "Derinlik":11.7,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"22:37:57",
+    "Enlem":39.451,
+    "Boylam":26.0315,
+    "Derinlik":12.0,
+    "ML":"1.9",
+    "Yer":"BABAKALE-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"22:33:44",
     "Enlem":39.4653,
     "Boylam":26.0077,
     "Derinlik":6.6,
     "ML":"2.6",
     "Yer":"BABAKALE-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"22:32:33",
+    "Enlem":39.188,
+    "Boylam":28.113,
+    "Derinlik":12.7,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"22:17:18",
+    "Enlem":38.1433,
+    "Boylam":37.4635,
+    "Derinlik":7.4,
+    "ML":"1.5",
+    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
