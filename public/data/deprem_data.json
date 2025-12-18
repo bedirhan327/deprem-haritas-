@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"04:34:33",
+    "Enlem":39.0242,
+    "Boylam":25.9653,
+    "Derinlik":15.8,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"04:18:08",
+    "Enlem":39.2458,
+    "Boylam":29.0335,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"04:15:07",
+    "Enlem":39.2353,
+    "Boylam":29.0293,
+    "Derinlik":7.8,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"04:14:13",
+    "Enlem":39.2447,
+    "Boylam":29.0202,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"04:11:55",
     "Enlem":39.1388,
     "Boylam":27.9597,
