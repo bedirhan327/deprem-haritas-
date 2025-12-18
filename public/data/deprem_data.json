@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"19:39:34",
+    "Enlem":38.3767,
+    "Boylam":37.4045,
+    "Derinlik":17.7,
+    "ML":"1.7",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"19:18:03",
+    "Enlem":39.171,
+    "Boylam":28.1372,
+    "Derinlik":12.9,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"19:10:43",
+    "Enlem":39.327,
+    "Boylam":26.721,
+    "Derinlik":5.4,
+    "ML":"2.6",
+    "Yer":"AYVALIK (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"19:10:30",
+    "Enlem":38.2723,
+    "Boylam":38.151,
+    "Derinlik":7.1,
+    "ML":"1.6",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"18:43:24",
     "Enlem":39.1623,
     "Boylam":28.1995,
