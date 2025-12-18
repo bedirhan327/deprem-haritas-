@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"14:26:28",
+    "Enlem":39.6905,
+    "Boylam":26.396,
+    "Derinlik":15.1,
+    "ML":"1.6",
+    "Yer":"BAHCELI-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"14:25:20",
+    "Enlem":39.1652,
+    "Boylam":28.229,
+    "Derinlik":12.5,
+    "ML":"2.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"14:02:46",
+    "Enlem":36.9185,
+    "Boylam":28.9943,
+    "Derinlik":20.7,
+    "ML":"1.3",
+    "Yer":"BOZBEL-DALAMAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"13:39:22",
     "Enlem":38.4688,
     "Boylam":37.9917,
