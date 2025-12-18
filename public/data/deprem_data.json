@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"12:08:52",
+    "Enlem":36.0008,
+    "Boylam":30.1153,
+    "Derinlik":21.1,
+    "ML":"3.2",
+    "Yer":"KALE ACIKLARI-ANTALYA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"12:02:32",
+    "Enlem":39.1803,
+    "Boylam":28.1793,
+    "Derinlik":9.7,
+    "ML":"1.9",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"11:07:51",
     "Enlem":39.153,
     "Boylam":28.251,
