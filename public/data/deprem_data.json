@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"23:47:47",
+    "Enlem":38.4588,
+    "Boylam":38.048,
+    "Derinlik":6.1,
+    "ML":"1.4",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"23:46:08",
+    "Enlem":39.1398,
+    "Boylam":28.1105,
+    "Derinlik":10.6,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"23:37:21",
+    "Enlem":39.2625,
+    "Boylam":28.1867,
+    "Derinlik":3.2,
+    "ML":"1.1",
+    "Yer":"CAYGOREN-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"23:35:19",
+    "Enlem":39.1263,
+    "Boylam":28.2883,
+    "Derinlik":8.9,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"23:30:47",
+    "Enlem":38.1463,
+    "Boylam":36.5495,
+    "Derinlik":3.7,
+    "ML":"2.0",
+    "Yer":"KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"23:23:11",
     "Enlem":38.3807,
     "Boylam":38.7547,
