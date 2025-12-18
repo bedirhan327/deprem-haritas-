@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"02:07:28",
+    "Enlem":38.3307,
+    "Boylam":38.168,
+    "Derinlik":12.9,
+    "ML":"1.2",
+    "Yer":"DURULDU-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:06:30",
+    "Enlem":36.9103,
+    "Boylam":28.9998,
+    "Derinlik":5.3,
+    "ML":"2.9",
+    "Yer":"BOZBEL-DALAMAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"01:58:57",
+    "Enlem":36.9568,
+    "Boylam":27.3568,
+    "Derinlik":8.3,
+    "ML":"1.6",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"01:53:34",
+    "Enlem":36.2093,
+    "Boylam":25.6487,
+    "Derinlik":8.4,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"01:44:43",
     "Enlem":38.4917,
     "Boylam":38.0067,
