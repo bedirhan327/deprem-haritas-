@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"05:08:36",
+    "Enlem":39.021,
+    "Boylam":25.862,
+    "Derinlik":7.2,
+    "ML":"1.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"04:56:46",
+    "Enlem":35.6812,
+    "Boylam":27.6813,
+    "Derinlik":5.1,
+    "ML":"2.3",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"04:50:22",
+    "Enlem":39.1557,
+    "Boylam":27.9523,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"KOBASDERE-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"04:36:51",
+    "Enlem":36.7517,
+    "Boylam":30.3822,
+    "Derinlik":12.1,
+    "ML":"2.0",
+    "Yer":"YARBASCANDIR-KONYAALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"04:34:33",
     "Enlem":39.0242,
     "Boylam":25.9653,
