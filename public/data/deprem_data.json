@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.18",
+    "Saat":"21:12:43",
+    "Enlem":38.2517,
+    "Boylam":38.1282,
+    "Derinlik":2.3,
+    "ML":"2.9",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
     "Saat":"20:23:34",
     "Enlem":36.7068,
     "Boylam":27.7877,
@@ -97,6 +107,16 @@
     "Derinlik":7.1,
     "ML":"1.6",
     "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.18",
+    "Saat":"19:05:52",
+    "Enlem":39.1823,
+    "Boylam":28.1948,
+    "Derinlik":11.2,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
