@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"05:07:57",
+    "Enlem":40.283,
+    "Boylam":27.0448,
+    "Derinlik":11.4,
+    "ML":"1.0",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"05:05:37",
+    "Enlem":39.224,
+    "Boylam":28.2792,
+    "Derinlik":17.0,
+    "ML":"1.0",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"05:05:07",
+    "Enlem":38.1765,
+    "Boylam":38.8342,
+    "Derinlik":6.0,
+    "ML":"1.4",
+    "Yer":"TASMIS-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"04:56:43",
+    "Enlem":37.0713,
+    "Boylam":28.3188,
+    "Derinlik":16.2,
+    "ML":"1.0",
+    "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"04:35:20",
     "Enlem":39.1915,
     "Boylam":28.3212,
