@@ -21,6 +21,16 @@
   },
   {
     "Tarih":"2025.12.19",
+    "Saat":"20:45:44",
+    "Enlem":38.0897,
+    "Boylam":37.8023,
+    "Derinlik":20.4,
+    "ML":"1.4",
+    "Yer":"FINDIKKOY-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"20:22:24",
     "Enlem":38.2955,
     "Boylam":38.795,
@@ -57,6 +67,16 @@
     "Derinlik":8.4,
     "ML":"1.7",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"19:17:34",
+    "Enlem":38.487,
+    "Boylam":37.9978,
+    "Derinlik":4.1,
+    "ML":"1.1",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
     "Cozum":"�lksel"
   },
   {
@@ -107,6 +127,16 @@
     "Derinlik":6.6,
     "ML":"1.6",
     "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"18:27:20",
+    "Enlem":39.1488,
+    "Boylam":28.2303,
+    "Derinlik":17.3,
+    "ML":"1.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
