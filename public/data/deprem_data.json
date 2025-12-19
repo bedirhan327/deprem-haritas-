@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"09:36:20",
+    "Enlem":40.282,
+    "Boylam":27.0332,
+    "Derinlik":7.8,
+    "ML":"1.2",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"09:34:39",
+    "Enlem":40.2895,
+    "Boylam":27.0347,
+    "Derinlik":7.5,
+    "ML":"1.9",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"09:32:13",
+    "Enlem":39.2427,
+    "Boylam":29.052,
+    "Derinlik":9.6,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"09:28:37",
+    "Enlem":40.291,
+    "Boylam":27.0478,
+    "Derinlik":13.1,
+    "ML":"2.6",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"08:57:17",
     "Enlem":39.249,
     "Boylam":28.9953,
