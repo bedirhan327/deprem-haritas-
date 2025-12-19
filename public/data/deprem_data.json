@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"08:08:55",
+    "Enlem":37.0332,
+    "Boylam":36.3012,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"KARACALAR-(OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"08:04:54",
+    "Enlem":37.0458,
+    "Boylam":36.2392,
+    "Derinlik":3.8,
+    "ML":"2.0",
+    "Yer":"DEREOBASI-(OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"07:44:22",
     "Enlem":40.7323,
     "Boylam":27.4767,
