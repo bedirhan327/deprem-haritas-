@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"17:36:21",
+    "Enlem":39.2075,
+    "Boylam":28.1508,
+    "Derinlik":7.6,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"17:26:54",
+    "Enlem":38.061,
+    "Boylam":37.697,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"BEGRE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"17:02:55",
     "Enlem":38.25,
     "Boylam":38.638,
     "Derinlik":4.8,
     "ML":"2.5",
     "Yer":"KAVAKLIDERE-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"17:01:25",
+    "Enlem":37.0725,
+    "Boylam":29.1562,
+    "Derinlik":14.9,
+    "ML":"1.2",
+    "Yer":"SUCATI-ACIPAYAM (DENIZLI)",
     "Cozum":"�lksel"
   },
   {
