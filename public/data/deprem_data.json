@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"22:16:36",
+    "Enlem":39.1552,
+    "Boylam":28.209,
+    "Derinlik":9.3,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"22:10:41",
+    "Enlem":39.2127,
+    "Boylam":27.98,
+    "Derinlik":11.7,
+    "ML":"3.3",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"21:53:34",
+    "Enlem":39.1913,
+    "Boylam":28.2808,
+    "Derinlik":11.3,
+    "ML":"1.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"21:14:30",
     "Enlem":39.1175,
     "Boylam":28.1788,
