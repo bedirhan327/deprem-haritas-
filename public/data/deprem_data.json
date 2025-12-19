@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"18:33:41",
+    "Enlem":38.4413,
+    "Boylam":37.9805,
+    "Derinlik":22.6,
+    "ML":"1.4",
+    "Yer":"YALINBUDAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"18:32:59",
+    "Enlem":38.4532,
+    "Boylam":38.0513,
+    "Derinlik":6.6,
+    "ML":"1.6",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"17:54:36",
     "Enlem":37.0855,
     "Boylam":29.1542,
