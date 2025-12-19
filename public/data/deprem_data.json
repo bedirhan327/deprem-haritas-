@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"10:11:37",
+    "Enlem":39.1385,
+    "Boylam":28.1333,
+    "Derinlik":5.3,
+    "ML":"1.2",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"09:54:44",
+    "Enlem":40.2848,
+    "Boylam":27.0598,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"SELVI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"09:48:59",
+    "Enlem":40.2803,
+    "Boylam":27.0355,
+    "Derinlik":7.3,
+    "ML":"1.1",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"09:38:32",
+    "Enlem":40.2878,
+    "Boylam":27.0442,
+    "Derinlik":9.8,
+    "ML":"1.7",
+    "Yer":"HISARLI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"09:36:20",
     "Enlem":40.282,
     "Boylam":27.0332,
