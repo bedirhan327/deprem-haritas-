@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"04:35:20",
+    "Enlem":39.1915,
+    "Boylam":28.3212,
+    "Derinlik":13.7,
+    "ML":"2.7",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"04:34:02",
+    "Enlem":38.4867,
+    "Boylam":38.0,
+    "Derinlik":13.4,
+    "ML":"0.8",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"04:28:21",
+    "Enlem":36.9732,
+    "Boylam":27.4697,
+    "Derinlik":5.5,
+    "ML":"2.0",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"04:08:44",
     "Enlem":38.3275,
     "Boylam":39.7122,
