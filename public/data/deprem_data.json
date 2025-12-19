@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"11:55:12",
+    "Enlem":36.1572,
+    "Boylam":33.5203,
+    "Derinlik":0.0,
+    "ML":"0.9",
+    "Yer":"YANISLI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"11:36:56",
     "Enlem":37.4142,
     "Boylam":30.3955,
@@ -57,6 +67,16 @@
     "Derinlik":9.6,
     "ML":"1.6",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"10:26:54",
+    "Enlem":38.0785,
+    "Boylam":37.3567,
+    "Derinlik":3.7,
+    "ML":"1.8",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
