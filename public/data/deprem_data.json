@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"11:36:56",
+    "Enlem":37.4142,
+    "Boylam":30.3955,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"KESTEL-BUCAK (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"11:25:30",
+    "Enlem":39.181,
+    "Boylam":28.1838,
+    "Derinlik":11.9,
+    "ML":"1.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"11:23:58",
+    "Enlem":40.2712,
+    "Boylam":27.0382,
+    "Derinlik":10.8,
+    "ML":"1.1",
+    "Yer":"KOZCESME-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"11:04:10",
+    "Enlem":39.1455,
+    "Boylam":28.294,
+    "Derinlik":5.3,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"10:55:13",
     "Enlem":39.1912,
     "Boylam":28.2053,
