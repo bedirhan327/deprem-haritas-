@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"03:46:59",
+    "Enlem":39.2485,
+    "Boylam":28.0012,
+    "Derinlik":9.6,
+    "ML":"1.2",
+    "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"03:38:43",
+    "Enlem":40.2148,
+    "Boylam":27.0525,
+    "Derinlik":13.9,
+    "ML":"0.8",
+    "Yer":"GURCESME-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"03:24:12",
+    "Enlem":40.8228,
+    "Boylam":27.8813,
+    "Derinlik":17.9,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"02:59:59",
     "Enlem":39.7918,
     "Boylam":37.8102,
