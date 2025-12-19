@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"05:52:08",
+    "Enlem":39.229,
+    "Boylam":28.1525,
+    "Derinlik":9.7,
+    "ML":"1.4",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"05:39:45",
+    "Enlem":39.2618,
+    "Boylam":28.1443,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"05:39:04",
+    "Enlem":39.2262,
+    "Boylam":28.1378,
+    "Derinlik":10.5,
+    "ML":"2.8",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"05:38:13",
+    "Enlem":36.9042,
+    "Boylam":27.291,
+    "Derinlik":6.0,
+    "ML":"2.4",
+    "Yer":"KOS ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"05:24:18",
+    "Enlem":39.161,
+    "Boylam":28.226,
+    "Derinlik":14.4,
+    "ML":"2.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"05:07:57",
     "Enlem":40.283,
     "Boylam":27.0448,
@@ -87,6 +137,16 @@
     "Derinlik":9.6,
     "ML":"1.2",
     "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"03:45:09",
+    "Enlem":36.5697,
+    "Boylam":25.5478,
+    "Derinlik":6.2,
+    "ML":"1.7",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
