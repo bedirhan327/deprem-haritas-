@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"21:14:30",
+    "Enlem":39.1175,
+    "Boylam":28.1788,
+    "Derinlik":10.2,
+    "ML":"1.9",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"21:10:39",
+    "Enlem":39.5942,
+    "Boylam":25.982,
+    "Derinlik":6.5,
+    "ML":"1.8",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"20:22:24",
     "Enlem":38.2955,
     "Boylam":38.795,
     "Derinlik":5.0,
     "ML":"2.4",
     "Yer":"BOLUKKAYA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"19:58:46",
+    "Enlem":37.9678,
+    "Boylam":27.2248,
+    "Derinlik":3.8,
+    "ML":"1.2",
+    "Yer":"ZEYTINKOY-SELCUK (IZMIR)",
     "Cozum":"�lksel"
   },
   {
@@ -127,6 +157,16 @@
     "Derinlik":14.9,
     "ML":"1.2",
     "Yer":"SUCATI-ACIPAYAM (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"17:00:18",
+    "Enlem":39.1623,
+    "Boylam":28.2562,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
