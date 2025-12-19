@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"08:57:17",
+    "Enlem":39.249,
+    "Boylam":28.9953,
+    "Derinlik":5.4,
+    "ML":"2.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"08:43:10",
+    "Enlem":39.0968,
+    "Boylam":28.3342,
+    "Derinlik":10.9,
+    "ML":"1.1",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"08:25:53",
+    "Enlem":40.4363,
+    "Boylam":35.3427,
+    "Derinlik":3.5,
+    "ML":"2.0",
+    "Yer":"KARACUMA-MECITOZU (CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"08:08:55",
     "Enlem":37.0332,
     "Boylam":36.3012,
