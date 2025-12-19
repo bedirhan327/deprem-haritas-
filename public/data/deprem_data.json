@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"13:42:18",
+    "Enlem":39.2088,
+    "Boylam":28.1645,
+    "Derinlik":10.9,
+    "ML":"2.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"13:23:36",
+    "Enlem":40.4373,
+    "Boylam":28.0283,
+    "Derinlik":14.7,
+    "ML":"1.2",
+    "Yer":"KARSIYAKA-ERDEK (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"12:34:36",
     "Enlem":39.3217,
     "Boylam":27.7308,
