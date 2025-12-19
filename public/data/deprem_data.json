@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"12:34:36",
+    "Enlem":39.3217,
+    "Boylam":27.7308,
+    "Derinlik":0.0,
+    "ML":"1.3",
+    "Yer":"TURKPIYALA-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"11:55:12",
     "Enlem":36.1572,
     "Boylam":33.5203,
@@ -17,6 +27,16 @@
     "Derinlik":5.0,
     "ML":"2.2",
     "Yer":"KESTEL-BUCAK (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"11:35:51",
+    "Enlem":34.5398,
+    "Boylam":25.2135,
+    "Derinlik":5.7,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
