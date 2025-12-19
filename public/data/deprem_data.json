@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"07:44:22",
+    "Enlem":40.7323,
+    "Boylam":27.4767,
+    "Derinlik":13.5,
+    "ML":"1.8",
+    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"07:40:43",
+    "Enlem":39.1833,
+    "Boylam":28.1137,
+    "Derinlik":10.0,
+    "ML":"1.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"07:37:11",
+    "Enlem":40.2705,
+    "Boylam":24.1515,
+    "Derinlik":7.8,
+    "ML":"2.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"07:00:18",
     "Enlem":39.3318,
     "Boylam":28.0975,
