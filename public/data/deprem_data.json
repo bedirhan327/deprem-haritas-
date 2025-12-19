@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.19",
+    "Saat":"20:22:24",
+    "Enlem":38.2955,
+    "Boylam":38.795,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"BOLUKKAYA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"19:49:47",
+    "Enlem":38.3713,
+    "Boylam":38.8438,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"YENIDAMLAR-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.19",
     "Saat":"19:27:58",
     "Enlem":39.2035,
     "Boylam":28.102,
