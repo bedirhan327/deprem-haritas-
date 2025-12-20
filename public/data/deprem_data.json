@@ -1,12 +1,62 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"07:09:38",
+    "Enlem":39.1688,
+    "Boylam":28.2002,
+    "Derinlik":9.2,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"07:05:14",
+    "Enlem":35.8712,
+    "Boylam":25.022,
+    "Derinlik":71.2,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:53:34",
+    "Enlem":40.6732,
+    "Boylam":30.7455,
+    "Derinlik":7.3,
+    "ML":"3.0",
+    "Yer":"CAMLICA-HENDEK (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:43:16",
+    "Enlem":40.3523,
+    "Boylam":37.4362,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"KOKLU-RESADIYE (TOKAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"06:41:21",
     "Enlem":39.1758,
     "Boylam":28.1607,
     "Derinlik":12.0,
     "ML":"2.1",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:40:53",
+    "Enlem":39.3995,
+    "Boylam":40.4852,
+    "Derinlik":5.3,
+    "ML":"2.0",
+    "Yer":"GUZGULU-YEDISU (BINGOL)",
     "Cozum":"�lksel"
   },
   {
