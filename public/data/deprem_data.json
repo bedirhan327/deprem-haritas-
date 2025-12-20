@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"04:22:10",
+    "Enlem":39.2282,
+    "Boylam":28.1947,
+    "Derinlik":9.2,
+    "ML":"1.4",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"04:18:32",
+    "Enlem":37.9492,
+    "Boylam":38.0462,
+    "Derinlik":7.7,
+    "ML":"1.5",
+    "Yer":"RESADIYE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"03:54:04",
+    "Enlem":40.5452,
+    "Boylam":34.8583,
+    "Derinlik":4.3,
+    "ML":"2.0",
+    "Yer":"KARABURCEK-(CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"03:48:41",
     "Enlem":38.6285,
     "Boylam":43.003,
