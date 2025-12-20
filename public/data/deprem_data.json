@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"22:40:20",
+    "Enlem":39.2215,
+    "Boylam":28.153,
+    "Derinlik":9.2,
+    "ML":"1.1",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"22:15:12",
+    "Enlem":39.17,
+    "Boylam":28.2628,
+    "Derinlik":8.7,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"22:12:50",
+    "Enlem":39.209,
+    "Boylam":27.9953,
+    "Derinlik":8.5,
+    "ML":"1.9",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"21:58:07",
     "Enlem":36.3185,
     "Boylam":35.9683,
