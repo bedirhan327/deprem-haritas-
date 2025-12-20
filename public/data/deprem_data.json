@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"08:07:47",
+    "Enlem":39.0277,
+    "Boylam":25.9545,
+    "Derinlik":8.5,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"08:06:41",
+    "Enlem":39.034,
+    "Boylam":25.9717,
+    "Derinlik":6.9,
+    "ML":"2.5",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"07:51:20",
+    "Enlem":39.4822,
+    "Boylam":26.1892,
+    "Derinlik":5.9,
+    "ML":"2.3",
+    "Yer":"KOYUNEVI-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"07:34:24",
+    "Enlem":39.1833,
+    "Boylam":28.2368,
+    "Derinlik":9.9,
+    "ML":"1.4",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"07:09:38",
     "Enlem":39.1688,
     "Boylam":28.2002,
