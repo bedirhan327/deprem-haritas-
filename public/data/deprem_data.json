@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"21:58:07",
+    "Enlem":36.3185,
+    "Boylam":35.9683,
+    "Derinlik":1.2,
+    "ML":"2.4",
+    "Yer":"KARAGOZ-ARSUZ (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"21:45:10",
+    "Enlem":37.0257,
+    "Boylam":36.0708,
+    "Derinlik":5.6,
+    "ML":"2.9",
+    "Yer":"BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"21:10:33",
+    "Enlem":39.201,
+    "Boylam":28.1302,
+    "Derinlik":12.4,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"20:51:08",
     "Enlem":39.2152,
     "Boylam":28.1372,
