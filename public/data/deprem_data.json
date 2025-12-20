@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"13:29:28",
+    "Enlem":37.4298,
+    "Boylam":37.0075,
+    "Derinlik":6.8,
+    "ML":"1.6",
+    "Yer":"SIVRICEHUYUK-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"12:57:49",
+    "Enlem":38.0895,
+    "Boylam":37.842,
+    "Derinlik":18.8,
+    "ML":"1.3",
+    "Yer":"TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"12:48:20",
+    "Enlem":40.003,
+    "Boylam":27.0125,
+    "Derinlik":9.2,
+    "ML":"1.5",
+    "Yer":"CEKICLER-CAN (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"12:35:34",
+    "Enlem":36.7747,
+    "Boylam":36.5638,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"ASAGIKARAFAKILI-HASSA (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"12:25:59",
     "Enlem":40.8405,
     "Boylam":30.9845,
