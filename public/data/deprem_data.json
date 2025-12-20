@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"23:50:02",
+    "Enlem":39.1953,
+    "Boylam":28.1815,
+    "Derinlik":9.5,
+    "ML":"1.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"23:34:26",
+    "Enlem":40.1302,
+    "Boylam":27.1777,
+    "Derinlik":22.7,
+    "ML":"1.0",
+    "Yer":"KATRANCI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"23:09:58",
     "Enlem":39.1937,
     "Boylam":28.1977,
