@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"01:11:21",
+    "Enlem":39.089,
+    "Boylam":28.3225,
+    "Derinlik":12.3,
+    "ML":"1.3",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"01:07:21",
+    "Enlem":39.1872,
+    "Boylam":28.265,
+    "Derinlik":8.5,
+    "ML":"1.7",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"00:23:40",
     "Enlem":39.1702,
     "Boylam":28.2275,
