@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"03:48:41",
+    "Enlem":38.6285,
+    "Boylam":43.003,
+    "Derinlik":5.1,
+    "ML":"1.8",
+    "Yer":"VAN GOLU",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"03:48:39",
+    "Enlem":39.2612,
+    "Boylam":29.0162,
+    "Derinlik":6.1,
+    "ML":"2.1",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"03:34:03",
+    "Enlem":39.2125,
+    "Boylam":28.1052,
+    "Derinlik":12.1,
+    "ML":"1.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"03:25:14",
+    "Enlem":39.268,
+    "Boylam":28.1513,
+    "Derinlik":10.6,
+    "ML":"1.4",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"03:15:13",
     "Enlem":39.2133,
     "Boylam":28.0713,
