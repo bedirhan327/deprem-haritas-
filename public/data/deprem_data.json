@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"15:46:51",
+    "Enlem":38.906,
+    "Boylam":27.863,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"YENIDOGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"15:34:18",
+    "Enlem":39.2348,
+    "Boylam":28.193,
+    "Derinlik":12.3,
+    "ML":"1.3",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"15:25:47",
+    "Enlem":39.1885,
+    "Boylam":28.2268,
+    "Derinlik":10.6,
+    "ML":"3.2",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"15:05:02",
+    "Enlem":39.1925,
+    "Boylam":25.9457,
+    "Derinlik":11.7,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"14:57:20",
+    "Enlem":40.664,
+    "Boylam":30.7412,
+    "Derinlik":18.4,
+    "ML":"1.8",
+    "Yer":"GUZLEK-AKYAZI (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"14:35:25",
     "Enlem":39.3378,
     "Boylam":25.969,
