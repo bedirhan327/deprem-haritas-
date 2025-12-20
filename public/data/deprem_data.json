@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"20:51:08",
+    "Enlem":39.2152,
+    "Boylam":28.1372,
+    "Derinlik":7.7,
+    "ML":"2.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"20:45:23",
+    "Enlem":39.2333,
+    "Boylam":29.066,
+    "Derinlik":7.9,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"20:43:31",
+    "Enlem":39.2327,
+    "Boylam":29.0177,
+    "Derinlik":13.5,
+    "ML":"3.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"20:30:05",
+    "Enlem":39.1912,
+    "Boylam":28.1078,
+    "Derinlik":15.1,
+    "ML":"1.2",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"19:55:32",
+    "Enlem":39.2427,
+    "Boylam":28.1125,
+    "Derinlik":9.6,
+    "ML":"2.0",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"19:20:47",
+    "Enlem":37.7225,
+    "Boylam":35.33,
+    "Derinlik":3.9,
+    "ML":"2.0",
+    "Yer":"KAPUZBASI-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"19:11:49",
     "Enlem":39.1987,
     "Boylam":28.2533,
