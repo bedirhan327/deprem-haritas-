@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"06:41:21",
+    "Enlem":39.1758,
+    "Boylam":28.1607,
+    "Derinlik":12.0,
+    "ML":"2.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:39:51",
+    "Enlem":39.1757,
+    "Boylam":28.1677,
+    "Derinlik":9.8,
+    "ML":"2.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:30:43",
+    "Enlem":37.0485,
+    "Boylam":28.83,
+    "Derinlik":4.0,
+    "ML":"1.4",
+    "Yer":"YAYLA-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:29:58",
+    "Enlem":39.1977,
+    "Boylam":28.3052,
+    "Derinlik":13.7,
+    "ML":"1.3",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"06:23:23",
+    "Enlem":35.9485,
+    "Boylam":31.599,
+    "Derinlik":28.5,
+    "ML":"1.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"06:10:46",
     "Enlem":39.1298,
     "Boylam":28.2803,
