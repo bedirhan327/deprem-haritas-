@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"14:19:14",
+    "Enlem":40.4128,
+    "Boylam":26.1148,
+    "Derinlik":9.9,
+    "ML":"2.1",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"14:15:14",
+    "Enlem":39.8492,
+    "Boylam":40.8632,
+    "Derinlik":21.1,
+    "ML":"2.4",
+    "Yer":"DUZYURT-ASKALE (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"14:13:26",
+    "Enlem":39.6157,
+    "Boylam":38.7353,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"CIGDEMLI-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"14:11:21",
+    "Enlem":39.1815,
+    "Boylam":28.435,
+    "Derinlik":7.8,
+    "ML":"1.1",
+    "Yer":"SAPCI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"13:31:10",
+    "Enlem":39.8732,
+    "Boylam":38.9537,
+    "Derinlik":13.1,
+    "ML":"1.9",
+    "Yer":"YURTBASI-REFAHIYE (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"13:29:28",
     "Enlem":37.4298,
     "Boylam":37.0075,
