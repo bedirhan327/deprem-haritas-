@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"19:04:52",
+    "Enlem":37.0163,
+    "Boylam":36.3885,
+    "Derinlik":4.9,
+    "ML":"2.7",
+    "Yer":"YARPUZ-(OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"17:53:18",
     "Enlem":38.1283,
     "Boylam":37.0287,
@@ -27,6 +37,16 @@
     "Derinlik":11.9,
     "ML":"1.6",
     "Yer":"KARAKIRAN-SARAYKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"17:18:36",
+    "Enlem":37.3495,
+    "Boylam":37.0933,
+    "Derinlik":9.3,
+    "ML":"1.4",
+    "Yer":"SARIERIK-PAZARCIK (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
