@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"16:49:30",
+    "Enlem":37.229,
+    "Boylam":28.3455,
+    "Derinlik":19.6,
+    "ML":"1.4",
+    "Yer":"MUGLA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"16:43:10",
+    "Enlem":39.2087,
+    "Boylam":28.0723,
+    "Derinlik":13.2,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"16:35:46",
+    "Enlem":37.7962,
+    "Boylam":36.2612,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"16:28:44",
+    "Enlem":39.1513,
+    "Boylam":28.2882,
+    "Derinlik":11.5,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"16:11:05",
     "Enlem":39.1713,
     "Boylam":28.1222,
