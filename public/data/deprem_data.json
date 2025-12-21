@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"13:05:52",
+    "Enlem":36.8837,
+    "Boylam":34.6037,
+    "Derinlik":11.2,
+    "ML":"2.5",
+    "Yer":"RESULKOY-TOROSLAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:57:23",
+    "Enlem":39.9123,
+    "Boylam":40.0463,
+    "Derinlik":16.2,
+    "ML":"2.0",
+    "Yer":"BOLUKOVA-CAYIRLI (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:41:14",
+    "Enlem":37.9342,
+    "Boylam":27.5483,
+    "Derinlik":14.9,
+    "ML":"1.5",
+    "Yer":"ABDURRAHMANLAR-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:27:16",
+    "Enlem":38.9287,
+    "Boylam":37.9027,
+    "Derinlik":6.1,
+    "ML":"1.9",
+    "Yer":"CULHALI-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:07:18",
+    "Enlem":39.074,
+    "Boylam":27.999,
+    "Derinlik":10.5,
+    "ML":"0.9",
+    "Yer":"BASLAMIS-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"11:52:11",
     "Enlem":36.9875,
     "Boylam":36.4387,
