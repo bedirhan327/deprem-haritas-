@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"01:18:25",
+    "Enlem":38.1598,
+    "Boylam":38.1888,
+    "Derinlik":1.3,
+    "ML":"2.2",
+    "Yer":"ATALAR-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"01:08:40",
+    "Enlem":39.1553,
+    "Boylam":27.911,
+    "Derinlik":7.3,
+    "ML":"1.3",
+    "Yer":"YAYKIN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"01:07:08",
+    "Enlem":38.4895,
+    "Boylam":39.6715,
+    "Derinlik":5.4,
+    "ML":"1.7",
+    "Yer":"KASLICA-MADEN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"00:25:24",
     "Enlem":39.1685,
     "Boylam":27.9495,
