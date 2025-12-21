@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"20:22:27",
+    "Enlem":39.168,
+    "Boylam":29.0222,
+    "Derinlik":11.6,
+    "ML":"1.1",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"20:21:20",
+    "Enlem":37.7977,
+    "Boylam":28.9545,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"ALTINDERE-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"20:07:33",
     "Enlem":37.803,
     "Boylam":28.9462,
     "Derinlik":7.1,
     "ML":"2.6",
     "Yer":"MOLLAAHMET-BABADAG (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"20:03:02",
+    "Enlem":37.7222,
+    "Boylam":28.8987,
+    "Derinlik":8.2,
+    "ML":"1.2",
+    "Yer":"DIKMEN-KARACASU (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"19:55:19",
+    "Enlem":39.1847,
+    "Boylam":29.0448,
+    "Derinlik":1.7,
+    "ML":"1.2",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
