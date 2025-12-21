@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"13:25:41",
+    "Enlem":39.2453,
+    "Boylam":29.0275,
+    "Derinlik":5.2,
+    "ML":"0.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"13:11:14",
+    "Enlem":39.2672,
+    "Boylam":29.3553,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"SEYHCAKIR-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"13:05:52",
     "Enlem":36.8837,
     "Boylam":34.6037,
