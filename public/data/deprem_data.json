@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"09:43:40",
+    "Enlem":39.1767,
+    "Boylam":27.9622,
+    "Derinlik":12.3,
+    "ML":"1.1",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"09:41:02",
+    "Enlem":40.03,
+    "Boylam":23.664,
+    "Derinlik":3.9,
+    "ML":"1.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"09:18:47",
     "Enlem":39.2437,
     "Boylam":29.0122,
