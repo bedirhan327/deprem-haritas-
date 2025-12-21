@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"03:46:49",
+    "Enlem":38.1395,
+    "Boylam":37.0163,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"ORTAKLI-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"03:33:15",
+    "Enlem":39.148,
+    "Boylam":28.06,
+    "Derinlik":9.6,
+    "ML":"1.6",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"03:24:08",
     "Enlem":39.168,
     "Boylam":28.222,
