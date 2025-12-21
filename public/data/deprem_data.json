@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"21:04:39",
+    "Enlem":39.2025,
+    "Boylam":28.16,
+    "Derinlik":7.6,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"20:58:34",
+    "Enlem":38.0418,
+    "Boylam":36.6663,
+    "Derinlik":15.8,
+    "ML":"1.7",
+    "Yer":"GUCUKSU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"20:51:08",
+    "Enlem":39.2068,
+    "Boylam":29.0028,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"20:47:56",
+    "Enlem":39.5615,
+    "Boylam":26.1655,
+    "Derinlik":4.6,
+    "ML":"2.2",
+    "Yer":"TUZLA-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"20:22:27",
     "Enlem":39.168,
     "Boylam":29.0222,
