@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"02:24:35",
+    "Enlem":39.1992,
+    "Boylam":28.1505,
+    "Derinlik":10.7,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"02:22:12",
+    "Enlem":38.3082,
+    "Boylam":37.7818,
+    "Derinlik":9.7,
+    "ML":"1.6",
+    "Yer":"DUTLU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"02:20:57",
     "Enlem":38.2133,
     "Boylam":38.1435,
