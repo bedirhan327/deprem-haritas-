@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"11:52:11",
+    "Enlem":36.9875,
+    "Boylam":36.4387,
+    "Derinlik":7.6,
+    "ML":"1.8",
+    "Yer":"KULLU-(OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"11:41:00",
+    "Enlem":39.1512,
+    "Boylam":28.243,
+    "Derinlik":8.8,
+    "ML":"1.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"11:32:29",
+    "Enlem":39.1262,
+    "Boylam":29.0348,
+    "Derinlik":3.9,
+    "ML":"0.9",
+    "Yer":"KAPIKAYA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"11:04:00",
     "Enlem":38.2955,
     "Boylam":38.1713,
