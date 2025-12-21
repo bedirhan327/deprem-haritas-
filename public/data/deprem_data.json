@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"10:23:15",
+    "Enlem":36.7007,
+    "Boylam":28.803,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"KAPIKARGIN-DALAMAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"10:13:26",
+    "Enlem":38.431,
+    "Boylam":39.2622,
+    "Derinlik":5.6,
+    "ML":"2.4",
+    "Yer":"DUZBAHCE-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"09:51:05",
+    "Enlem":39.1803,
+    "Boylam":28.2273,
+    "Derinlik":11.0,
+    "ML":"2.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"09:48:56",
+    "Enlem":39.137,
+    "Boylam":28.3393,
+    "Derinlik":15.1,
+    "ML":"1.4",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"09:43:40",
     "Enlem":39.1767,
     "Boylam":27.9622,
