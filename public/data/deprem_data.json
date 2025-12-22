@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"13:43:26",
+    "Enlem":39.1393,
+    "Boylam":28.0988,
+    "Derinlik":11.3,
+    "ML":"1.3",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"13:41:09",
+    "Enlem":38.7257,
+    "Boylam":27.9318,
+    "Derinlik":8.1,
+    "ML":"1.6",
+    "Yer":"GOLMARMARA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"13:08:20",
     "Enlem":37.0308,
     "Boylam":36.963,
     "Derinlik":8.5,
     "ML":"1.8",
     "Yer":"BOZKAYA-MUSABEYLI (KILIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"13:03:37",
+    "Enlem":40.7838,
+    "Boylam":31.8922,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"BUNUS-(BOLU)",
     "Cozum":"�lksel"
   },
   {
