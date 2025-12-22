@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"20:57:45",
+    "Enlem":39.2037,
+    "Boylam":28.1108,
+    "Derinlik":9.6,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"20:55:57",
+    "Enlem":38.1412,
+    "Boylam":36.7035,
+    "Derinlik":17.2,
+    "ML":"1.4",
+    "Yer":"KARAOMER-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"20:41:39",
     "Enlem":39.2183,
     "Boylam":28.1398,
