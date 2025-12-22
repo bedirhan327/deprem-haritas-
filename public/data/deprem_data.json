@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"13:08:20",
+    "Enlem":37.0308,
+    "Boylam":36.963,
+    "Derinlik":8.5,
+    "ML":"1.8",
+    "Yer":"BOZKAYA-MUSABEYLI (KILIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"12:58:21",
+    "Enlem":40.1847,
+    "Boylam":31.7605,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"12:53:21",
+    "Enlem":39.2383,
+    "Boylam":29.2777,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"YUKARIYONCAAGAC-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"12:38:37",
     "Enlem":39.1218,
     "Boylam":28.2995,
@@ -57,6 +87,16 @@
     "Derinlik":14.9,
     "ML":"1.2",
     "Yer":"SALKONAK-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"11:48:05",
+    "Enlem":38.3485,
+    "Boylam":37.0347,
+    "Derinlik":66.2,
+    "ML":"1.2",
+    "Yer":"COGULHAN-AFSIN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
