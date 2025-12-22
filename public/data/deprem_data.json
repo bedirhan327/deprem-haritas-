@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"09:13:23",
+    "Enlem":39.3623,
+    "Boylam":44.0512,
+    "Derinlik":15.8,
+    "ML":"1.8",
+    "Yer":"KIZILKAYA-DOGUBAYAZIT (AGRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"09:04:13",
+    "Enlem":36.6835,
+    "Boylam":28.2497,
+    "Derinlik":55.7,
+    "ML":"1.7",
+    "Yer":"OSMANIYE-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"08:40:50",
     "Enlem":39.2202,
     "Boylam":28.1282,
