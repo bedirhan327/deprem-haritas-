@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"05:49:02",
+    "Enlem":37.8083,
+    "Boylam":36.2273,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"KAPAKLIKUYU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"05:35:53",
+    "Enlem":39.2315,
+    "Boylam":28.1098,
+    "Derinlik":7.1,
+    "ML":"1.4",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"04:33:32",
     "Enlem":40.7028,
     "Boylam":29.2533,
