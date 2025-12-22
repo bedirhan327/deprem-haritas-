@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"22:58:22",
+    "Enlem":39.2138,
+    "Boylam":28.0995,
+    "Derinlik":16.3,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"22:37:59",
     "Enlem":38.8005,
     "Boylam":37.9352,
     "Derinlik":5.0,
     "ML":"1.3",
     "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"22:33:21",
+    "Enlem":39.3778,
+    "Boylam":28.8408,
+    "Derinlik":13.2,
+    "ML":"1.5",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
