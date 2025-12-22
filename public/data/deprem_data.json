@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"18:17:09",
+    "Enlem":39.22,
+    "Boylam":28.9857,
+    "Derinlik":5.4,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"18:00:23",
+    "Enlem":39.1765,
+    "Boylam":27.9502,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"17:52:45",
     "Enlem":39.2088,
     "Boylam":29.0437,
