@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"15:39:50",
+    "Enlem":37.0365,
+    "Boylam":28.8945,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"15:37:49",
+    "Enlem":38.8387,
+    "Boylam":26.4295,
+    "Derinlik":8.1,
+    "ML":"2.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"15:24:27",
+    "Enlem":39.358,
+    "Boylam":40.6655,
+    "Derinlik":6.3,
+    "ML":"1.9",
+    "Yer":"DINARBEY-YEDISU (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"14:56:32",
     "Enlem":39.1765,
     "Boylam":28.0975,
