@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"17:52:45",
+    "Enlem":39.2088,
+    "Boylam":29.0437,
+    "Derinlik":17.2,
+    "ML":"0.9",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"17:44:25",
+    "Enlem":39.221,
+    "Boylam":28.1535,
+    "Derinlik":8.9,
+    "ML":"2.0",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"17:32:25",
+    "Enlem":38.3088,
+    "Boylam":38.1825,
+    "Derinlik":10.0,
+    "ML":"2.8",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"17:26:43",
+    "Enlem":38.8193,
+    "Boylam":26.4262,
+    "Derinlik":5.4,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"17:23:48",
+    "Enlem":37.9492,
+    "Boylam":38.1825,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"SARIKAYA-(ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"17:03:52",
     "Enlem":39.802,
     "Boylam":39.1237,
