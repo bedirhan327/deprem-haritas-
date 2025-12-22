@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"08:24:10",
+    "Enlem":39.1795,
+    "Boylam":28.3258,
+    "Derinlik":7.5,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"08:00:09",
+    "Enlem":39.0925,
+    "Boylam":28.324,
+    "Derinlik":10.8,
+    "ML":"1.9",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"07:51:52",
+    "Enlem":39.8543,
+    "Boylam":25.7,
+    "Derinlik":6.1,
+    "ML":"2.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"07:47:20",
+    "Enlem":37.8132,
+    "Boylam":28.9723,
+    "Derinlik":17.4,
+    "ML":"1.6",
+    "Yer":"YESILYAYLA-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"07:31:01",
     "Enlem":40.3108,
     "Boylam":24.1068,
