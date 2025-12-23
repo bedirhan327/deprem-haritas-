@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"23:24:07",
+    "Enlem":38.1132,
+    "Boylam":32.5947,
+    "Derinlik":7.4,
+    "ML":"2.1",
+    "Yer":"CANDIR-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"23:14:20",
+    "Enlem":38.1162,
+    "Boylam":32.5765,
+    "Derinlik":8.2,
+    "ML":"1.5",
+    "Yer":"CALTI-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"23:06:46",
+    "Enlem":40.3535,
+    "Boylam":24.1297,
+    "Derinlik":8.4,
+    "ML":"3.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"22:41:38",
     "Enlem":39.1605,
     "Boylam":28.2345,
