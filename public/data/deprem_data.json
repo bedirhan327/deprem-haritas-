@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"09:48:34",
+    "Enlem":39.1515,
+    "Boylam":29.0423,
+    "Derinlik":4.3,
+    "ML":"1.4",
+    "Yer":"AHLATLICESME-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"09:45:36",
+    "Enlem":38.0248,
+    "Boylam":36.64,
+    "Derinlik":2.4,
+    "ML":"2.0",
+    "Yer":"ELMALI-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"08:39:22",
     "Enlem":38.9768,
     "Boylam":28.376,
