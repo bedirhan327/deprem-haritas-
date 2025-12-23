@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"18:02:59",
+    "Enlem":39.0787,
+    "Boylam":28.0668,
+    "Derinlik":13.2,
+    "ML":"1.3",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"17:57:26",
+    "Enlem":39.7545,
+    "Boylam":39.7528,
+    "Derinlik":15.1,
+    "ML":"1.4",
+    "Yer":"UZUMLU (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"17:54:33",
+    "Enlem":38.878,
+    "Boylam":27.2863,
+    "Derinlik":12.0,
+    "ML":"1.6",
+    "Yer":"SUNGULLU-(MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"17:32:23",
+    "Enlem":38.4528,
+    "Boylam":42.59,
+    "Derinlik":8.5,
+    "ML":"1.8",
+    "Yer":"KURUYAKA-TATVAN (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"16:50:34",
     "Enlem":40.363,
     "Boylam":27.675,
