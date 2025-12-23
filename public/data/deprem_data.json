@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"12:26:32",
+    "Enlem":40.4885,
+    "Boylam":29.2927,
+    "Derinlik":5.0,
+    "ML":"1.0",
+    "Yer":"ORHANGAZI (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"12:15:38",
+    "Enlem":39.2535,
+    "Boylam":28.091,
+    "Derinlik":5.3,
+    "ML":"1.5",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"12:12:40",
+    "Enlem":39.204,
+    "Boylam":29.0705,
+    "Derinlik":11.5,
+    "ML":"1.0",
+    "Yer":"TOKAT-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"12:04:18",
+    "Enlem":39.4273,
+    "Boylam":27.4872,
+    "Derinlik":28.9,
+    "ML":"1.6",
+    "Yer":"CUKURLAR-IVRINDI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"11:45:04",
     "Enlem":39.3533,
     "Boylam":28.0453,
