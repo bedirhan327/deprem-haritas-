@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"19:16:56",
+    "Enlem":39.0533,
+    "Boylam":28.0928,
+    "Derinlik":12.4,
+    "ML":"1.1",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"18:53:09",
+    "Enlem":38.7362,
+    "Boylam":37.9683,
+    "Derinlik":5.3,
+    "ML":"1.7",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"18:25:24",
     "Enlem":38.757,
     "Boylam":37.9495,
@@ -57,6 +77,16 @@
     "Derinlik":8.5,
     "ML":"1.8",
     "Yer":"KURUYAKA-TATVAN (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"17:28:23",
+    "Enlem":35.0135,
+    "Boylam":26.2777,
+    "Derinlik":18.4,
+    "ML":"2.3",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
