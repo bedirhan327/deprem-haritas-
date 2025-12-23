@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"12:45:10",
+    "Enlem":37.8062,
+    "Boylam":29.0252,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"BASKARCI-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"12:35:28",
+    "Enlem":39.0145,
+    "Boylam":39.5687,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KALAYCI-MAZGIRT (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"12:26:32",
     "Enlem":40.4885,
     "Boylam":29.2927,
     "Derinlik":5.0,
     "ML":"1.0",
     "Yer":"ORHANGAZI (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"12:17:46",
+    "Enlem":37.5017,
+    "Boylam":42.6238,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"BALVEREN-(SIRNAK)",
     "Cozum":"�lksel"
   },
   {
