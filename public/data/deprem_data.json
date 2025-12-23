@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"21:39:33",
+    "Enlem":38.1423,
+    "Boylam":38.543,
+    "Derinlik":10.2,
+    "ML":"1.4",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"21:35:56",
+    "Enlem":39.1927,
+    "Boylam":28.0832,
+    "Derinlik":8.4,
+    "ML":"1.2",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"21:29:20",
+    "Enlem":38.7337,
+    "Boylam":37.9768,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"21:25:01",
+    "Enlem":38.7632,
+    "Boylam":37.9713,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"21:09:47",
     "Enlem":40.7937,
     "Boylam":27.4113,
@@ -37,6 +77,16 @@
     "Derinlik":4.8,
     "ML":"1.1",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"20:36:05",
+    "Enlem":39.5193,
+    "Boylam":40.7347,
+    "Derinlik":26.5,
+    "ML":"1.2",
+    "Yer":"SALTAS-CAT (ERZURUM)",
     "Cozum":"�lksel"
   },
   {
