@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"22:20:38",
+    "Enlem":38.1083,
+    "Boylam":32.6132,
+    "Derinlik":5.0,
+    "ML":"3.5",
+    "Yer":"SARICALAR-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"22:14:33",
+    "Enlem":39.1665,
+    "Boylam":28.2293,
+    "Derinlik":10.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"22:12:32",
+    "Enlem":39.1675,
+    "Boylam":28.236,
+    "Derinlik":12.2,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"22:06:07",
+    "Enlem":39.1117,
+    "Boylam":28.2385,
+    "Derinlik":12.1,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"21:56:47",
+    "Enlem":38.1545,
+    "Boylam":38.4853,
+    "Derinlik":12.4,
+    "ML":"1.2",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"21:39:33",
     "Enlem":38.1423,
     "Boylam":38.543,
