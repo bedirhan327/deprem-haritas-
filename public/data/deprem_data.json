@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"15:24:07",
+    "Enlem":36.1312,
+    "Boylam":33.584,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"BUYUKECELI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"15:15:49",
+    "Enlem":36.0478,
+    "Boylam":33.5707,
+    "Derinlik":5.0,
+    "ML":"0.9",
+    "Yer":"AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"15:00:53",
+    "Enlem":39.1957,
+    "Boylam":40.3233,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"DEMIRKANAT-KIGI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:56:58",
+    "Enlem":39.168,
+    "Boylam":28.296,
+    "Derinlik":9.8,
+    "ML":"2.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:52:50",
+    "Enlem":39.158,
+    "Boylam":27.8478,
+    "Derinlik":8.9,
+    "ML":"1.4",
+    "Yer":"GELENBE-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:48:16",
+    "Enlem":38.8062,
+    "Boylam":27.354,
+    "Derinlik":8.3,
+    "ML":"1.7",
+    "Yer":"DAVUTLAR-(MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"14:01:48",
     "Enlem":37.7055,
     "Boylam":28.8728,
