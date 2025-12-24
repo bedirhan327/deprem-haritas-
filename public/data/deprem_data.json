@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"12:10:28",
+    "Enlem":38.2718,
+    "Boylam":37.1543,
+    "Derinlik":5.4,
+    "ML":"1.7",
+    "Yer":"AGLICA-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"12:01:26",
+    "Enlem":39.8538,
+    "Boylam":26.2577,
+    "Derinlik":1.4,
+    "ML":"1.3",
+    "Yer":"BOZALAN-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"11:59:44",
+    "Enlem":38.3248,
+    "Boylam":39.1248,
+    "Derinlik":21.5,
+    "ML":"1.4",
+    "Yer":"AKKENT-DOGANYOL (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"11:45:25",
+    "Enlem":39.187,
+    "Boylam":28.3477,
+    "Derinlik":6.9,
+    "ML":"1.4",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"11:41:07",
+    "Enlem":39.2828,
+    "Boylam":27.716,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"KOZLUOREN-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"11:12:53",
     "Enlem":39.1703,
     "Boylam":28.2053,
