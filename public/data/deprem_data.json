@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2025.12.25",
+    "Saat":"00:47:23",
+    "Enlem":38.29,
+    "Boylam":37.1283,
+    "Derinlik":4.8,
+    "ML":"1.4",
+    "Yer":"BALIKCIL-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"00:32:41",
+    "Enlem":36.7048,
+    "Boylam":25.6985,
+    "Derinlik":6.7,
+    "ML":"3.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"00:18:31",
+    "Enlem":39.4277,
+    "Boylam":23.8685,
+    "Derinlik":17.8,
+    "ML":"2.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.24",
     "Saat":"23:35:31",
     "Enlem":36.0905,
