@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"19:39:38",
+    "Enlem":39.3775,
+    "Boylam":28.8463,
+    "Derinlik":14.0,
+    "ML":"1.4",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR) REVIZE01 (2025.12.24",
+    "Cozum":"19:39:38)"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"19:25:34",
+    "Enlem":38.241,
+    "Boylam":38.1748,
+    "Derinlik":15.8,
+    "ML":"1.4",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"19:23:00",
     "Enlem":38.2472,
     "Boylam":38.8707,
