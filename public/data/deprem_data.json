@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"03:15:17",
+    "Enlem":38.1047,
+    "Boylam":36.919,
+    "Derinlik":1.9,
+    "ML":"1.6",
+    "Yer":"KEMALPASA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"02:48:27",
+    "Enlem":38.393,
+    "Boylam":37.2148,
+    "Derinlik":11.2,
+    "ML":"1.3",
+    "Yer":"HACIHASANLI-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"02:44:18",
     "Enlem":39.1542,
     "Boylam":28.353,
