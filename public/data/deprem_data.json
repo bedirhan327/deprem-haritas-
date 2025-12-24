@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"17:50:09",
+    "Enlem":39.2082,
+    "Boylam":28.181,
+    "Derinlik":10.7,
+    "ML":"2.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"17:42:46",
+    "Enlem":36.3098,
+    "Boylam":27.7675,
+    "Derinlik":5.4,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"17:30:09",
+    "Enlem":38.7667,
+    "Boylam":37.9468,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"16:26:00",
     "Enlem":38.7715,
     "Boylam":37.9283,
