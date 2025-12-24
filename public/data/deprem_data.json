@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"20:28:17",
+    "Enlem":38.3365,
+    "Boylam":42.6662,
+    "Derinlik":3.7,
+    "ML":"1.8",
+    "Yer":"KORUKLU-TATVAN (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"20:22:22",
+    "Enlem":38.3262,
+    "Boylam":42.6778,
+    "Derinlik":4.4,
+    "ML":"3.0",
+    "Yer":"KAGANLI-TATVAN (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"19:39:38",
     "Enlem":39.3775,
     "Boylam":28.8463,
