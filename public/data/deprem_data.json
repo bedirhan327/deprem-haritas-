@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"22:18:36",
+    "Enlem":38.8303,
+    "Boylam":33.3643,
+    "Derinlik":5.3,
+    "ML":"1.3",
+    "Yer":"HAMZALI-SEREFLIKOCHISAR (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"22:07:27",
+    "Enlem":38.739,
+    "Boylam":33.6022,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"CALOREN-SEREFLIKOCHISAR (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"21:08:42",
     "Enlem":36.0653,
     "Boylam":25.3518,
