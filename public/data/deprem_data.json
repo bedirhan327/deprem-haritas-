@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"21:08:42",
+    "Enlem":36.0653,
+    "Boylam":25.3518,
+    "Derinlik":8.5,
+    "ML":"2.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"21:02:33",
+    "Enlem":37.0533,
+    "Boylam":28.4742,
+    "Derinlik":11.7,
+    "ML":"1.5",
+    "Yer":"PORTAKALLIK-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"20:28:17",
     "Enlem":38.3365,
     "Boylam":42.6662,
