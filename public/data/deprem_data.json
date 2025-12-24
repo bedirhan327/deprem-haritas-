@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"22:40:53",
+    "Enlem":34.6822,
+    "Boylam":32.8943,
+    "Derinlik":4.9,
+    "ML":"2.1",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"22:24:46",
+    "Enlem":39.9438,
+    "Boylam":27.633,
+    "Derinlik":12.4,
+    "ML":"1.7",
+    "Yer":"SEBEPLI-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"22:18:36",
     "Enlem":38.8303,
     "Boylam":33.3643,
