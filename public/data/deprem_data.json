@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"02:44:18",
+    "Enlem":39.1542,
+    "Boylam":28.353,
+    "Derinlik":12.6,
+    "ML":"1.4",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"02:43:00",
+    "Enlem":38.1312,
+    "Boylam":36.5967,
+    "Derinlik":2.3,
+    "ML":"1.8",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"02:26:58",
+    "Enlem":38.4055,
+    "Boylam":30.3642,
+    "Derinlik":7.9,
+    "ML":"1.5",
+    "Yer":"KARGIN-SANDIKLI (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"02:22:28",
+    "Enlem":37.8987,
+    "Boylam":27.6977,
+    "Derinlik":3.9,
+    "ML":"1.2",
+    "Yer":"ARZULAR-INCIRLIOVA (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"02:20:10",
+    "Enlem":37.9255,
+    "Boylam":27.6962,
+    "Derinlik":10.5,
+    "ML":"1.2",
+    "Yer":"EGREK-INCIRLIOVA (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"02:14:39",
+    "Enlem":38.726,
+    "Boylam":37.9753,
+    "Derinlik":10.0,
+    "ML":"1.3",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"01:45:45",
     "Enlem":39.3883,
     "Boylam":28.8002,
