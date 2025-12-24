@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"23:22:44",
+    "Enlem":39.2587,
+    "Boylam":28.9732,
+    "Derinlik":13.4,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"22:55:55",
+    "Enlem":38.833,
+    "Boylam":37.4633,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"KULAHLI-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"22:55:25",
+    "Enlem":40.1765,
+    "Boylam":31.7473,
+    "Derinlik":7.5,
+    "ML":"2.3",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"22:40:53",
     "Enlem":34.6822,
     "Boylam":32.8943,
