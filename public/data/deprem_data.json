@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"09:37:05",
+    "Enlem":39.1403,
+    "Boylam":28.208,
+    "Derinlik":13.2,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"09:35:01",
+    "Enlem":39.0885,
+    "Boylam":29.0347,
+    "Derinlik":10.7,
+    "ML":"1.4",
+    "Yer":"GOKCELER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"09:23:21",
+    "Enlem":39.1997,
+    "Boylam":28.0413,
+    "Derinlik":8.6,
+    "ML":"1.2",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"09:07:45",
     "Enlem":39.2403,
     "Boylam":29.0377,
