@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"15:53:04",
+    "Enlem":39.141,
+    "Boylam":28.2732,
+    "Derinlik":12.3,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"15:30:27",
+    "Enlem":39.2238,
+    "Boylam":28.1862,
+    "Derinlik":8.6,
+    "ML":"2.1",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"14:55:58",
     "Enlem":37.956,
     "Boylam":28.7952,
