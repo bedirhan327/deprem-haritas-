@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"19:43:29",
+    "Enlem":37.8198,
+    "Boylam":29.132,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"DENIZLI (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"19:35:02",
+    "Enlem":38.5412,
+    "Boylam":40.3693,
+    "Derinlik":7.5,
+    "ML":"1.5",
+    "Yer":"KALEDIBI-HANI (DIYARBAKIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"19:23:01",
+    "Enlem":36.9732,
+    "Boylam":35.5482,
+    "Derinlik":7.8,
+    "ML":"1.9",
+    "Yer":"HASANBEYLI-SARICAM (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"19:15:17",
+    "Enlem":40.8172,
+    "Boylam":31.912,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"DEREKOY-YENICAGA (BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"19:07:36",
     "Enlem":38.4187,
     "Boylam":37.522,
