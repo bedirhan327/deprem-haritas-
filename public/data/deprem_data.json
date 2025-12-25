@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2025.12.26",
+    "Saat":"00:24:49",
+    "Enlem":39.2352,
+    "Boylam":28.1785,
+    "Derinlik":7.5,
+    "ML":"1.4",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:11:19",
+    "Enlem":40.2053,
+    "Boylam":35.3678,
+    "Derinlik":2.3,
+    "ML":"2.4",
+    "Yer":"UZUMLUK-AYDINCIK (YOZGAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:03:28",
+    "Enlem":37.2015,
+    "Boylam":36.511,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"ARIKLIKAS-BAHCE (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2025.12.25",
     "Saat":"23:40:04",
     "Enlem":38.0978,
