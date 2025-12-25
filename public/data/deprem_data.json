@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"00:50:17",
+    "Enlem":39.2313,
+    "Boylam":28.1335,
+    "Derinlik":9.5,
+    "ML":"3.2",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:39:47",
+    "Enlem":39.249,
+    "Boylam":27.993,
+    "Derinlik":8.3,
+    "ML":"1.3",
+    "Yer":"EGRIDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:30:44",
+    "Enlem":39.2107,
+    "Boylam":28.1532,
+    "Derinlik":8.3,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:30:06",
+    "Enlem":39.2015,
+    "Boylam":28.164,
+    "Derinlik":8.0,
+    "ML":"1.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:29:19",
+    "Enlem":38.0103,
+    "Boylam":37.59,
+    "Derinlik":7.1,
+    "ML":"1.4",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"00:24:49",
     "Enlem":39.2352,
     "Boylam":28.1785,
