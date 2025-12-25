@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"07:47:21",
+    "Enlem":40.3317,
+    "Boylam":24.1322,
+    "Derinlik":6.2,
+    "ML":"2.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"07:35:32",
+    "Enlem":40.6262,
+    "Boylam":29.1345,
+    "Derinlik":14.3,
+    "ML":"1.6",
+    "Yer":"ORTABURUN-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"07:22:08",
+    "Enlem":39.2603,
+    "Boylam":28.9973,
+    "Derinlik":3.0,
+    "ML":"1.7",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"07:01:27",
     "Enlem":39.623,
     "Boylam":39.8113,
