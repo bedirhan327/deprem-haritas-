@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"20:19:26",
+    "Enlem":36.7135,
+    "Boylam":29.3512,
+    "Derinlik":3.4,
+    "ML":"1.6",
+    "Yer":"ORTAKOY-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"20:05:06",
+    "Enlem":39.1823,
+    "Boylam":28.1272,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"20:03:46",
+    "Enlem":37.7143,
+    "Boylam":35.5958,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"KAPIKAYA-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"20:03:09",
+    "Enlem":37.797,
+    "Boylam":29.0977,
+    "Derinlik":18.1,
+    "ML":"1.7",
+    "Yer":"DENIZLI (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"20:00:46",
+    "Enlem":39.1782,
+    "Boylam":28.082,
+    "Derinlik":13.7,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"19:43:29",
     "Enlem":37.8198,
     "Boylam":29.132,
