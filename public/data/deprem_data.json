@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"23:40:04",
+    "Enlem":38.0978,
+    "Boylam":32.5875,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"SARICALAR-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"23:39:00",
+    "Enlem":39.344,
+    "Boylam":40.6408,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"DINARBEY-YEDISU (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"23:13:01",
+    "Enlem":37.5397,
+    "Boylam":37.5088,
+    "Derinlik":14.9,
+    "ML":"1.4",
+    "Yer":"TASDEMIR-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"22:45:46",
     "Enlem":38.4828,
     "Boylam":41.8597,
