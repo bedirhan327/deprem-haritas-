@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"18:41:29",
+    "Enlem":39.2225,
+    "Boylam":28.1807,
+    "Derinlik":9.8,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"18:21:00",
+    "Enlem":37.1425,
+    "Boylam":28.4925,
+    "Derinlik":8.1,
+    "ML":"1.5",
+    "Yer":"YARAS-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"18:20:12",
+    "Enlem":37.1303,
+    "Boylam":28.4473,
+    "Derinlik":24.0,
+    "ML":"1.7",
+    "Yer":"ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"17:43:11",
     "Enlem":39.1235,
     "Boylam":28.327,
