@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"01:29:26",
+    "Enlem":38.479,
+    "Boylam":39.4758,
+    "Derinlik":9.7,
+    "ML":"1.4",
+    "Yer":"HATUNKOY-MADEN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"01:11:51",
     "Enlem":39.212,
     "Boylam":28.9867,
     "Derinlik":6.1,
     "ML":"1.9",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"01:04:06",
+    "Enlem":39.2485,
+    "Boylam":28.9905,
+    "Derinlik":13.1,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
