@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"06:35:58",
+    "Enlem":38.758,
+    "Boylam":37.9673,
+    "Derinlik":4.6,
+    "ML":"1.8",
+    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"06:24:09",
+    "Enlem":38.7468,
+    "Boylam":37.9773,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"05:08:31",
     "Enlem":39.8153,
     "Boylam":26.6327,
