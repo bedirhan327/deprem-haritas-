@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"12:51:24",
+    "Enlem":38.7382,
+    "Boylam":37.9742,
+    "Derinlik":6.6,
+    "ML":"1.6",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"12:30:53",
+    "Enlem":39.2405,
+    "Boylam":27.7297,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"DENIS-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"12:19:34",
     "Enlem":39.2445,
     "Boylam":28.0272,
     "Derinlik":14.3,
     "ML":"1.1",
     "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"12:18:45",
+    "Enlem":38.3868,
+    "Boylam":27.3225,
+    "Derinlik":4.8,
+    "ML":"1.6",
+    "Yer":"KIZILUZUM-KEMALPASA (IZMIR)",
     "Cozum":"�lksel"
   },
   {
