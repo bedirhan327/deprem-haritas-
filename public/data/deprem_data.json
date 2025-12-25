@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"01:11:51",
+    "Enlem":39.212,
+    "Boylam":28.9867,
+    "Derinlik":6.1,
+    "ML":"1.9",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"01:01:16",
+    "Enlem":39.2755,
+    "Boylam":28.95,
+    "Derinlik":14.6,
+    "ML":"0.9",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"00:56:31",
+    "Enlem":39.2853,
+    "Boylam":28.9885,
+    "Derinlik":7.8,
+    "ML":"1.3",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"00:50:17",
     "Enlem":39.2313,
     "Boylam":28.1335,
