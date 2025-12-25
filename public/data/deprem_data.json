@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"03:50:52",
+    "Enlem":38.7695,
+    "Boylam":37.9627,
+    "Derinlik":5.4,
+    "ML":"1.7",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"03:30:34",
+    "Enlem":38.6288,
+    "Boylam":40.8677,
+    "Derinlik":8.2,
+    "ML":"1.4",
+    "Yer":"GEYIKDERE-GENC (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"03:23:29",
     "Enlem":39.2367,
     "Boylam":28.1218,
