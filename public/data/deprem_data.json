@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"22:37:11",
+    "Enlem":39.825,
+    "Boylam":41.7862,
+    "Derinlik":5.3,
+    "ML":"2.1",
+    "Yer":"YILANLI-KOPRUKOY (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"22:25:53",
+    "Enlem":38.2623,
+    "Boylam":37.7733,
+    "Derinlik":8.9,
+    "ML":"1.5",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"22:21:20",
+    "Enlem":36.8755,
+    "Boylam":36.541,
+    "Derinlik":18.3,
+    "ML":"1.5",
+    "Yer":"ESENLER-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"22:00:27",
     "Enlem":39.2077,
     "Boylam":28.1187,
