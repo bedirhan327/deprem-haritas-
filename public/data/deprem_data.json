@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"12:19:34",
+    "Enlem":39.2445,
+    "Boylam":28.0272,
+    "Derinlik":14.3,
+    "ML":"1.1",
+    "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"12:04:00",
+    "Enlem":39.8383,
+    "Boylam":26.2373,
+    "Derinlik":0.0,
+    "ML":"0.9",
+    "Yer":"MECIDIYE-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"11:07:04",
     "Enlem":39.1092,
     "Boylam":28.3327,
