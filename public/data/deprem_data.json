@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"14:55:58",
+    "Enlem":37.956,
+    "Boylam":28.7952,
+    "Derinlik":4.3,
+    "ML":"2.8",
+    "Yer":"KIZILDERE-BUHARKENT (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"14:08:12",
+    "Enlem":39.1553,
+    "Boylam":25.8628,
+    "Derinlik":10.0,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"13:36:02",
     "Enlem":39.186,
     "Boylam":28.2137,
@@ -137,6 +157,16 @@
     "Derinlik":5.3,
     "ML":"1.9",
     "Yer":"YENIYORUK-INEGOL (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"10:17:49",
+    "Enlem":40.2895,
+    "Boylam":27.359,
+    "Derinlik":2.4,
+    "ML":"1.0",
+    "Yer":"EMIRORMAN-BIGA (CANAKKALE)",
     "Cozum":"�lksel"
   },
   {
