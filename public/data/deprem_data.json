@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.25",
+    "Saat":"13:36:02",
+    "Enlem":39.186,
+    "Boylam":28.2137,
+    "Derinlik":12.7,
+    "ML":"2.2",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"13:31:56",
+    "Enlem":40.2118,
+    "Boylam":29.4295,
+    "Derinlik":13.8,
+    "ML":"1.3",
+    "Yer":"SOGUKSU-KESTEL (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"13:23:35",
+    "Enlem":39.1908,
+    "Boylam":28.2342,
+    "Derinlik":9.9,
+    "ML":"1.7",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"13:16:41",
+    "Enlem":39.1863,
+    "Boylam":28.228,
+    "Derinlik":10.0,
+    "ML":"1.8",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.25",
     "Saat":"13:10:45",
     "Enlem":39.779,
     "Boylam":27.5965,
