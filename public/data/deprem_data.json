@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"19:52:54",
+    "Enlem":39.2262,
+    "Boylam":28.1405,
+    "Derinlik":8.0,
+    "ML":"2.5",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"19:09:40",
+    "Enlem":39.9818,
+    "Boylam":24.2005,
+    "Derinlik":6.7,
+    "ML":"2.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"19:01:31",
+    "Enlem":39.4357,
+    "Boylam":39.93,
+    "Derinlik":6.4,
+    "ML":"2.5",
+    "Yer":"CAGLAYAN-PULUMUR (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"18:32:23",
     "Enlem":38.7188,
     "Boylam":39.964,
