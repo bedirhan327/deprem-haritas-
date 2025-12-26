@@ -31,6 +31,36 @@
   },
   {
     "Tarih":"2025.12.26",
+    "Saat":"12:55:25",
+    "Enlem":39.2152,
+    "Boylam":29.2575,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"YUKARIYONCAAGAC-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"12:52:27",
+    "Enlem":36.1565,
+    "Boylam":33.6752,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"YESILOVACIK-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"12:47:57",
+    "Enlem":36.0553,
+    "Boylam":33.7373,
+    "Derinlik":18.6,
+    "ML":"1.0",
+    "Yer":"YESILOVACIK ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"12:46:39",
     "Enlem":39.2067,
     "Boylam":28.1083,
