@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"03:34:22",
+    "Enlem":40.419,
+    "Boylam":28.0762,
+    "Derinlik":20.0,
+    "ML":"1.8",
+    "Yer":"BANDIRMA KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"03:26:48",
+    "Enlem":39.2022,
+    "Boylam":28.3357,
+    "Derinlik":7.6,
+    "ML":"1.1",
+    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"03:11:44",
+    "Enlem":39.1715,
+    "Boylam":27.9993,
+    "Derinlik":28.1,
+    "ML":"1.3",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"03:11:26",
     "Enlem":37.8913,
     "Boylam":26.6863,
