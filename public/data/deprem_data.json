@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"07:08:10",
+    "Enlem":38.3307,
+    "Boylam":37.6115,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"DARICA-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"07:06:40",
+    "Enlem":36.9553,
+    "Boylam":28.101,
+    "Derinlik":9.7,
+    "ML":"1.5",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"05:38:16",
     "Enlem":39.1978,
     "Boylam":28.2995,
