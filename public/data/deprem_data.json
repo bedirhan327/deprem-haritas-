@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"09:15:06",
+    "Enlem":36.9625,
+    "Boylam":28.8588,
+    "Derinlik":25.1,
+    "ML":"1.3",
+    "Yer":"CAYHISAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"09:00:53",
+    "Enlem":39.198,
+    "Boylam":28.1873,
+    "Derinlik":13.4,
+    "ML":"1.4",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"08:37:56",
+    "Enlem":38.4303,
+    "Boylam":44.4695,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"TURKIYE-IRAN SINIR BOLGESI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"07:25:59",
     "Enlem":39.2477,
     "Boylam":28.1403,
