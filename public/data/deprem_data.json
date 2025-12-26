@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"23:36:44",
+    "Enlem":39.1427,
+    "Boylam":28.103,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"23:30:10",
+    "Enlem":39.4028,
+    "Boylam":28.784,
+    "Derinlik":11.1,
+    "ML":"2.5",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"22:55:11",
+    "Enlem":40.4673,
+    "Boylam":29.0927,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"BUYUKKUMLA-GEMLIK (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"22:29:36",
     "Enlem":39.4565,
     "Boylam":39.9465,
