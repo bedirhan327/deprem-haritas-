@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"16:49:22",
+    "Enlem":38.4535,
+    "Boylam":38.085,
+    "Derinlik":4.6,
+    "ML":"1.4",
+    "Yer":"ASAGIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"16:27:11",
+    "Enlem":37.8867,
+    "Boylam":37.9258,
+    "Derinlik":12.1,
+    "ML":"1.5",
+    "Yer":"ERKENEK-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"15:49:13",
     "Enlem":39.1702,
     "Boylam":28.1733,
