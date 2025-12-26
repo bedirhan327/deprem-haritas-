@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"01:58:44",
+    "Enlem":39.1988,
+    "Boylam":28.1762,
+    "Derinlik":10.1,
+    "ML":"2.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"01:38:15",
+    "Enlem":37.399,
+    "Boylam":37.1405,
+    "Derinlik":5.2,
+    "ML":"1.4",
+    "Yer":"NARLI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"01:34:29",
+    "Enlem":39.2242,
+    "Boylam":28.3503,
+    "Derinlik":6.9,
+    "ML":"1.4",
+    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"00:51:35",
     "Enlem":39.2808,
     "Boylam":28.9837,
