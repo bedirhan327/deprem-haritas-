@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"04:25:45",
+    "Enlem":38.812,
+    "Boylam":43.582,
+    "Derinlik":4.8,
+    "ML":"1.9",
+    "Yer":"AKCIFT-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"04:25:03",
+    "Enlem":40.8957,
+    "Boylam":28.4443,
+    "Derinlik":23.1,
+    "ML":"1.2",
+    "Yer":"GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"04:23:57",
+    "Enlem":40.9075,
+    "Boylam":28.4362,
+    "Derinlik":24.5,
+    "ML":"1.8",
+    "Yer":"GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"04:16:31",
+    "Enlem":39.1277,
+    "Boylam":28.2252,
+    "Derinlik":12.4,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"03:57:33",
+    "Enlem":39.2045,
+    "Boylam":28.2048,
+    "Derinlik":9.7,
+    "ML":"1.1",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"03:47:16",
+    "Enlem":39.155,
+    "Boylam":25.8645,
+    "Derinlik":14.3,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"03:34:22",
     "Enlem":40.419,
     "Boylam":28.0762,
