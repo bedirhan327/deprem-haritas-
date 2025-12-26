@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"05:09:49",
+    "Enlem":38.3075,
+    "Boylam":38.7593,
+    "Derinlik":10.4,
+    "ML":"1.4",
+    "Yer":"SARIOT-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"04:53:34",
+    "Enlem":39.108,
+    "Boylam":28.2312,
+    "Derinlik":10.7,
+    "ML":"1.2",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"04:46:55",
+    "Enlem":39.1637,
+    "Boylam":27.9505,
+    "Derinlik":13.0,
+    "ML":"1.4",
+    "Yer":"KOBASDERE-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"04:43:08",
+    "Enlem":38.3765,
+    "Boylam":28.0852,
+    "Derinlik":8.1,
+    "ML":"1.2",
+    "Yer":"BOZDAG-ODEMIS (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"04:25:45",
     "Enlem":38.812,
     "Boylam":43.582,
