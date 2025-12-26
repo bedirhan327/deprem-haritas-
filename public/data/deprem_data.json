@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"20:47:37",
+    "Enlem":39.2202,
+    "Boylam":28.1323,
+    "Derinlik":12.9,
+    "ML":"2.3",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"20:22:24",
+    "Enlem":39.3917,
+    "Boylam":28.808,
+    "Derinlik":6.7,
+    "ML":"2.4",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"20:22:08",
+    "Enlem":39.3983,
+    "Boylam":28.8192,
+    "Derinlik":5.5,
+    "ML":"2.6",
+    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"20:14:08",
+    "Enlem":40.8103,
+    "Boylam":28.0023,
+    "Derinlik":7.1,
+    "ML":"1.7",
+    "Yer":"MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"20:13:44",
+    "Enlem":40.8138,
+    "Boylam":28.0325,
+    "Derinlik":16.9,
+    "ML":"1.8",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"20:03:35",
     "Enlem":39.2798,
     "Boylam":28.119,
