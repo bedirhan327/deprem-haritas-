@@ -11,12 +11,32 @@
   },
   {
     "Tarih":"2025.12.26",
+    "Saat":"09:11:43",
+    "Enlem":38.0605,
+    "Boylam":27.1043,
+    "Derinlik":2.8,
+    "ML":"1.5",
+    "Yer":"CAMONU-MENDERES (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"09:00:53",
     "Enlem":39.198,
     "Boylam":28.1873,
     "Derinlik":13.4,
     "ML":"1.4",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"08:48:45",
+    "Enlem":39.144,
+    "Boylam":28.2827,
+    "Derinlik":12.0,
+    "ML":"2.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
