@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"14:37:56",
+    "Enlem":38.5285,
+    "Boylam":38.0162,
+    "Derinlik":3.7,
+    "ML":"2.0",
+    "Yer":"KADIIBRAHIM-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"14:30:49",
+    "Enlem":40.2942,
+    "Boylam":24.1202,
+    "Derinlik":16.5,
+    "ML":"2.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"14:07:03",
     "Enlem":38.7668,
     "Boylam":37.9683,
@@ -17,6 +37,16 @@
     "Derinlik":8.6,
     "ML":"1.5",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"11:50:14",
+    "Enlem":41.1302,
+    "Boylam":28.994,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"KAGITHANE (ISTANBUL)",
     "Cozum":"�lksel"
   },
   {
