@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"22:29:36",
+    "Enlem":39.4565,
+    "Boylam":39.9465,
+    "Derinlik":5.1,
+    "ML":"1.9",
+    "Yer":"KOZLUCE-PULUMUR (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"22:00:50",
+    "Enlem":40.8032,
+    "Boylam":28.0708,
+    "Derinlik":9.2,
+    "ML":"2.5",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"21:42:06",
+    "Enlem":39.1903,
+    "Boylam":28.1365,
+    "Derinlik":8.8,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"21:39:15",
+    "Enlem":38.0748,
+    "Boylam":38.4382,
+    "Derinlik":13.2,
+    "ML":"1.8",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"21:01:26",
     "Enlem":40.8202,
     "Boylam":28.0825,
