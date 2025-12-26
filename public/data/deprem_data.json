@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"15:17:16",
+    "Enlem":39.1912,
+    "Boylam":28.2237,
+    "Derinlik":12.3,
+    "ML":"2.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"15:16:54",
+    "Enlem":40.5148,
+    "Boylam":30.4877,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"BELPINAR-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"15:01:28",
+    "Enlem":38.4058,
+    "Boylam":41.9173,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"MUTKI (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"14:37:56",
     "Enlem":38.5285,
     "Boylam":38.0162,
