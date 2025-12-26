@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"03:11:26",
+    "Enlem":37.8913,
+    "Boylam":26.6863,
+    "Derinlik":6.3,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"03:09:18",
+    "Enlem":39.1888,
+    "Boylam":28.444,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"SAPCI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"03:07:48",
+    "Enlem":39.1555,
+    "Boylam":28.2183,
+    "Derinlik":6.6,
+    "ML":"3.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"02:46:10",
+    "Enlem":38.074,
+    "Boylam":37.5265,
+    "Derinlik":17.5,
+    "ML":"0.9",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"02:35:58",
     "Enlem":36.9282,
     "Boylam":27.7772,
@@ -67,6 +107,16 @@
     "Derinlik":9.7,
     "ML":"1.4",
     "Yer":"HATUNKOY-MADEN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"01:22:16",
+    "Enlem":39.2377,
+    "Boylam":29.0105,
+    "Derinlik":10.1,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
