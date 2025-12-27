@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"07:14:39",
+    "Enlem":39.455,
+    "Boylam":28.195,
+    "Derinlik":12.4,
+    "ML":"1.3",
+    "Yer":"CAMKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"07:09:38",
+    "Enlem":37.0353,
+    "Boylam":28.1155,
+    "Derinlik":12.7,
+    "ML":"1.4",
+    "Yer":"SARNICKOY-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"07:08:43",
+    "Enlem":37.0448,
+    "Boylam":28.1178,
+    "Derinlik":14.1,
+    "ML":"1.7",
+    "Yer":"SARNICKOY-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"07:06:04",
+    "Enlem":36.582,
+    "Boylam":33.6948,
+    "Derinlik":7.7,
+    "ML":"2.0",
+    "Yer":"KURKCU-MUT (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"07:00:34",
+    "Enlem":37.0685,
+    "Boylam":28.1213,
+    "Derinlik":13.3,
+    "ML":"2.9",
+    "Yer":"SARNICKOY-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"06:14:03",
     "Enlem":39.145,
     "Boylam":28.2343,
