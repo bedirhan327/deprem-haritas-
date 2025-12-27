@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"15:13:48",
+    "Enlem":38.1198,
+    "Boylam":37.2297,
+    "Derinlik":4.8,
+    "ML":"1.3",
+    "Yer":"AKPINAR-EKINOZU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"15:03:07",
+    "Enlem":37.7842,
+    "Boylam":28.9448,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"ALTINDERE-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"14:28:53",
     "Enlem":39.1637,
     "Boylam":28.2408,
