@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"22:12:29",
+    "Enlem":39.1893,
+    "Boylam":28.2038,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"22:09:40",
+    "Enlem":39.1807,
+    "Boylam":28.2058,
+    "Derinlik":10.4,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"22:01:02",
+    "Enlem":39.1847,
+    "Boylam":28.1972,
+    "Derinlik":12.7,
+    "ML":"3.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"21:58:36",
+    "Enlem":39.1825,
+    "Boylam":28.2423,
+    "Derinlik":12.4,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"21:48:19",
+    "Enlem":38.0698,
+    "Boylam":37.6085,
+    "Derinlik":7.3,
+    "ML":"1.6",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"21:18:55",
     "Enlem":39.184,
     "Boylam":28.2025,
@@ -107,6 +157,16 @@
     "Derinlik":10.5,
     "ML":"2.1",
     "Yer":"MURSALLI-SARKOY (TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"18:16:39",
+    "Enlem":35.4552,
+    "Boylam":27.5112,
+    "Derinlik":13.0,
+    "ML":"3.4",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
