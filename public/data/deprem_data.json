@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"02:57:28",
+    "Enlem":40.8307,
+    "Boylam":28.4322,
+    "Derinlik":2.0,
+    "ML":"1.4",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"02:35:04",
     "Enlem":40.8112,
     "Boylam":28.065,
     "Derinlik":7.8,
     "ML":"3.1",
     "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"02:16:52",
+    "Enlem":38.2052,
+    "Boylam":38.2302,
+    "Derinlik":7.8,
+    "ML":"1.1",
+    "Yer":"ATALAR-YESILYURT (MALATYA)",
     "Cozum":"�lksel"
   },
   {
