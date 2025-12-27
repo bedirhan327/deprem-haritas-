@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"04:04:59",
+    "Enlem":40.2858,
+    "Boylam":42.3788,
+    "Derinlik":28.6,
+    "ML":"1.4",
+    "Yer":"SIRBASAN-SARIKAMIS (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"03:47:51",
+    "Enlem":41.011,
+    "Boylam":40.1215,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"ARAKLI (TRABZON)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"03:13:36",
     "Enlem":40.8967,
     "Boylam":27.961,
