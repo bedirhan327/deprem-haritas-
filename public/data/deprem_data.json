@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"00:49:41",
+    "Enlem":38.3862,
+    "Boylam":37.8142,
+    "Derinlik":19.6,
+    "ML":"1.5",
+    "Yer":"TATARUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"00:42:02",
+    "Enlem":37.3248,
+    "Boylam":30.3632,
+    "Derinlik":96.9,
+    "ML":"2.5",
+    "Yer":"GARIPCE-KORKUTELI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"00:12:33",
     "Enlem":39.2062,
     "Boylam":28.131,
