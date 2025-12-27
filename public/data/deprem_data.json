@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"04:26:58",
+    "Enlem":39.5133,
+    "Boylam":38.2148,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"CITME-DIVRIGI (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"04:23:16",
+    "Enlem":37.6067,
+    "Boylam":35.846,
+    "Derinlik":4.3,
+    "ML":"1.8",
+    "Yer":"DUZAGAC-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"04:21:24",
+    "Enlem":39.2077,
+    "Boylam":28.1483,
+    "Derinlik":8.2,
+    "ML":"1.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"04:20:10",
+    "Enlem":39.2303,
+    "Boylam":28.1622,
+    "Derinlik":11.0,
+    "ML":"3.3",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"04:04:59",
     "Enlem":40.2858,
     "Boylam":42.3788,
