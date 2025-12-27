@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"03:13:36",
+    "Enlem":40.8967,
+    "Boylam":27.961,
+    "Derinlik":17.4,
+    "ML":"1.4",
+    "Yer":"MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"03:12:37",
+    "Enlem":40.9147,
+    "Boylam":28.024,
+    "Derinlik":14.8,
+    "ML":"1.9",
+    "Yer":"MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"03:08:12",
+    "Enlem":37.3097,
+    "Boylam":37.049,
+    "Derinlik":5.3,
+    "ML":"1.3",
+    "Yer":"EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"02:57:28",
     "Enlem":40.8307,
     "Boylam":28.4322,
