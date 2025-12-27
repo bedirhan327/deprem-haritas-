@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"08:03:01",
+    "Enlem":39.297,
+    "Boylam":28.1102,
+    "Derinlik":5.9,
+    "ML":"1.5",
+    "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"07:53:16",
+    "Enlem":37.7817,
+    "Boylam":28.9588,
+    "Derinlik":17.2,
+    "ML":"1.6",
+    "Yer":"ALTINDERE-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"07:37:32",
+    "Enlem":39.1642,
+    "Boylam":28.2297,
+    "Derinlik":9.5,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"07:20:02",
     "Enlem":39.5353,
     "Boylam":26.0468,
