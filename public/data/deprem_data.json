@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.27",
+    "Saat":"12:46:22",
+    "Enlem":38.9433,
+    "Boylam":37.8922,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"HASANCELEBI-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
+    "Saat":"12:10:01",
+    "Enlem":37.0805,
+    "Boylam":36.7053,
+    "Derinlik":14.4,
+    "ML":"2.0",
+    "Yer":"ORTULU-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.27",
     "Saat":"10:58:42",
     "Enlem":38.757,
     "Boylam":37.9737,
