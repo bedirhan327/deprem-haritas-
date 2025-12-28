@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"02:12:47",
+    "Enlem":39.1743,
+    "Boylam":28.2288,
+    "Derinlik":8.7,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"02:07:04",
+    "Enlem":39.0347,
+    "Boylam":25.901,
+    "Derinlik":11.5,
+    "ML":"2.3",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"02:02:54",
+    "Enlem":39.1442,
+    "Boylam":28.2105,
+    "Derinlik":19.7,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"01:56:31",
+    "Enlem":39.4065,
+    "Boylam":28.797,
+    "Derinlik":4.2,
+    "ML":"2.3",
+    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"01:46:48",
     "Enlem":37.6083,
     "Boylam":37.3693,
