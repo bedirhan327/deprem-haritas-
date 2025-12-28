@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"19:10:17",
+    "Enlem":38.0827,
+    "Boylam":37.4185,
+    "Derinlik":9.6,
+    "ML":"1.4",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"18:34:06",
+    "Enlem":38.9068,
+    "Boylam":43.5118,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"COLPAN-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"18:27:44",
     "Enlem":37.6257,
     "Boylam":37.3412,
