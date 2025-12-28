@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"20:40:04",
+    "Enlem":38.5213,
+    "Boylam":38.0317,
+    "Derinlik":6.2,
+    "ML":"1.7",
+    "Yer":"CIVRIL-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"20:14:20",
+    "Enlem":38.372,
+    "Boylam":38.8457,
+    "Derinlik":5.1,
+    "ML":"1.5",
+    "Yer":"YENIDAMLAR-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"20:07:51",
     "Enlem":39.2475,
     "Boylam":28.9817,
