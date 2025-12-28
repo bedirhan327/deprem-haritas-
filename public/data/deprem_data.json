@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"01:46:48",
+    "Enlem":37.6083,
+    "Boylam":37.3693,
+    "Derinlik":17.8,
+    "ML":"2.2",
+    "Yer":"KARAAGAC-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"01:45:54",
+    "Enlem":37.6503,
+    "Boylam":37.332,
+    "Derinlik":17.8,
+    "ML":"1.8",
+    "Yer":"BOLUKDAMLAR-CAGLAYANCERIT (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"01:42:36",
+    "Enlem":37.6067,
+    "Boylam":37.3497,
+    "Derinlik":24.9,
+    "ML":"1.8",
+    "Yer":"KARAAGAC-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"01:27:31",
+    "Enlem":37.643,
+    "Boylam":37.3525,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"BOLUKDAMLAR-CAGLAYANCERIT (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"01:26:09",
+    "Enlem":38.2968,
+    "Boylam":38.8562,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"GUNDEGER-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"01:14:40",
     "Enlem":37.802,
     "Boylam":37.66,
