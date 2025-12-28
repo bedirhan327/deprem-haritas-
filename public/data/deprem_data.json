@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"13:12:48",
+    "Enlem":36.318,
+    "Boylam":36.0142,
+    "Derinlik":7.4,
+    "ML":"1.8",
+    "Yer":"KARAGOZ-ARSUZ (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"12:57:20",
+    "Enlem":41.331,
+    "Boylam":44.0018,
+    "Derinlik":7.2,
+    "ML":"3.4",
+    "Yer":"GURCISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"12:42:24",
     "Enlem":37.2835,
     "Boylam":31.8822,
