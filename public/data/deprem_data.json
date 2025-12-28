@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"02:23:58",
+    "Enlem":38.4502,
+    "Boylam":42.8977,
+    "Derinlik":8.2,
+    "ML":"1.9",
+    "Yer":"INKOY-GEVAS (VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"02:19:17",
     "Enlem":39.1592,
     "Boylam":28.1758,
@@ -11,12 +21,42 @@
   },
   {
     "Tarih":"2025.12.28",
+    "Saat":"02:19:17",
+    "Enlem":38.7725,
+    "Boylam":42.3917,
+    "Derinlik":8.5,
+    "ML":"1.7",
+    "Yer":"CATALAGZI-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"01:52:26",
+    "Enlem":39.356,
+    "Boylam":28.7008,
+    "Derinlik":14.4,
+    "ML":"1.1",
+    "Yer":"OSMANIYE-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"01:48:37",
     "Enlem":39.3882,
     "Boylam":28.7967,
     "Derinlik":5.2,
     "ML":"2.4",
     "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"01:24:41",
+    "Enlem":37.214,
+    "Boylam":36.9478,
+    "Derinlik":10.1,
+    "ML":"1.4",
+    "Yer":"SATIRHUYUK-NURDAGI (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
