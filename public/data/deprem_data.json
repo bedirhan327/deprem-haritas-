@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"13:48:24",
+    "Enlem":39.2348,
+    "Boylam":28.1577,
+    "Derinlik":11.6,
+    "ML":"0.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"13:47:29",
+    "Enlem":39.1167,
+    "Boylam":28.3825,
+    "Derinlik":2.1,
+    "ML":"1.0",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"13:19:25",
+    "Enlem":39.133,
+    "Boylam":33.0745,
+    "Derinlik":7.6,
+    "ML":"1.5",
+    "Yer":"KULU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"13:12:48",
     "Enlem":36.318,
     "Boylam":36.0142,
