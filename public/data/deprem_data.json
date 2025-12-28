@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"00:45:06",
+    "Enlem":39.138,
+    "Boylam":28.2383,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"00:42:45",
+    "Enlem":39.1378,
+    "Boylam":28.2292,
+    "Derinlik":9.7,
+    "ML":"2.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"00:32:04",
+    "Enlem":39.2548,
+    "Boylam":28.9568,
+    "Derinlik":7.4,
+    "ML":"1.6",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"00:13:58",
     "Enlem":39.1528,
     "Boylam":28.2423,
@@ -17,6 +47,16 @@
     "Derinlik":7.3,
     "ML":"1.4",
     "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"23:34:14",
+    "Enlem":38.0338,
+    "Boylam":37.0465,
+    "Derinlik":16.0,
+    "ML":"1.5",
+    "Yer":"YENIKOY-EKINOZU (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
