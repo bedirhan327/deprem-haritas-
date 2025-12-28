@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"12:42:24",
+    "Enlem":37.2835,
+    "Boylam":31.8822,
+    "Derinlik":3.8,
+    "ML":"1.9",
+    "Yer":"MADENLI-SEYDISEHIR (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"12:31:21",
+    "Enlem":37.7908,
+    "Boylam":28.966,
+    "Derinlik":10.7,
+    "ML":"1.9",
+    "Yer":"ALTINDERE-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"12:27:06",
+    "Enlem":39.4023,
+    "Boylam":28.8225,
+    "Derinlik":11.3,
+    "ML":"2.3",
+    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"12:22:50",
+    "Enlem":39.2158,
+    "Boylam":28.1453,
+    "Derinlik":7.9,
+    "ML":"1.7",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"11:47:03",
+    "Enlem":39.3835,
+    "Boylam":28.8677,
+    "Derinlik":4.7,
+    "ML":"1.6",
+    "Yer":"RESADIYE-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"11:09:59",
     "Enlem":36.6555,
     "Boylam":27.0897,
