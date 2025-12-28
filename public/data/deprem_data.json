@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"18:12:09",
+    "Enlem":39.8773,
+    "Boylam":39.9905,
+    "Derinlik":30.4,
+    "ML":"1.8",
+    "Yer":"YESILYAKA-CAYIRLI (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"18:06:52",
+    "Enlem":39.0735,
+    "Boylam":28.1345,
+    "Derinlik":1.6,
+    "ML":"1.5",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"18:06:24",
     "Enlem":39.1735,
     "Boylam":28.2035,
