@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.28",
+    "Saat":"14:26:00",
+    "Enlem":36.0478,
+    "Boylam":25.3105,
+    "Derinlik":86.0,
+    "ML":"3.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"14:19:08",
+    "Enlem":39.3348,
+    "Boylam":38.7903,
+    "Derinlik":3.3,
+    "ML":"2.2",
+    "Yer":"KAPIKAYA-ILIC (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"13:54:16",
     "Enlem":39.2332,
     "Boylam":28.0868,
