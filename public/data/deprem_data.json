@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"23:00:24",
+    "Enlem":39.1687,
+    "Boylam":28.4003,
+    "Derinlik":19.7,
+    "ML":"1.0",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"22:56:41",
+    "Enlem":40.6713,
+    "Boylam":29.1722,
+    "Derinlik":6.6,
+    "ML":"1.5",
+    "Yer":"KORU-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"22:55:16",
+    "Enlem":39.1525,
+    "Boylam":28.227,
+    "Derinlik":10.9,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"22:47:32",
+    "Enlem":40.6877,
+    "Boylam":29.124,
+    "Derinlik":8.8,
+    "ML":"1.8",
+    "Yer":"CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"22:30:34",
+    "Enlem":39.4345,
+    "Boylam":28.8288,
+    "Derinlik":7.7,
+    "ML":"1.4",
+    "Yer":"TURNACIK-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"22:29:36",
     "Enlem":38.7588,
     "Boylam":37.9695,
