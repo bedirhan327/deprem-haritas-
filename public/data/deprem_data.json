@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"15:16:51",
+    "Enlem":38.0878,
+    "Boylam":37.9895,
+    "Derinlik":6.7,
+    "ML":"2.3",
+    "Yer":"GUROBASI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"14:54:47",
+    "Enlem":39.2492,
+    "Boylam":28.096,
+    "Derinlik":10.5,
+    "ML":"2.8",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"14:53:21",
+    "Enlem":39.2252,
+    "Boylam":28.0543,
+    "Derinlik":7.7,
+    "ML":"1.6",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"13:57:26",
     "Enlem":39.9445,
     "Boylam":42.0215,
