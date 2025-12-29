@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"11:24:30",
+    "Enlem":38.283,
+    "Boylam":38.826,
+    "Derinlik":20.8,
+    "ML":"1.6",
+    "Yer":"AKTARLI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"11:12:21",
+    "Enlem":37.443,
+    "Boylam":33.8922,
+    "Derinlik":11.7,
+    "ML":"2.2",
+    "Yer":"KARABURUN-EREGLI (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"11:00:40",
+    "Enlem":37.6482,
+    "Boylam":36.0697,
+    "Derinlik":10.7,
+    "ML":"1.5",
+    "Yer":"ESENLI-SUMBAS (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"10:51:03",
     "Enlem":39.2598,
     "Boylam":29.0038,
