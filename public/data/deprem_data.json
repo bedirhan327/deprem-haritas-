@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"08:37:43",
+    "Enlem":39.2408,
+    "Boylam":28.121,
+    "Derinlik":9.7,
+    "ML":"1.5",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"08:36:00",
+    "Enlem":39.4157,
+    "Boylam":28.8387,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"08:19:18",
     "Enlem":39.4958,
     "Boylam":26.1703,
