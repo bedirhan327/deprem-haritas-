@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"03:28:51",
+    "Enlem":40.2165,
+    "Boylam":31.7812,
+    "Derinlik":1.1,
+    "ML":"2.7",
+    "Yer":"KOZAGAC-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"03:19:25",
+    "Enlem":37.1928,
+    "Boylam":28.5245,
+    "Derinlik":9.6,
+    "ML":"1.8",
+    "Yer":"YAYLASOGUT-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"02:57:23",
     "Enlem":38.7543,
     "Boylam":37.9717,
