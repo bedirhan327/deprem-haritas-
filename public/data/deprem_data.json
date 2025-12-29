@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"09:03:43",
+    "Enlem":39.4988,
+    "Boylam":26.1642,
+    "Derinlik":12.8,
+    "ML":"2.0",
+    "Yer":"BADEMLI-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"08:53:21",
+    "Enlem":39.499,
+    "Boylam":26.1667,
+    "Derinlik":10.7,
+    "ML":"2.2",
+    "Yer":"BADEMLI-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"08:37:43",
     "Enlem":39.2408,
     "Boylam":28.121,
