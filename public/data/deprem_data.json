@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"20:41:33",
+    "Enlem":40.3675,
+    "Boylam":24.0482,
+    "Derinlik":8.7,
+    "ML":"1.3",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"20:30:39",
+    "Enlem":40.1585,
+    "Boylam":28.9687,
+    "Derinlik":3.1,
+    "ML":"2.3",
+    "Yer":"DAGYENICE-NILUFER (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"20:15:09",
+    "Enlem":39.5675,
+    "Boylam":25.8965,
+    "Derinlik":13.7,
+    "ML":"1.4",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"20:00:07",
     "Enlem":36.163,
     "Boylam":28.4687,
