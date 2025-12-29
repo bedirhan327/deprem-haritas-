@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.29",
+    "Saat":"21:10:05",
+    "Enlem":39.3508,
+    "Boylam":28.8133,
+    "Derinlik":22.6,
+    "ML":"1.1",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"21:07:36",
+    "Enlem":36.956,
+    "Boylam":36.0243,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"TURUNCLU-ERZIN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
     "Saat":"20:41:33",
     "Enlem":40.3675,
     "Boylam":24.0482,
@@ -27,6 +47,16 @@
     "Derinlik":13.7,
     "ML":"1.4",
     "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.29",
+    "Saat":"20:14:46",
+    "Enlem":38.1597,
+    "Boylam":28.8818,
+    "Derinlik":15.8,
+    "ML":"1.0",
+    "Yer":"TURLUBEY-BULDAN (DENIZLI)",
     "Cozum":"�lksel"
   },
   {
