@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"21:22:44",
+    "Enlem":40.1567,
+    "Boylam":27.3513,
+    "Derinlik":12.6,
+    "ML":"2.1",
+    "Yer":"CAMIALAN-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"20:59:55",
     "Enlem":39.8553,
     "Boylam":25.4585,
@@ -8,6 +18,16 @@
     "ML":"2.0",
     "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"20:59:48",
+    "Enlem":40.1832,
+    "Boylam":31.7602,
+    "Derinlik":7.6,
+    "ML":"2.2",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA) REVIZE01 (2025.12.30",
+    "Cozum":"20:59:55)"
   },
   {
     "Tarih":"2025.12.30",
