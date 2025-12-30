@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"19:18:00",
+    "Enlem":39.1318,
+    "Boylam":28.258,
+    "Derinlik":12.0,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"19:14:39",
+    "Enlem":35.3945,
+    "Boylam":35.3268,
+    "Derinlik":63.6,
+    "ML":"2.7",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"18:09:24",
+    "Enlem":35.9505,
+    "Boylam":35.2122,
+    "Derinlik":4.2,
+    "ML":"2.1",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"18:05:32",
     "Enlem":35.4045,
     "Boylam":35.3777,
