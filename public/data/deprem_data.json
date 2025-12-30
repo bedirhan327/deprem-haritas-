@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"13:58:26",
+    "Enlem":38.3523,
+    "Boylam":37.4952,
+    "Derinlik":10.8,
+    "ML":"2.1",
+    "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"13:54:03",
+    "Enlem":38.3392,
+    "Boylam":37.554,
+    "Derinlik":11.3,
+    "ML":"1.6",
+    "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"13:32:25",
     "Enlem":39.2257,
     "Boylam":28.1572,
@@ -17,6 +37,16 @@
     "Derinlik":22.1,
     "ML":"2.4",
     "Yer":"CICEKLI-KAGIZMAN (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"13:01:18",
+    "Enlem":35.3007,
+    "Boylam":33.5888,
+    "Derinlik":9.4,
+    "ML":"2.2",
+    "Yer":"KIBRIS-BESPARMAK",
     "Cozum":"�lksel"
   },
   {
@@ -57,6 +87,16 @@
     "Derinlik":5.0,
     "ML":"2.5",
     "Yer":"KUYUCAK-MECITOZU (CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"11:51:56",
+    "Enlem":39.1747,
+    "Boylam":28.2887,
+    "Derinlik":7.4,
+    "ML":"1.2",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
