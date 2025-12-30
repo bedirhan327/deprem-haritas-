@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2025.12.30",
+    "Saat":"14:05:12",
+    "Enlem":38.3475,
+    "Boylam":37.638,
+    "Derinlik":6.5,
+    "ML":"1.5",
+    "Yer":"DARICA-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"13:58:26",
     "Enlem":38.3523,
     "Boylam":37.4952,
@@ -27,6 +37,16 @@
     "Derinlik":11.3,
     "ML":"1.6",
     "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"13:44:59",
+    "Enlem":40.0323,
+    "Boylam":42.8823,
+    "Derinlik":22.0,
+    "ML":"1.6",
+    "Yer":"DEGIRMENDERE-KAGIZMAN (KARS)",
     "Cozum":"�lksel"
   },
   {
@@ -87,6 +107,16 @@
     "Derinlik":11.4,
     "ML":"1.7",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"12:31:21",
+    "Enlem":39.1035,
+    "Boylam":28.032,
+    "Derinlik":13.7,
+    "ML":"1.0",
+    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
