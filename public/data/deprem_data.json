@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"20:35:22",
+    "Enlem":38.0927,
+    "Boylam":37.4202,
+    "Derinlik":17.1,
+    "ML":"1.0",
+    "Yer":"BAKIS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"20:24:17",
+    "Enlem":40.8195,
+    "Boylam":28.6897,
+    "Derinlik":11.7,
+    "ML":"1.6",
+    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"20:13:27",
+    "Enlem":36.0292,
+    "Boylam":28.2608,
+    "Derinlik":17.4,
+    "ML":"2.2",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"20:07:56",
     "Enlem":36.0305,
     "Boylam":28.2743,
