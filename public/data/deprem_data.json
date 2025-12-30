@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"05:55:07",
+    "Enlem":39.1768,
+    "Boylam":28.2518,
+    "Derinlik":5.3,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"05:48:41",
+    "Enlem":40.3283,
+    "Boylam":24.1287,
+    "Derinlik":14.3,
+    "ML":"2.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"05:39:20",
+    "Enlem":36.1198,
+    "Boylam":28.112,
+    "Derinlik":6.9,
+    "ML":"2.1",
+    "Yer":"RODOS ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"05:32:46",
+    "Enlem":39.2035,
+    "Boylam":28.1437,
+    "Derinlik":9.3,
+    "ML":"1.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"05:28:42",
+    "Enlem":39.2208,
+    "Boylam":28.1323,
+    "Derinlik":11.3,
+    "ML":"1.8",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"05:13:45",
     "Enlem":36.2802,
     "Boylam":26.9978,
