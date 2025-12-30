@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"10:40:18",
+    "Enlem":39.3145,
+    "Boylam":28.0675,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"10:18:31",
+    "Enlem":40.2312,
+    "Boylam":24.2475,
+    "Derinlik":4.1,
+    "ML":"1.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"10:12:05",
     "Enlem":38.251,
     "Boylam":45.2517,
     "Derinlik":11.4,
     "ML":"2.8",
     "Yer":"IRAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"10:02:14",
+    "Enlem":37.371,
+    "Boylam":29.1755,
+    "Derinlik":14.9,
+    "ML":"1.5",
+    "Yer":"BAHCEKOY-TAVAS (DENIZLI)",
     "Cozum":"�lksel"
   },
   {
