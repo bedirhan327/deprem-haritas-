@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"23:06:00",
+    "Enlem":40.8762,
+    "Boylam":31.5318,
+    "Derinlik":13.8,
+    "ML":"1.9",
+    "Yer":"HACIYERI-YIGILCA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"23:05:46",
+    "Enlem":40.8755,
+    "Boylam":31.54,
+    "Derinlik":8.0,
+    "ML":"1.9",
+    "Yer":"BEKIRLER-YIGILCA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"23:01:32",
+    "Enlem":38.4798,
+    "Boylam":40.2752,
+    "Derinlik":11.3,
+    "ML":"1.5",
+    "Yer":"UCOCAK-ARICAK (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"22:47:08",
     "Enlem":34.7427,
     "Boylam":32.5162,
@@ -137,6 +167,16 @@
     "Derinlik":16.9,
     "ML":"0.6",
     "Yer":"MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"18:45:27",
+    "Enlem":39.033,
+    "Boylam":28.2535,
+    "Derinlik":13.4,
+    "ML":"1.4",
+    "Yer":"BEGEL-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
