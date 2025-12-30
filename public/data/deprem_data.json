@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"03:46:39",
+    "Enlem":36.1355,
+    "Boylam":28.4828,
+    "Derinlik":27.3,
+    "ML":"2.3",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"03:42:11",
+    "Enlem":41.0593,
+    "Boylam":25.1248,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"02:58:05",
     "Enlem":38.2957,
     "Boylam":38.8253,
