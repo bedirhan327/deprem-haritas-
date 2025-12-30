@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"13:32:25",
+    "Enlem":39.2257,
+    "Boylam":28.1572,
+    "Derinlik":9.8,
+    "ML":"2.3",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"13:28:08",
+    "Enlem":39.9867,
+    "Boylam":42.7993,
+    "Derinlik":22.1,
+    "ML":"2.4",
+    "Yer":"CICEKLI-KAGIZMAN (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"12:36:39",
+    "Enlem":39.181,
+    "Boylam":28.1552,
+    "Derinlik":11.4,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"12:20:15",
     "Enlem":38.2283,
     "Boylam":38.5083,
