@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"01:21:39",
+    "Enlem":40.3457,
+    "Boylam":42.2453,
+    "Derinlik":12.3,
+    "ML":"1.6",
+    "Yer":"PARMAKDERE-SARIKAMIS (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"01:15:38",
+    "Enlem":39.2502,
+    "Boylam":28.1322,
+    "Derinlik":11.7,
+    "ML":"2.5",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"00:57:25",
+    "Enlem":38.5068,
+    "Boylam":40.25,
+    "Derinlik":3.2,
+    "ML":"1.4",
+    "Yer":"UCOCAK-ARICAK (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"00:37:33",
     "Enlem":39.192,
     "Boylam":28.1767,
