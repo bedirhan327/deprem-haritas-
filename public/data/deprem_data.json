@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"05:13:45",
+    "Enlem":36.2802,
+    "Boylam":26.9978,
+    "Derinlik":10.6,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"04:54:12",
+    "Enlem":39.0532,
+    "Boylam":29.024,
+    "Derinlik":5.0,
+    "ML":"0.8",
+    "Yer":"YESILKOY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"04:53:03",
     "Enlem":39.1405,
     "Boylam":28.2287,
