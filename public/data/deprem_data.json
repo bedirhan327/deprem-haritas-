@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"15:44:30",
+    "Enlem":38.0387,
+    "Boylam":36.6923,
+    "Derinlik":6.3,
+    "ML":"2.3",
+    "Yer":"KIZILOZ-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"14:33:58",
     "Enlem":40.5658,
     "Boylam":23.7958,
     "Derinlik":5.6,
     "ML":"1.2",
     "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"14:27:05",
+    "Enlem":39.1858,
+    "Boylam":28.0608,
+    "Derinlik":8.1,
+    "ML":"1.4",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
