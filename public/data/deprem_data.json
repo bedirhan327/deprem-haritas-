@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.30",
+    "Saat":"23:49:38",
+    "Enlem":38.8055,
+    "Boylam":37.949,
+    "Derinlik":8.0,
+    "ML":"1.7",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
+    "Saat":"23:47:00",
+    "Enlem":38.141,
+    "Boylam":38.5295,
+    "Derinlik":11.2,
+    "ML":"2.0",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.30",
     "Saat":"23:06:00",
     "Enlem":40.8762,
     "Boylam":31.5318,
