@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"21:14:22",
+    "Enlem":38.24,
+    "Boylam":38.227,
+    "Derinlik":8.0,
+    "ML":"2.2",
+    "Yer":"KADIRUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"21:12:52",
+    "Enlem":39.2267,
+    "Boylam":29.0413,
+    "Derinlik":12.6,
+    "ML":"2.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"21:10:51",
+    "Enlem":38.2852,
+    "Boylam":38.7912,
+    "Derinlik":1.9,
+    "ML":"1.7",
+    "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"20:43:41",
+    "Enlem":36.8123,
+    "Boylam":31.031,
+    "Derinlik":14.3,
+    "ML":"1.8",
+    "Yer":"BELEK ACIKLARI-ANTALYA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"20:15:10",
+    "Enlem":39.9857,
+    "Boylam":42.7495,
+    "Derinlik":11.6,
+    "ML":"2.2",
+    "Yer":"CICEKLI-KAGIZMAN (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"20:06:48",
     "Enlem":40.0258,
     "Boylam":27.4058,
