@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"23:58:05",
+    "Enlem":38.0188,
+    "Boylam":37.5258,
+    "Derinlik":5.5,
+    "ML":"2.6",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"23:40:34",
     "Enlem":39.378,
     "Boylam":26.2298,
@@ -21,12 +31,42 @@
   },
   {
     "Tarih":"2025.12.31",
+    "Saat":"23:35:42",
+    "Enlem":38.1857,
+    "Boylam":38.5518,
+    "Derinlik":3.6,
+    "ML":"1.2",
+    "Yer":"ULUKOY-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"23:33:39",
     "Enlem":36.9885,
     "Boylam":28.2812,
     "Derinlik":9.3,
     "ML":"2.5",
     "Yer":"CAMLI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"22:43:34",
+    "Enlem":39.233,
+    "Boylam":28.1175,
+    "Derinlik":6.2,
+    "ML":"1.4",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"22:32:11",
+    "Enlem":38.9915,
+    "Boylam":38.3742,
+    "Derinlik":22.4,
+    "ML":"1.0",
+    "Yer":"YESILYAYLA-ARAPGIR (MALATYA)",
     "Cozum":"�lksel"
   },
   {
