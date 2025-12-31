@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"15:11:59",
+    "Enlem":38.2643,
+    "Boylam":38.7353,
+    "Derinlik":5.5,
+    "ML":"2.2",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"15:10:38",
+    "Enlem":37.002,
+    "Boylam":35.8202,
+    "Derinlik":20.2,
+    "ML":"1.1",
+    "Yer":"CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"14:46:13",
+    "Enlem":39.0735,
+    "Boylam":27.5457,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"EGNEZ-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"14:17:50",
+    "Enlem":36.8387,
+    "Boylam":28.9443,
+    "Derinlik":18.1,
+    "ML":"1.1",
+    "Yer":"KIZILKAYA-DALAMAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"13:57:45",
     "Enlem":38.5302,
     "Boylam":38.06,
