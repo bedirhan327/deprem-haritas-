@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"19:56:16",
+    "Enlem":38.2238,
+    "Boylam":38.2355,
+    "Derinlik":2.8,
+    "ML":"1.8",
+    "Yer":"KADIRUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"19:18:52",
+    "Enlem":39.2685,
+    "Boylam":28.1362,
+    "Derinlik":7.2,
+    "ML":"1.6",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"18:53:25",
+    "Enlem":37.5558,
+    "Boylam":27.1958,
+    "Derinlik":13.8,
+    "ML":"1.7",
+    "Yer":"BATIKOY-DIDIM (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"18:25:16",
     "Enlem":38.2218,
     "Boylam":38.2315,
