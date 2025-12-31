@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"16:51:54",
+    "Enlem":39.106,
+    "Boylam":28.1107,
+    "Derinlik":14.6,
+    "ML":"1.4",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"16:38:47",
+    "Enlem":39.2473,
+    "Boylam":29.0517,
+    "Derinlik":15.0,
+    "ML":"1.0",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"16:23:50",
+    "Enlem":40.1377,
+    "Boylam":29.5903,
+    "Derinlik":4.3,
+    "ML":"2.0",
+    "Yer":"YENIYORUK-INEGOL (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"15:36:47",
     "Enlem":38.4902,
     "Boylam":29.1688,
