@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"02:58:10",
+    "Enlem":38.7395,
+    "Boylam":35.5065,
+    "Derinlik":7.8,
+    "ML":"1.4",
+    "Yer":"KOCASINAN (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"02:49:39",
+    "Enlem":39.2458,
+    "Boylam":28.0802,
+    "Derinlik":10.1,
+    "ML":"1.8",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"02:46:27",
+    "Enlem":38.15,
+    "Boylam":38.2665,
+    "Derinlik":1.5,
+    "ML":"2.7",
+    "Yer":"ALTINTAS-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"02:25:49",
     "Enlem":38.4948,
     "Boylam":40.2857,
