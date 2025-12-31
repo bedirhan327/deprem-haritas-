@@ -11,6 +11,26 @@
   },
   {
     "Tarih":"2025.12.31",
+    "Saat":"04:59:04",
+    "Enlem":38.2662,
+    "Boylam":37.727,
+    "Derinlik":11.0,
+    "ML":"1.2",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"04:25:16",
+    "Enlem":39.194,
+    "Boylam":28.295,
+    "Derinlik":12.7,
+    "ML":"1.5",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"03:53:03",
     "Enlem":38.1557,
     "Boylam":38.288,
