@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"10:33:23",
+    "Enlem":39.0978,
+    "Boylam":27.9927,
+    "Derinlik":19.8,
+    "ML":"1.6",
+    "Yer":"SARILAR-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"10:23:48",
+    "Enlem":39.2538,
+    "Boylam":28.9668,
+    "Derinlik":6.7,
+    "ML":"1.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"10:21:50",
+    "Enlem":39.2003,
+    "Boylam":28.1478,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"10:17:09",
+    "Enlem":39.2498,
+    "Boylam":28.199,
+    "Derinlik":8.3,
+    "ML":"1.6",
+    "Yer":"CAYGOREN-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"10:08:18",
     "Enlem":39.2503,
     "Boylam":28.0768,
