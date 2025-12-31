@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"05:15:02",
+    "Enlem":39.1845,
+    "Boylam":28.1167,
+    "Derinlik":12.1,
+    "ML":"3.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"03:53:03",
+    "Enlem":38.1557,
+    "Boylam":38.288,
+    "Derinlik":25.6,
+    "ML":"1.3",
+    "Yer":"ASAGIKOY-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"03:45:41",
+    "Enlem":40.517,
+    "Boylam":35.2277,
+    "Derinlik":4.3,
+    "ML":"1.9",
+    "Yer":"KUYUCAK-MECITOZU (CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"03:44:45",
+    "Enlem":37.7803,
+    "Boylam":28.9535,
+    "Derinlik":9.5,
+    "ML":"1.4",
+    "Yer":"ALTINDERE-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"03:25:34",
+    "Enlem":39.1355,
+    "Boylam":28.1537,
+    "Derinlik":16.3,
+    "ML":"1.2",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"03:12:53",
+    "Enlem":39.024,
+    "Boylam":27.8515,
+    "Derinlik":19.3,
+    "ML":"1.4",
+    "Yer":"MUSALAR-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"02:58:10",
     "Enlem":38.7395,
     "Boylam":35.5065,
