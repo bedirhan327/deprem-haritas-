@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"01:51:11",
+    "Enlem":39.1803,
+    "Boylam":28.2247,
+    "Derinlik":6.6,
+    "ML":"3.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"01:25:23",
+    "Enlem":36.3797,
+    "Boylam":29.6377,
+    "Derinlik":8.3,
+    "ML":"1.9",
+    "Yer":"AKORU-KAS (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"01:19:52",
+    "Enlem":36.7438,
+    "Boylam":33.6328,
+    "Derinlik":5.0,
+    "ML":"3.0",
+    "Yer":"IBRAHIMLI-MUT (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"00:56:12",
     "Enlem":39.2155,
     "Boylam":28.1425,
