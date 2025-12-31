@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"13:21:27",
+    "Enlem":38.0727,
+    "Boylam":36.7838,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"KORKMAZ-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"13:15:43",
+    "Enlem":38.2968,
+    "Boylam":37.2402,
+    "Derinlik":4.6,
+    "ML":"1.5",
+    "Yer":"KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"13:12:38",
+    "Enlem":38.0567,
+    "Boylam":37.5503,
+    "Derinlik":5.8,
+    "ML":"1.7",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"12:59:20",
+    "Enlem":39.4735,
+    "Boylam":28.1668,
+    "Derinlik":9.5,
+    "ML":"1.8",
+    "Yer":"ISKELE-BIGADIC (BALIKESIR) REVIZE01 (2025.12.31",
+    "Cozum":"12:59:20)"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"12:34:03",
     "Enlem":38.9522,
     "Boylam":26.8622,
