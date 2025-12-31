@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.31",
+    "Saat":"23:40:34",
+    "Enlem":39.378,
+    "Boylam":26.2298,
+    "Derinlik":13.2,
+    "ML":"1.7",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"23:37:33",
+    "Enlem":38.0392,
+    "Boylam":37.5337,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"23:33:39",
+    "Enlem":36.9885,
+    "Boylam":28.2812,
+    "Derinlik":9.3,
+    "ML":"2.5",
+    "Yer":"CAMLI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
     "Saat":"22:20:55",
     "Enlem":38.7603,
     "Boylam":37.9452,
     "Derinlik":7.2,
     "ML":"1.7",
     "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2025.12.31",
+    "Saat":"21:56:01",
+    "Enlem":40.3152,
+    "Boylam":29.2528,
+    "Derinlik":17.6,
+    "ML":"1.5",
+    "Yer":"ERICEK-GURSU (BURSA)",
     "Cozum":"�lksel"
   },
   {
