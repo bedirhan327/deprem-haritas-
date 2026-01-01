@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"12:01:07",
+    "Enlem":36.2603,
+    "Boylam":33.6322,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"DEDELER-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"11:49:56",
+    "Enlem":39.1545,
+    "Boylam":28.2355,
+    "Derinlik":13.0,
+    "ML":"3.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"11:30:50",
     "Enlem":39.3398,
     "Boylam":28.1718,
