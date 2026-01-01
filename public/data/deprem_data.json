@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"14:29:28",
+    "Enlem":38.115,
+    "Boylam":37.5265,
+    "Derinlik":15.6,
+    "ML":"1.6",
+    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"14:26:13",
+    "Enlem":39.023,
+    "Boylam":28.1885,
+    "Derinlik":12.6,
+    "ML":"1.8",
+    "Yer":"KALEMOGLU-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"14:09:45",
+    "Enlem":39.0367,
+    "Boylam":28.1787,
+    "Derinlik":9.5,
+    "ML":"2.1",
+    "Yer":"KALEMOGLU-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"13:49:10",
+    "Enlem":37.2867,
+    "Boylam":28.396,
+    "Derinlik":8.3,
+    "ML":"1.5",
+    "Yer":"KOZAGAC-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"13:01:06",
     "Enlem":37.0697,
     "Boylam":28.3452,
