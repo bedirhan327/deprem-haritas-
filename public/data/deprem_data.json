@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"18:25:06",
+    "Enlem":37.8292,
+    "Boylam":27.0037,
+    "Derinlik":3.6,
+    "ML":"2.1",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"17:56:15",
+    "Enlem":41.1233,
+    "Boylam":34.3905,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"YESILKOY-KARGI (CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"17:48:26",
     "Enlem":39.237,
     "Boylam":29.0373,
