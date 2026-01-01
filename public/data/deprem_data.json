@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"20:03:29",
+    "Enlem":40.9848,
+    "Boylam":40.1115,
+    "Derinlik":10.4,
+    "ML":"1.9",
+    "Yer":"ARAKLI (TRABZON)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"20:01:58",
+    "Enlem":39.1842,
+    "Boylam":28.2597,
+    "Derinlik":9.6,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"19:40:41",
     "Enlem":38.8545,
     "Boylam":25.9808,
