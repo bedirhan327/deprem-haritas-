@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"04:06:50",
+    "Enlem":39.1057,
+    "Boylam":28.2817,
+    "Derinlik":13.4,
+    "ML":"1.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"04:05:13",
+    "Enlem":38.7675,
+    "Boylam":37.9578,
+    "Derinlik":11.0,
+    "ML":"1.1",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"03:59:23",
+    "Enlem":39.1847,
+    "Boylam":28.3457,
+    "Derinlik":7.8,
+    "ML":"1.4",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"03:43:29",
     "Enlem":39.2267,
     "Boylam":29.0648,
