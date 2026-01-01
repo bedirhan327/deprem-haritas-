@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"09:50:14",
+    "Enlem":36.712,
+    "Boylam":28.2092,
+    "Derinlik":63.6,
+    "ML":"2.3",
+    "Yer":"BAYIR-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"09:48:14",
+    "Enlem":39.19,
+    "Boylam":28.0912,
+    "Derinlik":9.1,
+    "ML":"1.2",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"09:39:18",
+    "Enlem":39.2478,
+    "Boylam":28.2285,
+    "Derinlik":10.2,
+    "ML":"1.6",
+    "Yer":"CALTILI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"09:13:54",
     "Enlem":40.3937,
     "Boylam":28.8727,
