@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"17:37:47",
+    "Enlem":39.1205,
+    "Boylam":28.9627,
+    "Derinlik":13.0,
+    "ML":"2.0",
+    "Yer":"CITGOL-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"17:34:16",
+    "Enlem":39.2143,
+    "Boylam":28.9905,
+    "Derinlik":9.2,
+    "ML":"2.9",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"17:33:06",
+    "Enlem":39.2545,
+    "Boylam":29.0053,
+    "Derinlik":6.5,
+    "ML":"3.4",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"17:31:40",
+    "Enlem":39.2122,
+    "Boylam":29.0082,
+    "Derinlik":3.4,
+    "ML":"2.5",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"17:27:58",
+    "Enlem":39.229,
+    "Boylam":28.1315,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"17:08:58",
     "Enlem":38.1318,
     "Boylam":37.0002,
