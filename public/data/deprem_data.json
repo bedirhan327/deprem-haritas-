@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"16:33:07",
+    "Enlem":36.661,
+    "Boylam":29.3297,
+    "Derinlik":5.0,
+    "ML":"3.5",
+    "Yer":"ZORLAR-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"16:32:54",
+    "Enlem":39.9293,
+    "Boylam":26.061,
+    "Derinlik":12.3,
+    "ML":"1.4",
+    "Yer":"UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"15:52:23",
     "Enlem":38.9795,
     "Boylam":28.1918,
@@ -17,6 +37,16 @@
     "Derinlik":15.2,
     "ML":"2.3",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"15:40:19",
+    "Enlem":38.1313,
+    "Boylam":37.8553,
+    "Derinlik":19.4,
+    "ML":"1.4",
+    "Yer":"YOLKURU-DOGANSEHIR (MALATYA)",
     "Cozum":"�lksel"
   },
   {
@@ -81,12 +111,32 @@
   },
   {
     "Tarih":"2026.01.01",
+    "Saat":"15:12:05",
+    "Enlem":39.2095,
+    "Boylam":28.1785,
+    "Derinlik":10.7,
+    "ML":"1.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"15:08:47",
     "Enlem":40.1815,
     "Boylam":31.75,
     "Derinlik":9.0,
     "ML":"2.5",
     "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"15:08:15",
+    "Enlem":38.5735,
+    "Boylam":37.9832,
+    "Derinlik":2.6,
+    "ML":"1.7",
+    "Yer":"IRIAGAC-YAZIHAN (MALATYA)",
     "Cozum":"�lksel"
   },
   {
@@ -187,6 +237,16 @@
     "Derinlik":0.0,
     "ML":"1.1",
     "Yer":"DEDELER-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"12:00:32",
+    "Enlem":38.747,
+    "Boylam":37.9742,
+    "Derinlik":9.6,
+    "ML":"1.0",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
     "Cozum":"�lksel"
   },
   {
