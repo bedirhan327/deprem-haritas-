@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"15:39:37",
+    "Enlem":39.0208,
+    "Boylam":28.1747,
+    "Derinlik":16.6,
+    "ML":"1.4",
+    "Yer":"FUNDACIK-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"15:21:27",
+    "Enlem":40.26,
+    "Boylam":29.2287,
+    "Derinlik":0.0,
+    "ML":"2.2",
+    "Yer":"KARAHIDIR-GURSU (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"15:19:21",
     "Enlem":39.0793,
     "Boylam":25.3862,
     "Derinlik":9.1,
     "ML":"2.2",
     "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"15:17:07",
+    "Enlem":39.1775,
+    "Boylam":28.2127,
+    "Derinlik":10.5,
+    "ML":"2.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
