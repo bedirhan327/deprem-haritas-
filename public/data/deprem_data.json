@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"01:22:52",
+    "Enlem":36.9952,
+    "Boylam":28.2642,
+    "Derinlik":5.3,
+    "ML":"0.9",
+    "Yer":"CAMLI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"01:19:36",
+    "Enlem":37.0585,
+    "Boylam":36.0638,
+    "Derinlik":18.1,
+    "ML":"1.5",
+    "Yer":"LALEGOLU-TOPRAKKALE (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"01:13:29",
+    "Enlem":39.8992,
+    "Boylam":25.9255,
+    "Derinlik":9.3,
+    "ML":"1.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"00:45:08",
+    "Enlem":39.1722,
+    "Boylam":28.1203,
+    "Derinlik":12.3,
+    "ML":"1.6",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"00:18:41",
     "Enlem":39.175,
     "Boylam":28.1498,
@@ -67,6 +107,16 @@
     "Derinlik":12.5,
     "ML":"1.2",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"22:04:51",
+    "Enlem":35.0497,
+    "Boylam":23.3602,
+    "Derinlik":26.7,
+    "ML":"3.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
