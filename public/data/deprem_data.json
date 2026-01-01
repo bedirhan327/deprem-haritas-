@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"21:07:30",
+    "Enlem":35.8997,
+    "Boylam":35.8758,
+    "Derinlik":7.5,
+    "ML":"2.3",
+    "Yer":"DENIZGOREN-YAYLADAGI (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"21:06:35",
+    "Enlem":39.2298,
+    "Boylam":28.9873,
+    "Derinlik":12.5,
+    "ML":"2.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"20:03:29",
     "Enlem":40.9848,
     "Boylam":40.1115,
