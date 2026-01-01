@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"05:46:56",
+    "Enlem":39.1965,
+    "Boylam":28.1543,
+    "Derinlik":9.2,
+    "ML":"1.9",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"05:14:08",
+    "Enlem":37.2003,
+    "Boylam":27.9343,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"KAYADERE-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"05:13:49",
     "Enlem":39.9193,
     "Boylam":25.9185,
