@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.01",
+    "Saat":"06:14:05",
+    "Enlem":38.4218,
+    "Boylam":27.0778,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
+    "Saat":"06:11:42",
+    "Enlem":38.8077,
+    "Boylam":37.9307,
+    "Derinlik":11.7,
+    "ML":"1.0",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.01",
     "Saat":"05:46:56",
     "Enlem":39.1965,
     "Boylam":28.1543,
