@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"06:13:33",
+    "Enlem":39.2693,
+    "Boylam":40.7667,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"KARLICA-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"06:12:54",
+    "Enlem":37.988,
+    "Boylam":27.1075,
+    "Derinlik":5.1,
+    "ML":"1.9",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"06:00:11",
+    "Enlem":39.251,
+    "Boylam":28.1185,
+    "Derinlik":9.6,
+    "ML":"2.2",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:59:39",
+    "Enlem":35.916,
+    "Boylam":35.9443,
+    "Derinlik":7.2,
+    "ML":"2.4",
+    "Yer":"DENIZGOREN-YAYLADAGI (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:44:22",
+    "Enlem":39.0242,
+    "Boylam":25.892,
+    "Derinlik":14.7,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:43:19",
+    "Enlem":40.0097,
+    "Boylam":42.864,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"KORPINAR-KAGIZMAN (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"05:31:44",
     "Enlem":38.8288,
     "Boylam":26.7657,
