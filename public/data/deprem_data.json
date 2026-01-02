@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"14:33:17",
+    "Enlem":38.3448,
+    "Boylam":37.515,
+    "Derinlik":27.6,
+    "ML":"1.0",
+    "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"14:27:24",
+    "Enlem":37.898,
+    "Boylam":36.5788,
+    "Derinlik":6.8,
+    "ML":"1.5",
+    "Yer":"TEKIR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"14:16:25",
     "Enlem":40.41,
     "Boylam":28.0692,
