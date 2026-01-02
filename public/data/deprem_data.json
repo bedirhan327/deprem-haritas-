@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"18:08:43",
+    "Enlem":41.1057,
+    "Boylam":28.9447,
+    "Derinlik":0.0,
+    "ML":"0.8",
+    "Yer":"KAGITHANE (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"18:06:15",
+    "Enlem":39.243,
+    "Boylam":29.0487,
+    "Derinlik":8.2,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"17:35:07",
     "Enlem":39.1645,
     "Boylam":28.219,
