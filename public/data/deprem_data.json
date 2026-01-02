@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"22:48:02",
+    "Enlem":39.8813,
+    "Boylam":28.6778,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"22:41:26",
+    "Enlem":36.7558,
+    "Boylam":33.6202,
+    "Derinlik":7.0,
+    "ML":"1.6",
+    "Yer":"CUKURBAG-MUT (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"22:40:03",
+    "Enlem":39.1673,
+    "Boylam":28.3195,
+    "Derinlik":12.4,
+    "ML":"1.4",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"22:35:00",
+    "Enlem":40.7775,
+    "Boylam":27.9818,
+    "Derinlik":11.8,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"20:51:06",
     "Enlem":36.8742,
     "Boylam":27.4638,
