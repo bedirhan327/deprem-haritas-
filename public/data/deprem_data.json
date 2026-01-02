@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"16:44:58",
+    "Enlem":38.9948,
+    "Boylam":29.7097,
+    "Derinlik":4.6,
+    "ML":"2.9",
+    "Yer":"CUKUROREN-GEDIZ (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"16:42:48",
+    "Enlem":39.2015,
+    "Boylam":28.0568,
+    "Derinlik":8.3,
+    "ML":"1.2",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"16:18:21",
     "Enlem":39.1822,
     "Boylam":29.0275,
