@@ -1,6 +1,96 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"16:18:21",
+    "Enlem":39.1822,
+    "Boylam":29.0275,
+    "Derinlik":3.7,
+    "ML":"1.2",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:50:45",
+    "Enlem":36.1885,
+    "Boylam":33.5418,
+    "Derinlik":0.0,
+    "ML":"0.8",
+    "Yer":"KOCASLI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:48:03",
+    "Enlem":38.2383,
+    "Boylam":38.8208,
+    "Derinlik":8.4,
+    "ML":"1.6",
+    "Yer":"ORMELI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:47:12",
+    "Enlem":38.2583,
+    "Boylam":38.863,
+    "Derinlik":3.2,
+    "ML":"1.7",
+    "Yer":"CENGELLI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:44:29",
+    "Enlem":36.1527,
+    "Boylam":33.5402,
+    "Derinlik":0.0,
+    "ML":"0.7",
+    "Yer":"BUYUKECELI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:40:41",
+    "Enlem":39.1557,
+    "Boylam":28.9777,
+    "Derinlik":15.4,
+    "ML":"1.2",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:39:08",
+    "Enlem":39.3138,
+    "Boylam":28.9803,
+    "Derinlik":5.0,
+    "ML":"0.9",
+    "Yer":"YAVU-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:38:21",
+    "Enlem":39.7528,
+    "Boylam":39.1462,
+    "Derinlik":6.2,
+    "ML":"1.9",
+    "Yer":"AKTAS-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:35:34",
+    "Enlem":39.254,
+    "Boylam":28.0988,
+    "Derinlik":7.5,
+    "ML":"1.2",
+    "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"15:10:12",
     "Enlem":39.2057,
     "Boylam":28.3945,
@@ -27,6 +117,16 @@
     "Derinlik":16.4,
     "ML":"1.6",
     "Yer":"YESILKOY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"14:58:30",
+    "Enlem":35.5728,
+    "Boylam":25.294,
+    "Derinlik":49.2,
+    "ML":"2.6",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
