@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"15:10:12",
+    "Enlem":39.2057,
+    "Boylam":28.3945,
+    "Derinlik":19.3,
+    "ML":"1.2",
+    "Yer":"CIKRIKCI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:05:58",
+    "Enlem":40.808,
+    "Boylam":30.979,
+    "Derinlik":16.8,
+    "ML":"1.6",
+    "Yer":"ELMACIK-GUMUSOVA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"15:03:37",
+    "Enlem":38.0107,
+    "Boylam":36.7517,
+    "Derinlik":16.4,
+    "ML":"1.6",
+    "Yer":"YESILKOY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"14:57:44",
+    "Enlem":40.3952,
+    "Boylam":24.0327,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"14:48:22",
+    "Enlem":39.238,
+    "Boylam":28.1615,
+    "Derinlik":14.4,
+    "ML":"1.3",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"14:40:20",
+    "Enlem":39.2233,
+    "Boylam":28.1435,
+    "Derinlik":7.7,
+    "ML":"1.4",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"14:33:17",
     "Enlem":38.3448,
     "Boylam":37.515,
