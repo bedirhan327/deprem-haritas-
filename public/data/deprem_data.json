@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"20:51:06",
+    "Enlem":36.8742,
+    "Boylam":27.4638,
+    "Derinlik":8.1,
+    "ML":"1.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"20:47:12",
+    "Enlem":37.0818,
+    "Boylam":28.5417,
+    "Derinlik":18.4,
+    "ML":"1.1",
+    "Yer":"KIYRA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"19:37:52",
     "Enlem":39.2533,
     "Boylam":28.1132,
