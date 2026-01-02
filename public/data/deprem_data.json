@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"07:51:02",
+    "Enlem":39.4062,
+    "Boylam":28.8068,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"07:48:23",
+    "Enlem":39.2425,
+    "Boylam":27.9972,
+    "Derinlik":14.0,
+    "ML":"1.7",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"07:00:19",
     "Enlem":39.1557,
     "Boylam":28.2177,
