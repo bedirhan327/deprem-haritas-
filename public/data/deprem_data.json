@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"03:19:26",
+    "Enlem":39.2492,
+    "Boylam":28.135,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"03:09:26",
+    "Enlem":37.4758,
+    "Boylam":38.6323,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"YEMISLI-(SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"02:58:17",
+    "Enlem":40.815,
+    "Boylam":31.3608,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"DARIYERIHASANBEY-KAYNASLI (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"02:44:11",
     "Enlem":39.106,
     "Boylam":28.1302,
