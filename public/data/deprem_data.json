@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"05:22:10",
+    "Enlem":39.182,
+    "Boylam":28.3622,
+    "Derinlik":6.8,
+    "ML":"1.7",
+    "Yer":"CIKRIKCI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:16:36",
+    "Enlem":35.851,
+    "Boylam":35.9077,
+    "Derinlik":5.4,
+    "ML":"2.3",
+    "Yer":"DENIZGOREN-YAYLADAGI (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:07:46",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:06:30",
+    "Enlem":39.2477,
+    "Boylam":28.097,
+    "Derinlik":8.7,
+    "ML":"2.1",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"05:06:11",
+    "Enlem":38.1152,
+    "Boylam":38.4593,
+    "Derinlik":16.4,
+    "ML":"1.2",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"04:56:19",
+    "Enlem":40.7502,
+    "Boylam":23.4307,
+    "Derinlik":11.8,
+    "ML":"3.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"04:24:22",
     "Enlem":40.7975,
     "Boylam":27.4687,
