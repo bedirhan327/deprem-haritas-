@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"07:00:19",
+    "Enlem":39.1557,
+    "Boylam":28.2177,
+    "Derinlik":14.2,
+    "ML":"1.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"06:51:40",
     "Enlem":39.1697,
     "Boylam":28.1512,
@@ -17,6 +27,16 @@
     "Derinlik":8.6,
     "ML":"1.1",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"06:34:27",
+    "Enlem":37.3447,
+    "Boylam":37.0447,
+    "Derinlik":6.3,
+    "ML":"1.1",
+    "Yer":"EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
