@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.02",
+    "Saat":"02:44:11",
+    "Enlem":39.106,
+    "Boylam":28.1302,
+    "Derinlik":11.9,
+    "ML":"2.0",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"02:30:00",
+    "Enlem":39.184,
+    "Boylam":28.2042,
+    "Derinlik":8.1,
+    "ML":"0.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"02:29:14",
+    "Enlem":36.993,
+    "Boylam":35.6858,
+    "Derinlik":18.0,
+    "ML":"2.6",
+    "Yer":"CAKALDERE-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"02:25:55",
+    "Enlem":39.5638,
+    "Boylam":25.8697,
+    "Derinlik":8.8,
+    "ML":"1.5",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"02:24:08",
+    "Enlem":39.1473,
+    "Boylam":28.1375,
+    "Derinlik":9.5,
+    "ML":"0.9",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.02",
     "Saat":"02:20:20",
     "Enlem":39.378,
     "Boylam":28.82,
