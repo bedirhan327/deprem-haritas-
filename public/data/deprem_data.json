@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"10:41:18",
+    "Enlem":37.9898,
+    "Boylam":36.3417,
+    "Derinlik":9.5,
+    "ML":"1.6",
+    "Yer":"HUGTAS-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"10:26:34",
+    "Enlem":38.1055,
+    "Boylam":38.4708,
+    "Derinlik":7.7,
+    "ML":"1.8",
+    "Yer":"KARAKOSE-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"09:42:08",
     "Enlem":36.359,
     "Boylam":33.8452,
