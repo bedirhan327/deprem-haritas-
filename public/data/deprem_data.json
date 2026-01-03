@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"07:44:25",
+    "Enlem":37.0218,
+    "Boylam":28.2388,
+    "Derinlik":7.1,
+    "ML":"1.9",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"07:39:05",
+    "Enlem":38.0848,
+    "Boylam":37.5425,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"07:30:01",
+    "Enlem":39.2777,
+    "Boylam":28.0807,
+    "Derinlik":8.2,
+    "ML":"1.5",
+    "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"07:26:58",
+    "Enlem":38.5178,
+    "Boylam":31.7992,
+    "Derinlik":4.5,
+    "ML":"1.2",
+    "Yer":"KUNDULLU-TUZLUKCU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"07:20:21",
     "Enlem":36.3057,
     "Boylam":36.306,
