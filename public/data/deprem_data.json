@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"18:50:59",
+    "Enlem":39.7262,
+    "Boylam":26.8927,
+    "Derinlik":8.5,
+    "ML":"1.9",
+    "Yer":"DAGOBA-BAYRAMIC (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"18:48:36",
+    "Enlem":36.828,
+    "Boylam":32.8825,
+    "Derinlik":3.6,
+    "ML":"1.5",
+    "Yer":"BALKUSAN-ERMENEK (KARAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"18:35:40",
     "Enlem":38.1022,
     "Boylam":38.3403,
