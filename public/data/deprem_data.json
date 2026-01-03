@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"03:39:11",
+    "Enlem":38.047,
+    "Boylam":37.3712,
+    "Derinlik":2.0,
+    "ML":"1.4",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"03:37:18",
+    "Enlem":39.025,
+    "Boylam":25.8798,
+    "Derinlik":9.4,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"03:36:15",
+    "Enlem":40.8407,
+    "Boylam":28.396,
+    "Derinlik":5.2,
+    "ML":"1.9",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"03:33:56",
+    "Enlem":39.2287,
+    "Boylam":29.003,
+    "Derinlik":10.4,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"03:28:55",
+    "Enlem":37.9915,
+    "Boylam":27.1797,
+    "Derinlik":7.5,
+    "ML":"1.6",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"03:20:20",
     "Enlem":38.1105,
     "Boylam":36.7025,
