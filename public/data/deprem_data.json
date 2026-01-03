@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"18:35:40",
+    "Enlem":38.1022,
+    "Boylam":38.3403,
+    "Derinlik":8.1,
+    "ML":"2.0",
+    "Yer":"TASDAMLAR-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"18:27:28",
+    "Enlem":38.7472,
+    "Boylam":41.6612,
+    "Derinlik":5.0,
+    "ML":"3.3",
+    "Yer":"TABANLI-(MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"18:06:12",
     "Enlem":39.928,
     "Boylam":25.869,
