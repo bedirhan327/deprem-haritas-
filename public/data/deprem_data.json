@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"04:44:22",
+    "Enlem":39.7373,
+    "Boylam":26.823,
+    "Derinlik":20.0,
+    "ML":"1.7",
+    "Yer":"DAGOBA-BAYRAMIC (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"04:38:30",
+    "Enlem":39.033,
+    "Boylam":25.7973,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"04:36:48",
+    "Enlem":38.8463,
+    "Boylam":37.888,
+    "Derinlik":16.6,
+    "ML":"1.0",
+    "Yer":"BEYKENT-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"04:18:35",
     "Enlem":37.1813,
     "Boylam":28.0908,
@@ -37,6 +67,16 @@
     "Derinlik":12.9,
     "ML":"1.1",
     "Yer":"RESADIYE-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"03:59:08",
+    "Enlem":35.8855,
+    "Boylam":25.517,
+    "Derinlik":12.1,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
