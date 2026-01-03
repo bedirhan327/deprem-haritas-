@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"13:30:50",
+    "Enlem":37.9517,
+    "Boylam":29.0232,
+    "Derinlik":11.3,
+    "ML":"1.8",
+    "Yer":"ADAKOY-SARAYKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"13:22:12",
+    "Enlem":37.997,
+    "Boylam":32.8432,
+    "Derinlik":12.0,
+    "ML":"1.2",
+    "Yer":"ZENCIRLI-KARATAY (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"13:01:27",
     "Enlem":39.0943,
     "Boylam":28.2615,
