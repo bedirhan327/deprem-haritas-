@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"15:41:07",
+    "Enlem":38.6703,
+    "Boylam":38.0453,
+    "Derinlik":11.9,
+    "ML":"1.2",
+    "Yer":"ALICAN-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"15:19:58",
+    "Enlem":38.1372,
+    "Boylam":38.552,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"15:07:00",
     "Enlem":38.9965,
     "Boylam":25.9112,
