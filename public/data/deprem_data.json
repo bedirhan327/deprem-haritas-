@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"12:20:19",
+    "Enlem":39.2827,
+    "Boylam":40.2775,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"AGACOVEN-KIGI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"11:53:20",
+    "Enlem":34.7257,
+    "Boylam":32.5493,
+    "Derinlik":14.6,
+    "ML":"2.5",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"11:49:14",
     "Enlem":39.1747,
     "Boylam":28.236,
