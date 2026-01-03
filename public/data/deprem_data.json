@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"02:50:35",
+    "Enlem":39.2267,
+    "Boylam":29.0222,
+    "Derinlik":9.7,
+    "ML":"2.0",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"02:43:54",
+    "Enlem":39.01,
+    "Boylam":26.0488,
+    "Derinlik":7.4,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"02:27:45",
+    "Enlem":39.0053,
+    "Boylam":25.9725,
+    "Derinlik":13.0,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"02:22:29",
+    "Enlem":39.0228,
+    "Boylam":25.9755,
+    "Derinlik":7.8,
+    "ML":"3.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"02:13:43",
     "Enlem":39.2452,
     "Boylam":28.988,
