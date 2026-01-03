@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"01:40:24",
+    "Enlem":37.9672,
+    "Boylam":38.1465,
+    "Derinlik":4.4,
+    "ML":"1.6",
+    "Yer":"KURUCAOVA-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"01:26:44",
+    "Enlem":35.1103,
+    "Boylam":24.6153,
+    "Derinlik":11.4,
+    "ML":"3.1",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"00:12:05",
     "Enlem":38.3693,
     "Boylam":38.7597,
