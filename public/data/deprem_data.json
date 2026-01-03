@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"19:39:14",
+    "Enlem":38.3233,
+    "Boylam":38.8933,
+    "Derinlik":7.3,
+    "ML":"1.5",
+    "Yer":"UZUNHUSEYIN-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"19:20:29",
+    "Enlem":39.1645,
+    "Boylam":28.9138,
+    "Derinlik":18.9,
+    "ML":"1.6",
+    "Yer":"GUNEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"18:50:59",
     "Enlem":39.7262,
     "Boylam":26.8927,
