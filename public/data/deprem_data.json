@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"11:49:14",
+    "Enlem":39.1747,
+    "Boylam":28.236,
+    "Derinlik":16.0,
+    "ML":"2.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"11:28:20",
+    "Enlem":37.1283,
+    "Boylam":28.5062,
+    "Derinlik":42.4,
+    "ML":"1.6",
+    "Yer":"ARMUTCUK-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"11:24:18",
+    "Enlem":38.1508,
+    "Boylam":36.9927,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"YAZIDERE-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"11:06:16",
     "Enlem":39.195,
     "Boylam":28.9703,
@@ -37,6 +67,16 @@
     "Derinlik":7.7,
     "ML":"1.8",
     "Yer":"KARAKOSE-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"09:51:07",
+    "Enlem":39.8822,
+    "Boylam":33.4,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"KILICLAR-YAHSIHAN (KIRIKKALE)",
     "Cozum":"�lksel"
   },
   {
