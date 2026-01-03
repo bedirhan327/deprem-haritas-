@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.03",
+    "Saat":"07:20:21",
+    "Enlem":36.3057,
+    "Boylam":36.306,
+    "Derinlik":6.1,
+    "ML":"1.5",
+    "Yer":"SUVATLI-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"07:08:09",
+    "Enlem":39.5135,
+    "Boylam":27.9775,
+    "Derinlik":10.4,
+    "ML":"1.7",
+    "Yer":"ORHANLI-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"07:01:27",
+    "Enlem":38.7717,
+    "Boylam":37.9705,
+    "Derinlik":8.1,
+    "ML":"1.2",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
+    "Saat":"06:59:12",
+    "Enlem":38.2588,
+    "Boylam":38.819,
+    "Derinlik":4.3,
+    "ML":"1.6",
+    "Yer":"AKTARLI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.03",
     "Saat":"06:32:21",
     "Enlem":40.1862,
     "Boylam":31.782,
