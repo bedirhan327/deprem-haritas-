@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"19:54:51",
+    "Enlem":38.5987,
+    "Boylam":39.5207,
+    "Derinlik":5.8,
+    "ML":"1.6",
+    "Yer":"KORUCU-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"19:44:16",
     "Enlem":38.5778,
     "Boylam":39.4658,
     "Derinlik":7.4,
     "ML":"1.8",
     "Yer":"KOCKALE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"19:43:44",
+    "Enlem":40.0602,
+    "Boylam":26.5398,
+    "Derinlik":4.6,
+    "ML":"1.6",
+    "Yer":"CIFTLIKDERE-(CANAKKALE)",
     "Cozum":"�lksel"
   },
   {
