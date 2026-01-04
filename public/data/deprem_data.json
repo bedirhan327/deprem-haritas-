@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"19:06:12",
+    "Enlem":39.2377,
+    "Boylam":28.0918,
+    "Derinlik":15.6,
+    "ML":"1.3",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"18:48:40",
+    "Enlem":39.0307,
+    "Boylam":25.9518,
+    "Derinlik":9.0,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"18:07:55",
     "Enlem":39.1733,
     "Boylam":27.9698,
