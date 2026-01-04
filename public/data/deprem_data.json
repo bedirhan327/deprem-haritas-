@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"08:08:47",
+    "Enlem":36.9825,
+    "Boylam":29.1105,
+    "Derinlik":19.9,
+    "ML":"1.9",
+    "Yer":"AKPINAR-CAMELI (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"08:04:46",
+    "Enlem":39.1098,
+    "Boylam":28.2717,
+    "Derinlik":14.3,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"08:00:53",
+    "Enlem":37.8955,
+    "Boylam":28.777,
+    "Derinlik":10.1,
+    "ML":"2.0",
+    "Yer":"TIRKAZ-SARAYKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"07:50:20",
+    "Enlem":37.528,
+    "Boylam":27.1465,
+    "Derinlik":4.7,
+    "ML":"1.9",
+    "Yer":"AKKOY ACIKLARI-AYDIN (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"07:43:47",
     "Enlem":39.0042,
     "Boylam":25.8952,
