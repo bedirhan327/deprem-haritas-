@@ -1,6 +1,86 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"02:49:46",
+    "Enlem":38.1987,
+    "Boylam":36.6068,
+    "Derinlik":15.1,
+    "ML":"1.2",
+    "Yer":"KAVSUT-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:33:37",
+    "Enlem":39.0288,
+    "Boylam":25.8748,
+    "Derinlik":12.9,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:30:10",
+    "Enlem":38.1603,
+    "Boylam":36.5405,
+    "Derinlik":7.8,
+    "ML":"1.7",
+    "Yer":"KOMURKOY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:24:29",
+    "Enlem":38.2397,
+    "Boylam":38.2277,
+    "Derinlik":2.3,
+    "ML":"2.0",
+    "Yer":"KADIRUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:20:09",
+    "Enlem":38.0292,
+    "Boylam":36.5278,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:11:55",
+    "Enlem":40.7618,
+    "Boylam":31.5605,
+    "Derinlik":6.7,
+    "ML":"1.4",
+    "Yer":"PIRAHMETLER-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:10:32",
+    "Enlem":39.683,
+    "Boylam":38.697,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"GULBAHCE-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"02:07:38",
+    "Enlem":38.4502,
+    "Boylam":31.8993,
+    "Derinlik":5.5,
+    "ML":"1.5",
+    "Yer":"TEKELER-ILGIN (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"02:03:07",
     "Enlem":39.1255,
     "Boylam":28.2627,
