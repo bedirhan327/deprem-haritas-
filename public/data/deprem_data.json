@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"23:51:20",
+    "Enlem":36.699,
+    "Boylam":29.33,
+    "Derinlik":5.8,
+    "ML":"3.1",
+    "Yer":"ATLIDERE-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"23:44:42",
+    "Enlem":40.8922,
+    "Boylam":31.6782,
+    "Derinlik":2.2,
+    "ML":"1.5",
+    "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"23:21:50",
+    "Enlem":35.6805,
+    "Boylam":25.8613,
+    "Derinlik":22.1,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"23:13:27",
+    "Enlem":39.2555,
+    "Boylam":29.0247,
+    "Derinlik":10.4,
+    "ML":"2.0",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"23:09:48",
     "Enlem":39.2615,
     "Boylam":29.0005,
