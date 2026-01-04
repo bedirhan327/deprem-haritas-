@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"06:34:16",
+    "Enlem":37.5733,
+    "Boylam":27.1937,
+    "Derinlik":8.2,
+    "ML":"1.9",
+    "Yer":"DOGANBEY-SOKE (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"05:44:33",
+    "Enlem":39.9735,
+    "Boylam":39.6283,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"OGUZ-KELKIT (GUMUSHANE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"05:42:21",
     "Enlem":39.2172,
     "Boylam":28.0947,
