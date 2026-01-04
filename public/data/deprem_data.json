@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"19:44:16",
+    "Enlem":38.5778,
+    "Boylam":39.4658,
+    "Derinlik":7.4,
+    "ML":"1.8",
+    "Yer":"KOCKALE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"19:25:45",
+    "Enlem":39.0722,
+    "Boylam":28.1013,
+    "Derinlik":3.3,
+    "ML":"1.2",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"19:06:12",
     "Enlem":39.2377,
     "Boylam":28.0918,
@@ -17,6 +37,16 @@
     "Derinlik":9.0,
     "ML":"2.0",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"18:12:04",
+    "Enlem":38.2442,
+    "Boylam":38.7305,
+    "Derinlik":12.1,
+    "ML":"1.3",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
     "Cozum":"�lksel"
   },
   {
