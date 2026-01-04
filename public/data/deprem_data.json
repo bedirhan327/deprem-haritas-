@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"16:42:47",
+    "Enlem":39.4627,
+    "Boylam":26.3692,
+    "Derinlik":9.4,
+    "ML":"2.2",
+    "Yer":"EDREMIT KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"16:27:16",
+    "Enlem":38.0382,
+    "Boylam":36.3103,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KIRAZLIYURT-TUFANBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"16:12:46",
+    "Enlem":39.2552,
+    "Boylam":27.9802,
+    "Derinlik":7.4,
+    "ML":"1.5",
+    "Yer":"EGRIDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"15:59:04",
     "Enlem":38.6197,
     "Boylam":40.4457,
@@ -91,12 +121,32 @@
   },
   {
     "Tarih":"2026.01.04",
+    "Saat":"12:41:26",
+    "Enlem":38.7995,
+    "Boylam":41.8162,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"TANKOY-KORKUT (MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"12:38:08",
     "Enlem":39.125,
     "Boylam":28.2548,
     "Derinlik":11.5,
     "ML":"2.1",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"12:27:59",
+    "Enlem":39.6922,
+    "Boylam":38.762,
+    "Derinlik":6.8,
+    "ML":"1.8",
+    "Yer":"KARACA-KEMAH (ERZINCAN)",
     "Cozum":"�lksel"
   },
   {
