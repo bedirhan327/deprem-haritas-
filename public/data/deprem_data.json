@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"21:14:32",
+    "Enlem":38.11,
+    "Boylam":37.1507,
+    "Derinlik":3.3,
+    "ML":"1.6",
+    "Yer":"GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"21:08:11",
+    "Enlem":39.244,
+    "Boylam":28.1447,
+    "Derinlik":6.8,
+    "ML":"1.6",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"21:03:40",
+    "Enlem":39.18,
+    "Boylam":28.1767,
+    "Derinlik":9.9,
+    "ML":"2.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"20:26:15",
+    "Enlem":39.057,
+    "Boylam":28.367,
+    "Derinlik":2.6,
+    "ML":"1.4",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"20:17:30",
     "Enlem":39.6917,
     "Boylam":39.6263,
