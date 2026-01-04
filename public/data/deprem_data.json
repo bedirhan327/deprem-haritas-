@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"15:29:30",
+    "Enlem":38.0375,
+    "Boylam":36.5665,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"YANTEPE-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"15:23:40",
+    "Enlem":37.8515,
+    "Boylam":36.1223,
+    "Derinlik":7.2,
+    "ML":"1.6",
+    "Yer":"DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"15:11:30",
     "Enlem":39.223,
     "Boylam":28.1385,
@@ -167,6 +187,16 @@
     "Derinlik":7.6,
     "ML":"1.5",
     "Yer":"DEMIRCARIK-AGIN (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"08:39:17",
+    "Enlem":39.743,
+    "Boylam":43.6193,
+    "Derinlik":21.7,
+    "ML":"2.1",
+    "Yer":"BEZIRHANE-DOGUBAYAZIT (AGRI)",
     "Cozum":"�lksel"
   },
   {
