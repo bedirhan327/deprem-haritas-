@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"17:51:49",
+    "Enlem":37.4888,
+    "Boylam":37.3428,
+    "Derinlik":3.3,
+    "ML":"2.3",
+    "Yer":"ULUBAHCE-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"17:50:42",
+    "Enlem":39.2772,
+    "Boylam":39.918,
+    "Derinlik":8.0,
+    "ML":"1.9",
+    "Yer":"YAYIKAGIL-NAZIMIYE (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"17:23:47",
     "Enlem":38.1995,
     "Boylam":38.0278,
