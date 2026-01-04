@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"21:36:15",
+    "Enlem":39.0267,
+    "Boylam":25.915,
+    "Derinlik":8.2,
+    "ML":"2.4",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"21:14:32",
     "Enlem":38.11,
     "Boylam":37.1507,
     "Derinlik":3.3,
     "ML":"1.6",
     "Yer":"GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"21:13:48",
+    "Enlem":38.1035,
+    "Boylam":37.1097,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"ORTAOREN-EKINOZU (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
