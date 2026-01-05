@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"11:11:45",
+    "Enlem":39.3218,
+    "Boylam":41.0332,
+    "Derinlik":4.9,
+    "ML":"1.6",
+    "Yer":"KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"11:07:20",
+    "Enlem":38.3633,
+    "Boylam":37.43,
+    "Derinlik":13.6,
+    "ML":"1.7",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"10:22:30",
     "Enlem":39.0043,
     "Boylam":25.9122,
