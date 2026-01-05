@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"17:12:55",
+    "Enlem":39.2527,
+    "Boylam":28.972,
+    "Derinlik":16.6,
+    "ML":"1.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"16:57:14",
+    "Enlem":40.182,
+    "Boylam":31.7545,
+    "Derinlik":3.1,
+    "ML":"2.5",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"16:11:37",
     "Enlem":39.4763,
     "Boylam":37.4028,
