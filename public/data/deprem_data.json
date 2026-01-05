@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"17:24:59",
+    "Enlem":39.2378,
+    "Boylam":28.9948,
+    "Derinlik":16.8,
+    "ML":"1.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"17:21:51",
+    "Enlem":39.0447,
+    "Boylam":25.9612,
+    "Derinlik":9.0,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"17:12:55",
     "Enlem":39.2527,
     "Boylam":28.972,
