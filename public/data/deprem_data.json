@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"06:45:23",
+    "Enlem":37.2908,
+    "Boylam":36.3098,
+    "Derinlik":4.5,
+    "ML":"1.4",
+    "Yer":"PIRSULTANLI-DUZICI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"06:30:00",
+    "Enlem":38.7792,
+    "Boylam":41.8665,
+    "Derinlik":9.7,
+    "ML":"1.4",
+    "Yer":"TANKOY-KORKUT (MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"06:23:11",
+    "Enlem":38.2528,
+    "Boylam":38.8003,
+    "Derinlik":5.4,
+    "ML":"1.0",
+    "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"05:50:00",
     "Enlem":39.2065,
     "Boylam":28.0185,
