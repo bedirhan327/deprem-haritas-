@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"12:30:30",
+    "Enlem":39.377,
+    "Boylam":27.7553,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"DIKMELER-SAVASTEPE (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"12:17:39",
+    "Enlem":36.2743,
+    "Boylam":33.678,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"ISIKLI-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"11:36:31",
     "Enlem":35.6457,
     "Boylam":31.7258,
