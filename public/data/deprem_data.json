@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"08:22:33",
+    "Enlem":38.4702,
+    "Boylam":38.0732,
+    "Derinlik":6.2,
+    "ML":"1.3",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"08:20:21",
+    "Enlem":36.9618,
+    "Boylam":27.3092,
+    "Derinlik":10.8,
+    "ML":"1.6",
+    "Yer":"AKYARLAR-BODRUM (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"08:17:10",
+    "Enlem":38.4452,
+    "Boylam":38.0287,
+    "Derinlik":14.7,
+    "ML":"1.3",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"08:14:42",
+    "Enlem":38.4678,
+    "Boylam":38.0528,
+    "Derinlik":4.6,
+    "ML":"2.8",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"08:01:32",
+    "Enlem":38.8652,
+    "Boylam":37.8792,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"BEYKENT-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"07:24:46",
     "Enlem":38.1505,
     "Boylam":27.3728,
