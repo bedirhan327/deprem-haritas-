@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"19:57:14",
+    "Enlem":40.8653,
+    "Boylam":28.062,
+    "Derinlik":19.5,
+    "ML":"1.4",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"19:55:54",
+    "Enlem":38.1227,
+    "Boylam":37.0477,
+    "Derinlik":2.0,
+    "ML":"1.9",
+    "Yer":"CALIS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"19:28:59",
+    "Enlem":40.011,
+    "Boylam":32.278,
+    "Derinlik":3.0,
+    "ML":"1.6",
+    "Yer":"UGURCAYIRI-AYAS (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"18:47:53",
     "Enlem":39.0225,
     "Boylam":25.938,
