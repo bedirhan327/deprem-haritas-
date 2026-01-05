@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"23:35:58",
+    "Enlem":40.6775,
+    "Boylam":27.54,
+    "Derinlik":9.9,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"23:15:32",
+    "Enlem":40.8,
+    "Boylam":31.5408,
+    "Derinlik":11.9,
+    "ML":"1.0",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"22:56:45",
     "Enlem":37.4665,
     "Boylam":37.0358,
@@ -157,6 +177,26 @@
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"KARAHUSEYIN-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"17:39:05",
+    "Enlem":38.583,
+    "Boylam":38.418,
+    "Derinlik":11.8,
+    "ML":"1.2",
+    "Yer":"BILALUSAGI-BASKIL (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"17:37:50",
+    "Enlem":38.273,
+    "Boylam":38.3255,
+    "Derinlik":12.7,
+    "ML":"0.8",
+    "Yer":"KARAGOZ-(MALATYA)",
     "Cozum":"�lksel"
   },
   {
