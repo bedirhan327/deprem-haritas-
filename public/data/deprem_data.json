@@ -91,6 +91,16 @@
   },
   {
     "Tarih":"2026.01.05",
+    "Saat":"20:55:02",
+    "Enlem":41.094,
+    "Boylam":40.074,
+    "Derinlik":4.9,
+    "ML":"1.6",
+    "Yer":"YALIBOYU-ARAKLI (TRABZON)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"20:42:13",
     "Enlem":39.1638,
     "Boylam":28.303,
@@ -107,6 +117,16 @@
     "Derinlik":8.3,
     "ML":"2.6",
     "Yer":"CINARPINAR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"20:35:54",
+    "Enlem":39.2397,
+    "Boylam":28.1607,
+    "Derinlik":7.7,
+    "ML":"1.3",
+    "Yer":"SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -151,12 +171,32 @@
   },
   {
     "Tarih":"2026.01.05",
+    "Saat":"19:18:38",
+    "Enlem":38.3953,
+    "Boylam":25.2937,
+    "Derinlik":6.1,
+    "ML":"2.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"18:47:53",
     "Enlem":39.0225,
     "Boylam":25.938,
     "Derinlik":5.5,
     "ML":"2.5",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"18:47:34",
+    "Enlem":38.5665,
+    "Boylam":39.1088,
+    "Derinlik":12.3,
+    "ML":"1.1",
+    "Yer":"TOHUMLU-(ELAZIG)",
     "Cozum":"�lksel"
   },
   {
@@ -177,6 +217,16 @@
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"KARAHUSEYIN-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"17:48:21",
+    "Enlem":38.7892,
+    "Boylam":37.9482,
+    "Derinlik":22.3,
+    "ML":"1.2",
+    "Yer":"HEKIMHAN (MALATYA)",
     "Cozum":"�lksel"
   },
   {
