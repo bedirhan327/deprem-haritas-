@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2026.01.06",
+    "Saat":"00:53:35",
+    "Enlem":39.1573,
+    "Boylam":28.1583,
+    "Derinlik":13.1,
+    "ML":"2.0",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"00:37:03",
+    "Enlem":36.9403,
+    "Boylam":27.6173,
+    "Derinlik":7.8,
+    "ML":"2.1",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"00:35:37",
+    "Enlem":38.1152,
+    "Boylam":36.9173,
+    "Derinlik":2.7,
+    "ML":"1.6",
+    "Yer":"KEMALPASA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"00:33:24",
+    "Enlem":38.6413,
+    "Boylam":43.1588,
+    "Derinlik":5.5,
+    "ML":"2.9",
+    "Yer":"MOLLAKASIM-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.05",
     "Saat":"23:35:58",
     "Enlem":40.6775,
@@ -27,6 +67,26 @@
     "Derinlik":2.9,
     "ML":"2.4",
     "Yer":"KAPICAM-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"22:43:39",
+    "Enlem":36.3578,
+    "Boylam":43.653,
+    "Derinlik":2.6,
+    "ML":"2.7",
+    "Yer":"IRAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"22:37:40",
+    "Enlem":38.1875,
+    "Boylam":38.0448,
+    "Derinlik":11.7,
+    "ML":"0.9",
+    "Yer":"GOZENE-YESILYURT (MALATYA)",
     "Cozum":"�lksel"
   },
   {
