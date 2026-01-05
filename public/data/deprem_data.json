@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"16:11:37",
+    "Enlem":39.4763,
+    "Boylam":37.4028,
+    "Derinlik":7.6,
+    "ML":"1.8",
+    "Yer":"KAPUKAYA-ULAS (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"16:01:49",
+    "Enlem":39.1882,
+    "Boylam":28.244,
+    "Derinlik":12.9,
+    "ML":"1.7",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"14:30:55",
     "Enlem":38.562,
     "Boylam":40.4057,
