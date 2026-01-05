@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"20:41:40",
+    "Enlem":37.7257,
+    "Boylam":36.6043,
+    "Derinlik":8.3,
+    "ML":"2.6",
+    "Yer":"CINARPINAR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"20:26:14",
+    "Enlem":39.2328,
+    "Boylam":29.0112,
+    "Derinlik":10.9,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"19:57:14",
     "Enlem":40.8653,
     "Boylam":28.062,
