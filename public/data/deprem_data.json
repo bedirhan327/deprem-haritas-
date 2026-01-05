@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"02:10:23",
+    "Enlem":39.0165,
+    "Boylam":25.9318,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"01:55:05",
     "Enlem":39.282,
     "Boylam":29.1665,
     "Derinlik":5.4,
     "ML":"1.7",
     "Yer":"GONCEK-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"01:50:33",
+    "Enlem":36.6127,
+    "Boylam":25.6835,
+    "Derinlik":5.2,
+    "ML":"3.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"01:50:14",
+    "Enlem":36.7018,
+    "Boylam":25.5978,
+    "Derinlik":18.9,
+    "ML":"3.2",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
