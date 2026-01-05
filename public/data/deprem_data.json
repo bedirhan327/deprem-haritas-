@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"22:00:24",
+    "Enlem":39.3292,
+    "Boylam":25.6807,
+    "Derinlik":8.4,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"21:34:04",
+    "Enlem":37.716,
+    "Boylam":35.9283,
+    "Derinlik":6.4,
+    "ML":"1.5",
+    "Yer":"UGURLUBAG-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"21:31:19",
+    "Enlem":39.2052,
+    "Boylam":28.1672,
+    "Derinlik":10.8,
+    "ML":"1.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"21:11:03",
     "Enlem":39.2485,
     "Boylam":28.0387,
