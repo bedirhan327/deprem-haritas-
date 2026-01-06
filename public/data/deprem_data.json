@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"13:50:46",
+    "Enlem":39.0077,
+    "Boylam":25.9483,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"13:22:29",
     "Enlem":36.1302,
     "Boylam":33.5553,
@@ -47,6 +57,16 @@
     "Derinlik":0.0,
     "ML":"1.3",
     "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"13:01:31",
+    "Enlem":38.6573,
+    "Boylam":38.1633,
+    "Derinlik":12.7,
+    "ML":"1.1",
+    "Yer":"BOZTEPE-YAZIHAN (MALATYA)",
     "Cozum":"�lksel"
   },
   {
