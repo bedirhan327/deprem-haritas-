@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"09:38:34",
+    "Enlem":40.8177,
+    "Boylam":25.7587,
+    "Derinlik":15.5,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"08:38:37",
+    "Enlem":40.7378,
+    "Boylam":30.8527,
+    "Derinlik":12.0,
+    "ML":"1.2",
+    "Yer":"KARADERE-HENDEK (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"08:38:34",
     "Enlem":39.2123,
     "Boylam":28.149,
