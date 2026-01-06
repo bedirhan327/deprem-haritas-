@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"10:08:04",
+    "Enlem":39.1073,
+    "Boylam":40.421,
+    "Derinlik":6.8,
+    "ML":"2.1",
+    "Yer":"SANCAK-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"09:44:11",
+    "Enlem":38.3918,
+    "Boylam":26.442,
+    "Derinlik":4.0,
+    "ML":"1.9",
+    "Yer":"ILDIR-CESME (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"09:38:34",
     "Enlem":40.8177,
     "Boylam":25.7587,
