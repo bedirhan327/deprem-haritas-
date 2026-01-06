@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"12:22:22",
+    "Enlem":38.9618,
+    "Boylam":37.8487,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"DAVULKU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"12:16:15",
+    "Enlem":37.5488,
+    "Boylam":40.3258,
+    "Derinlik":6.3,
+    "ML":"1.1",
+    "Yer":"SURENDAL-CINAR (DIYARBAKIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"11:14:51",
     "Enlem":38.3162,
     "Boylam":27.4557,
