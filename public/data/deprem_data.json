@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"06:38:15",
+    "Enlem":39.2105,
+    "Boylam":28.1202,
+    "Derinlik":7.8,
+    "ML":"1.3",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:30:35",
+    "Enlem":38.6918,
+    "Boylam":43.1102,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"MOLLAKASIM-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:14:17",
+    "Enlem":39.2052,
+    "Boylam":28.0275,
+    "Derinlik":7.8,
+    "ML":"1.1",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:05:17",
+    "Enlem":39.0715,
+    "Boylam":25.6773,
+    "Derinlik":7.7,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"05:34:35",
     "Enlem":38.7398,
     "Boylam":33.5692,
