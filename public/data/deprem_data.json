@@ -1,12 +1,72 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"14:19:10",
+    "Enlem":40.831,
+    "Boylam":28.1327,
+    "Derinlik":1.8,
+    "ML":"2.7",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"14:00:38",
+    "Enlem":39.9275,
+    "Boylam":32.7063,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"ETIMESGUT (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"13:57:02",
+    "Enlem":38.2527,
+    "Boylam":37.2697,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"CITLIK-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"13:54:08",
+    "Enlem":39.927,
+    "Boylam":32.7287,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"ETIMESGUT (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"13:50:46",
     "Enlem":39.0077,
     "Boylam":25.9483,
     "Derinlik":5.4,
     "ML":"2.0",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"13:42:28",
+    "Enlem":39.8805,
+    "Boylam":32.9775,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"MAMAK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"13:28:48",
+    "Enlem":39.4647,
+    "Boylam":29.1768,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"CAYIRKOY-TAVSANLI (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
