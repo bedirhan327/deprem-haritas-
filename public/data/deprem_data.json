@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"18:13:38",
+    "Enlem":39.2217,
+    "Boylam":28.1537,
+    "Derinlik":8.8,
+    "ML":"2.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"18:12:52",
+    "Enlem":36.9227,
+    "Boylam":28.1892,
+    "Derinlik":6.4,
+    "ML":"2.7",
+    "Yer":"KARACA-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"18:06:20",
+    "Enlem":39.1777,
+    "Boylam":28.1518,
+    "Derinlik":9.3,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"18:01:06",
+    "Enlem":38.25,
+    "Boylam":38.2005,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"17:41:11",
     "Enlem":38.2977,
     "Boylam":37.7593,
