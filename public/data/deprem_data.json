@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"19:46:31",
+    "Enlem":39.0073,
+    "Boylam":25.9452,
+    "Derinlik":8.3,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"19:33:28",
+    "Enlem":38.2065,
+    "Boylam":36.2443,
+    "Derinlik":5.4,
+    "ML":"1.7",
+    "Yer":"PINARLAR-TUFANBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"19:25:25",
+    "Enlem":39.9023,
+    "Boylam":25.8918,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"19:23:26",
+    "Enlem":39.0038,
+    "Boylam":25.9548,
+    "Derinlik":9.3,
+    "ML":"2.4",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"18:32:35",
     "Enlem":39.0017,
     "Boylam":25.9295,
