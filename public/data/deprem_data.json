@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"01:06:17",
+    "Enlem":39.2055,
+    "Boylam":28.1355,
+    "Derinlik":7.9,
+    "ML":"1.8",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"00:54:31",
+    "Enlem":38.423,
+    "Boylam":38.9372,
+    "Derinlik":14.6,
+    "ML":"1.2",
+    "Yer":"SARITAS-BASKIL (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"00:44:44",
     "Enlem":38.2155,
     "Boylam":36.6768,
