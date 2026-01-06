@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.01.07",
+    "Saat":"00:44:44",
+    "Enlem":38.2155,
+    "Boylam":36.6768,
+    "Derinlik":14.0,
+    "ML":"1.1",
+    "Yer":"ESENKOY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"00:32:29",
+    "Enlem":39.3168,
+    "Boylam":28.0782,
+    "Derinlik":6.9,
+    "ML":"2.2",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"00:16:52",
+    "Enlem":36.6467,
+    "Boylam":29.3975,
+    "Derinlik":2.7,
+    "ML":"1.6",
+    "Yer":"SARIYER-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.06",
     "Saat":"23:42:13",
     "Enlem":38.0107,
