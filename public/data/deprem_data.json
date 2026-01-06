@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"07:39:15",
+    "Enlem":39.2495,
+    "Boylam":29.0095,
+    "Derinlik":9.5,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"07:06:12",
+    "Enlem":39.7848,
+    "Boylam":26.84,
+    "Derinlik":18.3,
+    "ML":"1.6",
+    "Yer":"TOLUKLAR-BAYRAMIC (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"07:00:00",
+    "Enlem":36.9813,
+    "Boylam":27.7267,
+    "Derinlik":3.5,
+    "ML":"1.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:57:25",
+    "Enlem":36.9432,
+    "Boylam":27.757,
+    "Derinlik":17.1,
+    "ML":"2.0",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:53:32",
+    "Enlem":39.2462,
+    "Boylam":29.0143,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"06:38:15",
     "Enlem":39.2105,
     "Boylam":28.1202,
@@ -27,6 +77,16 @@
     "Derinlik":7.8,
     "ML":"1.1",
     "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:06:31",
+    "Enlem":37.6782,
+    "Boylam":35.8192,
+    "Derinlik":16.7,
+    "ML":"1.6",
+    "Yer":"CAMDERE-KOZAN (ADANA)",
     "Cozum":"�lksel"
   },
   {
