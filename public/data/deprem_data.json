@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"20:11:00",
+    "Enlem":38.5158,
+    "Boylam":37.9888,
+    "Derinlik":12.1,
+    "ML":"1.1",
+    "Yer":"KADIIBRAHIM-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"20:07:48",
+    "Enlem":37.076,
+    "Boylam":28.4475,
+    "Derinlik":16.6,
+    "ML":"1.3",
+    "Yer":"YESILOVA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"19:53:18",
+    "Enlem":39.0105,
+    "Boylam":25.9443,
+    "Derinlik":6.8,
+    "ML":"2.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"19:46:31",
     "Enlem":39.0073,
     "Boylam":25.9452,
