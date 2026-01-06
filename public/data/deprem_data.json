@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"21:08:51",
+    "Enlem":40.2123,
+    "Boylam":26.9638,
+    "Derinlik":14.6,
+    "ML":"1.5",
+    "Yer":"PASACAYI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"20:25:54",
+    "Enlem":39.0045,
+    "Boylam":25.9422,
+    "Derinlik":5.7,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"20:24:35",
     "Enlem":39.0042,
     "Boylam":25.9325,
