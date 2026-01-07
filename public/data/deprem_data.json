@@ -61,6 +61,56 @@
   },
   {
     "Tarih":"2026.01.07",
+    "Saat":"04:58:56",
+    "Enlem":39.8928,
+    "Boylam":25.8723,
+    "Derinlik":6.4,
+    "ML":"2.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"04:56:59",
+    "Enlem":39.0198,
+    "Boylam":25.8898,
+    "Derinlik":2.6,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"04:48:49",
+    "Enlem":39.1882,
+    "Boylam":28.1008,
+    "Derinlik":9.4,
+    "ML":"1.8",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"04:43:07",
+    "Enlem":39.183,
+    "Boylam":28.1768,
+    "Derinlik":17.1,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"04:09:14",
+    "Enlem":39.0358,
+    "Boylam":25.9688,
+    "Derinlik":12.5,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"03:18:21",
     "Enlem":38.4532,
     "Boylam":39.2712,
