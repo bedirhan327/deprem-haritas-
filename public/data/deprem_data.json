@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.01.08",
+    "Saat":"00:19:46",
+    "Enlem":39.166,
+    "Boylam":28.2855,
+    "Derinlik":15.6,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"00:10:20",
+    "Enlem":37.39,
+    "Boylam":36.8502,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"TURKOGLU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"23:52:19",
+    "Enlem":38.8852,
+    "Boylam":27.4942,
+    "Derinlik":5.2,
+    "ML":"1.8",
+    "Yer":"HATIPLAR-SARUHANLI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.07",
     "Saat":"23:41:57",
     "Enlem":36.284,
@@ -7,6 +37,16 @@
     "Derinlik":27.7,
     "ML":"2.2",
     "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"23:31:27",
+    "Enlem":41.0067,
+    "Boylam":33.5163,
+    "Derinlik":8.2,
+    "ML":"2.1",
+    "Yer":"ALIC-ILGAZ (CANKIRI)",
     "Cozum":"�lksel"
   },
   {
