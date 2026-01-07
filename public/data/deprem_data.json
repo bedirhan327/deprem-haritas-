@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"20:49:03",
+    "Enlem":38.3808,
+    "Boylam":37.4095,
+    "Derinlik":15.4,
+    "ML":"1.2",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"20:19:38",
+    "Enlem":37.812,
+    "Boylam":36.5077,
+    "Derinlik":24.2,
+    "ML":"1.2",
+    "Yer":"KUMARLI-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"20:10:35",
+    "Enlem":38.1437,
+    "Boylam":38.4718,
+    "Derinlik":18.3,
+    "ML":"0.9",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"20:08:44",
     "Enlem":38.121,
     "Boylam":38.498,
