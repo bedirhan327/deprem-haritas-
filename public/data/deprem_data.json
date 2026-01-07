@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"05:45:57",
+    "Enlem":39.0482,
+    "Boylam":25.8192,
+    "Derinlik":12.6,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"03:18:21",
+    "Enlem":38.4532,
+    "Boylam":39.2712,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"03:17:46",
+    "Enlem":39.0513,
+    "Boylam":25.9288,
+    "Derinlik":13.8,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"03:14:52",
     "Enlem":40.5388,
     "Boylam":33.0375,
