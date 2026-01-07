@@ -321,6 +321,16 @@
   },
   {
     "Tarih":"2026.01.07",
+    "Saat":"05:16:25",
+    "Enlem":37.152,
+    "Boylam":36.692,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"KARABURCLU-NURDAGI (GAZIANTEP) REVIZE01 (2026.01.07",
+    "Cozum":"05:16:25)"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"05:14:13",
     "Enlem":39.8895,
     "Boylam":25.9093,
@@ -391,6 +401,16 @@
   },
   {
     "Tarih":"2026.01.07",
+    "Saat":"04:10:47",
+    "Enlem":39.1722,
+    "Boylam":28.1077,
+    "Derinlik":4.6,
+    "ML":"1.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"04:09:14",
     "Enlem":39.0358,
     "Boylam":25.9688,
@@ -398,6 +418,16 @@
     "ML":"2.2",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
     "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"04:09:10",
+    "Enlem":38.0632,
+    "Boylam":35.4368,
+    "Derinlik":7.9,
+    "ML":"1.2",
+    "Yer":"KUZOLUK-YAHYALI (KAYSERI) REVIZE01 (2026.01.07",
+    "Cozum":"04:09:14)"
   },
   {
     "Tarih":"2026.01.07",
