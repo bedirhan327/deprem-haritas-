@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"19:50:53",
+    "Enlem":39.1612,
+    "Boylam":28.202,
+    "Derinlik":9.6,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"19:50:13",
+    "Enlem":38.6127,
+    "Boylam":26.7113,
+    "Derinlik":3.3,
+    "ML":"2.0",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"19:33:11",
+    "Enlem":38.0295,
+    "Boylam":37.6552,
+    "Derinlik":17.1,
+    "ML":"1.2",
+    "Yer":"BEGRE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"19:30:40",
+    "Enlem":38.0263,
+    "Boylam":37.6697,
+    "Derinlik":13.8,
+    "ML":"1.7",
+    "Yer":"KUCUKLU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"19:13:48",
     "Enlem":39.0012,
     "Boylam":25.9587,
