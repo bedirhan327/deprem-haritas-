@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"23:14:33",
+    "Enlem":39.3185,
+    "Boylam":40.4363,
+    "Derinlik":27.1,
+    "ML":"1.6",
+    "Yer":"CEVIZLI-ADAKLI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"22:50:24",
+    "Enlem":38.8103,
+    "Boylam":37.8923,
+    "Derinlik":14.0,
+    "ML":"1.2",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"22:21:20",
     "Enlem":39.207,
     "Boylam":28.2995,
     "Derinlik":12.1,
     "ML":"1.6",
     "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"22:09:01",
+    "Enlem":38.596,
+    "Boylam":40.7407,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"ULUCAK-LICE (DIYARBAKIR)",
     "Cozum":"�lksel"
   },
   {
