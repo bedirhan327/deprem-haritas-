@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"14:05:05",
+    "Enlem":37.048,
+    "Boylam":28.3053,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"13:39:06",
     "Enlem":39.162,
     "Boylam":28.2465,
@@ -47,6 +57,16 @@
     "Derinlik":0.0,
     "ML":"1.2",
     "Yer":"BUYUKECELI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"13:08:36",
+    "Enlem":38.3027,
+    "Boylam":38.1558,
+    "Derinlik":0.0,
+    "ML":"1.3",
+    "Yer":"DURULDU-(MALATYA)",
     "Cozum":"�lksel"
   },
   {
@@ -431,12 +451,32 @@
   },
   {
     "Tarih":"2026.01.07",
+    "Saat":"04:04:12",
+    "Enlem":38.3452,
+    "Boylam":37.248,
+    "Derinlik":15.1,
+    "ML":"0.7",
+    "Yer":"BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"03:59:29",
     "Enlem":39.1247,
     "Boylam":28.3188,
     "Derinlik":9.2,
     "ML":"1.4",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"03:57:05",
+    "Enlem":38.1538,
+    "Boylam":40.4303,
+    "Derinlik":15.5,
+    "ML":"1.3",
+    "Yer":"KAVAKLIBAG-SUR (DIYARBAKIR)",
     "Cozum":"�lksel"
   },
   {
