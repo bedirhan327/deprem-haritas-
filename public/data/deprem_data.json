@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"15:41:51",
+    "Enlem":38.792,
+    "Boylam":37.9398,
+    "Derinlik":9.9,
+    "ML":"1.8",
+    "Yer":"HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:38:20",
+    "Enlem":37.8403,
+    "Boylam":36.2103,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"KARAKUYU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:32:22",
+    "Enlem":39.0297,
+    "Boylam":25.8998,
+    "Derinlik":13.4,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:28:27",
+    "Enlem":39.2402,
+    "Boylam":28.0612,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:18:57",
+    "Enlem":35.7717,
+    "Boylam":25.0733,
+    "Derinlik":12.1,
+    "ML":"2.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"15:18:38",
     "Enlem":39.2147,
     "Boylam":28.1578,
