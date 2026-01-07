@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"00:53:55",
+    "Enlem":39.165,
+    "Boylam":28.2275,
+    "Derinlik":12.1,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"00:31:54",
+    "Enlem":40.8807,
+    "Boylam":28.4378,
+    "Derinlik":14.4,
+    "ML":"1.7",
+    "Yer":"GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"00:30:11",
+    "Enlem":38.1398,
+    "Boylam":44.7605,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"TURKIYE-IRAN SINIR BOLGESI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"00:19:46",
     "Enlem":39.166,
     "Boylam":28.2855,
