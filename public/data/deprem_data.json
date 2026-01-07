@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"03:14:52",
+    "Enlem":40.5388,
+    "Boylam":33.0375,
+    "Derinlik":1.1,
+    "ML":"2.4",
+    "Yer":"GOKCEOREN-ORTA (CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"03:04:41",
+    "Enlem":39.2298,
+    "Boylam":29.0888,
+    "Derinlik":7.9,
+    "ML":"1.5",
+    "Yer":"KARAAGIL-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"02:51:43",
     "Enlem":39.1865,
     "Boylam":28.2242,
@@ -27,6 +47,26 @@
     "Derinlik":10.4,
     "ML":"1.4",
     "Yer":"KURTPINAR-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"02:09:57",
+    "Enlem":41.0632,
+    "Boylam":32.46,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"KARAAGAC-(KARABUK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"01:26:20",
+    "Enlem":38.421,
+    "Boylam":37.5015,
+    "Derinlik":3.9,
+    "ML":"1.6",
+    "Yer":"SUGUL-DARENDE (MALATYA)",
     "Cozum":"�lksel"
   },
   {
