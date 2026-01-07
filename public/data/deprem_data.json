@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"09:08:19",
+    "Enlem":39.8845,
+    "Boylam":25.9218,
+    "Derinlik":14.0,
+    "ML":"1.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"09:05:25",
+    "Enlem":39.2177,
+    "Boylam":28.1345,
+    "Derinlik":7.8,
+    "ML":"1.8",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"08:31:44",
+    "Enlem":38.0802,
+    "Boylam":36.4782,
+    "Derinlik":5.2,
+    "ML":"1.5",
+    "Yer":"MEHMETBEY-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"07:22:54",
     "Enlem":39.239,
     "Boylam":28.1262,
