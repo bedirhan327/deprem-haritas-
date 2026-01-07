@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"15:18:38",
+    "Enlem":39.2147,
+    "Boylam":28.1578,
+    "Derinlik":10.4,
+    "ML":"2.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:03:36",
+    "Enlem":39.39,
+    "Boylam":28.7667,
+    "Derinlik":5.5,
+    "ML":"1.6",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:02:41",
+    "Enlem":39.2567,
+    "Boylam":28.2212,
+    "Derinlik":8.2,
+    "ML":"1.5",
+    "Yer":"CAYGOREN-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"15:01:48",
+    "Enlem":38.072,
+    "Boylam":37.492,
+    "Derinlik":6.3,
+    "ML":"2.0",
+    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"14:05:05",
     "Enlem":37.048,
     "Boylam":28.3053,
