@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"13:12:58",
+    "Enlem":37.945,
+    "Boylam":28.0258,
+    "Derinlik":8.2,
+    "ML":"1.4",
+    "Yer":"ILIDAG-KOSK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"13:11:44",
+    "Enlem":36.1332,
+    "Boylam":33.5592,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"BUYUKECELI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"12:52:56",
+    "Enlem":39.4897,
+    "Boylam":28.1605,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"ISKELE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"12:44:49",
     "Enlem":39.2017,
     "Boylam":28.1062,
