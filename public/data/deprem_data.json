@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"22:46:56",
+    "Enlem":38.9082,
+    "Boylam":37.9147,
+    "Derinlik":19.3,
+    "ML":"1.5",
+    "Yer":"CULHALI-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"22:42:17",
+    "Enlem":38.4872,
+    "Boylam":39.202,
+    "Derinlik":4.6,
+    "ML":"1.9",
+    "Yer":"DEDEYOLU-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"22:34:34",
+    "Enlem":38.2988,
+    "Boylam":38.836,
+    "Derinlik":2.2,
+    "ML":"2.5",
+    "Yer":"GUNDEGER-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"21:38:29",
     "Enlem":39.1657,
     "Boylam":28.2837,
