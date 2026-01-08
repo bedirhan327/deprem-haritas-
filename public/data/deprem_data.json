@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"15:55:01",
+    "Enlem":39.1458,
+    "Boylam":28.2463,
+    "Derinlik":19.0,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"15:18:07",
+    "Enlem":37.0633,
+    "Boylam":29.0455,
+    "Derinlik":10.0,
+    "ML":"2.0",
+    "Yer":"KARACAM-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"14:44:06",
     "Enlem":39.2163,
     "Boylam":29.0028,
