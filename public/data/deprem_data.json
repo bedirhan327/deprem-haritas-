@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"21:13:07",
+    "Enlem":38.7683,
+    "Boylam":37.932,
+    "Derinlik":13.0,
+    "ML":"1.6",
+    "Yer":"GUZELYURT-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"20:54:14",
+    "Enlem":38.6843,
+    "Boylam":37.9995,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"20:19:26",
+    "Enlem":39.232,
+    "Boylam":28.0868,
+    "Derinlik":17.5,
+    "ML":"1.5",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"19:38:31",
     "Enlem":39.0132,
     "Boylam":25.886,
