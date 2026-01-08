@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"23:45:12",
+    "Enlem":38.9412,
+    "Boylam":30.1322,
+    "Derinlik":12.7,
+    "ML":"2.0",
+    "Yer":"HAMUR-DUMLUPINAR (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"23:39:18",
+    "Enlem":39.2347,
+    "Boylam":29.0395,
+    "Derinlik":10.3,
+    "ML":"1.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"23:34:29",
+    "Enlem":37.8288,
+    "Boylam":29.5345,
+    "Derinlik":9.8,
+    "ML":"2.2",
+    "Yer":"BASCESME-BOZKURT (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"23:32:18",
+    "Enlem":38.2667,
+    "Boylam":37.8165,
+    "Derinlik":5.3,
+    "ML":"1.7",
+    "Yer":"ORTAKOY-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"23:31:29",
+    "Enlem":37.8528,
+    "Boylam":29.495,
+    "Derinlik":8.3,
+    "ML":"2.6",
+    "Yer":"ALIKURT-BOZKURT (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"23:21:09",
+    "Enlem":39.2645,
+    "Boylam":28.1688,
+    "Derinlik":6.9,
+    "ML":"1.5",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"22:46:56",
     "Enlem":38.9082,
     "Boylam":37.9147,
