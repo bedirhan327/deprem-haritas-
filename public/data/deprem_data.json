@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"12:15:21",
+    "Enlem":39.1448,
+    "Boylam":27.9672,
+    "Derinlik":12.1,
+    "ML":"1.7",
+    "Yer":"KOBASDERE-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"11:58:11",
+    "Enlem":38.9258,
+    "Boylam":37.8928,
+    "Derinlik":10.5,
+    "ML":"1.9",
+    "Yer":"CULHALI-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"11:54:44",
+    "Enlem":39.354,
+    "Boylam":28.0668,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"YURUCEKLER-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"11:39:06",
     "Enlem":39.1715,
     "Boylam":28.2853,
