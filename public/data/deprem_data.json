@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"09:13:47",
+    "Enlem":36.5602,
+    "Boylam":28.2317,
+    "Derinlik":28.6,
+    "ML":"2.2",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"08:54:34",
+    "Enlem":39.2565,
+    "Boylam":29.1167,
+    "Derinlik":10.9,
+    "ML":"1.6",
+    "Yer":"GULDUREN-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"08:53:35",
+    "Enlem":39.1753,
+    "Boylam":28.1605,
+    "Derinlik":9.6,
+    "ML":"1.3",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"08:50:35",
     "Enlem":39.278,
     "Boylam":29.1355,
