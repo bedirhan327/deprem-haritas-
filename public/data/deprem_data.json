@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"05:09:09",
+    "Enlem":39.238,
+    "Boylam":29.0432,
+    "Derinlik":12.1,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"04:50:12",
+    "Enlem":35.7647,
+    "Boylam":22.7847,
+    "Derinlik":61.5,
+    "ML":"4.7",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"04:15:31",
     "Enlem":39.8463,
     "Boylam":25.8578,
