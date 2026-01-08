@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"11:15:11",
+    "Enlem":36.6082,
+    "Boylam":27.993,
+    "Derinlik":7.2,
+    "ML":"2.7",
+    "Yer":"BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"10:46:39",
+    "Enlem":35.857,
+    "Boylam":33.1992,
+    "Derinlik":18.7,
+    "ML":"1.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"10:36:24",
+    "Enlem":37.8398,
+    "Boylam":29.5107,
+    "Derinlik":10.2,
+    "ML":"2.0",
+    "Yer":"BASCESME-BOZKURT (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"10:35:50",
     "Enlem":39.2048,
     "Boylam":28.153,
@@ -37,6 +67,16 @@
     "Derinlik":6.0,
     "ML":"1.7",
     "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"09:25:10",
+    "Enlem":38.069,
+    "Boylam":37.8378,
+    "Derinlik":5.3,
+    "ML":"1.1",
+    "Yer":"GUNEDOGRU-DOGANSEHIR (MALATYA)",
     "Cozum":"�lksel"
   },
   {
