@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"07:41:50",
+    "Enlem":39.1697,
+    "Boylam":28.3032,
+    "Derinlik":9.1,
+    "ML":"3.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"07:40:52",
+    "Enlem":39.1183,
+    "Boylam":28.3045,
+    "Derinlik":15.4,
+    "ML":"2.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"07:40:23",
+    "Enlem":39.1738,
+    "Boylam":28.271,
+    "Derinlik":11.3,
+    "ML":"3.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"07:31:28",
+    "Enlem":39.1758,
+    "Boylam":28.279,
+    "Derinlik":8.4,
+    "ML":"3.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"07:24:09",
+    "Enlem":37.489,
+    "Boylam":37.0658,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"CIGLI-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"07:22:27",
+    "Enlem":39.2175,
+    "Boylam":28.1445,
+    "Derinlik":8.8,
+    "ML":"2.5",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"07:04:20",
     "Enlem":39.2215,
     "Boylam":28.104,
