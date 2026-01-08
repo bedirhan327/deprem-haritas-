@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"13:08:08",
+    "Enlem":41.0027,
+    "Boylam":29.0577,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"KADIKOY (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"12:33:58",
+    "Enlem":39.4358,
+    "Boylam":37.2372,
+    "Derinlik":7.2,
+    "ML":"2.3",
+    "Yer":"ESKIKARAHISAR-ULAS (SIVAS) REVIZE02 (2026.01.08",
+    "Cozum":"12:33:58)"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"12:30:08",
     "Enlem":39.4687,
     "Boylam":28.317,
