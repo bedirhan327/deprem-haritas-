@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"00:29:09",
+    "Enlem":39.2422,
+    "Boylam":28.2173,
+    "Derinlik":10.7,
+    "ML":"1.6",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"00:14:23",
     "Enlem":38.0847,
     "Boylam":37.6247,
@@ -57,6 +67,16 @@
     "Derinlik":8.3,
     "ML":"2.6",
     "Yer":"ALIKURT-BOZKURT (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"23:30:57",
+    "Enlem":39.047,
+    "Boylam":33.3953,
+    "Derinlik":4.7,
+    "ML":"1.7",
+    "Yer":"BOZAN-KULU (KONYA)",
     "Cozum":"�lksel"
   },
   {
