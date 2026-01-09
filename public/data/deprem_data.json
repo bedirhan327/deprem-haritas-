@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"17:36:02",
+    "Enlem":39.0412,
+    "Boylam":25.9648,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"17:31:38",
+    "Enlem":38.0068,
+    "Boylam":36.3982,
+    "Derinlik":2.4,
+    "ML":"1.8",
+    "Yer":"ACIELMA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"17:25:41",
+    "Enlem":39.178,
+    "Boylam":28.3125,
+    "Derinlik":11.6,
+    "ML":"1.5",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"17:10:25",
     "Enlem":39.1808,
     "Boylam":28.2818,
