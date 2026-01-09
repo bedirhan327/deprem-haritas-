@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"06:43:57",
+    "Enlem":39.283,
+    "Boylam":29.1843,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"GONCEK-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"06:26:44",
+    "Enlem":37.1158,
+    "Boylam":28.9473,
+    "Derinlik":13.1,
+    "ML":"1.8",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"05:43:27",
+    "Enlem":39.1415,
+    "Boylam":28.2132,
+    "Derinlik":11.5,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"05:27:13",
+    "Enlem":39.2485,
+    "Boylam":29.0067,
+    "Derinlik":2.6,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"05:10:58",
     "Enlem":37.2368,
     "Boylam":28.0637,
