@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"07:25:51",
+    "Enlem":36.4142,
+    "Boylam":36.27,
+    "Derinlik":13.0,
+    "ML":"1.7",
+    "Yer":"SENBUK-BELEN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"07:17:04",
+    "Enlem":39.2188,
+    "Boylam":28.1852,
+    "Derinlik":19.1,
+    "ML":"1.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"07:00:06",
+    "Enlem":37.871,
+    "Boylam":29.25,
+    "Derinlik":15.7,
+    "ML":"1.4",
+    "Yer":"KOCADERE-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"06:55:09",
+    "Enlem":39.176,
+    "Boylam":28.18,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"06:46:31",
+    "Enlem":39.1568,
+    "Boylam":28.306,
+    "Derinlik":16.9,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"06:43:57",
     "Enlem":39.283,
     "Boylam":29.1843,
