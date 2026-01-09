@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"03:08:40",
+    "Enlem":37.845,
+    "Boylam":36.6963,
+    "Derinlik":6.1,
+    "ML":"1.8",
+    "Yer":"SAHINKAYASI-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"02:39:07",
+    "Enlem":39.4777,
+    "Boylam":27.9707,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"YESILDERE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"00:58:43",
     "Enlem":39.1602,
     "Boylam":28.16,
