@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"20:02:17",
+    "Enlem":39.1212,
+    "Boylam":28.263,
+    "Derinlik":25.0,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"19:58:18",
+    "Enlem":37.195,
+    "Boylam":30.5008,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"DAGBELI-DOSEMEALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"19:42:13",
     "Enlem":39.1382,
     "Boylam":28.2908,
