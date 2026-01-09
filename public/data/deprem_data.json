@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"21:06:44",
+    "Enlem":38.2282,
+    "Boylam":38.9635,
+    "Derinlik":3.4,
+    "ML":"2.1",
+    "Yer":"KOCKOY-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"21:00:01",
+    "Enlem":40.5128,
+    "Boylam":35.2548,
+    "Derinlik":5.5,
+    "ML":"2.2",
+    "Yer":"KOPRUBASI-MECITOZU (CORUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"20:59:34",
+    "Enlem":40.0572,
+    "Boylam":25.954,
+    "Derinlik":12.3,
+    "ML":"1.5",
+    "Yer":"ESELEK-GOKCEADA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"20:58:39",
+    "Enlem":39.1993,
+    "Boylam":28.1817,
+    "Derinlik":9.0,
+    "ML":"1.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"20:55:17",
+    "Enlem":39.434,
+    "Boylam":26.0122,
+    "Derinlik":9.0,
+    "ML":"1.8",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"20:18:47",
     "Enlem":39.181,
     "Boylam":28.194,
