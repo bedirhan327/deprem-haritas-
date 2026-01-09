@@ -11,12 +11,42 @@
   },
   {
     "Tarih":"2026.01.09",
+    "Saat":"11:11:58",
+    "Enlem":38.1162,
+    "Boylam":38.435,
+    "Derinlik":4.2,
+    "ML":"2.5",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"10:36:28",
+    "Enlem":39.4213,
+    "Boylam":28.4557,
+    "Derinlik":7.0,
+    "ML":"2.1",
+    "Yer":"DUNDARCIK-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"10:14:27",
     "Enlem":39.9323,
     "Boylam":27.5157,
     "Derinlik":10.3,
     "ML":"1.9",
     "Yer":"YESILKOY-YENICE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"09:46:37",
+    "Enlem":36.4088,
+    "Boylam":33.9255,
+    "Derinlik":22.6,
+    "ML":"0.7",
+    "Yer":"DEMIRCILI-SILIFKE (MERSIN)",
     "Cozum":"�lksel"
   },
   {
