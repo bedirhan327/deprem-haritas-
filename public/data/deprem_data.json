@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"07:51:48",
+    "Enlem":38.1292,
+    "Boylam":38.4115,
+    "Derinlik":8.4,
+    "ML":"2.3",
+    "Yer":"SALKONAK-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"07:49:06",
+    "Enlem":39.2123,
+    "Boylam":28.1193,
+    "Derinlik":12.5,
+    "ML":"2.3",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"07:25:51",
     "Enlem":36.4142,
     "Boylam":36.27,
