@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"21:52:05",
+    "Enlem":38.469,
+    "Boylam":38.0195,
+    "Derinlik":10.9,
+    "ML":"1.3",
+    "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"21:06:44",
     "Enlem":38.2282,
     "Boylam":38.9635,
     "Derinlik":3.4,
     "ML":"2.1",
     "Yer":"KOCKOY-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"21:00:04",
+    "Enlem":38.141,
+    "Boylam":36.5487,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"KOMURKOY-GOKSUN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
