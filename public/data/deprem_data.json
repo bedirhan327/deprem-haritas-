@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"04:26:00",
+    "Enlem":39.3478,
+    "Boylam":40.6102,
+    "Derinlik":4.5,
+    "ML":"2.1",
+    "Yer":"ELMALI-YEDISU (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"04:09:59",
     "Enlem":37.8852,
     "Boylam":29.4387,
@@ -77,6 +87,26 @@
     "Derinlik":9.3,
     "ML":"1.5",
     "Yer":"YESILDERE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"02:15:13",
+    "Enlem":38.2808,
+    "Boylam":38.771,
+    "Derinlik":12.6,
+    "ML":"0.8",
+    "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"02:02:11",
+    "Enlem":39.2322,
+    "Boylam":28.074,
+    "Derinlik":8.8,
+    "ML":"1.2",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
