@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"05:10:58",
+    "Enlem":37.2368,
+    "Boylam":28.0637,
+    "Derinlik":5.4,
+    "ML":"2.5",
+    "Yer":"CUKUROZ-YATAGAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"05:09:52",
+    "Enlem":39.201,
+    "Boylam":28.0822,
+    "Derinlik":13.5,
+    "ML":"2.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"04:58:44",
+    "Enlem":39.1658,
+    "Boylam":28.2768,
+    "Derinlik":13.4,
+    "ML":"3.3",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"04:26:00",
     "Enlem":39.3478,
     "Boylam":40.6102,
