@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"13:37:55",
+    "Enlem":38.128,
+    "Boylam":38.4425,
+    "Derinlik":23.2,
+    "ML":"1.5",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"13:18:31",
+    "Enlem":38.1298,
+    "Boylam":38.484,
+    "Derinlik":2.6,
+    "ML":"2.3",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"13:03:44",
+    "Enlem":39.1227,
+    "Boylam":28.2448,
+    "Derinlik":17.2,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"12:48:13",
     "Enlem":39.2413,
     "Boylam":29.0723,
@@ -37,6 +67,16 @@
     "Derinlik":9.0,
     "ML":"2.5",
     "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"11:52:40",
+    "Enlem":37.9253,
+    "Boylam":36.7132,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"CAMLICA-(KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
