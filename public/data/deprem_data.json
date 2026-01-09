@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"18:47:21",
+    "Enlem":37.0825,
+    "Boylam":28.902,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"18:28:28",
+    "Enlem":39.0242,
+    "Boylam":25.8837,
+    "Derinlik":3.9,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"18:09:28",
     "Enlem":39.2532,
     "Boylam":28.088,
