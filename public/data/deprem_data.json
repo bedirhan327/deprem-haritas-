@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"23:39:02",
+    "Enlem":37.9227,
+    "Boylam":36.6853,
+    "Derinlik":7.2,
+    "ML":"2.1",
+    "Yer":"CAMLICA-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"23:34:17",
+    "Enlem":39.1952,
+    "Boylam":28.143,
+    "Derinlik":16.1,
+    "ML":"1.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"23:32:42",
+    "Enlem":38.2983,
+    "Boylam":37.6697,
+    "Derinlik":18.2,
+    "ML":"1.0",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"23:05:54",
     "Enlem":37.1412,
     "Boylam":28.447,
