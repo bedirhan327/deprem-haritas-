@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.09",
+    "Saat":"22:51:11",
+    "Enlem":38.5002,
+    "Boylam":26.3715,
+    "Derinlik":11.3,
+    "ML":"2.2",
+    "Yer":"KUCUKBAHCE-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
+    "Saat":"22:24:39",
+    "Enlem":38.1105,
+    "Boylam":38.457,
+    "Derinlik":18.9,
+    "ML":"1.1",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.09",
     "Saat":"21:52:05",
     "Enlem":38.469,
     "Boylam":38.0195,
