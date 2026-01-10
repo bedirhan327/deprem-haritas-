@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"12:52:44",
+    "Enlem":38.768,
+    "Boylam":37.9618,
+    "Derinlik":2.2,
+    "ML":"2.1",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"12:31:47",
+    "Enlem":37.9408,
+    "Boylam":36.7263,
+    "Derinlik":8.7,
+    "ML":"1.9",
+    "Yer":"CAMLICA-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"12:01:21",
+    "Enlem":39.0908,
+    "Boylam":28.3505,
+    "Derinlik":20.8,
+    "ML":"1.2",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"11:55:02",
+    "Enlem":39.2318,
+    "Boylam":28.9977,
+    "Derinlik":15.4,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"11:50:12",
+    "Enlem":39.2247,
+    "Boylam":28.2042,
+    "Derinlik":6.3,
+    "ML":"1.7",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"10:29:40",
     "Enlem":39.1625,
     "Boylam":28.272,
