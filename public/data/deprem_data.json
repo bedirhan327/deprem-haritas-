@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"15:46:50",
+    "Enlem":37.842,
+    "Boylam":29.4967,
+    "Derinlik":6.5,
+    "ML":"2.7",
+    "Yer":"ALIKURT-BOZKURT (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"15:34:49",
+    "Enlem":38.0565,
+    "Boylam":38.2872,
+    "Derinlik":2.8,
+    "ML":"1.7",
+    "Yer":"KOSEUSAGI-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"15:32:54",
+    "Enlem":39.3275,
+    "Boylam":28.1323,
+    "Derinlik":14.9,
+    "ML":"1.4",
+    "Yer":"SULLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"15:04:57",
+    "Enlem":39.3353,
+    "Boylam":28.2185,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"KOCABEY-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"14:44:33",
     "Enlem":38.1015,
     "Boylam":38.4105,
