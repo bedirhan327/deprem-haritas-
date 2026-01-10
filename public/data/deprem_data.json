@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"14:44:33",
+    "Enlem":38.1015,
+    "Boylam":38.4105,
+    "Derinlik":1.6,
+    "ML":"2.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"14:18:02",
+    "Enlem":39.0687,
+    "Boylam":25.962,
+    "Derinlik":9.5,
+    "ML":"2.5",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"13:50:43",
     "Enlem":37.9933,
     "Boylam":36.5888,
