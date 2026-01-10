@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"22:13:40",
+    "Enlem":38.1063,
+    "Boylam":36.7457,
+    "Derinlik":12.3,
+    "ML":"1.3",
+    "Yer":"FINDIK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"22:00:00",
+    "Enlem":38.5295,
+    "Boylam":38.0082,
+    "Derinlik":8.4,
+    "ML":"1.3",
+    "Yer":"KADIIBRAHIM-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"21:59:23",
+    "Enlem":39.4362,
+    "Boylam":27.8393,
+    "Derinlik":5.4,
+    "ML":"2.1",
+    "Yer":"KONAKPINAR-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"21:56:53",
+    "Enlem":38.0417,
+    "Boylam":38.2915,
+    "Derinlik":5.8,
+    "ML":"1.9",
+    "Yer":"KOSEUSAGI-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"21:46:25",
     "Enlem":37.9977,
     "Boylam":37.6588,
