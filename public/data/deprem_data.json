@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"06:16:33",
+    "Enlem":39.1887,
+    "Boylam":28.131,
+    "Derinlik":9.7,
+    "ML":"3.0",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"06:00:50",
+    "Enlem":36.2828,
+    "Boylam":28.7175,
+    "Derinlik":18.6,
+    "ML":"2.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"05:55:02",
+    "Enlem":36.2937,
+    "Boylam":28.6995,
+    "Derinlik":34.5,
+    "ML":"4.1",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"05:51:42",
+    "Enlem":39.299,
+    "Boylam":28.0812,
+    "Derinlik":11.6,
+    "ML":"1.6",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"04:55:15",
     "Enlem":39.1732,
     "Boylam":28.248,
