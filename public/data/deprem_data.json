@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"19:13:56",
+    "Enlem":39.2055,
+    "Boylam":40.3092,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"DEMIRKANAT-KIGI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"19:02:06",
+    "Enlem":38.2673,
+    "Boylam":24.1252,
+    "Derinlik":5.0,
+    "ML":"3.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"18:49:00",
+    "Enlem":37.0577,
+    "Boylam":29.346,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"KIZILYAKA-CAMELI (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"18:03:04",
     "Enlem":38.3778,
     "Boylam":37.4055,
