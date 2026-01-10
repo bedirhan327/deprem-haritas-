@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"20:48:50",
+    "Enlem":40.4245,
+    "Boylam":30.1742,
+    "Derinlik":5.1,
+    "ML":"2.5",
+    "Yer":"HACILAR-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:46:25",
+    "Enlem":38.0943,
+    "Boylam":36.6228,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:26:46",
+    "Enlem":39.2462,
+    "Boylam":29.0332,
+    "Derinlik":16.9,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:20:11",
+    "Enlem":38.5368,
+    "Boylam":37.9645,
+    "Derinlik":8.9,
+    "ML":"1.2",
+    "Yer":"SADIKLI-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:07:11",
+    "Enlem":36.3793,
+    "Boylam":28.4027,
+    "Derinlik":6.2,
+    "ML":"1.6",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"19:32:44",
+    "Enlem":37.7412,
+    "Boylam":29.8805,
+    "Derinlik":12.5,
+    "ML":"1.6",
+    "Yer":"ARMUT-YESILOVA (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"19:25:24",
     "Enlem":39.2302,
     "Boylam":28.1237,
