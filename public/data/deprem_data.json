@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"01:37:56",
+    "Enlem":39.6047,
+    "Boylam":28.81,
+    "Derinlik":4.4,
+    "ML":"1.4",
+    "Yer":"KAZIMIYE-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"01:21:42",
+    "Enlem":39.7615,
+    "Boylam":39.0035,
+    "Derinlik":7.2,
+    "ML":"1.6",
+    "Yer":"DEDEOGLU-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"01:00:11",
+    "Enlem":39.1765,
+    "Boylam":28.0535,
+    "Derinlik":9.0,
+    "ML":"1.9",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"00:50:20",
     "Enlem":34.2165,
     "Boylam":34.947,
