@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"09:32:36",
+    "Enlem":39.1437,
+    "Boylam":28.2688,
+    "Derinlik":17.0,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"09:16:57",
+    "Enlem":38.3213,
+    "Boylam":38.8203,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"BOLUKKAYA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"09:13:43",
+    "Enlem":39.0732,
+    "Boylam":25.9377,
+    "Derinlik":4.1,
+    "ML":"2.5",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"07:52:19",
     "Enlem":39.1853,
     "Boylam":28.2177,
