@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"00:48:07",
+    "Enlem":38.0662,
+    "Boylam":36.426,
+    "Derinlik":6.8,
+    "ML":"1.6",
+    "Yer":"SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"00:29:48",
+    "Enlem":38.5195,
+    "Boylam":38.0012,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"KADIIBRAHIM-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"00:27:05",
+    "Enlem":39.2262,
+    "Boylam":28.9587,
+    "Derinlik":13.6,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"00:02:28",
     "Enlem":38.2968,
     "Boylam":38.7943,
