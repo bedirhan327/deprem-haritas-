@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"02:09:59",
+    "Enlem":40.9353,
+    "Boylam":31.6833,
+    "Derinlik":5.8,
+    "ML":"2.8",
+    "Yer":"YAYLATEPE-YIGILCA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"02:09:57",
+    "Enlem":39.24,
+    "Boylam":28.0435,
+    "Derinlik":10.5,
+    "ML":"2.3",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"01:37:56",
     "Enlem":39.6047,
     "Boylam":28.81,
