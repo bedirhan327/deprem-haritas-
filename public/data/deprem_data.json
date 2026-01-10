@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"03:13:00",
+    "Enlem":39.1017,
+    "Boylam":28.3072,
+    "Derinlik":9.6,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"03:02:35",
+    "Enlem":37.3492,
+    "Boylam":37.6975,
+    "Derinlik":7.0,
+    "ML":"2.2",
+    "Yer":"NOHUTALANI-YAVUZELI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"02:56:32",
+    "Enlem":39.1775,
+    "Boylam":28.2507,
+    "Derinlik":9.6,
+    "ML":"2.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"02:51:49",
+    "Enlem":37.1307,
+    "Boylam":28.4268,
+    "Derinlik":13.9,
+    "ML":"1.4",
+    "Yer":"ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"02:25:20",
     "Enlem":39.2062,
     "Boylam":28.148,
