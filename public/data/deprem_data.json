@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"07:05:47",
+    "Enlem":39.2412,
+    "Boylam":28.9725,
+    "Derinlik":11.4,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"06:59:17",
+    "Enlem":40.884,
+    "Boylam":31.6713,
+    "Derinlik":6.6,
+    "ML":"2.2",
+    "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"06:21:56",
+    "Enlem":39.8475,
+    "Boylam":28.177,
+    "Derinlik":3.9,
+    "ML":"1.5",
+    "Yer":"SULECIK-SUSURLUK (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"05:58:26",
+    "Enlem":40.3567,
+    "Boylam":24.0738,
+    "Derinlik":11.7,
+    "ML":"1.3",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"05:57:27",
     "Enlem":39.1843,
     "Boylam":28.1615,
