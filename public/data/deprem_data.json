@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"07:36:48",
+    "Enlem":38.2053,
+    "Boylam":38.0647,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"ISIKLI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"07:34:53",
+    "Enlem":39.2003,
+    "Boylam":28.142,
+    "Derinlik":9.1,
+    "ML":"1.6",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"07:33:14",
+    "Enlem":39.653,
+    "Boylam":26.1042,
+    "Derinlik":2.3,
+    "ML":"1.6",
+    "Yer":"TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"07:26:19",
+    "Enlem":39.1862,
+    "Boylam":28.1793,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"07:05:47",
     "Enlem":39.2412,
     "Boylam":28.9725,
