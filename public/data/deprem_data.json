@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"12:30:48",
+    "Enlem":38.2122,
+    "Boylam":37.1887,
+    "Derinlik":7.4,
+    "ML":"1.6",
+    "Yer":"ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"12:06:14",
+    "Enlem":38.2715,
+    "Boylam":38.1547,
+    "Derinlik":3.2,
+    "ML":"2.6",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"12:03:57",
     "Enlem":39.0945,
     "Boylam":25.846,
