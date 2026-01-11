@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"20:17:53",
+    "Enlem":37.0655,
+    "Boylam":28.3052,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"KUYUCAK-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"19:55:58",
+    "Enlem":39.1113,
+    "Boylam":28.2862,
+    "Derinlik":15.3,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"19:39:21",
     "Enlem":38.8765,
     "Boylam":42.434,
