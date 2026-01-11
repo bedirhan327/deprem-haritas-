@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"16:15:04",
+    "Enlem":40.3452,
+    "Boylam":24.0848,
+    "Derinlik":16.2,
+    "ML":"2.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"15:21:21",
     "Enlem":40.4582,
     "Boylam":26.3042,
@@ -57,6 +67,16 @@
     "Derinlik":5.4,
     "ML":"1.7",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"13:54:21",
+    "Enlem":37.6033,
+    "Boylam":28.5565,
+    "Derinlik":22.5,
+    "ML":"1.7",
+    "Yer":"YAYKIN-KARACASU (AYDIN)",
     "Cozum":"�lksel"
   },
   {
