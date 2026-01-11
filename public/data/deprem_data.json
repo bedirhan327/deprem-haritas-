@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"12:03:57",
+    "Enlem":39.0945,
+    "Boylam":25.846,
+    "Derinlik":2.5,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"10:09:29",
     "Enlem":36.344,
     "Boylam":25.4917,
@@ -16,6 +26,16 @@
     "Boylam":28.3937,
     "Derinlik":11.5,
     "ML":"1.7",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"09:48:08",
+    "Enlem":39.1365,
+    "Boylam":28.3545,
+    "Derinlik":17.0,
+    "ML":"1.3",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
