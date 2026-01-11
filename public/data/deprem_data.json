@@ -21,6 +21,46 @@
   },
   {
     "Tarih":"2026.01.11",
+    "Saat":"15:14:56",
+    "Enlem":37.0457,
+    "Boylam":36.2218,
+    "Derinlik":7.0,
+    "ML":"1.7",
+    "Yer":"AKYAR-(OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"15:11:49",
+    "Enlem":39.2427,
+    "Boylam":28.1242,
+    "Derinlik":19.5,
+    "ML":"1.1",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"15:03:58",
+    "Enlem":39.1323,
+    "Boylam":28.0963,
+    "Derinlik":19.4,
+    "ML":"0.9",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"14:27:52",
+    "Enlem":39.1435,
+    "Boylam":28.1757,
+    "Derinlik":5.4,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"13:45:00",
     "Enlem":38.1507,
     "Boylam":38.5323,
@@ -167,6 +207,16 @@
     "Derinlik":4.9,
     "ML":"1.8",
     "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"08:05:11",
+    "Enlem":39.1997,
+    "Boylam":28.156,
+    "Derinlik":10.0,
+    "ML":"1.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
