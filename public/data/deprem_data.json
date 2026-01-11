@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"22:59:56",
+    "Enlem":38.1645,
+    "Boylam":38.013,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"ESKIKOY-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"22:31:08",
+    "Enlem":39.2387,
+    "Boylam":28.3732,
+    "Derinlik":5.2,
+    "ML":"1.4",
+    "Yer":"ALAYAKA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"22:27:28",
     "Enlem":39.0725,
     "Boylam":25.9765,
