@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"22:13:18",
+    "Enlem":39.242,
+    "Boylam":29.0277,
+    "Derinlik":10.0,
+    "ML":"1.4",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"22:03:14",
+    "Enlem":39.3543,
+    "Boylam":40.5193,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"SENKOY-YEDISU (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"22:00:49",
+    "Enlem":39.1737,
+    "Boylam":28.2325,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"21:59:36",
+    "Enlem":39.152,
+    "Boylam":28.2715,
+    "Derinlik":14.7,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"21:49:22",
     "Enlem":39.1625,
     "Boylam":28.1978,
