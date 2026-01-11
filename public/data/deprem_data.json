@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"19:39:21",
+    "Enlem":38.8765,
+    "Boylam":42.434,
+    "Derinlik":8.4,
+    "ML":"2.1",
+    "Yer":"KIRKDONUM-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"19:26:45",
+    "Enlem":38.7783,
+    "Boylam":37.9627,
+    "Derinlik":12.1,
+    "ML":"1.7",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"19:07:02",
+    "Enlem":38.8212,
+    "Boylam":27.0385,
+    "Derinlik":15.5,
+    "ML":"1.3",
+    "Yer":"CALTILIDERE-ALIAGA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"19:02:24",
     "Enlem":40.3342,
     "Boylam":24.0955,
