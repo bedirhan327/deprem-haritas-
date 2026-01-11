@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"03:10:59",
+    "Enlem":39.0645,
+    "Boylam":29.684,
+    "Derinlik":12.6,
+    "ML":"2.2",
+    "Yer":"CAMDIBI-ASLANAPA (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"02:46:26",
+    "Enlem":38.4927,
+    "Boylam":38.043,
+    "Derinlik":12.0,
+    "ML":"1.2",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"02:44:36",
+    "Enlem":38.7947,
+    "Boylam":42.7322,
+    "Derinlik":24.8,
+    "ML":"1.6",
+    "Yer":"ADILCEVAZ (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"02:41:14",
+    "Enlem":39.1693,
+    "Boylam":28.1158,
+    "Derinlik":11.1,
+    "ML":"1.1",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"02:09:59",
     "Enlem":40.9353,
     "Boylam":31.6833,
