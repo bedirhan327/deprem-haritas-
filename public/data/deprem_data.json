@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"04:17:58",
+    "Enlem":38.769,
+    "Boylam":27.1363,
+    "Derinlik":13.0,
+    "ML":"3.7",
+    "Yer":"DUZLEN-(MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"04:13:54",
+    "Enlem":40.808,
+    "Boylam":27.542,
+    "Derinlik":18.1,
+    "ML":"2.0",
+    "Yer":"YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"04:08:00",
+    "Enlem":40.9453,
+    "Boylam":28.4675,
+    "Derinlik":27.8,
+    "ML":"1.5",
+    "Yer":"GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"03:52:02",
     "Enlem":38.2393,
     "Boylam":37.424,
