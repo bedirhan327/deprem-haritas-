@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"21:49:22",
+    "Enlem":39.1625,
+    "Boylam":28.1978,
+    "Derinlik":15.6,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"21:41:41",
+    "Enlem":37.9585,
+    "Boylam":37.3988,
+    "Derinlik":18.5,
+    "ML":"1.0",
+    "Yer":"BICIN-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"21:33:29",
+    "Enlem":39.1762,
+    "Boylam":28.2172,
+    "Derinlik":5.3,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"21:08:13",
     "Enlem":39.307,
     "Boylam":41.0955,
