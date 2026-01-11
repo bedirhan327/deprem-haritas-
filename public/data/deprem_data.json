@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"13:45:00",
+    "Enlem":38.1507,
+    "Boylam":38.5323,
+    "Derinlik":14.5,
+    "ML":"1.5",
+    "Yer":"ULUKOY-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"13:27:28",
+    "Enlem":39.2392,
+    "Boylam":28.1042,
+    "Derinlik":13.5,
+    "ML":"1.7",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"13:06:53",
+    "Enlem":40.8788,
+    "Boylam":28.6818,
+    "Derinlik":16.8,
+    "ML":"1.8",
+    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"12:51:30",
     "Enlem":40.87,
     "Boylam":28.7425,
