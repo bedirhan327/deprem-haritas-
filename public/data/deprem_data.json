@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"12:23:45",
+    "Enlem":39.2353,
+    "Boylam":29.0353,
+    "Derinlik":14.5,
+    "ML":"1.4",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"11:58:55",
     "Enlem":39.1805,
     "Boylam":28.2367,
