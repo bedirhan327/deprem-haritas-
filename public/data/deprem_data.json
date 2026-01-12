@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"07:49:05",
+    "Enlem":40.406,
+    "Boylam":24.0567,
+    "Derinlik":7.4,
+    "ML":"2.9",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"07:34:52",
+    "Enlem":38.7582,
+    "Boylam":27.1173,
+    "Derinlik":9.9,
+    "ML":"2.8",
+    "Yer":"KARAKUZU-ALIAGA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"06:00:06",
     "Enlem":39.2402,
     "Boylam":29.03,
