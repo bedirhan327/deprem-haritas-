@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"04:17:16",
+    "Enlem":39.1597,
+    "Boylam":28.221,
+    "Derinlik":11.1,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"04:09:28",
+    "Enlem":39.1617,
+    "Boylam":28.2822,
+    "Derinlik":11.9,
+    "ML":"2.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"03:52:10",
     "Enlem":40.8292,
     "Boylam":31.5272,
     "Derinlik":1.8,
     "ML":"2.0",
     "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"03:35:23",
+    "Enlem":39.3163,
+    "Boylam":40.3957,
+    "Derinlik":8.2,
+    "ML":"2.5",
+    "Yer":"ESKIKAVAK-KIGI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"03:30:07",
+    "Enlem":38.9712,
+    "Boylam":25.9118,
+    "Derinlik":7.8,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
