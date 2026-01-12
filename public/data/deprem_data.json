@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"10:15:15",
+    "Enlem":38.0395,
+    "Boylam":37.6368,
+    "Derinlik":10.3,
+    "ML":"1.3",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"09:56:07",
+    "Enlem":39.2458,
+    "Boylam":28.946,
+    "Derinlik":9.2,
+    "ML":"1.3",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"09:01:09",
     "Enlem":39.4175,
     "Boylam":26.1902,
