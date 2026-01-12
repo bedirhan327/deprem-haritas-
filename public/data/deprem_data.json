@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"18:33:22",
+    "Enlem":39.198,
+    "Boylam":28.198,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"18:19:37",
+    "Enlem":37.7448,
+    "Boylam":36.543,
+    "Derinlik":5.5,
+    "ML":"2.7",
+    "Yer":"AKGUMUS-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"17:12:46",
     "Enlem":39.2413,
     "Boylam":28.1022,
