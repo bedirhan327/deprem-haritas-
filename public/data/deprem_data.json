@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"05:10:42",
+    "Enlem":39.1542,
+    "Boylam":28.114,
+    "Derinlik":10.1,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"04:50:21",
+    "Enlem":40.7828,
+    "Boylam":27.9517,
+    "Derinlik":4.9,
+    "ML":"2.0",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"04:42:54",
     "Enlem":39.3505,
     "Boylam":28.0183,
