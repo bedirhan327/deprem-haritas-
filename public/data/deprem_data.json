@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"03:10:00",
+    "Enlem":39.1853,
+    "Boylam":28.1343,
+    "Derinlik":8.6,
+    "ML":"3.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"02:58:04",
+    "Enlem":40.41,
+    "Boylam":27.1242,
+    "Derinlik":16.5,
+    "ML":"1.9",
+    "Yer":"DEGIRMENCIK-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"02:45:04",
+    "Enlem":41.0985,
+    "Boylam":25.6625,
+    "Derinlik":8.0,
+    "ML":"2.7",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"02:37:51",
+    "Enlem":39.8722,
+    "Boylam":34.032,
+    "Derinlik":2.8,
+    "ML":"1.8",
+    "Yer":"ASAGIIHSANGAZILI-DELICE (KIRIKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"01:31:41",
     "Enlem":39.1523,
     "Boylam":28.2457,
