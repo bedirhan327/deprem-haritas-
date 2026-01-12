@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"14:25:37",
+    "Enlem":38.563,
+    "Boylam":40.4252,
+    "Derinlik":18.3,
+    "ML":"2.1",
+    "Yer":"YELKAYA-GENC (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"14:10:43",
+    "Enlem":39.1073,
+    "Boylam":28.1363,
+    "Derinlik":26.3,
+    "ML":"1.7",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"14:08:08",
+    "Enlem":38.1267,
+    "Boylam":38.2752,
+    "Derinlik":9.7,
+    "ML":"1.9",
+    "Yer":"ALTINTAS-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"13:01:28",
     "Enlem":35.2982,
     "Boylam":33.4213,
