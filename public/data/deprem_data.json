@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"11:14:36",
+    "Enlem":39.2395,
+    "Boylam":28.1957,
+    "Derinlik":6.7,
+    "ML":"1.7",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"10:59:12",
+    "Enlem":37.9548,
+    "Boylam":38.1897,
+    "Derinlik":14.7,
+    "ML":"1.8",
+    "Yer":"SARIKAYA-(ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"10:55:00",
+    "Enlem":38.1178,
+    "Boylam":37.878,
+    "Derinlik":17.2,
+    "ML":"1.7",
+    "Yer":"YOLKURU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"10:15:15",
     "Enlem":38.0395,
     "Boylam":37.6368,
