@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"19:29:29",
+    "Enlem":39.221,
+    "Boylam":28.1427,
+    "Derinlik":9.3,
+    "ML":"2.3",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"19:19:40",
+    "Enlem":38.7725,
+    "Boylam":37.9613,
+    "Derinlik":3.3,
+    "ML":"1.9",
+    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"19:06:42",
     "Enlem":37.9318,
     "Boylam":36.7162,
@@ -17,6 +37,16 @@
     "Derinlik":6.2,
     "ML":"1.5",
     "Yer":"TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"18:59:14",
+    "Enlem":38.1767,
+    "Boylam":25.9185,
+    "Derinlik":5.4,
+    "ML":"2.7",
+    "Yer":"SAKIZ ADASI (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
