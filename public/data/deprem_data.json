@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.01.12",
+    "Saat":"08:08:00",
+    "Enlem":36.8972,
+    "Boylam":27.5123,
+    "Derinlik":4.7,
+    "ML":"1.4",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"08:05:33",
+    "Enlem":36.9208,
+    "Boylam":27.454,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"08:02:43",
+    "Enlem":36.9358,
+    "Boylam":27.4995,
+    "Derinlik":11.6,
+    "ML":"1.8",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"07:49:05",
     "Enlem":40.406,
     "Boylam":24.0567,
     "Derinlik":7.4,
     "ML":"2.9",
     "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"07:40:43",
+    "Enlem":35.2112,
+    "Boylam":33.4522,
+    "Derinlik":7.2,
+    "ML":"2.0",
+    "Yer":"KIBRIS-DEGIRMENLIK",
     "Cozum":"�lksel"
   },
   {
