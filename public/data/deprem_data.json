@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2026.01.12",
+    "Saat":"14:25:36",
+    "Enlem":38.5413,
+    "Boylam":40.4045,
+    "Derinlik":13.2,
+    "ML":"2.1",
+    "Yer":"SENLIK-LICE (DIYARBAKIR) REVIZE01 (2026.01.12",
+    "Cozum":"14:25:37)"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"14:10:43",
     "Enlem":39.1073,
     "Boylam":28.1363,
@@ -31,12 +41,32 @@
   },
   {
     "Tarih":"2026.01.12",
+    "Saat":"13:27:34",
+    "Enlem":39.5263,
+    "Boylam":26.0473,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"BABAKALE-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
     "Saat":"13:01:28",
     "Enlem":35.2982,
     "Boylam":33.4213,
     "Derinlik":0.0,
     "ML":"1.9",
     "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.12",
+    "Saat":"12:35:20",
+    "Enlem":37.2945,
+    "Boylam":31.8773,
+    "Derinlik":6.2,
+    "ML":"1.4",
+    "Yer":"MADENLI-SEYDISEHIR (KONYA)",
     "Cozum":"�lksel"
   },
   {
