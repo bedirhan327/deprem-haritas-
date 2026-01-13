@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"02:12:59",
+    "Enlem":38.7982,
+    "Boylam":26.6705,
+    "Derinlik":4.9,
+    "ML":"1.4",
+    "Yer":"CANDARLI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"01:53:46",
+    "Enlem":39.1103,
+    "Boylam":25.7973,
+    "Derinlik":7.6,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"01:52:08",
     "Enlem":39.1923,
     "Boylam":28.2632,
