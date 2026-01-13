@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"06:40:06",
+    "Enlem":38.4795,
+    "Boylam":37.5133,
+    "Derinlik":21.6,
+    "ML":"1.3",
+    "Yer":"YENICE-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"06:35:26",
+    "Enlem":39.1998,
+    "Boylam":28.0748,
+    "Derinlik":12.9,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"06:28:05",
+    "Enlem":39.1743,
+    "Boylam":28.1345,
+    "Derinlik":9.1,
+    "ML":"2.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"04:58:57",
     "Enlem":39.1897,
     "Boylam":28.2082,
