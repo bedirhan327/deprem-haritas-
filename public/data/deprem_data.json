@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"03:29:39",
+    "Enlem":39.4165,
+    "Boylam":28.7978,
+    "Derinlik":11.5,
+    "ML":"1.9",
+    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"03:24:53",
+    "Enlem":38.6387,
+    "Boylam":43.2102,
+    "Derinlik":5.0,
+    "ML":"3.1",
+    "Yer":"ARISU-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"03:21:25",
+    "Enlem":38.6033,
+    "Boylam":43.1655,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"CITOREN-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"03:04:25",
     "Enlem":38.0877,
     "Boylam":38.3858,
