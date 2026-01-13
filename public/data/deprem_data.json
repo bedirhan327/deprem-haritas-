@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"03:32:48",
+    "Enlem":40.7807,
+    "Boylam":30.9127,
+    "Derinlik":10.1,
+    "ML":"1.3",
+    "Yer":"BEKIROGLU-GOLYAKA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"03:29:39",
     "Enlem":39.4165,
     "Boylam":28.7978,
@@ -31,6 +41,16 @@
   },
   {
     "Tarih":"2026.01.13",
+    "Saat":"03:13:36",
+    "Enlem":38.8752,
+    "Boylam":31.5575,
+    "Derinlik":6.2,
+    "ML":"1.8",
+    "Yer":"ORENKOY-EMIRDAG (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"03:04:25",
     "Enlem":38.0877,
     "Boylam":38.3858,
@@ -41,12 +61,32 @@
   },
   {
     "Tarih":"2026.01.13",
+    "Saat":"01:41:58",
+    "Enlem":38.6767,
+    "Boylam":31.3985,
+    "Derinlik":3.9,
+    "ML":"1.3",
+    "Yer":"CUKURCAK-SULTANDAGI (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"01:37:14",
     "Enlem":38.111,
     "Boylam":38.5068,
     "Derinlik":18.1,
     "ML":"1.4",
     "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"01:08:47",
+    "Enlem":37.6517,
+    "Boylam":37.3202,
+    "Derinlik":4.4,
+    "ML":"1.2",
+    "Yer":"BOLUKDAMLAR-CAGLAYANCERIT (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
