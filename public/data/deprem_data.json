@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"01:21:12",
+    "Enlem":39.8342,
+    "Boylam":26.1718,
+    "Derinlik":12.0,
+    "ML":"1.6",
+    "Yer":"CAMOBA-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"01:05:26",
+    "Enlem":39.091,
+    "Boylam":25.809,
+    "Derinlik":6.2,
+    "ML":"3.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"00:18:56",
     "Enlem":39.1313,
     "Boylam":28.3167,
