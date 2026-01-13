@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"10:09:33",
+    "Enlem":39.4983,
+    "Boylam":39.8358,
+    "Derinlik":7.1,
+    "ML":"2.5",
+    "Yer":"ARDICLI-PULUMUR (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"09:51:42",
+    "Enlem":39.031,
+    "Boylam":25.9235,
+    "Derinlik":1.5,
+    "ML":"2.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"08:09:52",
     "Enlem":39.1873,
     "Boylam":28.2655,
