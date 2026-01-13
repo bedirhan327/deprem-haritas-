@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"23:54:22",
+    "Enlem":36.9735,
+    "Boylam":33.967,
+    "Derinlik":12.3,
+    "ML":"1.7",
+    "Yer":"EVDILEK-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"23:21:38",
+    "Enlem":37.5832,
+    "Boylam":38.6222,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"YESERDI-HILVAN (SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"23:06:41",
     "Enlem":39.1872,
     "Boylam":28.1762,
@@ -27,6 +47,16 @@
     "Derinlik":16.2,
     "ML":"1.1",
     "Yer":"CAYGOREN-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"21:24:32",
+    "Enlem":37.135,
+    "Boylam":36.7567,
+    "Derinlik":7.1,
+    "ML":"1.5",
+    "Yer":"GOZLUHUYUK-NURDAGI (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
