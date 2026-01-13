@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"19:16:46",
+    "Enlem":35.9885,
+    "Boylam":29.7748,
+    "Derinlik":15.7,
+    "ML":"2.9",
+    "Yer":"KAS ACIKLARI-ANTALYA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
+    "Saat":"18:52:38",
+    "Enlem":39.1868,
+    "Boylam":28.2778,
+    "Derinlik":9.6,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"18:08:13",
     "Enlem":39.1743,
     "Boylam":28.0713,
