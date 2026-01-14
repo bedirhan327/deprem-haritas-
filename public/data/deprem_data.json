@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.01.15",
+    "Saat":"00:23:59",
+    "Enlem":36.2187,
+    "Boylam":28.3322,
+    "Derinlik":58.3,
+    "ML":"2.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"00:02:19",
+    "Enlem":40.428,
+    "Boylam":28.9798,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"23:56:37",
+    "Enlem":37.315,
+    "Boylam":37.105,
+    "Derinlik":6.7,
+    "ML":"1.9",
+    "Yer":"OSMANDEDE-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.14",
     "Saat":"23:14:47",
     "Enlem":40.8468,
