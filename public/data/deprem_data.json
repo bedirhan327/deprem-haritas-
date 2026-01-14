@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"04:20:41",
+    "Enlem":39.427,
+    "Boylam":25.9555,
+    "Derinlik":9.5,
+    "ML":"1.7",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"03:59:07",
+    "Enlem":39.061,
+    "Boylam":28.236,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"03:50:27",
     "Enlem":37.5797,
     "Boylam":36.1993,
