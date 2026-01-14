@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"12:46:01",
+    "Enlem":36.2418,
+    "Boylam":33.6887,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"ISIKLI-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"12:40:19",
+    "Enlem":39.0037,
+    "Boylam":25.8898,
+    "Derinlik":2.0,
+    "ML":"2.5",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"11:59:11",
+    "Enlem":36.6048,
+    "Boylam":25.692,
+    "Derinlik":6.6,
+    "ML":"1.7",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"11:56:52",
+    "Enlem":36.3897,
+    "Boylam":25.4992,
+    "Derinlik":10.8,
+    "ML":"3.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"11:55:22",
     "Enlem":37.9922,
     "Boylam":37.558,
