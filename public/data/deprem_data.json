@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"05:06:14",
+    "Enlem":37.9148,
+    "Boylam":27.1328,
+    "Derinlik":5.3,
+    "ML":"1.7",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"05:03:21",
+    "Enlem":39.6238,
+    "Boylam":27.9408,
+    "Derinlik":11.3,
+    "ML":"1.2",
+    "Yer":"HALALCA-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"05:01:42",
+    "Enlem":37.9173,
+    "Boylam":27.1328,
+    "Derinlik":8.2,
+    "ML":"1.8",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"04:48:56",
+    "Enlem":37.1372,
+    "Boylam":28.2835,
+    "Derinlik":8.0,
+    "ML":"1.0",
+    "Yer":"YERKESIK-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"04:44:10",
     "Enlem":40.7337,
     "Boylam":29.0357,
