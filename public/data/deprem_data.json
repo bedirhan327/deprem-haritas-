@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"21:07:20",
+    "Enlem":39.0043,
+    "Boylam":25.8852,
+    "Derinlik":13.0,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"21:04:28",
+    "Enlem":39.1965,
+    "Boylam":28.2913,
+    "Derinlik":15.2,
+    "ML":"2.5",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"20:41:23",
+    "Enlem":39.1258,
+    "Boylam":28.2988,
+    "Derinlik":14.1,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"20:39:25",
+    "Enlem":40.8243,
+    "Boylam":31.5467,
+    "Derinlik":5.9,
+    "ML":"1.8",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"20:36:31",
     "Enlem":39.1533,
     "Boylam":28.2938,
@@ -17,6 +57,26 @@
     "Derinlik":17.2,
     "ML":"2.9",
     "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"19:18:37",
+    "Enlem":38.1982,
+    "Boylam":36.7402,
+    "Derinlik":3.1,
+    "ML":"2.0",
+    "Yer":"BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"19:14:15",
+    "Enlem":36.7225,
+    "Boylam":29.3518,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"ORTAKOY-FETHIYE (MUGLA)",
     "Cozum":"�lksel"
   },
   {
