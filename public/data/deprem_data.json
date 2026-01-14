@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"17:09:46",
+    "Enlem":40.2007,
+    "Boylam":25.1565,
+    "Derinlik":6.6,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"17:06:40",
+    "Enlem":39.1592,
+    "Boylam":28.1058,
+    "Derinlik":14.2,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"16:41:13",
     "Enlem":38.135,
     "Boylam":38.5232,
