@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"06:29:12",
+    "Enlem":39.1188,
+    "Boylam":28.293,
+    "Derinlik":9.0,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"06:17:36",
     "Enlem":40.8883,
     "Boylam":30.9762,
@@ -97,6 +107,16 @@
     "Derinlik":5.4,
     "ML":"2.6",
     "Yer":"CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"04:42:52",
+    "Enlem":35.6912,
+    "Boylam":23.3788,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
