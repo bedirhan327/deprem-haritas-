@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"14:39:08",
+    "Enlem":37.1828,
+    "Boylam":28.445,
+    "Derinlik":6.9,
+    "ML":"1.8",
+    "Yer":"ORTAKOY-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"14:22:32",
+    "Enlem":39.1478,
+    "Boylam":28.1993,
+    "Derinlik":15.8,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"14:15:55",
     "Enlem":39.1125,
     "Boylam":28.3135,
