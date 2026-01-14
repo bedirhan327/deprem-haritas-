@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"07:46:23",
+    "Enlem":38.0215,
+    "Boylam":37.7045,
+    "Derinlik":14.2,
+    "ML":"1.5",
+    "Yer":"KUCUKLU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"07:41:17",
+    "Enlem":38.1382,
+    "Boylam":40.0243,
+    "Derinlik":6.4,
+    "ML":"2.5",
+    "Yer":"TASDAM-EGIL (DIYARBAKIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"07:38:39",
+    "Enlem":39.2228,
+    "Boylam":28.0647,
+    "Derinlik":7.2,
+    "ML":"1.4",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"07:07:58",
     "Enlem":37.6643,
     "Boylam":36.1493,
