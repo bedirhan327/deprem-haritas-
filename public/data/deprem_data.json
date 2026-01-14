@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"20:36:31",
+    "Enlem":39.1533,
+    "Boylam":28.2938,
+    "Derinlik":9.5,
+    "ML":"4.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"20:14:29",
     "Enlem":39.1973,
     "Boylam":28.2887,
@@ -17,6 +27,16 @@
     "Derinlik":5.0,
     "ML":"2.6",
     "Yer":"SALKONAK-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"18:53:03",
+    "Enlem":36.3477,
+    "Boylam":28.7338,
+    "Derinlik":7.5,
+    "ML":"1.6",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
