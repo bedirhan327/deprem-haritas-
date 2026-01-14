@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"15:58:01",
+    "Enlem":36.1703,
+    "Boylam":33.4495,
+    "Derinlik":0.0,
+    "ML":"1.1",
+    "Yer":"SIPAHILI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"15:27:04",
+    "Enlem":36.1152,
+    "Boylam":33.5277,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"YANISLI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"15:18:37",
+    "Enlem":37.7263,
+    "Boylam":29.3735,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"AYDINLAR-HONAZ (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"15:07:40",
     "Enlem":39.0877,
     "Boylam":33.2838,
