@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"03:50:27",
+    "Enlem":37.5797,
+    "Boylam":36.1993,
+    "Derinlik":17.4,
+    "ML":"1.6",
+    "Yer":"YOGUNOLUK-KADIRLI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"03:24:50",
+    "Enlem":39.0197,
+    "Boylam":25.9532,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"02:58:59",
     "Enlem":38.044,
     "Boylam":36.5608,
