@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"23:03:09",
+    "Enlem":39.1998,
+    "Boylam":28.0982,
+    "Derinlik":3.5,
+    "ML":"1.2",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"22:51:35",
+    "Enlem":39.2138,
+    "Boylam":26.6875,
+    "Derinlik":9.2,
+    "ML":"2.1",
+    "Yer":"ALTINOVA ACIKLARI-BALIKESIR (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"22:30:58",
     "Enlem":39.127,
     "Boylam":28.2247,
