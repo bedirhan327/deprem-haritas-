@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"07:07:58",
+    "Enlem":37.6643,
+    "Boylam":36.1493,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"ESENLI-SUMBAS (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"07:00:07",
+    "Enlem":39.1752,
+    "Boylam":28.0437,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"06:56:54",
+    "Enlem":39.1865,
+    "Boylam":28.0965,
+    "Derinlik":10.1,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"06:55:10",
+    "Enlem":40.7268,
+    "Boylam":29.0382,
+    "Derinlik":5.2,
+    "ML":"2.2",
+    "Yer":"CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"06:29:12",
     "Enlem":39.1188,
     "Boylam":28.293,
@@ -17,6 +57,16 @@
     "Derinlik":19.6,
     "ML":"1.4",
     "Yer":"AVLIYAN-CUMAYERI (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"06:11:54",
+    "Enlem":38.1418,
+    "Boylam":40.0337,
+    "Derinlik":9.0,
+    "ML":"1.1",
+    "Yer":"OYALI-EGIL (DIYARBAKIR)",
     "Cozum":"�lksel"
   },
   {
