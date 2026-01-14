@@ -61,6 +61,26 @@
   },
   {
     "Tarih":"2026.01.14",
+    "Saat":"20:30:32",
+    "Enlem":40.1625,
+    "Boylam":31.6327,
+    "Derinlik":16.8,
+    "ML":"2.0",
+    "Yer":"ULUKOY-NALLIHAN (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"20:27:07",
+    "Enlem":36.1837,
+    "Boylam":36.0535,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"AVCILAR-SAMANDAG (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"20:14:29",
     "Enlem":39.1973,
     "Boylam":28.2887,
@@ -127,6 +147,16 @@
     "Derinlik":10.8,
     "ML":"1.5",
     "Yer":"NIKFER-TAVAS (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"17:39:54",
+    "Enlem":39.1065,
+    "Boylam":33.251,
+    "Derinlik":3.1,
+    "ML":"1.6",
+    "Yer":"AKIN-SEREFLIKOCHISAR (ANKARA)",
     "Cozum":"�lksel"
   },
   {
