@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"19:25:17",
+    "Enlem":39.1522,
+    "Boylam":28.2955,
+    "Derinlik":10.9,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"19:18:08",
+    "Enlem":38.1133,
+    "Boylam":38.5185,
+    "Derinlik":6.0,
+    "ML":"1.8",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"19:13:13",
+    "Enlem":40.7178,
+    "Boylam":29.0333,
+    "Derinlik":11.3,
+    "ML":"2.0",
+    "Yer":"CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"19:07:29",
     "Enlem":39.2367,
     "Boylam":29.0412,
