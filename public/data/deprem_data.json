@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"15:49:35",
+    "Enlem":38.2127,
+    "Boylam":25.9535,
+    "Derinlik":17.2,
+    "ML":"2.4",
+    "Yer":"SAKIZ ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"15:38:29",
+    "Enlem":39.1912,
+    "Boylam":28.3538,
+    "Derinlik":7.0,
+    "ML":"1.4",
+    "Yer":"CIKRIKCI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"15:34:26",
+    "Enlem":36.4663,
+    "Boylam":40.362,
+    "Derinlik":15.9,
+    "ML":"2.5",
+    "Yer":"SURIYE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"15:30:09",
+    "Enlem":38.2085,
+    "Boylam":37.5317,
+    "Derinlik":13.1,
+    "ML":"1.3",
+    "Yer":"KANGAL-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"14:46:32",
     "Enlem":39.821,
     "Boylam":26.2777,
