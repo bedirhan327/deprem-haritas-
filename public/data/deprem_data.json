@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"02:31:52",
+    "Enlem":38.0692,
+    "Boylam":37.5258,
+    "Derinlik":18.3,
+    "ML":"0.9",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"02:30:01",
+    "Enlem":38.6802,
+    "Boylam":33.7492,
+    "Derinlik":9.6,
+    "ML":"1.1",
+    "Yer":"AHIRLI-AGACOREN (AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"02:27:13",
+    "Enlem":39.6073,
+    "Boylam":26.3905,
+    "Derinlik":18.5,
+    "ML":"1.4",
+    "Yer":"AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"02:12:21",
     "Enlem":39.3313,
     "Boylam":27.6682,
