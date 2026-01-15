@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"01:04:23",
+    "Enlem":39.9757,
+    "Boylam":23.8792,
+    "Derinlik":22.3,
+    "ML":"3.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"01:01:04",
+    "Enlem":37.7472,
+    "Boylam":35.3618,
+    "Derinlik":5.5,
+    "ML":"2.0",
+    "Yer":"KAPUZBASI-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"00:41:26",
     "Enlem":39.8907,
     "Boylam":24.4023,
