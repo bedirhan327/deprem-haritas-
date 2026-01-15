@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"11:34:30",
+    "Enlem":39.8433,
+    "Boylam":26.0957,
+    "Derinlik":4.3,
+    "ML":"1.6",
+    "Yer":"BOZCAADA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"10:18:06",
     "Enlem":38.1958,
     "Boylam":25.9818,
@@ -57,6 +67,16 @@
     "Derinlik":4.6,
     "ML":"1.2",
     "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"09:06:51",
+    "Enlem":35.7773,
+    "Boylam":23.8405,
+    "Derinlik":6.6,
+    "ML":"3.0",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
