@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"05:41:45",
+    "Enlem":38.3323,
+    "Boylam":38.8218,
+    "Derinlik":10.7,
+    "ML":"2.5",
+    "Yer":"UYANIK-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"05:33:58",
+    "Enlem":40.8607,
+    "Boylam":31.0178,
+    "Derinlik":15.7,
+    "ML":"1.7",
+    "Yer":"HACIKADIRLER-GUMUSOVA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"05:33:08",
+    "Enlem":39.2143,
+    "Boylam":27.928,
+    "Derinlik":7.8,
+    "ML":"2.0",
+    "Yer":"DUALAR-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"05:31:58",
+    "Enlem":39.0447,
+    "Boylam":25.9137,
+    "Derinlik":11.0,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"05:18:49",
     "Enlem":39.1875,
     "Boylam":28.1882,
