@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"10:02:00",
+    "Enlem":34.1668,
+    "Boylam":33.6098,
+    "Derinlik":16.7,
+    "ML":"3.2",
+    "Yer":"KIBRIS ACIKLARI-GUNEY--(AKDENIZ) REVIZE01 (2026.01.15",
+    "Cozum":"10:02:00)"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"09:42:24",
+    "Enlem":39.2988,
+    "Boylam":27.7182,
+    "Derinlik":15.1,
+    "ML":"1.0",
+    "Yer":"KOZLUOREN-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"09:37:58",
+    "Enlem":39.2735,
+    "Boylam":27.8123,
+    "Derinlik":5.5,
+    "ML":"1.7",
+    "Yer":"HAMIDIYE-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"08:33:23",
     "Enlem":40.1447,
     "Boylam":33.3545,
