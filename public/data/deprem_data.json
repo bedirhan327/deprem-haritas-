@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2026.01.17",
+    "Saat":"00:48:37",
+    "Enlem":39.3252,
+    "Boylam":27.6582,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"YAGCILI-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"00:40:19",
+    "Enlem":39.3117,
+    "Boylam":27.6737,
+    "Derinlik":7.5,
+    "ML":"3.3",
+    "Yer":"GOKTAS-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"00:27:38",
+    "Enlem":39.1348,
+    "Boylam":28.2937,
+    "Derinlik":10.4,
+    "ML":"2.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"00:23:25",
+    "Enlem":38.4942,
+    "Boylam":37.554,
+    "Derinlik":20.2,
+    "ML":"1.2",
+    "Yer":"KARSIYAKA-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.16",
     "Saat":"22:54:27",
     "Enlem":38.3872,
