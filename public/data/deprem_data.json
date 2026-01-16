@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"19:47:09",
+    "Enlem":39.1875,
+    "Boylam":28.8845,
+    "Derinlik":10.4,
+    "ML":"0.9",
+    "Yer":"AKDAG-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:40:28",
+    "Enlem":38.7605,
+    "Boylam":27.7752,
+    "Derinlik":8.3,
+    "ML":"1.2",
+    "Yer":"SAZOBA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:38:12",
+    "Enlem":39.893,
+    "Boylam":26.0688,
+    "Derinlik":5.9,
+    "ML":"1.4",
+    "Yer":"BOZCAADA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:35:43",
+    "Enlem":39.1465,
+    "Boylam":28.1957,
+    "Derinlik":9.8,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"19:28:54",
     "Enlem":39.1657,
     "Boylam":28.2492,
