@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"13:19:44",
+    "Enlem":39.1535,
+    "Boylam":28.2995,
+    "Derinlik":13.0,
+    "ML":"2.8",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"13:19:01",
     "Enlem":38.1703,
     "Boylam":36.694,
     "Derinlik":5.0,
     "ML":"3.9",
     "Yer":"BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"13:11:52",
+    "Enlem":39.1357,
+    "Boylam":28.2958,
+    "Derinlik":10.6,
+    "ML":"1.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
