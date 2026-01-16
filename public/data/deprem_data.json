@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"09:53:27",
+    "Enlem":37.119,
+    "Boylam":35.6543,
+    "Derinlik":27.8,
+    "ML":"2.1",
+    "Yer":"ISIRGANLI-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"09:42:31",
+    "Enlem":39.0437,
+    "Boylam":25.9255,
+    "Derinlik":13.6,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"09:30:06",
+    "Enlem":38.3918,
+    "Boylam":30.2942,
+    "Derinlik":7.0,
+    "ML":"1.2",
+    "Yer":"AKIN-SANDIKLI (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"09:08:16",
+    "Enlem":40.645,
+    "Boylam":36.7502,
+    "Derinlik":22.4,
+    "ML":"1.7",
+    "Yer":"KUMBETLI-NIKSAR (TOKAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"08:11:19",
     "Enlem":36.3452,
     "Boylam":34.0287,
