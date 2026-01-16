@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"07:19:39",
+    "Enlem":39.0042,
+    "Boylam":25.9468,
+    "Derinlik":5.1,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"07:17:57",
+    "Enlem":39.1992,
+    "Boylam":28.1288,
+    "Derinlik":7.8,
+    "ML":"0.9",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"07:13:21",
+    "Enlem":39.0035,
+    "Boylam":25.9387,
+    "Derinlik":5.3,
+    "ML":"2.4",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"06:55:57",
+    "Enlem":37.8307,
+    "Boylam":36.7942,
+    "Derinlik":14.9,
+    "ML":"1.0",
+    "Yer":"AVCILAR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"06:21:28",
     "Enlem":39.1717,
     "Boylam":28.3047,
