@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"01:44:58",
+    "Enlem":39.305,
+    "Boylam":27.6987,
+    "Derinlik":7.9,
+    "ML":"1.7",
+    "Yer":"GOKTAS-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"01:33:14",
+    "Enlem":39.3145,
+    "Boylam":27.683,
+    "Derinlik":5.3,
+    "ML":"2.2",
+    "Yer":"GOKTAS-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"01:12:42",
     "Enlem":38.127,
     "Boylam":38.5632,
