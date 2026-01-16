@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"03:54:23",
+    "Enlem":38.0383,
+    "Boylam":37.693,
+    "Derinlik":15.2,
+    "ML":"1.0",
+    "Yer":"BEGRE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"03:49:27",
+    "Enlem":39.9722,
+    "Boylam":39.5053,
+    "Derinlik":8.7,
+    "ML":"1.8",
+    "Yer":"BALKAYA-KELKIT (GUMUSHANE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"03:05:25",
+    "Enlem":36.2137,
+    "Boylam":25.1885,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"03:01:47",
     "Enlem":39.2568,
     "Boylam":29.0358,
