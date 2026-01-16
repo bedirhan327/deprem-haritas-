@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"02:37:46",
+    "Enlem":40.295,
+    "Boylam":27.2205,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"GULEC-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"02:32:25",
+    "Enlem":39.1813,
+    "Boylam":28.1582,
+    "Derinlik":8.5,
+    "ML":"2.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"02:20:26",
+    "Enlem":37.9542,
+    "Boylam":30.1775,
+    "Derinlik":2.4,
+    "ML":"1.4",
+    "Yer":"KAPLANLI-KECIBORLU (ISPARTA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"02:16:23",
     "Enlem":39.0473,
     "Boylam":25.9617,
