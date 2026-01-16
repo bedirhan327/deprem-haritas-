@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"18:30:31",
+    "Enlem":38.3738,
+    "Boylam":26.5858,
+    "Derinlik":10.6,
+    "ML":"1.8",
+    "Yer":"KADIOVACIK-URLA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"18:13:14",
+    "Enlem":39.1978,
+    "Boylam":28.2905,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"18:01:44",
+    "Enlem":35.2755,
+    "Boylam":33.835,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KIBRIS-ISKELE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"17:54:37",
     "Enlem":39.2332,
     "Boylam":28.0937,
