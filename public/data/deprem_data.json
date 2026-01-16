@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"05:34:35",
+    "Enlem":39.1327,
+    "Boylam":28.283,
+    "Derinlik":10.1,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"05:28:10",
+    "Enlem":37.2287,
+    "Boylam":36.988,
+    "Derinlik":7.5,
+    "ML":"2.2",
+    "Yer":"SATIRHUYUK-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"05:24:46",
+    "Enlem":39.1528,
+    "Boylam":28.1635,
+    "Derinlik":11.6,
+    "ML":"2.0",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"05:18:47",
     "Enlem":39.1332,
     "Boylam":28.3043,
@@ -77,6 +107,16 @@
     "Derinlik":8.7,
     "ML":"1.8",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"04:44:27",
+    "Enlem":36.66,
+    "Boylam":25.6713,
+    "Derinlik":14.0,
+    "ML":"1.7",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
