@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"20:28:37",
+    "Enlem":40.2972,
+    "Boylam":24.1512,
+    "Derinlik":8.0,
+    "ML":"1.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:57:24",
+    "Enlem":40.2493,
+    "Boylam":24.056,
+    "Derinlik":6.9,
+    "ML":"2.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:53:25",
+    "Enlem":40.299,
+    "Boylam":24.06,
+    "Derinlik":13.5,
+    "ML":"1.7",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"19:47:09",
     "Enlem":39.1875,
     "Boylam":28.8845,
