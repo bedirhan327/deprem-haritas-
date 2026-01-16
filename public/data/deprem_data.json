@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"14:57:36",
+    "Enlem":36.1442,
+    "Boylam":33.5217,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"YANISLI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"14:56:40",
+    "Enlem":39.668,
+    "Boylam":38.837,
+    "Derinlik":7.5,
+    "ML":"2.1",
+    "Yer":"GEDIKTEPE-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"14:30:12",
+    "Enlem":36.6142,
+    "Boylam":28.9917,
+    "Derinlik":43.3,
+    "ML":"1.7",
+    "Yer":"FETHIYE KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"14:12:12",
+    "Enlem":36.6347,
+    "Boylam":28.257,
+    "Derinlik":42.0,
+    "ML":"2.4",
+    "Yer":"BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"14:08:46",
     "Enlem":36.5232,
     "Boylam":28.9765,
