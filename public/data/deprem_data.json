@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"11:21:58",
+    "Enlem":39.248,
+    "Boylam":29.024,
+    "Derinlik":10.3,
+    "ML":"1.4",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"11:18:15",
+    "Enlem":39.2458,
+    "Boylam":29.0135,
+    "Derinlik":10.1,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"11:12:18",
+    "Enlem":38.062,
+    "Boylam":37.7795,
+    "Derinlik":13.9,
+    "ML":"2.0",
+    "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"10:37:16",
+    "Enlem":40.611,
+    "Boylam":23.8858,
+    "Derinlik":11.6,
+    "ML":"1.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"10:02:04",
     "Enlem":39.2327,
     "Boylam":29.0713,
