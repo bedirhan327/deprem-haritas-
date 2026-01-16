@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"13:19:01",
+    "Enlem":38.1703,
+    "Boylam":36.694,
+    "Derinlik":5.0,
+    "ML":"3.9",
+    "Yer":"BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"13:05:07",
+    "Enlem":39.2323,
+    "Boylam":28.1488,
+    "Derinlik":8.7,
+    "ML":"2.1",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"12:03:21",
+    "Enlem":37.6423,
+    "Boylam":29.2577,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"SERINHISAR (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"12:01:53",
     "Enlem":39.1332,
     "Boylam":28.2532,
     "Derinlik":10.6,
     "ML":"1.8",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"11:59:42",
+    "Enlem":36.2315,
+    "Boylam":33.823,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"AKDERE-SILIFKE (MERSIN)",
     "Cozum":"�lksel"
   },
   {
