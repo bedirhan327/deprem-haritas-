@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"04:18:22",
+    "Enlem":38.9885,
+    "Boylam":25.9092,
+    "Derinlik":4.4,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"04:09:27",
+    "Enlem":38.3332,
+    "Boylam":38.8735,
+    "Derinlik":10.6,
+    "ML":"1.4",
+    "Yer":"AKCA-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"03:59:23",
+    "Enlem":39.189,
+    "Boylam":28.091,
+    "Derinlik":13.2,
+    "ML":"1.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"03:55:55",
+    "Enlem":38.0155,
+    "Boylam":37.7208,
+    "Derinlik":11.3,
+    "ML":"1.0",
+    "Yer":"KUCUKLU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"03:54:23",
     "Enlem":38.0383,
     "Boylam":37.693,
