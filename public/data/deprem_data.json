@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"22:43:00",
+    "Enlem":36.828,
+    "Boylam":28.0123,
+    "Derinlik":59.5,
+    "ML":"1.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"22:34:22",
+    "Enlem":39.2605,
+    "Boylam":28.99,
+    "Derinlik":9.3,
+    "ML":"1.6",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"21:54:26",
     "Enlem":39.027,
     "Boylam":25.8627,
@@ -117,6 +137,16 @@
     "Derinlik":10.4,
     "ML":"0.9",
     "Yer":"AKDAG-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:45:01",
+    "Enlem":38.3992,
+    "Boylam":25.3618,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
