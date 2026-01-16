@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"14:08:46",
+    "Enlem":36.5232,
+    "Boylam":28.9765,
+    "Derinlik":24.7,
+    "ML":"2.5",
+    "Yer":"OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"14:07:00",
+    "Enlem":39.2132,
+    "Boylam":27.956,
+    "Derinlik":8.9,
+    "ML":"1.4",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"14:00:41",
     "Enlem":37.015,
     "Boylam":36.2885,
