@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"07:47:51",
+    "Enlem":38.703,
+    "Boylam":31.3552,
+    "Derinlik":6.7,
+    "ML":"1.5",
+    "Yer":"CUKURCAK-SULTANDAGI (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"07:38:06",
+    "Enlem":36.5193,
+    "Boylam":28.9588,
+    "Derinlik":14.7,
+    "ML":"2.2",
+    "Yer":"OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"07:19:39",
     "Enlem":39.0042,
     "Boylam":25.9468,
