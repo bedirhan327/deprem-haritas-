@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"16:23:03",
+    "Enlem":38.0335,
+    "Boylam":37.4723,
+    "Derinlik":10.9,
+    "ML":"1.2",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"16:18:45",
+    "Enlem":39.3593,
+    "Boylam":40.6837,
+    "Derinlik":10.0,
+    "ML":"1.7",
+    "Yer":"DINARBEY-YEDISU (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"16:13:58",
+    "Enlem":38.3868,
+    "Boylam":25.3275,
+    "Derinlik":6.1,
+    "ML":"2.3",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"16:07:18",
+    "Enlem":39.1192,
+    "Boylam":28.326,
+    "Derinlik":11.7,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"15:58:59",
+    "Enlem":39.2373,
+    "Boylam":28.1832,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"15:54:30",
+    "Enlem":39.2378,
+    "Boylam":28.1192,
+    "Derinlik":6.8,
+    "ML":"1.7",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"15:22:55",
     "Enlem":38.614,
     "Boylam":28.0087,
@@ -141,12 +201,32 @@
   },
   {
     "Tarih":"2026.01.16",
+    "Saat":"12:32:15",
+    "Enlem":38.2732,
+    "Boylam":38.1543,
+    "Derinlik":0.0,
+    "ML":"1.3",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"12:27:57",
     "Enlem":39.1533,
     "Boylam":27.63,
     "Derinlik":17.3,
     "ML":"1.5",
     "Yer":"SARIKAYA-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"12:26:34",
+    "Enlem":38.1877,
+    "Boylam":38.1352,
+    "Derinlik":5.6,
+    "ML":"1.5",
+    "Yer":"OLUKLU-YESILYURT (MALATYA)",
     "Cozum":"�lksel"
   },
   {
