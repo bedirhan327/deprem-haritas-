@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"12:30:10",
+    "Enlem":38.3018,
+    "Boylam":38.0985,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"AYDINLAR-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"12:18:28",
+    "Enlem":40.1877,
+    "Boylam":31.7445,
+    "Derinlik":7.4,
+    "ML":"2.4",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"12:09:55",
     "Enlem":39.1005,
     "Boylam":28.2677,
