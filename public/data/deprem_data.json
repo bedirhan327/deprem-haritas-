@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"22:00:52",
+    "Enlem":37.2133,
+    "Boylam":28.4815,
+    "Derinlik":5.0,
+    "ML":"0.9",
+    "Yer":"OZLUCE-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"21:35:25",
+    "Enlem":39.1667,
+    "Boylam":28.2007,
+    "Derinlik":15.6,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"21:35:00",
     "Enlem":39.097,
     "Boylam":28.2717,
