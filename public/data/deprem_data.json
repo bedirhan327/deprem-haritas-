@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"21:35:00",
+    "Enlem":39.097,
+    "Boylam":28.2717,
+    "Derinlik":16.4,
+    "ML":"2.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"20:57:23",
     "Enlem":38.2617,
     "Boylam":37.8,
     "Derinlik":5.0,
     "ML":"2.6",
     "Yer":"ORTAKOY-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"20:40:58",
+    "Enlem":39.7373,
+    "Boylam":41.7423,
+    "Derinlik":23.5,
+    "ML":"1.0",
+    "Yer":"YUKARIKIZILKALE-KOPRUKOY (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"20:38:59",
+    "Enlem":38.8045,
+    "Boylam":31.354,
+    "Derinlik":17.5,
+    "ML":"1.0",
+    "Yer":"BUYUKKARABAG-BOLVADIN (AFYONKARAHISAR)",
     "Cozum":"�lksel"
   },
   {
