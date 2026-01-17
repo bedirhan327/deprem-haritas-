@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"04:05:14",
+    "Enlem":38.0883,
+    "Boylam":36.5375,
+    "Derinlik":4.5,
+    "ML":"1.3",
+    "Yer":"ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"04:02:43",
+    "Enlem":38.8348,
+    "Boylam":37.4102,
+    "Derinlik":10.6,
+    "ML":"1.3",
+    "Yer":"KULAHLI-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"03:32:56",
     "Enlem":39.4558,
     "Boylam":38.5353,
