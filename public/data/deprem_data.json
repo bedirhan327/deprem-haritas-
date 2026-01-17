@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"23:06:47",
+    "Enlem":38.5942,
+    "Boylam":31.8357,
+    "Derinlik":5.6,
+    "ML":"1.5",
+    "Yer":"TURGUT-YUNAK (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"22:58:38",
+    "Enlem":39.2337,
+    "Boylam":29.0232,
+    "Derinlik":7.1,
+    "ML":"2.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"22:54:55",
+    "Enlem":39.2297,
+    "Boylam":29.061,
+    "Derinlik":9.8,
+    "ML":"1.5",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"22:36:29",
+    "Enlem":38.3165,
+    "Boylam":44.5112,
+    "Derinlik":9.7,
+    "ML":"2.1",
+    "Yer":"TURKIYE-IRAN SINIR BOLGESI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"22:10:43",
     "Enlem":39.2333,
     "Boylam":28.9893,
