@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"17:12:37",
+    "Enlem":38.0387,
+    "Boylam":35.4195,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"KUZOLUK-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"17:07:19",
+    "Enlem":38.1118,
+    "Boylam":36.6103,
+    "Derinlik":6.1,
+    "ML":"1.6",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"13:04:09",
     "Enlem":39.1472,
     "Boylam":28.2953,
