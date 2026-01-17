@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"00:42:24",
+    "Enlem":39.1663,
+    "Boylam":28.1948,
+    "Derinlik":16.0,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"00:35:17",
+    "Enlem":39.1153,
+    "Boylam":28.0857,
+    "Derinlik":13.6,
+    "ML":"1.4",
+    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"00:23:59",
+    "Enlem":39.1142,
+    "Boylam":28.3003,
+    "Derinlik":11.2,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"00:02:09",
     "Enlem":39.1573,
     "Boylam":28.2895,
