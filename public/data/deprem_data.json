@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"04:43:12",
+    "Enlem":38.4535,
+    "Boylam":37.5477,
+    "Derinlik":10.6,
+    "ML":"1.0",
+    "Yer":"YENICE-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"04:12:08",
+    "Enlem":40.3338,
+    "Boylam":24.173,
+    "Derinlik":5.1,
+    "ML":"1.7",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"04:05:14",
     "Enlem":38.0883,
     "Boylam":36.5375,
