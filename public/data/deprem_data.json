@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"01:32:50",
+    "Enlem":40.3285,
+    "Boylam":24.0178,
+    "Derinlik":16.5,
+    "ML":"2.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"01:29:02",
+    "Enlem":36.8523,
+    "Boylam":30.6208,
+    "Derinlik":7.6,
+    "ML":"2.8",
+    "Yer":"KONYAALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"01:26:28",
+    "Enlem":40.3493,
+    "Boylam":24.1153,
+    "Derinlik":9.9,
+    "ML":"1.9",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"00:50:13",
     "Enlem":38.5213,
     "Boylam":39.1275,
