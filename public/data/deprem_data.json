@@ -41,6 +41,26 @@
   },
   {
     "Tarih":"2026.01.17",
+    "Saat":"16:04:35",
+    "Enlem":39.0555,
+    "Boylam":28.3447,
+    "Derinlik":14.0,
+    "ML":"1.0",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"15:36:39",
+    "Enlem":38.3748,
+    "Boylam":38.9605,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"YUREKKAYA-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"13:04:09",
     "Enlem":39.1472,
     "Boylam":28.2953,
