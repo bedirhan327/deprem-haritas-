@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.01.18",
+    "Saat":"00:02:09",
+    "Enlem":39.1573,
+    "Boylam":28.2895,
+    "Derinlik":8.1,
+    "ML":"2.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"00:00:24",
+    "Enlem":38.065,
+    "Boylam":37.5367,
+    "Derinlik":4.4,
+    "ML":"1.5",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"23:56:20",
+    "Enlem":37.0755,
+    "Boylam":28.4048,
+    "Derinlik":14.2,
+    "ML":"1.2",
+    "Yer":"YESILOVA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.17",
     "Saat":"23:54:19",
     "Enlem":38.4178,
