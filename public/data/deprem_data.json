@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"08:37:42",
+    "Enlem":39.242,
+    "Boylam":28.0185,
+    "Derinlik":8.4,
+    "ML":"1.6",
+    "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"08:31:29",
+    "Enlem":39.2863,
+    "Boylam":28.8822,
+    "Derinlik":19.0,
+    "ML":"1.1",
+    "Yer":"KAYALIDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"08:24:44",
     "Enlem":38.108,
     "Boylam":36.6088,
