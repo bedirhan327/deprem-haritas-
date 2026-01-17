@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"08:24:44",
+    "Enlem":38.108,
+    "Boylam":36.6088,
+    "Derinlik":5.6,
+    "ML":"1.8",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"08:12:23",
+    "Enlem":37.4812,
+    "Boylam":35.5293,
+    "Derinlik":16.0,
+    "ML":"1.7",
+    "Yer":"DOGANALANI-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"08:01:19",
+    "Enlem":39.2407,
+    "Boylam":28.9763,
+    "Derinlik":5.5,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"07:59:47",
+    "Enlem":39.2587,
+    "Boylam":28.9995,
+    "Derinlik":3.2,
+    "ML":"1.9",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"07:23:47",
     "Enlem":39.2328,
     "Boylam":28.9845,
