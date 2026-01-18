@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"06:52:13",
+    "Enlem":39.3412,
+    "Boylam":27.695,
+    "Derinlik":11.8,
+    "ML":"1.5",
+    "Yer":"YAGCILI-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"06:48:27",
+    "Enlem":39.209,
+    "Boylam":28.1597,
+    "Derinlik":9.7,
+    "ML":"1.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"06:27:44",
     "Enlem":39.0292,
     "Boylam":25.9275,
