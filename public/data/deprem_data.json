@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"16:48:28",
+    "Enlem":38.4433,
+    "Boylam":38.0153,
+    "Derinlik":15.7,
+    "ML":"1.4",
+    "Yer":"KARAMAGARA-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"15:17:06",
     "Enlem":41.0252,
     "Boylam":33.5218,
@@ -157,6 +167,46 @@
     "Derinlik":1.1,
     "ML":"2.1",
     "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"12:20:29",
+    "Enlem":37.9415,
+    "Boylam":42.0335,
+    "Derinlik":6.6,
+    "ML":"1.7",
+    "Yer":"AYDINLAR (SIIRT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"12:06:42",
+    "Enlem":39.2495,
+    "Boylam":29.0293,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"12:02:15",
+    "Enlem":41.8482,
+    "Boylam":25.6192,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"BULGARISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"11:41:44",
+    "Enlem":39.2917,
+    "Boylam":32.9547,
+    "Derinlik":8.0,
+    "ML":"1.2",
+    "Yer":"AKVIRANCARSAK-BALA (ANKARA)",
     "Cozum":"�lksel"
   },
   {
