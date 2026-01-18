@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"14:12:25",
+    "Enlem":39.1687,
+    "Boylam":28.1672,
+    "Derinlik":10.6,
+    "ML":"2.6",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"14:09:30",
+    "Enlem":38.254,
+    "Boylam":38.6375,
+    "Derinlik":7.7,
+    "ML":"1.4",
+    "Yer":"KAVAKLIDERE-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"14:01:41",
+    "Enlem":34.3375,
+    "Boylam":35.9418,
+    "Derinlik":5.0,
+    "ML":"3.4",
+    "Yer":"DOGU AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"13:06:23",
+    "Enlem":37.7538,
+    "Boylam":36.5948,
+    "Derinlik":10.3,
+    "ML":"1.9",
+    "Yer":"AKGUMUS-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"13:05:38",
     "Enlem":39.2553,
     "Boylam":29.0287,
