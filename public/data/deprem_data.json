@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"15:17:06",
+    "Enlem":41.0252,
+    "Boylam":33.5218,
+    "Derinlik":7.5,
+    "ML":"2.1",
+    "Yer":"BALCI-ILGAZ (CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"14:49:15",
+    "Enlem":39.5468,
+    "Boylam":39.365,
+    "Derinlik":12.8,
+    "ML":"1.7",
+    "Yer":"SARIYAZI-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"14:43:50",
+    "Enlem":39.4023,
+    "Boylam":28.4608,
+    "Derinlik":14.0,
+    "ML":"1.4",
+    "Yer":"YUKARIGOCEK-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"14:29:17",
+    "Enlem":38.5073,
+    "Boylam":38.005,
+    "Derinlik":4.7,
+    "ML":"1.7",
+    "Yer":"KADIIBRAHIM-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"14:12:25",
     "Enlem":39.1687,
     "Boylam":28.1672,
