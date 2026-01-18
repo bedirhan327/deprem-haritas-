@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"05:27:05",
+    "Enlem":39.1143,
+    "Boylam":28.3493,
+    "Derinlik":9.1,
+    "ML":"1.2",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"05:18:38",
+    "Enlem":37.5852,
+    "Boylam":27.1848,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"DOGANBEY-SOKE (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"05:15:21",
     "Enlem":39.1947,
     "Boylam":28.0645,
