@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"20:05:23",
+    "Enlem":39.5193,
+    "Boylam":28.1085,
+    "Derinlik":5.2,
+    "ML":"0.9",
+    "Yer":"YENIKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"20:01:36",
+    "Enlem":39.5083,
+    "Boylam":28.0728,
+    "Derinlik":11.7,
+    "ML":"2.1",
+    "Yer":"GUVEMCETMI-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"19:53:21",
+    "Enlem":40.8218,
+    "Boylam":27.818,
+    "Derinlik":10.1,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"19:42:24",
     "Enlem":39.1717,
     "Boylam":28.0828,
