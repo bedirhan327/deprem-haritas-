@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"09:23:14",
+    "Enlem":37.0575,
+    "Boylam":36.0617,
+    "Derinlik":12.8,
+    "ML":"2.5",
+    "Yer":"LALEGOLU-TOPRAKKALE (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"09:22:48",
+    "Enlem":40.83,
+    "Boylam":31.5418,
+    "Derinlik":5.1,
+    "ML":"1.7",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"09:01:12",
     "Enlem":37.6152,
     "Boylam":36.1423,
