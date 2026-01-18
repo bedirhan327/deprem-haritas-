@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"07:29:29",
+    "Enlem":37.8483,
+    "Boylam":36.3125,
+    "Derinlik":4.3,
+    "ML":"1.7",
+    "Yer":"PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"07:24:53",
+    "Enlem":38.7243,
+    "Boylam":27.062,
+    "Derinlik":1.7,
+    "ML":"1.7",
+    "Yer":"HATUNDERE-MENEMEN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"06:52:13",
     "Enlem":39.3412,
     "Boylam":27.695,
