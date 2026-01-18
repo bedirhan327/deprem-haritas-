@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"18:18:34",
+    "Enlem":37.6752,
+    "Boylam":36.1108,
+    "Derinlik":22.3,
+    "ML":"1.4",
+    "Yer":"ESENLI-SUMBAS (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"18:17:15",
+    "Enlem":39.162,
+    "Boylam":28.209,
+    "Derinlik":11.8,
+    "ML":"2.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"17:44:47",
     "Enlem":38.8515,
     "Boylam":38.1552,
     "Derinlik":25.8,
     "ML":"1.1",
     "Yer":"ARMUTLU-ARGUVAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"17:43:13",
+    "Enlem":40.803,
+    "Boylam":30.997,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"ICMELER-GOLYAKA (DUZCE)",
     "Cozum":"�lksel"
   },
   {
