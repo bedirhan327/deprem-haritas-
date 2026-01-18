@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"03:15:04",
+    "Enlem":39.0145,
+    "Boylam":25.915,
+    "Derinlik":2.1,
+    "ML":"3.3",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"03:11:48",
+    "Enlem":37.4403,
+    "Boylam":37.1765,
+    "Derinlik":10.8,
+    "ML":"1.6",
+    "Yer":"ESKINARLI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"03:07:53",
+    "Enlem":37.1747,
+    "Boylam":35.8492,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"INCEYER-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"03:04:37",
+    "Enlem":39.2095,
+    "Boylam":28.098,
+    "Derinlik":7.2,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"03:00:48",
+    "Enlem":39.2318,
+    "Boylam":29.0067,
+    "Derinlik":9.2,
+    "ML":"1.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"02:43:46",
     "Enlem":39.1737,
     "Boylam":28.2558,
