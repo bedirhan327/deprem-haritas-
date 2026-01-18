@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"12:20:57",
+    "Enlem":38.2922,
+    "Boylam":37.7648,
+    "Derinlik":1.1,
+    "ML":"2.1",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"11:36:18",
+    "Enlem":37.5748,
+    "Boylam":37.2637,
+    "Derinlik":11.3,
+    "ML":"1.6",
+    "Yer":"CAMLICA-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"10:37:05",
     "Enlem":38.9775,
     "Boylam":25.9278,
