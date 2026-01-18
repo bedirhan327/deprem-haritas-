@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"06:27:44",
+    "Enlem":39.0292,
+    "Boylam":25.9275,
+    "Derinlik":5.2,
+    "ML":"3.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"06:17:40",
+    "Enlem":37.8258,
+    "Boylam":36.2825,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"05:57:26",
     "Enlem":39.117,
     "Boylam":28.063,
