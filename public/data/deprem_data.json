@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"19:42:24",
+    "Enlem":39.1717,
+    "Boylam":28.0828,
+    "Derinlik":9.2,
+    "ML":"1.8",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"19:36:45",
+    "Enlem":37.1442,
+    "Boylam":36.12,
+    "Derinlik":13.9,
+    "ML":"1.9",
+    "Yer":"KIRMITLI-(OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"19:33:51",
+    "Enlem":39.5213,
+    "Boylam":28.1058,
+    "Derinlik":10.1,
+    "ML":"2.1",
+    "Yer":"YENIKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"19:32:18",
+    "Enlem":40.6845,
+    "Boylam":29.1208,
+    "Derinlik":9.8,
+    "ML":"1.8",
+    "Yer":"CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"18:55:52",
     "Enlem":38.454,
     "Boylam":37.9953,
