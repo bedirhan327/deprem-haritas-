@@ -71,6 +71,26 @@
   },
   {
     "Tarih":"2026.01.18",
+    "Saat":"13:39:00",
+    "Enlem":39.0773,
+    "Boylam":25.9225,
+    "Derinlik":21.4,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"13:34:28",
+    "Enlem":38.1247,
+    "Boylam":38.5748,
+    "Derinlik":10.9,
+    "ML":"1.5",
+    "Yer":"ARIKONAK-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"13:06:23",
     "Enlem":37.7538,
     "Boylam":36.5948,
@@ -107,6 +127,16 @@
     "Derinlik":9.1,
     "ML":"1.8",
     "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"12:36:29",
+    "Enlem":39.2373,
+    "Boylam":29.0658,
+    "Derinlik":2.9,
+    "ML":"0.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
