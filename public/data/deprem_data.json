@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"12:36:28",
+    "Enlem":37.3248,
+    "Boylam":28.4233,
+    "Derinlik":16.6,
+    "ML":"1.2",
+    "Yer":"SENYAYLA-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"12:30:31",
+    "Enlem":38.1555,
+    "Boylam":38.5617,
+    "Derinlik":11.8,
+    "ML":"1.6",
+    "Yer":"ULUKOY-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"11:02:06",
     "Enlem":38.8485,
     "Boylam":40.8587,
