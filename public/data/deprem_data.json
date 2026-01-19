@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"07:04:12",
+    "Enlem":36.2523,
+    "Boylam":36.1872,
+    "Derinlik":3.5,
+    "ML":"1.9",
+    "Yer":"GUZELBURC-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"06:54:48",
+    "Enlem":40.8323,
+    "Boylam":28.289,
+    "Derinlik":22.4,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"06:53:39",
+    "Enlem":39.2197,
+    "Boylam":28.1108,
+    "Derinlik":4.4,
+    "ML":"1.4",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"05:44:25",
     "Enlem":39.1733,
     "Boylam":28.2203,
