@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"11:02:06",
+    "Enlem":38.8485,
+    "Boylam":40.8587,
+    "Derinlik":2.5,
+    "ML":"1.5",
+    "Yer":"BOZKANAT-SOLHAN (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"11:01:20",
+    "Enlem":38.9985,
+    "Boylam":28.3377,
+    "Derinlik":16.8,
+    "ML":"0.8",
+    "Yer":"GULPINAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"11:00:37",
+    "Enlem":38.078,
+    "Boylam":38.5053,
+    "Derinlik":5.1,
+    "ML":"1.5",
+    "Yer":"KARAKOSE-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"10:56:31",
+    "Enlem":38.5593,
+    "Boylam":37.4447,
+    "Derinlik":2.3,
+    "ML":"1.0",
+    "Yer":"GUNPINAR-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"10:31:46",
     "Enlem":36.4153,
     "Boylam":28.0472,
