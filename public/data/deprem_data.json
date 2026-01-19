@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"15:32:43",
+    "Enlem":40.7875,
+    "Boylam":31.5658,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"PIRAHMETLER-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"15:00:40",
+    "Enlem":37.067,
+    "Boylam":28.8342,
+    "Derinlik":17.8,
+    "ML":"1.3",
+    "Yer":"YAYLA-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"14:37:38",
     "Enlem":36.2712,
     "Boylam":28.759,
