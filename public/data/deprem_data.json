@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"04:12:39",
+    "Enlem":39.9547,
+    "Boylam":26.008,
+    "Derinlik":7.2,
+    "ML":"1.7",
+    "Yer":"UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"04:10:40",
+    "Enlem":39.3507,
+    "Boylam":40.7207,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"KAYNARPINAR-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"03:10:00",
     "Enlem":39.2242,
     "Boylam":28.155,
