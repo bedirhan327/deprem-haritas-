@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"14:37:38",
+    "Enlem":36.2712,
+    "Boylam":28.759,
+    "Derinlik":16.3,
+    "ML":"2.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"14:17:25",
+    "Enlem":40.5643,
+    "Boylam":35.7315,
+    "Derinlik":4.9,
+    "ML":"1.9",
+    "Yer":"KAYABASI-(AMASYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"13:59:34",
     "Enlem":35.3573,
     "Boylam":32.1887,
