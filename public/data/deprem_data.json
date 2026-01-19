@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"13:06:43",
+    "Enlem":35.3452,
+    "Boylam":33.4512,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"12:59:33",
+    "Enlem":39.2537,
+    "Boylam":29.0258,
+    "Derinlik":7.1,
+    "ML":"1.2",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"12:36:28",
     "Enlem":37.3248,
     "Boylam":28.4233,
