@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2026.01.20",
+    "Saat":"23:35:38",
+    "Enlem":39.5997,
+    "Boylam":34.4918,
+    "Derinlik":12.3,
+    "ML":"1.6",
+    "Yer":"MERKEZ-YERKOY (YOZGAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"23:23:46",
     "Enlem":37.8058,
     "Boylam":26.9925,
@@ -67,6 +77,16 @@
     "Derinlik":6.6,
     "ML":"1.7",
     "Yer":"ACIELMA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"22:28:55",
+    "Enlem":39.5767,
+    "Boylam":34.47,
+    "Derinlik":7.4,
+    "ML":"1.7",
+    "Yer":"BARAKLI-CICEKDAGI (KIRSEHIR)",
     "Cozum":"�lksel"
   },
   {
