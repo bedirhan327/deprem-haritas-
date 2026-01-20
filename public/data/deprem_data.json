@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"15:28:58",
+    "Enlem":38.797,
+    "Boylam":28.6485,
+    "Derinlik":28.4,
+    "ML":"1.3",
+    "Yer":"GUMELE-DEMIRCI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"15:02:33",
     "Enlem":39.0317,
     "Boylam":26.005,
     "Derinlik":9.4,
     "ML":"2.4",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"14:49:34",
+    "Enlem":37.341,
+    "Boylam":37.0477,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
