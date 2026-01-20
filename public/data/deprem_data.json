@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"13:48:15",
+    "Enlem":38.191,
+    "Boylam":36.9068,
+    "Derinlik":4.1,
+    "ML":"1.8",
+    "Yer":"HUYUKLU-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"13:47:30",
+    "Enlem":35.2368,
+    "Boylam":33.5542,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"13:10:35",
     "Enlem":39.5243,
     "Boylam":27.686,
@@ -11,12 +31,32 @@
   },
   {
     "Tarih":"2026.01.20",
+    "Saat":"13:08:43",
+    "Enlem":40.3612,
+    "Boylam":24.0842,
+    "Derinlik":11.6,
+    "ML":"2.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"13:04:05",
     "Enlem":38.2898,
     "Boylam":38.1867,
     "Derinlik":19.7,
     "ML":"1.4",
     "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"12:38:50",
+    "Enlem":36.2047,
+    "Boylam":29.0407,
+    "Derinlik":24.5,
+    "ML":"1.6",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
