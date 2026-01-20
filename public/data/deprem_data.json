@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"16:13:28",
+    "Enlem":38.2903,
+    "Boylam":38.2453,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"16:06:34",
+    "Enlem":39.1433,
+    "Boylam":28.1843,
+    "Derinlik":19.7,
+    "ML":"0.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"16:03:39",
+    "Enlem":39.8263,
+    "Boylam":28.697,
+    "Derinlik":5.3,
+    "ML":"1.9",
+    "Yer":"ASAGIBALI-MUSTAFAKEMALPASA (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"15:28:58",
     "Enlem":38.797,
     "Boylam":28.6485,
