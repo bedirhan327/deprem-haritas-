@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"18:03:08",
+    "Enlem":39.4675,
+    "Boylam":28.153,
+    "Derinlik":6.9,
+    "ML":"1.6",
+    "Yer":"ISKELE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"18:01:14",
+    "Enlem":40.6812,
+    "Boylam":32.9827,
+    "Derinlik":5.9,
+    "ML":"2.5",
+    "Yer":"HACILAR-CERKES (CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"17:58:35",
+    "Enlem":36.3265,
+    "Boylam":28.7185,
+    "Derinlik":20.9,
+    "ML":"2.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"17:46:28",
     "Enlem":39.1997,
     "Boylam":28.2078,
