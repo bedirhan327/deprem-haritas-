@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"23:41:18",
+    "Enlem":38.2928,
+    "Boylam":38.7958,
+    "Derinlik":11.0,
+    "ML":"1.7",
+    "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"23:23:46",
+    "Enlem":37.8058,
+    "Boylam":26.9925,
+    "Derinlik":5.5,
+    "ML":"2.1",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"23:14:47",
     "Enlem":38.1953,
     "Boylam":37.8392,
