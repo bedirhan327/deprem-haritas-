@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"23:14:47",
+    "Enlem":38.1953,
+    "Boylam":37.8392,
+    "Derinlik":17.5,
+    "ML":"0.9",
+    "Yer":"DEDEYAZI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"23:04:08",
+    "Enlem":38.0403,
+    "Boylam":37.6703,
+    "Derinlik":2.9,
+    "ML":"1.8",
+    "Yer":"BEGRE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"22:58:03",
+    "Enlem":38.6023,
+    "Boylam":30.8805,
+    "Derinlik":8.2,
+    "ML":"1.4",
+    "Yer":"MALTEPE-CAY (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"22:35:49",
     "Enlem":38.0237,
     "Boylam":37.7107,
