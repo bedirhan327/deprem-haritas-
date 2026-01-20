@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"13:10:35",
+    "Enlem":39.5243,
+    "Boylam":27.686,
+    "Derinlik":4.8,
+    "ML":"1.2",
+    "Yer":"YUNAKDERE-SAVASTEPE (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"13:04:05",
+    "Enlem":38.2898,
+    "Boylam":38.1867,
+    "Derinlik":19.7,
+    "ML":"1.4",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"12:36:50",
     "Enlem":37.1332,
     "Boylam":27.9622,
