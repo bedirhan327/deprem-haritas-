@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"01:07:43",
+    "Enlem":38.7562,
+    "Boylam":26.0093,
+    "Derinlik":14.2,
+    "ML":"2.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"01:01:14",
+    "Enlem":40.9487,
+    "Boylam":31.675,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"YAYLATEPE-YIGILCA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"00:42:06",
     "Enlem":39.2515,
     "Boylam":28.9852,
