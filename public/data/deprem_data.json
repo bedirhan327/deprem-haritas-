@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"21:10:08",
+    "Enlem":40.5777,
+    "Boylam":27.7402,
+    "Derinlik":6.4,
+    "ML":"2.1",
+    "Yer":"ASMALI-MARMARA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"20:57:08",
+    "Enlem":39.3545,
+    "Boylam":40.9008,
+    "Derinlik":12.6,
+    "ML":"1.2",
+    "Yer":"KAZANLI-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"20:24:56",
     "Enlem":38.3807,
     "Boylam":37.408,
