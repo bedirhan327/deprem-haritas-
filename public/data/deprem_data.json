@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"12:18:38",
+    "Enlem":35.7023,
+    "Boylam":29.0328,
+    "Derinlik":16.8,
+    "ML":"2.5",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"12:09:18",
+    "Enlem":39.888,
+    "Boylam":26.279,
+    "Derinlik":4.9,
+    "ML":"1.6",
+    "Yer":"PINARBASI-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"12:03:48",
+    "Enlem":37.1922,
+    "Boylam":27.898,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"KAYADERE-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"11:54:43",
+    "Enlem":39.144,
+    "Boylam":28.2205,
+    "Derinlik":18.9,
+    "ML":"1.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"11:35:57",
     "Enlem":39.2232,
     "Boylam":27.6687,
