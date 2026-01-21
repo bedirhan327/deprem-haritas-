@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"18:20:53",
+    "Enlem":39.13,
+    "Boylam":28.3437,
+    "Derinlik":10.1,
+    "ML":"2.1",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"18:17:51",
+    "Enlem":39.118,
+    "Boylam":28.3138,
+    "Derinlik":12.6,
+    "ML":"2.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"18:11:49",
+    "Enlem":39.1558,
+    "Boylam":28.2978,
+    "Derinlik":5.4,
+    "ML":"4.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"18:06:13",
+    "Enlem":38.251,
+    "Boylam":37.7265,
+    "Derinlik":2.1,
+    "ML":"2.4",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"17:55:03",
+    "Enlem":36.946,
+    "Boylam":28.926,
+    "Derinlik":6.7,
+    "ML":"3.4",
+    "Yer":"AKKOPRU-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"16:59:43",
     "Enlem":38.029,
     "Boylam":37.536,
