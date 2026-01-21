@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"09:54:42",
+    "Enlem":38.587,
+    "Boylam":30.8912,
+    "Derinlik":14.6,
+    "ML":"0.8",
+    "Yer":"MALTEPE-CAY (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"09:30:56",
+    "Enlem":39.2303,
+    "Boylam":28.094,
+    "Derinlik":11.5,
+    "ML":"1.2",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"09:21:04",
+    "Enlem":39.2858,
+    "Boylam":28.1195,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"KARAAGAC-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"09:10:22",
+    "Enlem":37.3255,
+    "Boylam":36.8468,
+    "Derinlik":5.1,
+    "ML":"1.7",
+    "Yer":"MINEHUYUK-TURKOGLU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"09:07:45",
+    "Enlem":40.3095,
+    "Boylam":24.1823,
+    "Derinlik":8.0,
+    "ML":"3.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"08:35:55",
     "Enlem":39.7465,
     "Boylam":27.5893,
