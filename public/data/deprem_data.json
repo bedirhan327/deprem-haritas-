@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"02:48:44",
+    "Enlem":36.7145,
+    "Boylam":26.3052,
+    "Derinlik":8.1,
+    "ML":"3.3",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"02:37:51",
+    "Enlem":39.264,
+    "Boylam":28.9703,
+    "Derinlik":9.5,
+    "ML":"2.1",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"02:33:41",
+    "Enlem":39.1988,
+    "Boylam":28.0947,
+    "Derinlik":10.6,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"01:48:42",
     "Enlem":39.2307,
     "Boylam":28.0607,
