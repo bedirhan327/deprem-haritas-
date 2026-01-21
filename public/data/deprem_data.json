@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"16:28:27",
+    "Enlem":39.1758,
+    "Boylam":28.215,
+    "Derinlik":6.9,
+    "ML":"3.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"16:15:41",
+    "Enlem":36.6355,
+    "Boylam":34.1047,
+    "Derinlik":8.0,
+    "ML":"2.8",
+    "Yer":"VEYSELLI-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"16:14:42",
     "Enlem":37.6183,
     "Boylam":36.2935,
