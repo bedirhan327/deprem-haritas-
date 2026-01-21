@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"16:59:43",
+    "Enlem":38.029,
+    "Boylam":37.536,
+    "Derinlik":14.8,
+    "ML":"1.1",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"16:48:55",
+    "Enlem":36.4378,
+    "Boylam":28.726,
+    "Derinlik":9.1,
+    "ML":"2.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"16:28:27",
     "Enlem":39.1758,
     "Boylam":28.215,
