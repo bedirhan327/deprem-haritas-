@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"13:14:10",
+    "Enlem":39.1195,
+    "Boylam":28.3343,
+    "Derinlik":10.2,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"13:04:50",
+    "Enlem":39.9285,
+    "Boylam":26.2853,
+    "Derinlik":3.3,
+    "ML":"1.1",
+    "Yer":"TASTEPE-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"12:59:10",
+    "Enlem":37.9922,
+    "Boylam":36.1823,
+    "Derinlik":13.1,
+    "ML":"1.0",
+    "Yer":"YENIKOY-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"12:52:52",
+    "Enlem":39.4047,
+    "Boylam":28.1073,
+    "Derinlik":18.7,
+    "ML":"1.2",
+    "Yer":"BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"12:37:45",
+    "Enlem":37.18,
+    "Boylam":27.773,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"ALACAM-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"12:25:37",
     "Enlem":38.2913,
     "Boylam":38.1793,
