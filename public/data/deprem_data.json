@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"00:52:18",
+    "Enlem":39.1515,
+    "Boylam":28.316,
+    "Derinlik":12.1,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:48:48",
+    "Enlem":39.1177,
+    "Boylam":28.317,
+    "Derinlik":12.5,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:47:58",
+    "Enlem":39.1487,
+    "Boylam":28.2992,
+    "Derinlik":10.5,
+    "ML":"2.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:45:28",
+    "Enlem":39.1588,
+    "Boylam":28.2848,
+    "Derinlik":11.9,
+    "ML":"3.3",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:31:57",
+    "Enlem":39.15,
+    "Boylam":28.2958,
+    "Derinlik":10.8,
+    "ML":"2.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:30:59",
+    "Enlem":36.1635,
+    "Boylam":27.6798,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"RODOS ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:23:54",
+    "Enlem":39.2165,
+    "Boylam":28.2017,
+    "Derinlik":16.8,
+    "ML":"1.5",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"00:20:34",
     "Enlem":39.1255,
     "Boylam":28.3227,
