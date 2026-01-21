@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"04:01:48",
+    "Enlem":38.9753,
+    "Boylam":40.4937,
+    "Derinlik":5.0,
+    "ML":"3.3",
+    "Yer":"CUKURCA-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"03:59:38",
+    "Enlem":37.8887,
+    "Boylam":36.2985,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"02:48:44",
     "Enlem":36.7145,
     "Boylam":26.3052,
