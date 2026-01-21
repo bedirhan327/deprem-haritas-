@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"11:35:29",
+    "Enlem":38.131,
+    "Boylam":36.6385,
+    "Derinlik":17.1,
+    "ML":"1.2",
+    "Yer":"YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"11:34:39",
+    "Enlem":40.6962,
+    "Boylam":29.1632,
+    "Derinlik":10.3,
+    "ML":"2.3",
+    "Yer":"KORU-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"11:29:31",
+    "Enlem":39.202,
+    "Boylam":28.1008,
+    "Derinlik":7.8,
+    "ML":"2.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"11:07:10",
     "Enlem":40.3748,
     "Boylam":24.0855,
