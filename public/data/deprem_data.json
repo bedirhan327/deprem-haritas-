@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"19:17:05",
+    "Enlem":39.0698,
+    "Boylam":28.3382,
+    "Derinlik":13.7,
+    "ML":"1.6",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"19:09:10",
+    "Enlem":39.2112,
+    "Boylam":28.1112,
+    "Derinlik":16.5,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"19:03:17",
+    "Enlem":39.1297,
+    "Boylam":28.3217,
+    "Derinlik":10.1,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"18:45:25",
     "Enlem":39.1467,
     "Boylam":28.3025,
