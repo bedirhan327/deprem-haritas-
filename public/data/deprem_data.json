@@ -1,6 +1,96 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"21:53:44",
+    "Enlem":39.119,
+    "Boylam":28.33,
+    "Derinlik":12.0,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:52:41",
+    "Enlem":39.12,
+    "Boylam":28.328,
+    "Derinlik":13.3,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:45:58",
+    "Enlem":38.233,
+    "Boylam":38.1393,
+    "Derinlik":10.9,
+    "ML":"1.2",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:44:06",
+    "Enlem":39.1417,
+    "Boylam":28.3145,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:41:46",
+    "Enlem":39.1315,
+    "Boylam":28.3172,
+    "Derinlik":13.9,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:36:17",
+    "Enlem":39.1575,
+    "Boylam":28.3158,
+    "Derinlik":9.3,
+    "ML":"2.3",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:32:51",
+    "Enlem":39.1332,
+    "Boylam":28.3367,
+    "Derinlik":10.6,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:28:09",
+    "Enlem":39.1058,
+    "Boylam":28.3105,
+    "Derinlik":12.4,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:23:15",
+    "Enlem":39.1598,
+    "Boylam":28.3035,
+    "Derinlik":7.7,
+    "ML":"3.7",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"21:21:48",
     "Enlem":39.1478,
     "Boylam":28.2968,
