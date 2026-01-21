@@ -1,6 +1,96 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"22:18:28",
+    "Enlem":39.1435,
+    "Boylam":28.3072,
+    "Derinlik":10.9,
+    "ML":"2.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:15:21",
+    "Enlem":39.1325,
+    "Boylam":28.2833,
+    "Derinlik":11.3,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:11:01",
+    "Enlem":39.0982,
+    "Boylam":28.3232,
+    "Derinlik":13.2,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:10:39",
+    "Enlem":39.1402,
+    "Boylam":28.327,
+    "Derinlik":10.3,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:08:50",
+    "Enlem":39.1407,
+    "Boylam":28.2973,
+    "Derinlik":9.5,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:07:33",
+    "Enlem":39.1432,
+    "Boylam":28.321,
+    "Derinlik":8.7,
+    "ML":"2.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:02:18",
+    "Enlem":38.317,
+    "Boylam":37.5533,
+    "Derinlik":25.5,
+    "ML":"0.9",
+    "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"22:00:55",
+    "Enlem":38.1102,
+    "Boylam":36.572,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"CAMDERE-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"21:54:39",
+    "Enlem":39.1283,
+    "Boylam":28.3247,
+    "Derinlik":13.1,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"21:53:44",
     "Enlem":39.119,
     "Boylam":28.33,
