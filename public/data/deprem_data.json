@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"07:45:40",
+    "Enlem":39.8547,
+    "Boylam":28.6797,
+    "Derinlik":9.1,
+    "ML":"1.9",
+    "Yer":"KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"07:45:38",
+    "Enlem":39.3165,
+    "Boylam":40.7652,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"KAYNARPINAR-KARLIOVA (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"07:43:53",
+    "Enlem":38.9538,
+    "Boylam":28.3793,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"KIZILDAM-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"06:52:10",
     "Enlem":38.2967,
     "Boylam":27.8855,
