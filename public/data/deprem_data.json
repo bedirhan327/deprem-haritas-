@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"05:58:09",
+    "Enlem":40.0243,
+    "Boylam":27.7858,
+    "Derinlik":5.0,
+    "ML":"0.9",
+    "Yer":"KALBURCU-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"05:54:28",
+    "Enlem":39.1787,
+    "Boylam":28.116,
+    "Derinlik":8.5,
+    "ML":"1.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"05:50:28",
     "Enlem":37.9407,
     "Boylam":27.6295,
