@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"05:50:28",
+    "Enlem":37.9407,
+    "Boylam":27.6295,
+    "Derinlik":3.3,
+    "ML":"1.4",
+    "Yer":"BOZKOY-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"05:35:47",
+    "Enlem":37.08,
+    "Boylam":36.6713,
+    "Derinlik":7.3,
+    "ML":"2.3",
+    "Yer":"ZINCIRLI-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"05:29:40",
+    "Enlem":39.2388,
+    "Boylam":28.0807,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"05:28:40",
+    "Enlem":39.2492,
+    "Boylam":28.0763,
+    "Derinlik":8.7,
+    "ML":"2.1",
+    "Yer":"ALACAATLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"05:19:09",
     "Enlem":37.8665,
     "Boylam":36.3142,
