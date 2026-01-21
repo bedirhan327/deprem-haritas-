@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"06:52:10",
+    "Enlem":38.2967,
+    "Boylam":27.8855,
+    "Derinlik":15.0,
+    "ML":"0.8",
+    "Yer":"SUCIKTI-ODEMIS (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"06:31:13",
+    "Enlem":40.4168,
+    "Boylam":26.1213,
+    "Derinlik":20.7,
+    "ML":"1.6",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"05:58:09",
     "Enlem":40.0243,
     "Boylam":27.7858,
