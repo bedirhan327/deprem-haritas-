@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"05:44:10",
+    "Enlem":38.811,
+    "Boylam":37.472,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"05:32:50",
+    "Enlem":39.1257,
+    "Boylam":28.3318,
+    "Derinlik":13.5,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"04:55:40",
     "Enlem":39.251,
     "Boylam":28.1017,
