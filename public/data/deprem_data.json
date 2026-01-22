@@ -1,12 +1,72 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"06:08:33",
+    "Enlem":39.1397,
+    "Boylam":28.3257,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"05:59:32",
+    "Enlem":39.1152,
+    "Boylam":28.3335,
+    "Derinlik":11.7,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"05:50:10",
+    "Enlem":38.7783,
+    "Boylam":37.4703,
+    "Derinlik":15.7,
+    "ML":"1.4",
+    "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"05:47:03",
+    "Enlem":38.1288,
+    "Boylam":36.9077,
+    "Derinlik":6.0,
+    "ML":"1.5",
+    "Yer":"KEMALPASA-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"05:44:10",
     "Enlem":38.811,
     "Boylam":37.472,
     "Derinlik":5.0,
     "ML":"2.9",
     "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"05:43:13",
+    "Enlem":39.2402,
+    "Boylam":28.1117,
+    "Derinlik":14.6,
+    "ML":"2.1",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"05:39:14",
+    "Enlem":39.1088,
+    "Boylam":28.317,
+    "Derinlik":12.4,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
