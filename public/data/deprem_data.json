@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"01:49:23",
+    "Enlem":39.6258,
+    "Boylam":40.6937,
+    "Derinlik":13.3,
+    "ML":"1.1",
+    "Yer":"ELMAPINARI-CAT (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"01:45:24",
+    "Enlem":35.8427,
+    "Boylam":28.6443,
+    "Derinlik":10.5,
+    "ML":"3.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"01:37:46",
+    "Enlem":39.1302,
+    "Boylam":28.2958,
+    "Derinlik":11.5,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"01:28:06",
+    "Enlem":39.1957,
+    "Boylam":28.1127,
+    "Derinlik":10.0,
+    "ML":"2.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"01:25:51",
+    "Enlem":38.217,
+    "Boylam":25.9063,
+    "Derinlik":9.1,
+    "ML":"2.1",
+    "Yer":"SAKIZ ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"01:11:49",
+    "Enlem":39.1518,
+    "Boylam":28.2895,
+    "Derinlik":11.9,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"01:10:01",
+    "Enlem":38.3672,
+    "Boylam":25.2815,
+    "Derinlik":5.4,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"01:07:28",
     "Enlem":38.3483,
     "Boylam":25.1702,
