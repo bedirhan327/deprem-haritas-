@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"10:41:27",
+    "Enlem":39.2473,
+    "Boylam":28.9995,
+    "Derinlik":8.7,
+    "ML":"2.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"10:38:21",
+    "Enlem":39.0583,
+    "Boylam":28.363,
+    "Derinlik":3.1,
+    "ML":"1.5",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"10:37:12",
+    "Enlem":38.8248,
+    "Boylam":37.4435,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"KULAHLI-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"10:33:23",
+    "Enlem":39.1475,
+    "Boylam":28.4512,
+    "Derinlik":11.6,
+    "ML":"2.5",
+    "Yer":"DEVLETLIBABA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"10:32:48",
+    "Enlem":38.9913,
+    "Boylam":40.5168,
+    "Derinlik":3.4,
+    "ML":"2.1",
+    "Yer":"AGACYOLU-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"10:04:53",
     "Enlem":39.0197,
     "Boylam":28.306,
