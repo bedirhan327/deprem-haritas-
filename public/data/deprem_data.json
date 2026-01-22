@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"22:08:25",
+    "Enlem":38.143,
+    "Boylam":36.8312,
+    "Derinlik":13.6,
+    "ML":"1.7",
+    "Yer":"KARGABUKU-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"22:03:22",
+    "Enlem":37.611,
+    "Boylam":36.1992,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"KOSEPINARI-KADIRLI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"21:49:20",
     "Enlem":39.162,
     "Boylam":28.2845,
