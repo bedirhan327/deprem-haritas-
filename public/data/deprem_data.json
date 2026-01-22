@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"22:47:48",
+    "Enlem":39.1353,
+    "Boylam":28.296,
+    "Derinlik":7.8,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"22:46:51",
+    "Enlem":38.2412,
+    "Boylam":30.9295,
+    "Derinlik":2.3,
+    "ML":"1.7",
+    "Yer":"ASAGITIRTAR-YALVAC (ISPARTA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"22:43:55",
+    "Enlem":39.1347,
+    "Boylam":28.327,
+    "Derinlik":11.7,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"22:08:25",
     "Enlem":38.143,
     "Boylam":36.8312,
