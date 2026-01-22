@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"21:49:20",
+    "Enlem":39.162,
+    "Boylam":28.2845,
+    "Derinlik":12.5,
+    "ML":"2.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"21:35:32",
+    "Enlem":40.4508,
+    "Boylam":26.3652,
+    "Derinlik":16.4,
+    "ML":"3.2",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"21:10:10",
     "Enlem":40.1548,
     "Boylam":31.7343,
