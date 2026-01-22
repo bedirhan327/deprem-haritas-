@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"13:06:16",
+    "Enlem":38.9555,
+    "Boylam":28.139,
+    "Derinlik":19.4,
+    "ML":"1.1",
+    "Yer":"CITAK-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"12:54:03",
+    "Enlem":39.4188,
+    "Boylam":28.0983,
+    "Derinlik":13.9,
+    "ML":"1.7",
+    "Yer":"BADEMLI-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"12:47:14",
     "Enlem":39.0153,
     "Boylam":38.0913,
