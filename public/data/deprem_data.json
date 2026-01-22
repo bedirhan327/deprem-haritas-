@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"06:44:42",
+    "Enlem":38.2372,
+    "Boylam":37.8117,
+    "Derinlik":7.8,
+    "ML":"1.7",
+    "Yer":"DEDEYAZI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"06:41:08",
+    "Enlem":39.1503,
+    "Boylam":28.3235,
+    "Derinlik":10.5,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"06:21:37",
+    "Enlem":38.5632,
+    "Boylam":31.8588,
+    "Derinlik":7.4,
+    "ML":"1.4",
+    "Yer":"YESILOBA-YUNAK (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"06:14:14",
+    "Enlem":39.1005,
+    "Boylam":28.3163,
+    "Derinlik":10.0,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"06:08:33",
     "Enlem":39.1397,
     "Boylam":28.3257,
