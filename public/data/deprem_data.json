@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"19:23:46",
+    "Enlem":38.0953,
+    "Boylam":36.94,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"KARADUT-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"19:00:22",
+    "Enlem":39.2358,
+    "Boylam":28.1122,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"18:59:40",
+    "Enlem":39.234,
+    "Boylam":28.1037,
+    "Derinlik":16.4,
+    "ML":"2.1",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"17:45:45",
     "Enlem":40.2583,
     "Boylam":24.1552,
