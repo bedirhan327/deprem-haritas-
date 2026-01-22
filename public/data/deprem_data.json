@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"17:18:24",
+    "Enlem":39.0438,
+    "Boylam":28.3363,
+    "Derinlik":9.7,
+    "ML":"1.3",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"17:17:34",
+    "Enlem":39.1287,
+    "Boylam":28.2993,
+    "Derinlik":5.1,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"16:23:37",
     "Enlem":39.127,
     "Boylam":28.3135,
