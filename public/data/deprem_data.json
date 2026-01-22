@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2026.01.23",
+    "Saat":"00:18:01",
+    "Enlem":39.1832,
+    "Boylam":28.1613,
+    "Derinlik":9.8,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"00:04:52",
+    "Enlem":38.4223,
+    "Boylam":38.9792,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"YARUSAGI-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"00:02:34",
+    "Enlem":39.0237,
+    "Boylam":26.1848,
+    "Derinlik":8.8,
+    "ML":"2.2",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"23:27:02",
+    "Enlem":40.7863,
+    "Boylam":27.7205,
+    "Derinlik":8.5,
+    "ML":"1.4",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.22",
     "Saat":"23:26:47",
     "Enlem":38.2482,
