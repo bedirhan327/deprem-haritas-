@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"08:12:47",
+    "Enlem":36.6633,
+    "Boylam":34.1013,
+    "Derinlik":8.1,
+    "ML":"2.9",
+    "Yer":"KUSTULLU-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"08:12:14",
+    "Enlem":39.184,
+    "Boylam":28.2252,
+    "Derinlik":11.6,
+    "ML":"1.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"08:04:52",
+    "Enlem":36.6598,
+    "Boylam":34.0848,
+    "Derinlik":10.8,
+    "ML":"3.1",
+    "Yer":"TABURELI-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"08:01:38",
+    "Enlem":39.0252,
+    "Boylam":25.9478,
+    "Derinlik":5.3,
+    "ML":"2.4",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"08:00:30",
+    "Enlem":38.0785,
+    "Boylam":38.5495,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"NARLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"07:49:38",
     "Enlem":39.1817,
     "Boylam":28.1292,
