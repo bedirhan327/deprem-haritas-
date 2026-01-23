@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"10:19:29",
+    "Enlem":38.0842,
+    "Boylam":28.8503,
+    "Derinlik":11.8,
+    "ML":"1.9",
+    "Yer":"BOZALAN-BULDAN (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"10:09:03",
+    "Enlem":38.8215,
+    "Boylam":37.4748,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"09:41:40",
     "Enlem":39.1833,
     "Boylam":28.2152,
