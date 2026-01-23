@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"03:48:33",
+    "Enlem":38.9717,
+    "Boylam":42.0022,
+    "Derinlik":2.2,
+    "ML":"2.3",
+    "Yer":"GUNBATMAZ-BULANIK (MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"03:30:23",
+    "Enlem":39.2168,
+    "Boylam":28.192,
+    "Derinlik":11.3,
+    "ML":"1.6",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"03:19:12",
     "Enlem":39.1723,
     "Boylam":28.2137,
