@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"13:15:15",
+    "Enlem":37.1927,
+    "Boylam":36.7135,
+    "Derinlik":8.7,
+    "ML":"1.5",
+    "Yer":"BASPINAR-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"13:02:08",
+    "Enlem":38.6883,
+    "Boylam":38.051,
+    "Derinlik":8.8,
+    "ML":"2.3",
+    "Yer":"ALICAN-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"12:57:28",
+    "Enlem":39.1062,
+    "Boylam":28.351,
+    "Derinlik":7.3,
+    "ML":"2.0",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"12:55:48",
+    "Enlem":39.4558,
+    "Boylam":28.0917,
+    "Derinlik":15.6,
+    "ML":"1.7",
+    "Yer":"KADIKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"12:53:46",
+    "Enlem":39.2653,
+    "Boylam":28.1322,
+    "Derinlik":7.0,
+    "ML":"1.4",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"12:39:22",
     "Enlem":39.2503,
     "Boylam":28.0975,
