@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"17:41:43",
+    "Enlem":39.116,
+    "Boylam":28.3065,
+    "Derinlik":11.2,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"17:28:31",
+    "Enlem":39.2422,
+    "Boylam":28.153,
+    "Derinlik":13.7,
+    "ML":"2.2",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"17:11:29",
+    "Enlem":40.6928,
+    "Boylam":27.4145,
+    "Derinlik":18.3,
+    "ML":"0.7",
+    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"17:07:06",
     "Enlem":39.2215,
     "Boylam":28.2683,
