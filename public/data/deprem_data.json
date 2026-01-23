@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"13:37:07",
+    "Enlem":39.2257,
+    "Boylam":28.151,
+    "Derinlik":7.8,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"13:32:38",
+    "Enlem":38.6018,
+    "Boylam":27.943,
+    "Derinlik":5.5,
+    "ML":"2.4",
+    "Yer":"TEKELIOGLU-SALIHLI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"13:27:39",
+    "Enlem":38.0877,
+    "Boylam":28.8655,
+    "Derinlik":5.5,
+    "ML":"2.0",
+    "Yer":"BOZALAN-BULDAN (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"13:15:15",
     "Enlem":37.1927,
     "Boylam":36.7135,
