@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"20:14:38",
+    "Enlem":38.1128,
+    "Boylam":37.4492,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"19:49:48",
+    "Enlem":39.2578,
+    "Boylam":26.1707,
+    "Derinlik":12.8,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"19:48:59",
+    "Enlem":39.381,
+    "Boylam":26.0837,
+    "Derinlik":9.7,
+    "ML":"1.5",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"19:41:59",
     "Enlem":39.1977,
     "Boylam":28.1258,
