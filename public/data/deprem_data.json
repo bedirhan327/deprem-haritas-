@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"11:26:35",
+    "Enlem":39.155,
+    "Boylam":28.2933,
+    "Derinlik":13.8,
+    "ML":"3.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"11:03:20",
+    "Enlem":38.6545,
+    "Boylam":38.0498,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"ALICAN-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"10:59:14",
     "Enlem":40.6987,
     "Boylam":29.14,
     "Derinlik":12.5,
     "ML":"2.2",
     "Yer":"KORU-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"10:35:11",
+    "Enlem":38.2295,
+    "Boylam":27.6752,
+    "Derinlik":13.0,
+    "ML":"1.5",
+    "Yer":"TURAN-BAYINDIR (IZMIR)",
     "Cozum":"�lksel"
   },
   {
@@ -37,6 +67,16 @@
     "Derinlik":5.5,
     "ML":"1.9",
     "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"09:57:16",
+    "Enlem":38.2087,
+    "Boylam":37.9495,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"YUVALI-DOGANSEHIR (MALATYA)",
     "Cozum":"�lksel"
   },
   {
