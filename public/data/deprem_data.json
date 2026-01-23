@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"04:20:38",
+    "Enlem":39.1697,
+    "Boylam":28.2535,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"04:05:10",
+    "Enlem":38.3837,
+    "Boylam":37.3935,
+    "Derinlik":15.6,
+    "ML":"1.5",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"03:58:59",
+    "Enlem":37.0313,
+    "Boylam":28.1752,
+    "Derinlik":17.8,
+    "ML":"1.4",
+    "Yer":"KIRAN-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"03:58:22",
+    "Enlem":37.7193,
+    "Boylam":37.5008,
+    "Derinlik":18.3,
+    "ML":"0.9",
+    "Yer":"YESILOVA-GOLBASI (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"03:57:28",
+    "Enlem":39.2168,
+    "Boylam":28.1753,
+    "Derinlik":8.5,
+    "ML":"2.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"03:56:51",
+    "Enlem":39.1823,
+    "Boylam":28.1802,
+    "Derinlik":8.0,
+    "ML":"2.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"03:48:33",
     "Enlem":38.9717,
     "Boylam":42.0022,
