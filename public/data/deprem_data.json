@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"04:45:16",
+    "Enlem":39.1118,
+    "Boylam":28.3325,
+    "Derinlik":15.8,
+    "ML":"2.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"04:31:27",
+    "Enlem":38.1615,
+    "Boylam":36.6205,
+    "Derinlik":16.9,
+    "ML":"1.1",
+    "Yer":"YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"04:20:38",
     "Enlem":39.1697,
     "Boylam":28.2535,
     "Derinlik":8.6,
     "ML":"1.7",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"04:13:20",
+    "Enlem":36.2725,
+    "Boylam":28.3512,
+    "Derinlik":24.9,
+    "ML":"1.8",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
