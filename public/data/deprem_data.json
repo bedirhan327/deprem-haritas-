@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"22:06:54",
+    "Enlem":38.793,
+    "Boylam":37.4832,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"BAGLICAY-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"22:05:24",
+    "Enlem":38.3043,
+    "Boylam":37.8563,
+    "Derinlik":10.3,
+    "ML":"1.5",
+    "Yer":"HANCERLI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"21:39:23",
     "Enlem":40.4343,
     "Boylam":26.2517,
