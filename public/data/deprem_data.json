@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"15:15:45",
+    "Enlem":41.6645,
+    "Boylam":25.0752,
+    "Derinlik":5.5,
+    "ML":"1.7",
+    "Yer":"BULGARISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"14:32:15",
     "Enlem":39.1387,
     "Boylam":28.3285,
@@ -77,6 +87,16 @@
     "Derinlik":5.5,
     "ML":"2.4",
     "Yer":"TEKELIOGLU-SALIHLI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"13:30:35",
+    "Enlem":39.1835,
+    "Boylam":41.654,
+    "Derinlik":14.2,
+    "ML":"1.7",
+    "Yer":"DIVANHUSEYIN-HINIS (ERZURUM)",
     "Cozum":"�lksel"
   },
   {
@@ -197,6 +217,16 @@
     "Derinlik":13.8,
     "ML":"3.0",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"11:21:38",
+    "Enlem":38.9997,
+    "Boylam":25.9678,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
