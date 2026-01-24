@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"15:57:50",
+    "Enlem":40.0597,
+    "Boylam":25.8978,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"ESELEK-GOKCEADA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"15:56:15",
+    "Enlem":39.1897,
+    "Boylam":28.2443,
+    "Derinlik":9.8,
+    "ML":"1.5",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"15:53:44",
+    "Enlem":39.159,
+    "Boylam":28.278,
+    "Derinlik":9.9,
+    "ML":"1.2",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"15:47:30",
+    "Enlem":39.1442,
+    "Boylam":28.2602,
+    "Derinlik":9.5,
+    "ML":"1.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"15:47:02",
+    "Enlem":38.0628,
+    "Boylam":38.352,
+    "Derinlik":6.4,
+    "ML":"2.0",
+    "Yer":"YESILYAYLA-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"15:44:57",
+    "Enlem":39.1335,
+    "Boylam":28.3008,
+    "Derinlik":16.2,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"15:41:26",
+    "Enlem":39.1698,
+    "Boylam":28.2903,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"15:39:45",
     "Enlem":39.1693,
     "Boylam":28.2732,
