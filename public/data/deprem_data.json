@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"01:49:23",
+    "Enlem":39.2182,
+    "Boylam":28.9703,
+    "Derinlik":14.9,
+    "ML":"1.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"01:38:35",
+    "Enlem":39.1907,
+    "Boylam":28.2943,
+    "Derinlik":9.5,
+    "ML":"1.4",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"01:25:06",
+    "Enlem":39.1582,
+    "Boylam":28.2692,
+    "Derinlik":10.7,
+    "ML":"1.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"01:22:29",
+    "Enlem":39.1977,
+    "Boylam":28.2852,
+    "Derinlik":9.6,
+    "ML":"2.6",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"01:14:35",
+    "Enlem":39.2212,
+    "Boylam":28.0638,
+    "Derinlik":4.4,
+    "ML":"1.4",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"00:46:40",
     "Enlem":39.591,
     "Boylam":39.7005,
