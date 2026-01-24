@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"16:47:23",
+    "Enlem":39.153,
+    "Boylam":28.2853,
+    "Derinlik":4.6,
+    "ML":"1.1",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"16:40:50",
+    "Enlem":39.14,
+    "Boylam":28.309,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"16:27:10",
+    "Enlem":39.1665,
+    "Boylam":28.2357,
+    "Derinlik":9.9,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"16:18:51",
+    "Enlem":39.2005,
+    "Boylam":28.2353,
+    "Derinlik":7.7,
+    "ML":"1.3",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"16:11:18",
+    "Enlem":39.0977,
+    "Boylam":28.3227,
+    "Derinlik":13.9,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"16:06:26",
+    "Enlem":39.1938,
+    "Boylam":27.968,
+    "Derinlik":10.3,
+    "ML":"1.7",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"15:57:50",
     "Enlem":40.0597,
     "Boylam":25.8978,
@@ -241,6 +301,16 @@
   },
   {
     "Tarih":"2026.01.24",
+    "Saat":"13:46:25",
+    "Enlem":39.1693,
+    "Boylam":28.2865,
+    "Derinlik":10.4,
+    "ML":"1.8",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"13:37:25",
     "Enlem":39.7477,
     "Boylam":41.9892,
@@ -307,6 +377,16 @@
     "Derinlik":2.6,
     "ML":"1.8",
     "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"12:15:11",
+    "Enlem":39.154,
+    "Boylam":28.2823,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
