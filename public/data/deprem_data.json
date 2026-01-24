@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"18:18:42",
+    "Enlem":39.1312,
+    "Boylam":28.3167,
+    "Derinlik":14.3,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"18:05:21",
+    "Enlem":39.1423,
+    "Boylam":28.3178,
+    "Derinlik":8.1,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"18:03:23",
     "Enlem":39.1568,
     "Boylam":28.2755,
@@ -28,6 +48,16 @@
     "ML":"1.7",
     "Yer":"ELMADAG (ANKARA) REVIZE01 (2026.01.24",
     "Cozum":"17:57:22)"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"17:50:53",
+    "Enlem":38.0348,
+    "Boylam":37.6458,
+    "Derinlik":10.3,
+    "ML":"1.1",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
   },
   {
     "Tarih":"2026.01.24",
