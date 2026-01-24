@@ -1,6 +1,96 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"04:16:39",
+    "Enlem":39.1508,
+    "Boylam":28.2447,
+    "Derinlik":9.1,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"04:15:40",
+    "Enlem":39.1497,
+    "Boylam":28.2345,
+    "Derinlik":9.6,
+    "ML":"1.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"04:11:57",
+    "Enlem":39.1217,
+    "Boylam":28.2308,
+    "Derinlik":11.8,
+    "ML":"2.1",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"04:01:03",
+    "Enlem":39.1603,
+    "Boylam":28.2855,
+    "Derinlik":10.8,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"03:52:13",
+    "Enlem":39.177,
+    "Boylam":28.23,
+    "Derinlik":9.3,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"03:51:49",
+    "Enlem":39.1513,
+    "Boylam":28.2372,
+    "Derinlik":9.6,
+    "ML":"2.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"03:48:56",
+    "Enlem":39.1582,
+    "Boylam":28.2528,
+    "Derinlik":11.0,
+    "ML":"2.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"03:46:37",
+    "Enlem":39.1527,
+    "Boylam":28.2637,
+    "Derinlik":12.7,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"03:45:28",
+    "Enlem":39.149,
+    "Boylam":28.2742,
+    "Derinlik":13.1,
+    "ML":"1.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"03:39:37",
     "Enlem":39.1407,
     "Boylam":28.2657,
