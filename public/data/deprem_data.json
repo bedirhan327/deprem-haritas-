@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.01.25",
+    "Saat":"00:19:54",
+    "Enlem":39.2673,
+    "Boylam":26.1432,
+    "Derinlik":4.6,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"00:14:50",
+    "Enlem":40.2407,
+    "Boylam":23.6088,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"23:51:08",
+    "Enlem":40.347,
+    "Boylam":24.1223,
+    "Derinlik":8.9,
+    "ML":"1.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.24",
     "Saat":"23:28:16",
     "Enlem":39.1678,
