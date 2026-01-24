@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"20:31:25",
+    "Enlem":39.21,
+    "Boylam":28.1752,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"20:31:08",
+    "Enlem":39.1683,
+    "Boylam":28.2187,
+    "Derinlik":11.5,
+    "ML":"1.9",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"20:28:30",
+    "Enlem":37.0387,
+    "Boylam":28.8797,
+    "Derinlik":9.3,
+    "ML":"2.1",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"20:24:09",
+    "Enlem":38.227,
+    "Boylam":25.9083,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"SAKIZ ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"19:17:31",
     "Enlem":36.8902,
     "Boylam":27.5803,
