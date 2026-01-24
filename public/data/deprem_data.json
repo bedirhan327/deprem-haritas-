@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"19:17:31",
+    "Enlem":36.8902,
+    "Boylam":27.5803,
+    "Derinlik":17.1,
+    "ML":"1.6",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"19:11:51",
+    "Enlem":38.1212,
+    "Boylam":38.6042,
+    "Derinlik":9.4,
+    "ML":"1.6",
+    "Yer":"TEKEDERESI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"19:07:10",
     "Enlem":38.803,
     "Boylam":37.4908,
