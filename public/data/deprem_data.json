@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.24",
+    "Saat":"14:15:47",
+    "Enlem":39.1553,
+    "Boylam":28.255,
+    "Derinlik":8.9,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"14:03:41",
+    "Enlem":39.3267,
+    "Boylam":39.9072,
+    "Derinlik":1.8,
+    "ML":"1.8",
+    "Yer":"EFEAGILI-PULUMUR (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"14:00:13",
+    "Enlem":39.1307,
+    "Boylam":28.248,
+    "Derinlik":14.3,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
+    "Saat":"13:53:43",
+    "Enlem":39.159,
+    "Boylam":28.2232,
+    "Derinlik":15.8,
+    "ML":"2.3",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.24",
     "Saat":"13:37:25",
     "Enlem":39.7477,
     "Boylam":41.9892,
