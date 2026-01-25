@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"01:28:50",
+    "Enlem":37.6063,
+    "Boylam":35.9047,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"MINNETLI-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"01:26:15",
+    "Enlem":39.0598,
+    "Boylam":28.3303,
+    "Derinlik":11.5,
+    "ML":"1.0",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"01:13:27",
     "Enlem":39.0902,
     "Boylam":28.185,
