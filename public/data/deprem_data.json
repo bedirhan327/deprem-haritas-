@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"23:08:32",
+    "Enlem":36.5908,
+    "Boylam":34.1518,
+    "Derinlik":20.9,
+    "ML":"1.4",
+    "Yer":"ESENPINAR-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"22:58:48",
+    "Enlem":37.7153,
+    "Boylam":32.358,
+    "Derinlik":7.7,
+    "ML":"1.1",
+    "Yer":"KARADIGINDERESI-MERAM (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"22:57:56",
+    "Enlem":38.4935,
+    "Boylam":27.4622,
+    "Derinlik":13.3,
+    "ML":"1.6",
+    "Yer":"SUTCULER-KEMALPASA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"22:46:10",
     "Enlem":39.1435,
     "Boylam":28.1755,
