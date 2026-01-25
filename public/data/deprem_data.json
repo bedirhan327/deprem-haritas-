@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"14:42:11",
+    "Enlem":36.9925,
+    "Boylam":27.9375,
+    "Derinlik":5.3,
+    "ML":"2.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"14:12:52",
+    "Enlem":39.1303,
+    "Boylam":28.278,
+    "Derinlik":9.2,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"13:40:51",
     "Enlem":39.0537,
     "Boylam":28.2273,
