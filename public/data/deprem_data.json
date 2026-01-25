@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"15:35:59",
+    "Enlem":36.3912,
+    "Boylam":35.5213,
+    "Derinlik":9.3,
+    "ML":"2.2",
+    "Yer":"ISKENDERUN KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"15:19:57",
+    "Enlem":39.0322,
+    "Boylam":28.362,
+    "Derinlik":11.4,
+    "ML":"1.2",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"15:14:24",
+    "Enlem":36.9005,
+    "Boylam":27.992,
+    "Derinlik":2.1,
+    "ML":"2.3",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"15:07:27",
+    "Enlem":39.1478,
+    "Boylam":28.1785,
+    "Derinlik":9.3,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"14:51:34",
+    "Enlem":36.6443,
+    "Boylam":34.1102,
+    "Derinlik":14.7,
+    "ML":"3.0",
+    "Yer":"VEYSELLI-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"14:51:08",
+    "Enlem":40.0868,
+    "Boylam":27.7063,
+    "Derinlik":13.4,
+    "ML":"2.2",
+    "Yer":"KORUDEGIRMEN-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"14:42:11",
     "Enlem":36.9925,
     "Boylam":27.9375,
