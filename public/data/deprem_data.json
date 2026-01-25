@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"01:13:27",
+    "Enlem":39.0902,
+    "Boylam":28.185,
+    "Derinlik":14.9,
+    "ML":"1.1",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"00:56:55",
+    "Enlem":38.503,
+    "Boylam":37.081,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"UZUNPINAR-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"00:53:39",
+    "Enlem":39.1328,
+    "Boylam":28.2588,
+    "Derinlik":14.3,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"00:42:33",
     "Enlem":39.1845,
     "Boylam":28.1577,
