@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"22:46:10",
+    "Enlem":39.1435,
+    "Boylam":28.1755,
+    "Derinlik":13.0,
+    "ML":"2.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"22:37:38",
+    "Enlem":39.0677,
+    "Boylam":28.2617,
+    "Derinlik":16.4,
+    "ML":"1.0",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"22:32:14",
+    "Enlem":39.207,
+    "Boylam":28.1435,
+    "Derinlik":14.3,
+    "ML":"3.0",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"22:22:27",
     "Enlem":39.2227,
     "Boylam":32.4172,
