@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"07:14:05",
+    "Enlem":37.9048,
+    "Boylam":36.6862,
+    "Derinlik":5.5,
+    "ML":"2.0",
+    "Yer":"TEKIR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"06:56:54",
+    "Enlem":39.157,
+    "Boylam":28.2905,
+    "Derinlik":10.0,
+    "ML":"2.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"06:34:24",
     "Enlem":39.1135,
     "Boylam":28.3057,
