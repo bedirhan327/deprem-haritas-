@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"02:55:34",
+    "Enlem":36.9375,
+    "Boylam":38.3883,
+    "Derinlik":10.1,
+    "ML":"3.0",
+    "Yer":"TOKCALI-SURUC (SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"02:43:52",
+    "Enlem":39.1853,
+    "Boylam":28.1808,
+    "Derinlik":19.5,
+    "ML":"1.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"02:28:24",
+    "Enlem":39.166,
+    "Boylam":28.2625,
+    "Derinlik":11.8,
+    "ML":"1.8",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"02:19:33",
+    "Enlem":39.1208,
+    "Boylam":28.316,
+    "Derinlik":12.5,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"02:00:53",
     "Enlem":39.117,
     "Boylam":28.311,
