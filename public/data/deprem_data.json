@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"19:42:54",
+    "Enlem":36.9983,
+    "Boylam":28.3922,
+    "Derinlik":11.3,
+    "ML":"1.5",
+    "Yer":"SIRINKOY-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"19:35:17",
+    "Enlem":37.1075,
+    "Boylam":36.9355,
+    "Derinlik":6.7,
+    "ML":"1.9",
+    "Yer":"KARTALKOY-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"19:30:12",
+    "Enlem":39.1788,
+    "Boylam":28.3055,
+    "Derinlik":8.6,
+    "ML":"2.3",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"19:26:41",
+    "Enlem":39.128,
+    "Boylam":28.2432,
+    "Derinlik":11.7,
+    "ML":"1.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"19:24:19",
+    "Enlem":37.093,
+    "Boylam":36.9312,
+    "Derinlik":7.4,
+    "ML":"1.7",
+    "Yer":"KUZOLUK-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"19:18:55",
+    "Enlem":37.1302,
+    "Boylam":36.9232,
+    "Derinlik":6.3,
+    "ML":"1.7",
+    "Yer":"ATAKOY-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"19:16:01",
     "Enlem":39.1147,
     "Boylam":28.2525,
