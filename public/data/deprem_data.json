@@ -1,6 +1,96 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"04:37:14",
+    "Enlem":39.1235,
+    "Boylam":28.2085,
+    "Derinlik":13.4,
+    "ML":"1.9",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"04:33:31",
+    "Enlem":38.841,
+    "Boylam":26.8658,
+    "Derinlik":10.2,
+    "ML":"2.3",
+    "Yer":"CANDARLI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"04:26:02",
+    "Enlem":37.9703,
+    "Boylam":28.8088,
+    "Derinlik":2.1,
+    "ML":"1.5",
+    "Yer":"KIZILDERE-BUHARKENT (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"04:10:38",
+    "Enlem":40.7043,
+    "Boylam":29.156,
+    "Derinlik":5.4,
+    "ML":"2.8",
+    "Yer":"KORU-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"04:10:12",
+    "Enlem":39.2495,
+    "Boylam":26.1548,
+    "Derinlik":8.2,
+    "ML":"1.5",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"03:56:56",
+    "Enlem":38.8713,
+    "Boylam":42.3412,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"GOLGOREN-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"03:49:10",
+    "Enlem":39.1528,
+    "Boylam":28.307,
+    "Derinlik":4.9,
+    "ML":"1.5",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"03:41:13",
+    "Enlem":39.144,
+    "Boylam":28.249,
+    "Derinlik":15.3,
+    "ML":"1.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"03:38:33",
+    "Enlem":39.1692,
+    "Boylam":28.2038,
+    "Derinlik":9.0,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"03:22:37",
     "Enlem":40.1987,
     "Boylam":31.6912,
