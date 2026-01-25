@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"17:29:24",
+    "Enlem":39.241,
+    "Boylam":28.0768,
+    "Derinlik":14.5,
+    "ML":"1.7",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"17:27:00",
+    "Enlem":39.176,
+    "Boylam":28.9677,
+    "Derinlik":13.1,
+    "ML":"1.5",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"17:22:49",
+    "Enlem":38.9783,
+    "Boylam":28.255,
+    "Derinlik":3.2,
+    "ML":"1.5",
+    "Yer":"KIRAN-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"17:14:27",
+    "Enlem":39.1167,
+    "Boylam":28.2565,
+    "Derinlik":14.1,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"17:01:52",
+    "Enlem":39.4017,
+    "Boylam":25.9522,
+    "Derinlik":17.0,
+    "ML":"1.5",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"16:43:35",
     "Enlem":37.8052,
     "Boylam":29.6037,
