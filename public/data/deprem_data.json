@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"06:34:24",
+    "Enlem":39.1135,
+    "Boylam":28.3057,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"06:31:48",
+    "Enlem":39.1342,
+    "Boylam":28.2587,
+    "Derinlik":14.5,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"06:30:31",
+    "Enlem":39.1617,
+    "Boylam":28.2695,
+    "Derinlik":14.6,
+    "ML":"2.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"06:03:20",
+    "Enlem":38.0465,
+    "Boylam":37.5872,
+    "Derinlik":7.8,
+    "ML":"1.5",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"05:53:09",
+    "Enlem":39.1875,
+    "Boylam":28.1128,
+    "Derinlik":8.1,
+    "ML":"1.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"05:49:55",
+    "Enlem":39.1572,
+    "Boylam":28.1242,
+    "Derinlik":9.1,
+    "ML":"2.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"05:49:20",
+    "Enlem":35.8162,
+    "Boylam":27.016,
+    "Derinlik":9.7,
+    "ML":"2.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"05:33:37",
     "Enlem":39.1075,
     "Boylam":28.175,
