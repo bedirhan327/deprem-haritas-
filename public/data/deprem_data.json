@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"21:39:56",
+    "Enlem":39.211,
+    "Boylam":28.9877,
+    "Derinlik":9.3,
+    "ML":"1.0",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"21:35:45",
+    "Enlem":39.1723,
+    "Boylam":28.1052,
+    "Derinlik":8.6,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"21:20:31",
+    "Enlem":39.1285,
+    "Boylam":28.283,
+    "Derinlik":12.4,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"21:18:01",
     "Enlem":37.0878,
     "Boylam":36.9325,
