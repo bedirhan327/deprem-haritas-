@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"00:42:33",
+    "Enlem":39.1845,
+    "Boylam":28.1577,
+    "Derinlik":8.8,
+    "ML":"1.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"00:36:34",
+    "Enlem":38.0943,
+    "Boylam":37.1807,
+    "Derinlik":5.2,
+    "ML":"1.2",
+    "Yer":"AKPINAR-EKINOZU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"00:34:37",
+    "Enlem":38.2328,
+    "Boylam":37.7088,
+    "Derinlik":10.9,
+    "ML":"1.2",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"00:31:27",
+    "Enlem":38.0777,
+    "Boylam":37.145,
+    "Derinlik":5.4,
+    "ML":"1.3",
+    "Yer":"EKINOZU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"00:13:23",
+    "Enlem":39.62,
+    "Boylam":39.6277,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"YALINCA-(ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"00:07:05",
     "Enlem":39.089,
     "Boylam":27.995,
