@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.25",
+    "Saat":"08:32:38",
+    "Enlem":39.0397,
+    "Boylam":28.2385,
+    "Derinlik":20.4,
+    "ML":"1.0",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
+    "Saat":"08:32:27",
+    "Enlem":39.0218,
+    "Boylam":26.175,
+    "Derinlik":12.3,
+    "ML":"1.8",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.25",
     "Saat":"08:26:19",
     "Enlem":39.1233,
     "Boylam":28.2975,
