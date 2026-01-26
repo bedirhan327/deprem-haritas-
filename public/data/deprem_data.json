@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"20:26:04",
+    "Enlem":38.2427,
+    "Boylam":37.75,
+    "Derinlik":11.9,
+    "ML":"1.9",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"20:23:46",
+    "Enlem":39.1555,
+    "Boylam":28.237,
+    "Derinlik":11.9,
+    "ML":"2.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"19:54:50",
     "Enlem":38.2447,
     "Boylam":38.0865,
