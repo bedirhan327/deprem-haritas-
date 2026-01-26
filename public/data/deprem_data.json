@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"06:42:26",
+    "Enlem":39.2433,
+    "Boylam":28.9498,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"06:26:47",
+    "Enlem":37.6057,
+    "Boylam":35.8673,
+    "Derinlik":8.7,
+    "ML":"1.6",
+    "Yer":"KARABUCAK-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"06:16:38",
     "Enlem":39.1987,
     "Boylam":28.268,
