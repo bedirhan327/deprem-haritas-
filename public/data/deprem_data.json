@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"19:42:39",
+    "Enlem":39.1612,
+    "Boylam":28.1503,
+    "Derinlik":12.8,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"19:21:15",
+    "Enlem":38.1078,
+    "Boylam":28.8923,
+    "Derinlik":5.3,
+    "ML":"1.9",
+    "Yer":"CAMKOY-BULDAN (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"19:11:41",
     "Enlem":38.2443,
     "Boylam":38.579,
