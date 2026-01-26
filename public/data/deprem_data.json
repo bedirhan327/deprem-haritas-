@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"05:47:34",
+    "Enlem":39.1183,
+    "Boylam":28.3098,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"05:44:35",
+    "Enlem":39.2318,
+    "Boylam":28.1433,
+    "Derinlik":13.5,
+    "ML":"1.3",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"05:43:33",
+    "Enlem":37.1022,
+    "Boylam":36.9327,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KARTALKOY-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"05:30:29",
+    "Enlem":39.1222,
+    "Boylam":28.3047,
+    "Derinlik":11.2,
+    "ML":"1.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"05:24:22",
+    "Enlem":39.2387,
+    "Boylam":28.0245,
+    "Derinlik":13.8,
+    "ML":"1.1",
+    "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"05:16:53",
     "Enlem":37.4747,
     "Boylam":37.0227,
