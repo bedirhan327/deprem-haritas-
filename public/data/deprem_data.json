@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"23:18:47",
+    "Enlem":38.2375,
+    "Boylam":38.7088,
+    "Derinlik":7.2,
+    "ML":"1.7",
+    "Yer":"CAYKOY-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"23:11:01",
+    "Enlem":39.1983,
+    "Boylam":28.2848,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"22:16:23",
     "Enlem":34.8402,
     "Boylam":33.8482,
     "Derinlik":31.2,
     "ML":"2.9",
     "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"22:13:34",
+    "Enlem":39.1312,
+    "Boylam":28.3,
+    "Derinlik":18.9,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
