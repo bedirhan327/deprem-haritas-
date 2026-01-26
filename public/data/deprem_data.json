@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"14:16:32",
+    "Enlem":39.143,
+    "Boylam":28.3572,
+    "Derinlik":8.1,
+    "ML":"2.1",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"14:07:03",
+    "Enlem":39.1478,
+    "Boylam":28.2307,
+    "Derinlik":12.9,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"14:05:23",
+    "Enlem":39.731,
+    "Boylam":27.9658,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"KOTEYLI-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"13:55:51",
+    "Enlem":39.0962,
+    "Boylam":28.2815,
+    "Derinlik":14.0,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"13:48:53",
+    "Enlem":39.037,
+    "Boylam":28.0753,
+    "Derinlik":19.4,
+    "ML":"1.8",
+    "Yer":"KOMURCU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"13:43:47",
     "Enlem":41.0372,
     "Boylam":28.9057,
