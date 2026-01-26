@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"13:13:13",
+    "Enlem":35.2607,
+    "Boylam":33.4223,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"12:58:55",
+    "Enlem":35.2728,
+    "Boylam":33.4578,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"12:58:32",
+    "Enlem":37.9067,
+    "Boylam":27.6237,
+    "Derinlik":15.0,
+    "ML":"1.6",
+    "Yer":"ALANGULLU-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"12:53:49",
     "Enlem":35.3987,
     "Boylam":33.2812,
@@ -11,12 +41,32 @@
   },
   {
     "Tarih":"2026.01.26",
+    "Saat":"12:47:56",
+    "Enlem":39.1557,
+    "Boylam":28.2685,
+    "Derinlik":9.0,
+    "ML":"2.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"12:38:14",
     "Enlem":39.115,
     "Boylam":28.3245,
     "Derinlik":12.6,
     "ML":"1.5",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"12:36:35",
+    "Enlem":36.382,
+    "Boylam":35.596,
+    "Derinlik":6.3,
+    "ML":"1.7",
+    "Yer":"ISKENDERUN KORFEZI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
