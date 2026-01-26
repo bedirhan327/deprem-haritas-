@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"07:44:34",
+    "Enlem":39.2375,
+    "Boylam":29.0307,
+    "Derinlik":13.7,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"07:36:23",
+    "Enlem":37.638,
+    "Boylam":35.828,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"CAMDERE-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"07:13:45",
     "Enlem":39.1515,
     "Boylam":28.2987,
