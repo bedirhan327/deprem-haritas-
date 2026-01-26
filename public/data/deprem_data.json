@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"19:11:41",
+    "Enlem":38.2443,
+    "Boylam":38.579,
+    "Derinlik":5.2,
+    "ML":"2.2",
+    "Yer":"TANISIK-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"19:04:12",
+    "Enlem":38.2293,
+    "Boylam":38.603,
+    "Derinlik":5.0,
+    "ML":"2.7",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"18:59:49",
+    "Enlem":39.145,
+    "Boylam":28.3022,
+    "Derinlik":13.6,
+    "ML":"2.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"18:58:02",
+    "Enlem":39.1773,
+    "Boylam":28.2168,
+    "Derinlik":8.1,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"18:43:41",
     "Enlem":38.2335,
     "Boylam":38.6447,
@@ -117,6 +157,16 @@
     "Derinlik":6.0,
     "ML":"1.9",
     "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"17:01:00",
+    "Enlem":37.2102,
+    "Boylam":36.7273,
+    "Derinlik":3.7,
+    "ML":"1.7",
+    "Yer":"BADEMLI-NURDAGI (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
