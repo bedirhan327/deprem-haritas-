@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"06:11:39",
+    "Enlem":39.1118,
+    "Boylam":37.8115,
+    "Derinlik":6.3,
+    "ML":"2.3",
+    "Yer":"TASLI-KANGAL (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"06:08:29",
+    "Enlem":39.1595,
+    "Boylam":28.2898,
+    "Derinlik":8.5,
+    "ML":"2.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"05:58:00",
+    "Enlem":38.0788,
+    "Boylam":36.4958,
+    "Derinlik":11.8,
+    "ML":"1.3",
+    "Yer":"ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"05:39:22",
     "Enlem":35.0148,
     "Boylam":23.938,
