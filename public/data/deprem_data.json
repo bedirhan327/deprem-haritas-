@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"20:22:46",
+    "Enlem":38.347,
+    "Boylam":37.531,
+    "Derinlik":1.3,
+    "ML":"1.6",
+    "Yer":"YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"20:02:04",
+    "Enlem":39.1672,
+    "Boylam":28.2498,
+    "Derinlik":9.4,
+    "ML":"1.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"19:56:58",
+    "Enlem":39.1718,
+    "Boylam":28.2478,
+    "Derinlik":8.3,
+    "ML":"2.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"19:44:49",
     "Enlem":39.1672,
     "Boylam":28.1277,
