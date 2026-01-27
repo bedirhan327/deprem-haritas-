@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"10:09:33",
+    "Enlem":39.1458,
+    "Boylam":28.3218,
+    "Derinlik":12.6,
+    "ML":"2.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"09:49:00",
+    "Enlem":39.911,
+    "Boylam":28.915,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"KUSUMLAR-ORHANELI (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"09:39:54",
     "Enlem":39.2307,
     "Boylam":28.2353,
