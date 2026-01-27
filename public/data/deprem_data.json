@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"22:49:41",
+    "Enlem":38.343,
+    "Boylam":38.799,
+    "Derinlik":2.5,
+    "ML":"3.2",
+    "Yer":"CANAKCI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"22:40:30",
+    "Enlem":38.1192,
+    "Boylam":38.5418,
+    "Derinlik":13.1,
+    "ML":"1.9",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"22:40:07",
+    "Enlem":37.5907,
+    "Boylam":37.319,
+    "Derinlik":7.6,
+    "ML":"2.3",
+    "Yer":"KARAAGAC-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"22:22:46",
+    "Enlem":39.6515,
+    "Boylam":27.6115,
+    "Derinlik":13.0,
+    "ML":"1.6",
+    "Yer":"KOCAAVSAR-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"22:07:38",
     "Enlem":39.0962,
     "Boylam":25.772,
@@ -17,6 +57,26 @@
     "Derinlik":5.0,
     "ML":"3.6",
     "Yer":"KARAKOSE-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"21:48:38",
+    "Enlem":38.2618,
+    "Boylam":25.9798,
+    "Derinlik":4.0,
+    "ML":"2.3",
+    "Yer":"SAKIZ ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"21:07:16",
+    "Enlem":39.181,
+    "Boylam":28.2907,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
