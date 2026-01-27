@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"05:15:30",
+    "Enlem":38.0163,
+    "Boylam":38.1862,
+    "Derinlik":5.1,
+    "ML":"1.0",
+    "Yer":"PINARBASI-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"05:07:12",
+    "Enlem":38.7568,
+    "Boylam":43.708,
+    "Derinlik":6.3,
+    "ML":"2.1",
+    "Yer":"DOGANGUN-MURADIYE (VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"04:24:46",
     "Enlem":39.345,
     "Boylam":23.8315,
