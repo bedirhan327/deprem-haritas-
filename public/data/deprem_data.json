@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"13:23:35",
+    "Enlem":39.46,
+    "Boylam":38.231,
+    "Derinlik":4.3,
+    "ML":"2.4",
+    "Yer":"GEDIKBASI-DIVRIGI (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"13:10:51",
+    "Enlem":39.9272,
+    "Boylam":26.7625,
+    "Derinlik":10.4,
+    "ML":"1.7",
+    "Yer":"SOGUTGEDIGI-BAYRAMIC (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"13:04:16",
+    "Enlem":35.2148,
+    "Boylam":33.5753,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"13:03:02",
+    "Enlem":39.4458,
+    "Boylam":28.0597,
+    "Derinlik":12.2,
+    "ML":"1.5",
+    "Yer":"DEDECINAR-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"11:34:30",
     "Enlem":39.1298,
     "Boylam":28.3103,
