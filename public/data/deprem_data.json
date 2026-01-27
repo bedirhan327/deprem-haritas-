@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.27",
+    "Saat":"23:32:33",
+    "Enlem":39.1222,
+    "Boylam":28.2622,
+    "Derinlik":17.1,
+    "ML":"0.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"23:23:26",
     "Enlem":39.9057,
     "Boylam":28.9092,
@@ -27,6 +37,16 @@
     "Derinlik":5.6,
     "ML":"1.9",
     "Yer":"KUP-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"23:08:43",
+    "Enlem":39.1615,
+    "Boylam":28.3108,
+    "Derinlik":8.7,
+    "ML":"1.3",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -141,6 +161,16 @@
   },
   {
     "Tarih":"2026.01.27",
+    "Saat":"20:43:47",
+    "Enlem":39.1148,
+    "Boylam":27.9453,
+    "Derinlik":14.8,
+    "ML":"1.1",
+    "Yer":"ASAGIDOLMA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"20:22:46",
     "Enlem":38.347,
     "Boylam":37.531,
@@ -191,6 +221,16 @@
   },
   {
     "Tarih":"2026.01.27",
+    "Saat":"19:09:16",
+    "Enlem":39.2655,
+    "Boylam":28.0768,
+    "Derinlik":8.1,
+    "ML":"1.2",
+    "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
     "Saat":"19:04:52",
     "Enlem":39.2887,
     "Boylam":28.0828,
@@ -227,6 +267,16 @@
     "Derinlik":17.4,
     "ML":"1.4",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.27",
+    "Saat":"18:31:08",
+    "Enlem":39.1857,
+    "Boylam":28.2903,
+    "Derinlik":4.9,
+    "ML":"1.3",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
