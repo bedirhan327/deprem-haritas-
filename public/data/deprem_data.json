@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"12:46:33",
+    "Enlem":36.0175,
+    "Boylam":31.7483,
+    "Derinlik":23.6,
+    "ML":"2.1",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"12:45:20",
+    "Enlem":38.9528,
+    "Boylam":37.8695,
+    "Derinlik":0.0,
+    "ML":"1.9",
+    "Yer":"HASANCELEBI-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"12:35:08",
+    "Enlem":39.1495,
+    "Boylam":30.63,
+    "Derinlik":9.0,
+    "ML":"1.4",
+    "Yer":"OYNAS-SEYITGAZI (ESKISEHIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"12:24:21",
     "Enlem":38.3832,
     "Boylam":37.3958,
