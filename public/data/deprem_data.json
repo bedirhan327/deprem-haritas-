@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"22:43:43",
+    "Enlem":37.1643,
+    "Boylam":30.4477,
+    "Derinlik":2.0,
+    "ML":"3.5",
+    "Yer":"AKKOC-DOSEMEALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"22:20:09",
+    "Enlem":38.7648,
+    "Boylam":27.1193,
+    "Derinlik":4.1,
+    "ML":"2.3",
+    "Yer":"KARAKUZU-ALIAGA (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"21:22:17",
     "Enlem":39.0292,
     "Boylam":33.0147,
