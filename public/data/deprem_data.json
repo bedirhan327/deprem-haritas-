@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"12:24:21",
+    "Enlem":38.3832,
+    "Boylam":37.3958,
+    "Derinlik":2.4,
+    "ML":"1.2",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"12:23:50",
+    "Enlem":39.7597,
+    "Boylam":32.9667,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"BEYNAM-BALA (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"11:38:27",
     "Enlem":35.0222,
     "Boylam":33.0913,
