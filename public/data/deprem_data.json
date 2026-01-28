@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"14:16:39",
+    "Enlem":38.3435,
+    "Boylam":38.7995,
+    "Derinlik":8.3,
+    "ML":"3.0",
+    "Yer":"CANAKCI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"14:15:50",
+    "Enlem":39.212,
+    "Boylam":27.985,
+    "Derinlik":11.5,
+    "ML":"2.8",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"13:50:15",
     "Enlem":38.1067,
     "Boylam":27.1907,
