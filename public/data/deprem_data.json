@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"10:34:35",
+    "Enlem":39.1323,
+    "Boylam":28.32,
+    "Derinlik":16.1,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"10:28:43",
+    "Enlem":38.132,
+    "Boylam":37.8145,
+    "Derinlik":8.8,
+    "ML":"1.9",
+    "Yer":"FINDIKKOY-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"10:11:08",
     "Enlem":39.2562,
     "Boylam":28.9785,
