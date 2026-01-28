@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"03:28:39",
+    "Enlem":40.7943,
+    "Boylam":27.7612,
+    "Derinlik":9.1,
+    "ML":"1.7",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"03:28:25",
+    "Enlem":40.7722,
+    "Boylam":27.7555,
+    "Derinlik":9.1,
+    "ML":"1.8",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"02:55:36",
     "Enlem":34.8762,
     "Boylam":33.9313,
