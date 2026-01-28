@@ -11,6 +11,36 @@
   },
   {
     "Tarih":"2026.01.28",
+    "Saat":"02:40:01",
+    "Enlem":39.1198,
+    "Boylam":28.2978,
+    "Derinlik":9.3,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"02:21:18",
+    "Enlem":39.7968,
+    "Boylam":29.3825,
+    "Derinlik":14.7,
+    "ML":"1.6",
+    "Yer":"KARAMANLAR-DOMANIC (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"02:19:59",
+    "Enlem":39.0782,
+    "Boylam":28.3448,
+    "Derinlik":18.7,
+    "ML":"1.3",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"01:26:05",
     "Enlem":39.1193,
     "Boylam":28.33,
