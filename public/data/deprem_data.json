@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.28",
+    "Saat":"08:20:30",
+    "Enlem":37.1218,
+    "Boylam":36.9257,
+    "Derinlik":5.4,
+    "ML":"1.5",
+    "Yer":"ATAKOY-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
+    "Saat":"08:10:51",
+    "Enlem":40.0153,
+    "Boylam":40.051,
+    "Derinlik":17.8,
+    "ML":"2.0",
+    "Yer":"AGAMCAGAM-OTLUKBELI (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.28",
     "Saat":"07:40:20",
     "Enlem":39.1417,
     "Boylam":28.2897,
