@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"03:21:57",
+    "Enlem":39.0888,
+    "Boylam":28.3318,
+    "Derinlik":19.0,
+    "ML":"1.4",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"03:18:16",
+    "Enlem":39.176,
+    "Boylam":27.9738,
+    "Derinlik":3.4,
+    "ML":"1.8",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"02:44:26",
     "Enlem":38.0027,
     "Boylam":28.8443,
