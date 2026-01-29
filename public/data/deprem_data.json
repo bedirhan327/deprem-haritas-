@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"14:03:13",
+    "Enlem":40.1883,
+    "Boylam":31.728,
+    "Derinlik":3.9,
+    "ML":"2.1",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"13:57:00",
+    "Enlem":39.1798,
+    "Boylam":29.1553,
+    "Derinlik":12.2,
+    "ML":"1.6",
+    "Yer":"KURTDERE-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"13:21:03",
+    "Enlem":40.6773,
+    "Boylam":27.5025,
+    "Derinlik":8.7,
+    "ML":"1.1",
+    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"13:20:48",
     "Enlem":39.9052,
     "Boylam":32.6798,
