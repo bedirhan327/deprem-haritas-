@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"04:46:28",
+    "Enlem":39.1722,
+    "Boylam":28.184,
+    "Derinlik":11.5,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"04:37:16",
+    "Enlem":39.2053,
+    "Boylam":28.1265,
+    "Derinlik":8.3,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"04:11:14",
     "Enlem":39.1258,
     "Boylam":28.2212,
