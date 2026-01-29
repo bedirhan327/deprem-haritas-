@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"04:11:14",
+    "Enlem":39.1258,
+    "Boylam":28.2212,
+    "Derinlik":10.4,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"04:07:43",
+    "Enlem":38.483,
+    "Boylam":39.1497,
+    "Derinlik":10.6,
+    "ML":"1.4",
+    "Yer":"KAVALLI-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"03:21:57",
     "Enlem":39.0888,
     "Boylam":28.3318,
