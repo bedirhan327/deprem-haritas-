@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"23:17:55",
+    "Enlem":37.7777,
+    "Boylam":36.6392,
+    "Derinlik":7.8,
+    "ML":"1.5",
+    "Yer":"CAGLAYAN-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"23:07:58",
+    "Enlem":39.1405,
+    "Boylam":28.3122,
+    "Derinlik":14.9,
+    "ML":"2.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"22:56:46",
+    "Enlem":40.5415,
+    "Boylam":27.1958,
+    "Derinlik":2.8,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"22:06:41",
     "Enlem":40.8368,
     "Boylam":28.3412,
@@ -37,6 +67,26 @@
     "Derinlik":11.8,
     "ML":"3.7",
     "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"21:46:15",
+    "Enlem":39.1093,
+    "Boylam":28.3345,
+    "Derinlik":17.9,
+    "ML":"2.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"21:34:02",
+    "Enlem":38.3077,
+    "Boylam":38.6237,
+    "Derinlik":5.6,
+    "ML":"1.9",
+    "Yer":"ALHANUSAGI-(MALATYA)",
     "Cozum":"�lksel"
   },
   {
