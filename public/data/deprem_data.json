@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"12:57:00",
+    "Enlem":35.3202,
+    "Boylam":33.5003,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"KIBRIS-BESPARMAK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"12:56:38",
+    "Enlem":39.1838,
+    "Boylam":40.3018,
+    "Derinlik":18.1,
+    "ML":"2.2",
+    "Yer":"DARKOPRU-KIGI (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"12:50:11",
+    "Enlem":38.5605,
+    "Boylam":31.1715,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"YAKASINEK-SULTANDAGI (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"12:24:29",
     "Enlem":38.0237,
     "Boylam":38.1897,
