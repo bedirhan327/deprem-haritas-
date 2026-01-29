@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"22:06:41",
+    "Enlem":40.8368,
+    "Boylam":28.3412,
+    "Derinlik":7.2,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"22:04:43",
     "Enlem":40.841,
     "Boylam":28.3283,
     "Derinlik":8.6,
     "ML":"2.6",
     "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"22:02:58",
+    "Enlem":39.1148,
+    "Boylam":28.2538,
+    "Derinlik":20.7,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
