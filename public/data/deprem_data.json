@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"16:26:44",
+    "Enlem":39.2827,
+    "Boylam":28.0458,
+    "Derinlik":18.7,
+    "ML":"1.5",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"16:16:27",
+    "Enlem":38.7172,
+    "Boylam":27.8973,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"GOLMARMARA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"16:14:53",
+    "Enlem":39.1298,
+    "Boylam":28.2953,
+    "Derinlik":8.6,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"16:14:25",
+    "Enlem":38.1493,
+    "Boylam":38.262,
+    "Derinlik":5.0,
+    "ML":"2.7",
+    "Yer":"ALTINTAS-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"15:54:30",
+    "Enlem":39.127,
+    "Boylam":28.284,
+    "Derinlik":15.1,
+    "ML":"2.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"15:50:36",
     "Enlem":37.1613,
     "Boylam":30.4783,
