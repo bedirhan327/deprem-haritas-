@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"05:39:27",
+    "Enlem":37.3078,
+    "Boylam":37.0402,
+    "Derinlik":4.2,
+    "ML":"1.8",
+    "Yer":"CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"05:33:05",
+    "Enlem":37.3117,
+    "Boylam":37.0253,
+    "Derinlik":2.9,
+    "ML":"1.8",
+    "Yer":"CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"05:29:08",
+    "Enlem":39.7468,
+    "Boylam":33.8057,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"UCEVLER-KESKIN (KIRIKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"05:28:54",
+    "Enlem":39.241,
+    "Boylam":28.9853,
+    "Derinlik":8.5,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"05:25:42",
+    "Enlem":39.0395,
+    "Boylam":28.4188,
+    "Derinlik":9.9,
+    "ML":"1.4",
+    "Yer":"GUNESLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"04:46:28",
     "Enlem":39.1722,
     "Boylam":28.184,
