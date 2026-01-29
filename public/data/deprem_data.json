@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"10:41:58",
+    "Enlem":39.0217,
+    "Boylam":25.9415,
+    "Derinlik":1.5,
+    "ML":"2.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"10:19:57",
+    "Enlem":39.0868,
+    "Boylam":28.1113,
+    "Derinlik":37.1,
+    "ML":"1.8",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"10:17:28",
+    "Enlem":39.8148,
+    "Boylam":34.3677,
+    "Derinlik":6.5,
+    "ML":"1.7",
+    "Yer":"YAKUPLU-YERKOY (YOZGAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"10:07:25",
     "Enlem":39.0123,
     "Boylam":28.2913,
