@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.29",
+    "Saat":"15:50:36",
+    "Enlem":37.1613,
+    "Boylam":30.4783,
+    "Derinlik":10.0,
+    "ML":"2.6",
+    "Yer":"AKKOC-DOSEMEALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"15:35:04",
+    "Enlem":40.9355,
+    "Boylam":27.3662,
+    "Derinlik":7.9,
+    "ML":"1.5",
+    "Yer":"ASAGIKILICLI-(TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"15:15:28",
+    "Enlem":39.0735,
+    "Boylam":28.268,
+    "Derinlik":21.2,
+    "ML":"0.9",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"15:13:32",
     "Enlem":38.7253,
     "Boylam":37.4238,
