@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"17:52:53",
+    "Enlem":38.1317,
+    "Boylam":37.8088,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"FINDIKKOY-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"17:47:45",
+    "Enlem":36.5507,
+    "Boylam":33.5852,
+    "Derinlik":4.9,
+    "ML":"2.6",
+    "Yer":"GOCEKLER-MUT (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"17:41:16",
+    "Enlem":39.1162,
+    "Boylam":28.3303,
+    "Derinlik":8.1,
+    "ML":"2.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"17:33:18",
+    "Enlem":40.3348,
+    "Boylam":27.0032,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"DISBUDAK-LAPSEKI (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"16:00:35",
     "Enlem":39.1627,
     "Boylam":28.3035,
