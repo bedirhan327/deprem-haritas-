@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"19:15:54",
+    "Enlem":36.3393,
+    "Boylam":27.6763,
+    "Derinlik":7.7,
+    "ML":"2.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"18:56:17",
+    "Enlem":40.2203,
+    "Boylam":32.9767,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"SIGIRLIHACI-CUBUK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"18:48:08",
+    "Enlem":39.0888,
+    "Boylam":28.3345,
+    "Derinlik":11.0,
+    "ML":"1.6",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"18:20:57",
+    "Enlem":39.1777,
+    "Boylam":28.2172,
+    "Derinlik":10.9,
+    "ML":"2.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"17:52:53",
     "Enlem":38.1317,
     "Boylam":37.8088,
