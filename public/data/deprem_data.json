@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"16:00:35",
+    "Enlem":39.1627,
+    "Boylam":28.3035,
+    "Derinlik":8.4,
+    "ML":"2.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"15:53:54",
+    "Enlem":40.7802,
+    "Boylam":27.4512,
+    "Derinlik":11.0,
+    "ML":"2.0",
+    "Yer":"YENIKOY-(TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"15:36:05",
     "Enlem":40.5915,
     "Boylam":29.1423,
     "Derinlik":0.0,
     "ML":"2.0",
     "Yer":"TERMAL (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"15:31:56",
+    "Enlem":38.5027,
+    "Boylam":39.1878,
+    "Derinlik":6.6,
+    "ML":"1.4",
+    "Yer":"KAVAKTEPE-(ELAZIG)",
     "Cozum":"�lksel"
   },
   {
