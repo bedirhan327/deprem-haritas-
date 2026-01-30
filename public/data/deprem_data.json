@@ -11,6 +11,26 @@
   },
   {
     "Tarih":"2026.01.30",
+    "Saat":"20:24:26",
+    "Enlem":38.0393,
+    "Boylam":37.593,
+    "Derinlik":3.2,
+    "ML":"1.6",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"19:56:20",
+    "Enlem":39.2188,
+    "Boylam":28.1227,
+    "Derinlik":12.9,
+    "ML":"1.8",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"19:15:54",
     "Enlem":36.3393,
     "Boylam":27.6763,
