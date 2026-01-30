@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"14:08:45",
+    "Enlem":35.1693,
+    "Boylam":33.5237,
+    "Derinlik":0.0,
+    "ML":"2.0",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"13:53:00",
+    "Enlem":38.5715,
+    "Boylam":39.32,
+    "Derinlik":4.7,
+    "ML":"2.4",
+    "Yer":"IKITEPE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"13:05:41",
+    "Enlem":37.6392,
+    "Boylam":30.4973,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"YESILBASKOY-AGLASUN (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"12:58:44",
     "Enlem":41.0155,
     "Boylam":29.3265,
