@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"11:39:38",
+    "Enlem":39.0893,
+    "Boylam":28.3438,
+    "Derinlik":8.8,
+    "ML":"1.8",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"11:37:59",
+    "Enlem":39.2638,
+    "Boylam":29.0258,
+    "Derinlik":10.6,
+    "ML":"1.5",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"11:24:23",
+    "Enlem":39.244,
+    "Boylam":29.0267,
+    "Derinlik":10.8,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"10:58:47",
     "Enlem":39.0602,
     "Boylam":28.3678,
