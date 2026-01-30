@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"12:58:44",
+    "Enlem":41.0155,
+    "Boylam":29.3265,
+    "Derinlik":0.0,
+    "ML":"0.6",
+    "Yer":"KURTDOGMUS-PENDIK (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"12:55:42",
+    "Enlem":39.446,
+    "Boylam":28.2225,
+    "Derinlik":8.0,
+    "ML":"1.7",
+    "Yer":"EMIRLER-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"12:44:35",
     "Enlem":36.8518,
     "Boylam":36.5472,
