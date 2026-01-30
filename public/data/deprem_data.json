@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"06:23:13",
+    "Enlem":39.2,
+    "Boylam":29.3815,
+    "Derinlik":15.1,
+    "ML":"1.4",
+    "Yer":"KARBASAN-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"06:17:29",
+    "Enlem":37.9112,
+    "Boylam":27.4805,
+    "Derinlik":8.4,
+    "ML":"3.8",
+    "Yer":"BALATCIK-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"05:34:19",
     "Enlem":39.2758,
     "Boylam":28.002,
