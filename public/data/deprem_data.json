@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"15:36:05",
+    "Enlem":40.5915,
+    "Boylam":29.1423,
+    "Derinlik":0.0,
+    "ML":"2.0",
+    "Yer":"TERMAL (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"15:21:49",
+    "Enlem":40.2173,
+    "Boylam":32.9378,
+    "Derinlik":5.9,
+    "ML":"3.0",
+    "Yer":"SIGIRLIHACI-CUBUK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"15:08:24",
+    "Enlem":39.1513,
+    "Boylam":28.227,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"14:46:25",
     "Enlem":37.0313,
     "Boylam":29.1498,
