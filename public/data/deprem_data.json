@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"08:45:34",
+    "Enlem":39.2875,
+    "Boylam":28.1278,
+    "Derinlik":7.7,
+    "ML":"1.5",
+    "Yer":"KARAAGAC-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"08:38:04",
+    "Enlem":37.8762,
+    "Boylam":27.4682,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"NAIPLI-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"08:28:01",
+    "Enlem":35.894,
+    "Boylam":29.1252,
+    "Derinlik":9.3,
+    "ML":"2.7",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"07:40:23",
     "Enlem":39.163,
     "Boylam":28.2923,
