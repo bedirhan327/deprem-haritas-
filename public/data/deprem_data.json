@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"09:03:56",
+    "Enlem":38.212,
+    "Boylam":38.5252,
+    "Derinlik":7.8,
+    "ML":"2.0",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"08:45:34",
     "Enlem":39.2875,
     "Boylam":28.1278,
@@ -291,6 +301,16 @@
   },
   {
     "Tarih":"2026.01.29",
+    "Saat":"22:20:51",
+    "Enlem":39.1258,
+    "Boylam":28.2712,
+    "Derinlik":15.6,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"22:06:41",
     "Enlem":40.8368,
     "Boylam":28.3412,
@@ -411,6 +431,16 @@
   },
   {
     "Tarih":"2026.01.29",
+    "Saat":"16:56:55",
+    "Enlem":39.1275,
+    "Boylam":28.348,
+    "Derinlik":8.9,
+    "ML":"1.8",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"16:56:05",
     "Enlem":39.2513,
     "Boylam":29.0063,
@@ -427,6 +457,16 @@
     "Derinlik":5.0,
     "ML":"3.5",
     "Yer":"DAGDELEN-DOGUBAYAZIT (AGRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"16:51:26",
+    "Enlem":38.9815,
+    "Boylam":28.3938,
+    "Derinlik":15.7,
+    "ML":"1.6",
+    "Yer":"CATALARMUT-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
@@ -811,6 +851,16 @@
   },
   {
     "Tarih":"2026.01.29",
+    "Saat":"07:39:30",
+    "Enlem":35.9842,
+    "Boylam":29.5267,
+    "Derinlik":8.8,
+    "ML":"1.8",
+    "Yer":"KAS ACIKLARI-ANTALYA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
     "Saat":"06:37:43",
     "Enlem":39.1323,
     "Boylam":28.3148,
@@ -827,6 +877,16 @@
     "Derinlik":14.7,
     "ML":"1.5",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.29",
+    "Saat":"05:47:46",
+    "Enlem":38.543,
+    "Boylam":39.3412,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"CEVIZDERE-(ELAZIG)",
     "Cozum":"�lksel"
   },
   {
