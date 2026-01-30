@@ -1,12 +1,72 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"21:48:55",
+    "Enlem":37.0572,
+    "Boylam":28.8882,
+    "Derinlik":11.2,
+    "ML":"1.8",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"21:41:15",
+    "Enlem":39.0787,
+    "Boylam":28.8833,
+    "Derinlik":13.4,
+    "ML":"0.9",
+    "Yer":"OREYLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"21:32:37",
+    "Enlem":35.2377,
+    "Boylam":26.3637,
+    "Derinlik":25.0,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"21:24:26",
+    "Enlem":39.2467,
+    "Boylam":28.1258,
+    "Derinlik":13.1,
+    "ML":"1.3",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"20:53:40",
+    "Enlem":38.0298,
+    "Boylam":36.1602,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"YENIKOY-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"20:38:04",
     "Enlem":40.7758,
     "Boylam":31.6332,
     "Derinlik":5.3,
     "ML":"3.1",
     "Yer":"BAKIRLI-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"20:37:05",
+    "Enlem":39.3167,
+    "Boylam":28.922,
+    "Derinlik":9.3,
+    "ML":"1.4",
+    "Yer":"ORTACA-SIMAV (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
