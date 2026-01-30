@@ -1,5 +1,25 @@
 [
   {
+    "Tarih":"2026.01.31",
+    "Saat":"00:10:47",
+    "Enlem":37.8323,
+    "Boylam":38.5972,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"SALKIMBAGI-KAHTA (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"00:01:16",
+    "Enlem":38.3297,
+    "Boylam":27.9127,
+    "Derinlik":8.7,
+    "ML":"1.4",
+    "Yer":"CAMYAYLA-ODEMIS (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.30",
     "Saat":"23:49:17",
     "Enlem":39.2078,
