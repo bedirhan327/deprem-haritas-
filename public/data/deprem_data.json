@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"03:50:34",
+    "Enlem":38.4765,
+    "Boylam":42.8497,
+    "Derinlik":39.6,
+    "ML":"0.7",
+    "Yer":"INKOY-GEVAS (VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"03:49:43",
+    "Enlem":39.1758,
+    "Boylam":28.0947,
+    "Derinlik":9.3,
+    "ML":"2.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"03:37:05",
+    "Enlem":39.2555,
+    "Boylam":28.1243,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"03:23:02",
     "Enlem":39.2253,
     "Boylam":28.166,
