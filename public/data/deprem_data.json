@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.30",
+    "Saat":"12:44:35",
+    "Enlem":36.8518,
+    "Boylam":36.5472,
+    "Derinlik":9.1,
+    "ML":"1.8",
+    "Yer":"AKBEZ-HASSA (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
+    "Saat":"12:17:45",
+    "Enlem":38.6897,
+    "Boylam":30.8412,
+    "Derinlik":5.0,
+    "ML":"0.7",
+    "Yer":"KOCAOZ-COBANLAR (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.30",
     "Saat":"12:12:54",
     "Enlem":40.4602,
     "Boylam":26.3678,
