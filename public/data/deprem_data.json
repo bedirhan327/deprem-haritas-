@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"20:01:02",
+    "Enlem":38.9932,
+    "Boylam":27.8628,
+    "Derinlik":8.7,
+    "ML":"2.4",
+    "Yer":"KARABORKLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"19:54:00",
+    "Enlem":39.1048,
+    "Boylam":28.2242,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"19:30:05",
     "Enlem":39.17,
     "Boylam":28.3833,
