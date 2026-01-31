@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"09:10:20",
+    "Enlem":39.1747,
+    "Boylam":28.0985,
+    "Derinlik":15.9,
+    "ML":"1.1",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"09:09:34",
+    "Enlem":37.6727,
+    "Boylam":38.6002,
+    "Derinlik":5.1,
+    "ML":"1.9",
+    "Yer":"SENKOY-KAHTA (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"08:54:56",
+    "Enlem":37.8708,
+    "Boylam":37.867,
+    "Derinlik":17.2,
+    "ML":"1.5",
+    "Yer":"CANKARA-GOLBASI (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"08:53:41",
+    "Enlem":39.1478,
+    "Boylam":28.3943,
+    "Derinlik":2.5,
+    "ML":"1.1",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"08:22:24",
     "Enlem":38.1693,
     "Boylam":38.5638,
