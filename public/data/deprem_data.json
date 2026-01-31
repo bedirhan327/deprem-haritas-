@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"01:44:57",
+    "Enlem":36.6735,
+    "Boylam":36.299,
+    "Derinlik":5.9,
+    "ML":"1.4",
+    "Yer":"KALEDIBI-ISKENDERUN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:31:23",
+    "Enlem":39.1953,
+    "Boylam":29.4138,
+    "Derinlik":8.5,
+    "ML":"2.2",
+    "Yer":"KARBASAN-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:31:23",
+    "Enlem":40.4303,
+    "Boylam":28.9038,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:30:23",
+    "Enlem":40.437,
+    "Boylam":28.9345,
+    "Derinlik":2.2,
+    "ML":"1.8",
+    "Yer":"KAPAKLI-ARMUTLU (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"01:23:31",
     "Enlem":39.1682,
     "Boylam":29.4553,
