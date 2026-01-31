@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"17:17:28",
+    "Enlem":36.4335,
+    "Boylam":27.8382,
+    "Derinlik":68.0,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"16:51:38",
+    "Enlem":37.9218,
+    "Boylam":36.22,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"AKSAAGAC-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"16:34:14",
+    "Enlem":35.8877,
+    "Boylam":27.7597,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"RODOS ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"16:09:35",
     "Enlem":39.156,
     "Boylam":28.297,
