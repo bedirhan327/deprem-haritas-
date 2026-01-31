@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"01:23:31",
+    "Enlem":39.1682,
+    "Boylam":29.4553,
+    "Derinlik":2.8,
+    "ML":"1.0",
+    "Yer":"PUSATLAR-CAVDARHISAR (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:19:54",
+    "Enlem":39.2433,
+    "Boylam":29.031,
+    "Derinlik":11.0,
+    "ML":"1.2",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:12:51",
+    "Enlem":39.165,
+    "Boylam":28.1885,
+    "Derinlik":8.1,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"00:59:20",
+    "Enlem":37.902,
+    "Boylam":36.295,
+    "Derinlik":14.3,
+    "ML":"1.7",
+    "Yer":"HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"00:42:57",
     "Enlem":39.161,
     "Boylam":28.309,
