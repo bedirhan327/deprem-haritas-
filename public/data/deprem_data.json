@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"21:50:40",
+    "Enlem":39.1338,
+    "Boylam":28.3232,
+    "Derinlik":14.0,
+    "ML":"2.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"21:35:40",
+    "Enlem":38.0322,
+    "Boylam":37.629,
+    "Derinlik":11.2,
+    "ML":"1.8",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"21:31:30",
+    "Enlem":39.137,
+    "Boylam":28.2675,
+    "Derinlik":11.3,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"20:01:02",
     "Enlem":38.9932,
     "Boylam":27.8628,
