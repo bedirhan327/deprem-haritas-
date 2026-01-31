@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"04:15:16",
+    "Enlem":37.1057,
+    "Boylam":28.3443,
+    "Derinlik":12.3,
+    "ML":"1.0",
+    "Yer":"DOGAN-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"04:15:04",
+    "Enlem":39.1448,
+    "Boylam":28.2885,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"03:43:02",
     "Enlem":39.237,
     "Boylam":29.0173,
