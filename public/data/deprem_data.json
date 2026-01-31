@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"23:53:26",
+    "Enlem":38.3503,
+    "Boylam":38.7405,
+    "Derinlik":6.8,
+    "ML":"2.6",
+    "Yer":"SARIOT-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"23:31:18",
+    "Enlem":39.4392,
+    "Boylam":26.3455,
+    "Derinlik":13.2,
+    "ML":"1.2",
+    "Yer":"EDREMIT KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"23:17:27",
+    "Enlem":36.3308,
+    "Boylam":29.2175,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"KARADERE-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"23:07:13",
     "Enlem":39.2115,
     "Boylam":28.1157,
