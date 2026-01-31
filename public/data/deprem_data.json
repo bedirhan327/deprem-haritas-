@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"02:12:37",
+    "Enlem":40.7217,
+    "Boylam":27.4607,
+    "Derinlik":13.7,
+    "ML":"2.1",
+    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"02:04:50",
+    "Enlem":39.139,
+    "Boylam":28.3017,
+    "Derinlik":12.1,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:46:47",
+    "Enlem":38.8268,
+    "Boylam":25.8975,
+    "Derinlik":7.8,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"01:44:57",
     "Enlem":36.6735,
     "Boylam":36.299,
     "Derinlik":5.9,
     "ML":"1.4",
     "Yer":"KALEDIBI-ISKENDERUN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"01:43:34",
+    "Enlem":40.4342,
+    "Boylam":28.9028,
+    "Derinlik":4.7,
+    "ML":"1.4",
+    "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
     "Cozum":"�lksel"
   },
   {
