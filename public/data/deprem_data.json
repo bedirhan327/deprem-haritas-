@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"03:21:06",
+    "Enlem":39.0965,
+    "Boylam":28.2315,
+    "Derinlik":7.1,
+    "ML":"1.4",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"03:06:10",
+    "Enlem":37.8618,
+    "Boylam":29.472,
+    "Derinlik":10.0,
+    "ML":"1.0",
+    "Yer":"ALIKURT-BOZKURT (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"02:54:08",
+    "Enlem":39.0813,
+    "Boylam":28.2212,
+    "Derinlik":16.3,
+    "ML":"1.1",
+    "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"02:25:57",
     "Enlem":39.1347,
     "Boylam":28.1362,
     "Derinlik":20.5,
     "ML":"0.6",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"02:24:39",
+    "Enlem":35.0962,
+    "Boylam":24.1303,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
