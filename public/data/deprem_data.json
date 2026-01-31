@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.01.31",
+    "Saat":"14:44:49",
+    "Enlem":38.8907,
+    "Boylam":25.6147,
+    "Derinlik":5.6,
+    "ML":"2.7",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"14:18:28",
+    "Enlem":34.6343,
+    "Boylam":32.5365,
+    "Derinlik":41.5,
+    "ML":"2.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"13:54:59",
+    "Enlem":38.3135,
+    "Boylam":38.7637,
+    "Derinlik":5.3,
+    "ML":"1.5",
+    "Yer":"CANAKCI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
     "Saat":"13:54:15",
     "Enlem":39.1437,
     "Boylam":28.233,
     "Derinlik":16.6,
     "ML":"2.2",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.01.31",
+    "Saat":"13:51:20",
+    "Enlem":39.927,
+    "Boylam":39.7012,
+    "Derinlik":4.9,
+    "ML":"2.3",
+    "Yer":"COMLECIK-KELKIT (GUMUSHANE)",
     "Cozum":"�lksel"
   },
   {
