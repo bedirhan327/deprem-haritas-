@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.02.01",
+    "Saat":"00:07:58",
+    "Enlem":40.1553,
+    "Boylam":31.7165,
+    "Derinlik":8.3,
+    "ML":"2.2",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"00:05:23",
+    "Enlem":40.3393,
+    "Boylam":24.1332,
+    "Derinlik":5.2,
+    "ML":"1.9",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"00:02:33",
+    "Enlem":40.2565,
+    "Boylam":23.929,
+    "Derinlik":14.5,
+    "ML":"2.2",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.01.31",
     "Saat":"23:53:26",
     "Enlem":38.3503,
