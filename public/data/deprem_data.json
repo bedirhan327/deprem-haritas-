@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"02:07:24",
+    "Enlem":39.1925,
+    "Boylam":28.08,
+    "Derinlik":22.4,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"01:39:57",
+    "Enlem":39.1948,
+    "Boylam":29.4047,
+    "Derinlik":4.8,
+    "ML":"1.2",
+    "Yer":"KARBASAN-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"01:37:43",
     "Enlem":39.4437,
     "Boylam":27.8963,
