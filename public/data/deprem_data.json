@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"18:08:00",
+    "Enlem":39.1783,
+    "Boylam":28.1713,
+    "Derinlik":11.4,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"18:00:05",
+    "Enlem":38.0692,
+    "Boylam":38.3397,
+    "Derinlik":7.7,
+    "ML":"2.2",
+    "Yer":"TASDAMLAR-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"17:17:54",
     "Enlem":38.1487,
     "Boylam":38.5078,
