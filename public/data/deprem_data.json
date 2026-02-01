@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"08:46:39",
+    "Enlem":39.2443,
+    "Boylam":28.9883,
+    "Derinlik":4.9,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"08:18:12",
+    "Enlem":35.033,
+    "Boylam":26.6882,
+    "Derinlik":10.8,
+    "ML":"2.9",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"08:00:52",
     "Enlem":37.2822,
     "Boylam":32.3133,
