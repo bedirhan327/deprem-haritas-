@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"10:12:24",
+    "Enlem":40.5037,
+    "Boylam":25.9063,
+    "Derinlik":15.3,
+    "ML":"1.5",
+    "Yer":"SAROS KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"09:51:03",
     "Enlem":39.2733,
     "Boylam":28.1437,
