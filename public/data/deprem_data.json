@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"03:49:40",
+    "Enlem":39.3052,
+    "Boylam":27.733,
+    "Derinlik":1.6,
+    "ML":"1.8",
+    "Yer":"TURKPIYALA-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"03:48:33",
+    "Enlem":39.167,
+    "Boylam":28.3098,
+    "Derinlik":12.6,
+    "ML":"1.9",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"03:38:10",
+    "Enlem":39.1052,
+    "Boylam":28.263,
+    "Derinlik":3.1,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"03:21:50",
+    "Enlem":39.1575,
+    "Boylam":28.9482,
+    "Derinlik":15.0,
+    "ML":"0.9",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"03:19:16",
     "Enlem":39.7947,
     "Boylam":39.1967,
