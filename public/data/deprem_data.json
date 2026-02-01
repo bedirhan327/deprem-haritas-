@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"03:19:16",
+    "Enlem":39.7947,
+    "Boylam":39.1967,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"BALTASI-(ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"03:15:15",
+    "Enlem":39.3138,
+    "Boylam":27.7168,
+    "Derinlik":10.2,
+    "ML":"2.1",
+    "Yer":"TURKPIYALA-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"03:12:16",
+    "Enlem":39.2248,
+    "Boylam":28.9825,
+    "Derinlik":12.0,
+    "ML":"1.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"03:06:25",
+    "Enlem":38.2748,
+    "Boylam":38.7835,
+    "Derinlik":23.7,
+    "ML":"1.7",
+    "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"02:41:09",
     "Enlem":39.135,
     "Boylam":28.288,
