@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"22:49:20",
+    "Enlem":39.1635,
+    "Boylam":28.1707,
+    "Derinlik":9.0,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"22:44:01",
+    "Enlem":39.6453,
+    "Boylam":27.8797,
+    "Derinlik":12.7,
+    "ML":"1.7",
+    "Yer":"BALIKESIR (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"22:09:02",
     "Enlem":37.9138,
     "Boylam":37.9312,
