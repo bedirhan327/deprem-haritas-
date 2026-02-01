@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"22:09:02",
+    "Enlem":37.9138,
+    "Boylam":37.9312,
+    "Derinlik":16.7,
+    "ML":"1.1",
+    "Yer":"ERKENEK-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"22:04:01",
+    "Enlem":38.1163,
+    "Boylam":36.5975,
+    "Derinlik":5.1,
+    "ML":"1.7",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"21:58:10",
+    "Enlem":39.1648,
+    "Boylam":28.3097,
+    "Derinlik":10.6,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"20:49:54",
     "Enlem":36.5367,
     "Boylam":28.1913,
