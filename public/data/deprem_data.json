@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"06:45:26",
+    "Enlem":39.0035,
+    "Boylam":30.2058,
+    "Derinlik":6.1,
+    "ML":"1.8",
+    "Yer":"BESKARIS-ALTINTAS (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"06:43:17",
+    "Enlem":39.1105,
+    "Boylam":29.3958,
+    "Derinlik":5.1,
+    "ML":"1.0",
+    "Yer":"YESILOVA-GEDIZ (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"06:20:44",
     "Enlem":39.667,
     "Boylam":37.3642,
