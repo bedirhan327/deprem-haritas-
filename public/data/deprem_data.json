@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"19:47:30",
+    "Enlem":40.367,
+    "Boylam":24.0933,
+    "Derinlik":7.5,
+    "ML":"2.3",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"19:36:10",
+    "Enlem":39.1992,
+    "Boylam":28.9282,
+    "Derinlik":11.7,
+    "ML":"1.7",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"19:16:11",
     "Enlem":39.1543,
     "Boylam":28.2298,
     "Derinlik":9.0,
     "ML":"1.9",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"18:57:34",
+    "Enlem":34.877,
+    "Boylam":25.807,
+    "Derinlik":10.3,
+    "ML":"3.0",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
