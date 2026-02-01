@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.01",
+    "Saat":"10:43:13",
+    "Enlem":38.0683,
+    "Boylam":38.3667,
+    "Derinlik":14.3,
+    "ML":"1.4",
+    "Yer":"KORUCAK-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"10:19:55",
+    "Enlem":38.2535,
+    "Boylam":38.137,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
     "Saat":"10:12:24",
     "Enlem":40.5037,
     "Boylam":25.9063,
@@ -57,6 +77,16 @@
     "Derinlik":4.7,
     "ML":"2.3",
     "Yer":"DUTLU-AKOREN (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.01",
+    "Saat":"08:50:57",
+    "Enlem":35.8073,
+    "Boylam":25.6023,
+    "Derinlik":15.3,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
