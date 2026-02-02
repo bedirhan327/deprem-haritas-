@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"12:54:50",
+    "Enlem":39.4593,
+    "Boylam":28.1183,
+    "Derinlik":16.4,
+    "ML":"1.5",
+    "Yer":"KADIKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"12:50:31",
+    "Enlem":37.142,
+    "Boylam":36.7417,
+    "Derinlik":6.3,
+    "ML":"2.2",
+    "Yer":"GOZLUHUYUK-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"12:47:49",
+    "Enlem":45.7123,
+    "Boylam":35.7218,
+    "Derinlik":34.7,
+    "ML":"4.9",
+    "Yer":"KARADENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"11:49:51",
     "Enlem":39.1708,
     "Boylam":28.2622,
