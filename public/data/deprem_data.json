@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.02.03",
+    "Saat":"00:12:35",
+    "Enlem":39.0857,
+    "Boylam":28.3362,
+    "Derinlik":6.5,
+    "ML":"1.7",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"00:12:16",
+    "Enlem":35.9245,
+    "Boylam":30.7503,
+    "Derinlik":14.0,
+    "ML":"3.2",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"23:54:31",
+    "Enlem":38.4965,
+    "Boylam":26.5018,
+    "Derinlik":19.4,
+    "ML":"1.6",
+    "Yer":"KOSEDERE-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.02",
     "Saat":"23:47:54",
     "Enlem":39.2467,
