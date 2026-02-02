@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"21:07:04",
+    "Enlem":39.2418,
+    "Boylam":29.0285,
+    "Derinlik":10.1,
+    "ML":"1.4",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"21:00:06",
+    "Enlem":38.064,
+    "Boylam":36.5832,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"HACIOMER-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"20:10:40",
     "Enlem":38.759,
     "Boylam":27.1293,
