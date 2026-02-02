@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"21:37:47",
+    "Enlem":39.1648,
+    "Boylam":28.3055,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"21:28:11",
+    "Enlem":39.1942,
+    "Boylam":28.1463,
+    "Derinlik":16.6,
+    "ML":"1.7",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"21:07:04",
     "Enlem":39.2418,
     "Boylam":29.0285,
@@ -71,6 +91,16 @@
   },
   {
     "Tarih":"2026.02.02",
+    "Saat":"18:45:16",
+    "Enlem":40.0462,
+    "Boylam":41.0828,
+    "Derinlik":4.8,
+    "ML":"1.9",
+    "Yer":"DAGDAGUL-AZIZIYE (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"18:41:14",
     "Enlem":39.2452,
     "Boylam":29.0408,
@@ -117,6 +147,26 @@
     "Derinlik":17.8,
     "ML":"1.2",
     "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"18:10:22",
+    "Enlem":39.0662,
+    "Boylam":40.3322,
+    "Derinlik":9.4,
+    "ML":"2.4",
+    "Yer":"KUSKONDU-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"18:03:11",
+    "Enlem":39.4043,
+    "Boylam":39.7785,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"KOVUKLU-PULUMUR (TUNCELI)",
     "Cozum":"�lksel"
   },
   {
