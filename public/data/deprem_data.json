@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"11:49:51",
+    "Enlem":39.1708,
+    "Boylam":28.2622,
+    "Derinlik":16.7,
+    "ML":"1.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"11:43:23",
+    "Enlem":39.2418,
+    "Boylam":29.0305,
+    "Derinlik":11.1,
+    "ML":"1.9",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"11:41:21",
+    "Enlem":39.2505,
+    "Boylam":29.02,
+    "Derinlik":11.0,
+    "ML":"2.5",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"11:39:36",
+    "Enlem":39.2425,
+    "Boylam":29.0475,
+    "Derinlik":9.9,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"11:36:22",
+    "Enlem":37.3567,
+    "Boylam":36.1532,
+    "Derinlik":15.0,
+    "ML":"1.9",
+    "Yer":"CIGDEMLI-KADIRLI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"11:14:13",
     "Enlem":39.329,
     "Boylam":28.1363,
