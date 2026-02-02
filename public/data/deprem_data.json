@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"04:36:56",
+    "Enlem":39.0872,
+    "Boylam":28.233,
+    "Derinlik":16.8,
+    "ML":"1.4",
+    "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"04:31:18",
+    "Enlem":39.5798,
+    "Boylam":25.947,
+    "Derinlik":12.4,
+    "ML":"2.7",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"04:12:04",
     "Enlem":39.15,
     "Boylam":28.2392,
