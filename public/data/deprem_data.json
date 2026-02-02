@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"16:15:30",
+    "Enlem":38.2428,
+    "Boylam":37.7388,
+    "Derinlik":11.2,
+    "ML":"1.7",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"16:14:13",
+    "Enlem":39.2202,
+    "Boylam":28.9457,
+    "Derinlik":17.0,
+    "ML":"1.7",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"15:56:08",
+    "Enlem":39.1785,
+    "Boylam":28.2995,
+    "Derinlik":5.4,
+    "ML":"1.3",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"15:52:00",
+    "Enlem":38.2527,
+    "Boylam":37.7093,
+    "Derinlik":11.3,
+    "ML":"2.0",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"15:47:31",
+    "Enlem":39.1793,
+    "Boylam":28.2933,
+    "Derinlik":14.6,
+    "ML":"2.1",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"15:40:54",
     "Enlem":39.2338,
     "Boylam":29.0312,
