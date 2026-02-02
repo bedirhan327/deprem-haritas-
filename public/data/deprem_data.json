@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"15:40:54",
+    "Enlem":39.2338,
+    "Boylam":29.0312,
+    "Derinlik":13.5,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"15:38:43",
+    "Enlem":39.226,
+    "Boylam":28.1017,
+    "Derinlik":14.3,
+    "ML":"2.7",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"15:32:42",
+    "Enlem":39.1815,
+    "Boylam":25.9455,
+    "Derinlik":14.3,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"15:11:18",
     "Enlem":39.145,
     "Boylam":28.3128,
