@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"10:19:12",
+    "Enlem":39.1743,
+    "Boylam":28.3045,
+    "Derinlik":8.4,
+    "ML":"1.7",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"10:13:52",
+    "Enlem":39.2467,
+    "Boylam":29.0172,
+    "Derinlik":15.7,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"10:12:33",
+    "Enlem":39.2503,
+    "Boylam":29.02,
+    "Derinlik":11.1,
+    "ML":"3.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"09:46:33",
     "Enlem":38.0948,
     "Boylam":36.4198,
@@ -17,6 +47,16 @@
     "Derinlik":11.5,
     "ML":"1.6",
     "Yer":"BALATCIK-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"08:19:11",
+    "Enlem":39.251,
+    "Boylam":29.0427,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
