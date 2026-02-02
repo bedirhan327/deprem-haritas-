@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.02",
+    "Saat":"05:12:28",
+    "Enlem":37.5768,
+    "Boylam":36.1363,
+    "Derinlik":6.7,
+    "ML":"2.1",
+    "Yer":"KOSEPINARI-KADIRLI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"05:02:45",
+    "Enlem":37.525,
+    "Boylam":38.6943,
+    "Derinlik":13.8,
+    "ML":"1.1",
+    "Yer":"HAYRAT-HILVAN (SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"04:56:56",
+    "Enlem":37.6043,
+    "Boylam":35.9947,
+    "Derinlik":3.6,
+    "ML":"2.1",
+    "Yer":"BOZTAHTA-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
+    "Saat":"04:44:09",
+    "Enlem":39.1672,
+    "Boylam":28.2522,
+    "Derinlik":14.8,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.02",
     "Saat":"04:36:56",
     "Enlem":39.0872,
     "Boylam":28.233,
