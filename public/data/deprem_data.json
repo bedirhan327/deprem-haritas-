@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"15:27:39",
+    "Enlem":39.1465,
+    "Boylam":28.234,
+    "Derinlik":17.9,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"15:21:47",
+    "Enlem":39.1762,
+    "Boylam":28.9838,
+    "Derinlik":10.3,
+    "ML":"0.9",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"15:13:07",
+    "Enlem":39.2498,
+    "Boylam":28.1625,
+    "Derinlik":4.4,
+    "ML":"1.6",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"15:07:35",
+    "Enlem":38.3103,
+    "Boylam":27.964,
+    "Derinlik":21.7,
+    "ML":"0.5",
+    "Yer":"COBANLAR-ODEMIS (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"14:57:06",
     "Enlem":40.1973,
     "Boylam":27.7328,
