@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"14:57:06",
+    "Enlem":40.1973,
+    "Boylam":27.7328,
+    "Derinlik":14.0,
+    "ML":"1.0",
+    "Yer":"CALIOBA-GONEN (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"14:49:34",
+    "Enlem":40.4492,
+    "Boylam":33.001,
+    "Derinlik":11.0,
+    "ML":"2.0",
+    "Yer":"AVCIOVA-CUBUK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"13:58:08",
     "Enlem":39.9495,
     "Boylam":32.7233,
     "Derinlik":2.2,
     "ML":"1.7",
     "Yer":"ETIMESGUT (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"13:39:27",
+    "Enlem":42.3618,
+    "Boylam":27.3208,
+    "Derinlik":16.8,
+    "ML":"2.0",
+    "Yer":"BULGARISTAN",
     "Cozum":"�lksel"
   },
   {
