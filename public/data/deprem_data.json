@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"12:56:39",
+    "Enlem":39.1918,
+    "Boylam":28.2355,
+    "Derinlik":9.1,
+    "ML":"1.8",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"12:32:55",
     "Enlem":39.378,
     "Boylam":28.0118,
@@ -61,12 +71,32 @@
   },
   {
     "Tarih":"2026.02.03",
+    "Saat":"11:32:09",
+    "Enlem":38.0658,
+    "Boylam":37.7688,
+    "Derinlik":23.8,
+    "ML":"1.4",
+    "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"11:17:42",
     "Enlem":39.13,
     "Boylam":28.296,
     "Derinlik":11.4,
     "ML":"1.8",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"11:01:48",
+    "Enlem":40.2363,
+    "Boylam":31.7717,
+    "Derinlik":8.1,
+    "ML":"1.9",
+    "Yer":"KOZAGAC-BEYPAZARI (ANKARA)",
     "Cozum":"�lksel"
   },
   {
