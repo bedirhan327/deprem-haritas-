@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"20:16:15",
+    "Enlem":39.1643,
+    "Boylam":28.2662,
+    "Derinlik":15.9,
+    "ML":"2.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"20:12:32",
+    "Enlem":38.209,
+    "Boylam":38.5048,
+    "Derinlik":5.4,
+    "ML":"3.2",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"20:09:05",
+    "Enlem":37.4657,
+    "Boylam":31.5247,
+    "Derinlik":7.3,
+    "ML":"1.7",
+    "Yer":"GENCEK-DEREBUCAK (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"19:35:44",
     "Enlem":40.6392,
     "Boylam":36.416,
