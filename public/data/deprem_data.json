@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"11:48:45",
+    "Enlem":39.1373,
+    "Boylam":26.343,
+    "Derinlik":29.7,
+    "ML":"1.3",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"11:37:45",
+    "Enlem":37.8917,
+    "Boylam":36.0488,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"TULU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"11:17:42",
     "Enlem":39.13,
     "Boylam":28.296,
