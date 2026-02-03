@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"22:14:54",
+    "Enlem":34.8282,
+    "Boylam":33.3505,
+    "Derinlik":28.4,
+    "ML":"2.6",
+    "Yer":"GUNEY KIBRIS",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"21:59:05",
+    "Enlem":39.2288,
+    "Boylam":27.8318,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"SOGUTALANI-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"21:52:42",
     "Enlem":36.7623,
     "Boylam":26.5338,
