@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"10:40:01",
+    "Enlem":36.2047,
+    "Boylam":27.4977,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"DATCA ACIKLARI-MUGLA (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"10:38:19",
+    "Enlem":39.1382,
+    "Boylam":28.3265,
+    "Derinlik":19.2,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"10:35:36",
     "Enlem":39.1935,
     "Boylam":28.1165,
