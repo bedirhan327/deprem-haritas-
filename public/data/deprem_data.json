@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"13:29:14",
+    "Enlem":37.7757,
+    "Boylam":36.0175,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"13:20:56",
+    "Enlem":38.8505,
+    "Boylam":27.9183,
+    "Derinlik":2.4,
+    "ML":"1.6",
+    "Yer":"BOYALILAR-AKHISAR (MANISA) REVIZE01 (2026.02.03",
+    "Cozum":"13:20:56)"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"13:14:30",
+    "Enlem":37.8288,
+    "Boylam":26.9483,
+    "Derinlik":6.5,
+    "ML":"1.7",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"12:56:39",
     "Enlem":39.1918,
     "Boylam":28.2355,
