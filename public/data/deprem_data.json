@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"23:15:48",
+    "Enlem":38.6425,
+    "Boylam":26.615,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"23:14:55",
+    "Enlem":39.2305,
+    "Boylam":29.0078,
+    "Derinlik":11.7,
+    "ML":"1.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"23:10:54",
+    "Enlem":38.0692,
+    "Boylam":38.6533,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"ULUTAS-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"22:46:51",
     "Enlem":38.4033,
     "Boylam":25.2535,
