@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"17:30:04",
+    "Enlem":39.1752,
+    "Boylam":28.2832,
+    "Derinlik":9.9,
+    "ML":"1.6",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"17:03:32",
+    "Enlem":40.4865,
+    "Boylam":29.196,
+    "Derinlik":0.0,
+    "ML":"0.8",
+    "Yer":"SAHINYURDU-GEMLIK (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"16:59:24",
+    "Enlem":37.0728,
+    "Boylam":29.4133,
+    "Derinlik":15.3,
+    "ML":"1.6",
+    "Yer":"AYVACIK-CAMELI (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"16:54:42",
     "Enlem":38.1393,
     "Boylam":38.294,
