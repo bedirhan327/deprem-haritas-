@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"22:46:51",
+    "Enlem":38.4033,
+    "Boylam":25.2535,
+    "Derinlik":5.7,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"22:41:09",
+    "Enlem":36.789,
+    "Boylam":26.183,
+    "Derinlik":5.9,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"22:21:03",
+    "Enlem":36.679,
+    "Boylam":25.5942,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"22:14:54",
     "Enlem":34.8282,
     "Boylam":33.3505,
