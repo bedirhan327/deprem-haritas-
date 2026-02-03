@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"16:24:11",
+    "Enlem":38.1232,
+    "Boylam":37.4465,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"16:17:05",
+    "Enlem":36.1878,
+    "Boylam":29.6332,
+    "Derinlik":3.3,
+    "ML":"1.6",
+    "Yer":"KAS (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"15:42:18",
+    "Enlem":40.7287,
+    "Boylam":27.3907,
+    "Derinlik":4.6,
+    "ML":"2.1",
+    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"15:27:39",
     "Enlem":39.1465,
     "Boylam":28.234,
