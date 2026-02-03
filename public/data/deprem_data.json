@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"09:11:32",
+    "Enlem":39.2523,
+    "Boylam":27.893,
+    "Derinlik":8.3,
+    "ML":"1.5",
+    "Yer":"COBANLAR-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"09:06:13",
+    "Enlem":39.1077,
+    "Boylam":28.3115,
+    "Derinlik":10.0,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR) REVIZE01 (2026.02.03",
+    "Cozum":"09:06:13)"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"08:50:47",
+    "Enlem":39.1307,
+    "Boylam":29.0355,
+    "Derinlik":13.2,
+    "ML":"1.2",
+    "Yer":"KAPIKAYA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"08:35:33",
+    "Enlem":37.9133,
+    "Boylam":36.2892,
+    "Derinlik":5.0,
+    "ML":"3.1",
+    "Yer":"HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"08:35:14",
     "Enlem":38.6013,
     "Boylam":27.609,
