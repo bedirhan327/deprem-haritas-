@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"16:54:42",
+    "Enlem":38.1393,
+    "Boylam":38.294,
+    "Derinlik":1.8,
+    "ML":"2.6",
+    "Yer":"KALECIK-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"16:44:43",
+    "Enlem":38.0215,
+    "Boylam":38.1612,
+    "Derinlik":4.9,
+    "ML":"1.2",
+    "Yer":"PINARBASI-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"16:24:11",
     "Enlem":38.1232,
     "Boylam":37.4465,
