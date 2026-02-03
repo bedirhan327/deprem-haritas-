@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"19:35:44",
+    "Enlem":40.6392,
+    "Boylam":36.416,
+    "Derinlik":7.6,
+    "ML":"1.6",
+    "Yer":"TANOBA-ERBAA (TOKAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"19:25:29",
+    "Enlem":39.2423,
+    "Boylam":29.0457,
+    "Derinlik":9.8,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"17:48:59",
     "Enlem":39.8218,
     "Boylam":27.5075,
