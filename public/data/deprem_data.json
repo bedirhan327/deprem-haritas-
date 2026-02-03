@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"17:48:59",
+    "Enlem":39.8218,
+    "Boylam":27.5075,
+    "Derinlik":3.9,
+    "ML":"1.6",
+    "Yer":"CALOVA-BALYA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"17:30:34",
+    "Enlem":39.0077,
+    "Boylam":27.985,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"DOGANKAYA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"17:30:04",
     "Enlem":39.1752,
     "Boylam":28.2832,
     "Derinlik":9.9,
     "ML":"1.6",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"17:20:57",
+    "Enlem":37.8893,
+    "Boylam":37.8228,
+    "Derinlik":4.5,
+    "ML":"1.8",
+    "Yer":"CANKARA-GOLBASI (ADIYAMAN)",
     "Cozum":"�lksel"
   },
   {
