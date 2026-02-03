@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"20:57:52",
+    "Enlem":39.1725,
+    "Boylam":28.2203,
+    "Derinlik":11.4,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"20:56:57",
+    "Enlem":35.3305,
+    "Boylam":23.2928,
+    "Derinlik":6.1,
+    "ML":"1.8",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"20:36:21",
+    "Enlem":38.6525,
+    "Boylam":39.6582,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"KONAKALMAZ-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"20:16:15",
     "Enlem":39.1643,
     "Boylam":28.2662,
