@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"10:07:38",
+    "Enlem":39.1752,
+    "Boylam":28.3077,
+    "Derinlik":9.6,
+    "ML":"1.5",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"09:46:05",
     "Enlem":38.7668,
     "Boylam":27.1432,
     "Derinlik":12.1,
     "ML":"2.2",
     "Yer":"DUZLEN-(MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"09:32:20",
+    "Enlem":39.1317,
+    "Boylam":28.3058,
+    "Derinlik":10.1,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -48,6 +68,16 @@
     "ML":"1.4",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR) REVIZE01 (2026.02.03",
     "Cozum":"09:06:13)"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"09:03:12",
+    "Enlem":39.4138,
+    "Boylam":27.7702,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"SOGUTLUGOZLER-SAVASTEPE (BALIKESIR)",
+    "Cozum":"�lksel"
   },
   {
     "Tarih":"2026.02.03",
