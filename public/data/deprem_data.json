@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"23:27:19",
+    "Enlem":36.6583,
+    "Boylam":25.4787,
+    "Derinlik":11.8,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"23:27:03",
+    "Enlem":40.5098,
+    "Boylam":42.3402,
+    "Derinlik":4.5,
+    "ML":"1.7",
+    "Yer":"TUTENOCAK-SENKAYA (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"23:16:11",
+    "Enlem":40.7698,
+    "Boylam":27.375,
+    "Derinlik":14.2,
+    "ML":"0.6",
+    "Yer":"UCMAKDERE-SARKOY (TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"23:15:48",
     "Enlem":38.6425,
     "Boylam":26.615,
