@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"04:52:37",
+    "Enlem":39.164,
+    "Boylam":28.2468,
+    "Derinlik":15.5,
+    "ML":"0.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"04:49:33",
+    "Enlem":39.179,
+    "Boylam":28.184,
+    "Derinlik":17.3,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"04:25:29",
+    "Enlem":39.8688,
+    "Boylam":28.261,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"YAYLACAYIRI-SUSURLUK (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"04:15:07",
+    "Enlem":34.0592,
+    "Boylam":23.8985,
+    "Derinlik":5.0,
+    "ML":"3.0",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"04:08:39",
     "Enlem":38.7725,
     "Boylam":27.1177,
