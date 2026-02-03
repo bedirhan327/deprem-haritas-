@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.03",
+    "Saat":"09:46:05",
+    "Enlem":38.7668,
+    "Boylam":27.1432,
+    "Derinlik":12.1,
+    "ML":"2.2",
+    "Yer":"DUZLEN-(MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"09:29:21",
+    "Enlem":39.1845,
+    "Boylam":28.2775,
+    "Derinlik":11.5,
+    "ML":"3.3",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
+    "Saat":"09:17:28",
+    "Enlem":39.1752,
+    "Boylam":28.2645,
+    "Derinlik":16.1,
+    "ML":"2.8",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.03",
     "Saat":"09:11:32",
     "Enlem":39.2523,
     "Boylam":27.893,
