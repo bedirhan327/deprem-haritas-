@@ -1,5 +1,25 @@
 [
   {
+    "Tarih":"2026.02.04",
+    "Saat":"00:31:52",
+    "Enlem":39.1777,
+    "Boylam":28.9557,
+    "Derinlik":17.6,
+    "ML":"1.5",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"00:15:30",
+    "Enlem":38.301,
+    "Boylam":38.2912,
+    "Derinlik":8.5,
+    "ML":"1.4",
+    "Yer":"GUNDUZBEY-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.03",
     "Saat":"23:48:16",
     "Enlem":39.1422,
