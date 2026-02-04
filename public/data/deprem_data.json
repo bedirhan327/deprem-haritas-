@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2026.02.05",
+    "Saat":"00:14:43",
+    "Enlem":40.7123,
+    "Boylam":27.7667,
+    "Derinlik":14.0,
+    "ML":"1.4",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"00:10:14",
+    "Enlem":38.0583,
+    "Boylam":36.5208,
+    "Derinlik":7.9,
+    "ML":"1.2",
+    "Yer":"ORTATEPE-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"00:00:11",
+    "Enlem":39.1522,
+    "Boylam":28.3028,
+    "Derinlik":12.2,
+    "ML":"1.4",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"23:35:30",
+    "Enlem":39.2162,
+    "Boylam":28.1393,
+    "Derinlik":8.9,
+    "ML":"1.2",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.04",
     "Saat":"23:14:21",
     "Enlem":39.2335,
