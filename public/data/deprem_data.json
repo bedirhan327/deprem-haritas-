@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"14:37:58",
+    "Enlem":37.0217,
+    "Boylam":28.207,
+    "Derinlik":12.7,
+    "ML":"1.0",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"14:33:23",
+    "Enlem":37.9933,
+    "Boylam":36.1718,
+    "Derinlik":4.1,
+    "ML":"1.7",
+    "Yer":"YENIKOY-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"14:19:53",
     "Enlem":39.2385,
     "Boylam":27.69,
