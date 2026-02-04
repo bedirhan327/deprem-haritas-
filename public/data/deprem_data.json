@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"13:06:33",
+    "Enlem":37.3095,
+    "Boylam":36.9697,
+    "Derinlik":5.0,
+    "ML":"3.0",
+    "Yer":"BAYRAMGAZI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"12:44:51",
     "Enlem":39.1722,
     "Boylam":28.282,
@@ -81,6 +91,16 @@
   },
   {
     "Tarih":"2026.02.04",
+    "Saat":"11:19:54",
+    "Enlem":36.7863,
+    "Boylam":26.1607,
+    "Derinlik":3.3,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"11:06:51",
     "Enlem":36.6415,
     "Boylam":25.6383,
@@ -107,6 +127,26 @@
     "Derinlik":17.0,
     "ML":"0.8",
     "Yer":"GAZIKOY-SARKOY (TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"10:17:45",
+    "Enlem":34.6382,
+    "Boylam":24.825,
+    "Derinlik":9.8,
+    "ML":"3.3",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"10:16:00",
+    "Enlem":34.929,
+    "Boylam":25.793,
+    "Derinlik":16.2,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
