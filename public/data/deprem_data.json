@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"11:42:48",
+    "Enlem":36.9658,
+    "Boylam":35.1037,
+    "Derinlik":12.5,
+    "ML":"2.6",
+    "Yer":"ARIKLI-TARSUS (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"11:28:48",
+    "Enlem":39.0385,
+    "Boylam":28.3525,
+    "Derinlik":5.0,
+    "ML":"1.0",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"11:06:51",
     "Enlem":36.6415,
     "Boylam":25.6383,
