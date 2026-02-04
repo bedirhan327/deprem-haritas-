@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"12:44:51",
+    "Enlem":39.1722,
+    "Boylam":28.282,
+    "Derinlik":9.1,
+    "ML":"2.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"12:42:16",
+    "Enlem":39.6693,
+    "Boylam":26.0223,
+    "Derinlik":21.3,
+    "ML":"1.2",
+    "Yer":"TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"12:35:59",
+    "Enlem":36.3682,
+    "Boylam":33.6025,
+    "Derinlik":0.0,
+    "ML":"0.5",
+    "Yer":"PELITPINARI-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"12:33:34",
+    "Enlem":36.2467,
+    "Boylam":33.7855,
+    "Derinlik":0.0,
+    "ML":"1.3",
+    "Yer":"AKDERE-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"12:04:16",
     "Enlem":39.0843,
     "Boylam":28.332,
