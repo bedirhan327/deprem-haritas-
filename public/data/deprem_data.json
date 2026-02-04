@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"02:46:47",
+    "Enlem":38.2158,
+    "Boylam":27.9183,
+    "Derinlik":10.8,
+    "ML":"1.3",
+    "Yer":"DEMIRCILI-ODEMIS (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"02:32:14",
+    "Enlem":38.989,
+    "Boylam":25.8442,
+    "Derinlik":9.1,
+    "ML":"1.6",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"02:29:50",
+    "Enlem":39.1645,
+    "Boylam":28.251,
+    "Derinlik":16.3,
+    "ML":"1.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"02:15:48",
     "Enlem":38.2818,
     "Boylam":37.739,
