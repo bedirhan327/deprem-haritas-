@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"11:06:51",
+    "Enlem":36.6415,
+    "Boylam":25.6383,
+    "Derinlik":14.4,
+    "ML":"2.7",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"10:25:12",
+    "Enlem":40.1963,
+    "Boylam":31.7603,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"10:19:49",
+    "Enlem":40.748,
+    "Boylam":27.3587,
+    "Derinlik":17.0,
+    "ML":"0.8",
+    "Yer":"GAZIKOY-SARKOY (TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"10:11:32",
+    "Enlem":40.7407,
+    "Boylam":27.3813,
+    "Derinlik":16.7,
+    "ML":"1.2",
+    "Yer":"GAZIKOY-SARKOY (TEKIRDAG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"10:07:23",
     "Enlem":40.1877,
     "Boylam":29.3315,
