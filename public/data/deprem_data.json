@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"18:51:14",
+    "Enlem":35.576,
+    "Boylam":26.5718,
+    "Derinlik":10.8,
+    "ML":"3.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"18:45:11",
+    "Enlem":37.9383,
+    "Boylam":27.4387,
+    "Derinlik":10.5,
+    "ML":"1.5",
+    "Yer":"SIRINCE-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"18:16:47",
+    "Enlem":40.789,
+    "Boylam":31.654,
+    "Derinlik":7.0,
+    "ML":"1.7",
+    "Yer":"HAMZABEY-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"17:41:40",
     "Enlem":40.8097,
     "Boylam":27.794,
