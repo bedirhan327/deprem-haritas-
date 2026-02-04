@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"01:23:22",
+    "Enlem":39.8505,
+    "Boylam":26.2963,
+    "Derinlik":6.3,
+    "ML":"2.1",
+    "Yer":"CAMKOY-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"00:42:48",
+    "Enlem":39.1865,
+    "Boylam":28.1783,
+    "Derinlik":16.4,
+    "ML":"2.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"00:31:13",
     "Enlem":39.0702,
     "Boylam":25.857,
@@ -87,6 +107,16 @@
     "Derinlik":10.0,
     "ML":"1.5",
     "Yer":"BEKIRUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"22:46:38",
+    "Enlem":36.4825,
+    "Boylam":25.487,
+    "Derinlik":4.0,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
