@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"12:04:16",
+    "Enlem":39.0843,
+    "Boylam":28.332,
+    "Derinlik":2.6,
+    "ML":"0.8",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"11:58:43",
+    "Enlem":39.103,
+    "Boylam":29.4038,
+    "Derinlik":8.3,
+    "ML":"1.1",
+    "Yer":"AKKAYA-GEDIZ (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"11:42:48",
     "Enlem":36.9658,
     "Boylam":35.1037,
