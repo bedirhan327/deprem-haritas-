@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"23:06:10",
+    "Enlem":39.2213,
+    "Boylam":29.0502,
+    "Derinlik":9.8,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"22:57:16",
+    "Enlem":36.9675,
+    "Boylam":29.4153,
+    "Derinlik":3.9,
+    "ML":"1.7",
+    "Yer":"IBECIK-GOLHISAR (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"22:55:39",
+    "Enlem":38.309,
+    "Boylam":37.6985,
+    "Derinlik":10.0,
+    "ML":"1.5",
+    "Yer":"BEKIRUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"22:04:15",
     "Enlem":39.187,
     "Boylam":28.12,
