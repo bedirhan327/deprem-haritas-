@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"17:41:40",
+    "Enlem":40.8097,
+    "Boylam":27.794,
+    "Derinlik":3.5,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"16:36:17",
+    "Enlem":38.177,
+    "Boylam":30.488,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KADILAR-DINAR (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"15:37:13",
     "Enlem":40.8718,
     "Boylam":28.3145,
