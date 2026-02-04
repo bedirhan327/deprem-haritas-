@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"04:05:16",
+    "Enlem":40.8005,
+    "Boylam":31.7572,
+    "Derinlik":16.5,
+    "ML":"2.6",
+    "Yer":"MUSTAKIMLER-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"03:53:12",
+    "Enlem":40.6672,
+    "Boylam":33.0235,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"KISAC-ORTA (CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"03:52:00",
+    "Enlem":39.1695,
+    "Boylam":29.0162,
+    "Derinlik":4.8,
+    "ML":"1.2",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"03:15:12",
     "Enlem":39.1747,
     "Boylam":28.3063,
