@@ -11,6 +11,46 @@
   },
   {
     "Tarih":"2026.02.04",
+    "Saat":"19:58:16",
+    "Enlem":39.2147,
+    "Boylam":29.0325,
+    "Derinlik":7.1,
+    "ML":"1.7",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"19:54:35",
+    "Enlem":39.2057,
+    "Boylam":29.0205,
+    "Derinlik":22.5,
+    "ML":"1.1",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"19:30:14",
+    "Enlem":39.2042,
+    "Boylam":28.9595,
+    "Derinlik":17.3,
+    "ML":"2.0",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"19:12:14",
+    "Enlem":38.1507,
+    "Boylam":38.4242,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"SALKONAK-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"18:51:14",
     "Enlem":35.576,
     "Boylam":26.5718,
