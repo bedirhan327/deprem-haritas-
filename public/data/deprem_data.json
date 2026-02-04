@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"23:14:21",
+    "Enlem":39.2335,
+    "Boylam":29.0528,
+    "Derinlik":10.2,
+    "ML":"1.4",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"23:06:10",
     "Enlem":39.2213,
     "Boylam":29.0502,
@@ -147,6 +157,16 @@
     "Derinlik":3.5,
     "ML":"1.6",
     "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"17:34:41",
+    "Enlem":38.8198,
+    "Boylam":37.4028,
+    "Derinlik":11.6,
+    "ML":"1.6",
+    "Yer":"KULAHLI-GURUN (SIVAS)",
     "Cozum":"�lksel"
   },
   {
