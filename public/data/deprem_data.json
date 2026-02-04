@@ -191,6 +191,26 @@
   },
   {
     "Tarih":"2026.02.04",
+    "Saat":"10:05:31",
+    "Enlem":35.243,
+    "Boylam":25.8198,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"GIRIT ADASI (AKDENIZ) REVIZE01 (2026.02.04",
+    "Cozum":"10:05:40)"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"10:05:24",
+    "Enlem":36.553,
+    "Boylam":25.4907,
+    "Derinlik":26.9,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"10:01:05",
     "Enlem":40.7462,
     "Boylam":27.3475,
@@ -267,6 +287,16 @@
     "Derinlik":8.9,
     "ML":"1.7",
     "Yer":"KARAAGAC-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"08:49:13",
+    "Enlem":36.7077,
+    "Boylam":25.5933,
+    "Derinlik":7.4,
+    "ML":"1.5",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
