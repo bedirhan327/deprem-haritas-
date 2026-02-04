@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.04",
+    "Saat":"14:19:53",
+    "Enlem":39.2385,
+    "Boylam":27.69,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"EVCILER-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"14:08:31",
+    "Enlem":39.1122,
+    "Boylam":28.1042,
+    "Derinlik":15.2,
+    "ML":"1.0",
+    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"13:56:21",
+    "Enlem":36.3713,
+    "Boylam":28.45,
+    "Derinlik":19.3,
+    "ML":"1.5",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"13:06:33",
     "Enlem":37.3095,
     "Boylam":36.9697,
