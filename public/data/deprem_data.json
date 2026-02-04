@@ -21,6 +21,16 @@
   },
   {
     "Tarih":"2026.02.04",
+    "Saat":"04:59:35",
+    "Enlem":36.748,
+    "Boylam":26.2407,
+    "Derinlik":8.3,
+    "ML":"1.7",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
     "Saat":"04:51:08",
     "Enlem":39.2415,
     "Boylam":29.0305,
@@ -77,6 +87,16 @@
     "Derinlik":4.8,
     "ML":"1.2",
     "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.04",
+    "Saat":"03:44:30",
+    "Enlem":36.6232,
+    "Boylam":26.7013,
+    "Derinlik":132.2,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
