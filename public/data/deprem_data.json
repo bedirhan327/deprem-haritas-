@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"16:12:58",
+    "Enlem":40.8193,
+    "Boylam":28.2978,
+    "Derinlik":13.9,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"16:01:33",
+    "Enlem":36.7095,
+    "Boylam":33.3562,
+    "Derinlik":25.1,
+    "ML":"1.8",
+    "Yer":"BURUNKOY-MUT (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"15:36:11",
     "Enlem":37.7548,
     "Boylam":36.4502,
     "Derinlik":5.8,
     "ML":"2.0",
     "Yer":"GEBEN-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"15:35:49",
+    "Enlem":38.6298,
+    "Boylam":29.4163,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"OVADEMIRLER-(USAK)",
     "Cozum":"�lksel"
   },
   {
