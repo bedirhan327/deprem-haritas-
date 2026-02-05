@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"22:15:15",
+    "Enlem":39.2153,
+    "Boylam":28.0903,
+    "Derinlik":4.0,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"21:29:47",
+    "Enlem":36.4885,
+    "Boylam":36.1867,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"BELEN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"21:04:51",
     "Enlem":38.443,
     "Boylam":38.0632,
