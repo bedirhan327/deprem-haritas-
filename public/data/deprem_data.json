@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"02:55:21",
+    "Enlem":37.4225,
+    "Boylam":36.9582,
+    "Derinlik":9.1,
+    "ML":"1.2",
+    "Yer":"OKSUZLU-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"02:40:54",
+    "Enlem":38.286,
+    "Boylam":38.22,
+    "Derinlik":10.0,
+    "ML":"1.5",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"02:11:55",
     "Enlem":38.8305,
     "Boylam":27.7138,
