@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"21:04:51",
+    "Enlem":38.443,
+    "Boylam":38.0632,
+    "Derinlik":10.0,
+    "ML":"1.6",
+    "Yer":"ASAGIORUKCU-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"20:56:27",
+    "Enlem":39.0902,
+    "Boylam":25.888,
+    "Derinlik":6.5,
+    "ML":"2.0",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"20:52:42",
+    "Enlem":38.2937,
+    "Boylam":38.2153,
+    "Derinlik":15.8,
+    "ML":"1.4",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"20:50:53",
+    "Enlem":37.1453,
+    "Boylam":27.8355,
+    "Derinlik":0.0,
+    "ML":"2.1",
+    "Yer":"PINARARASI-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"20:45:40",
+    "Enlem":35.2847,
+    "Boylam":25.8403,
+    "Derinlik":12.3,
+    "ML":"3.2",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"20:41:39",
+    "Enlem":38.1213,
+    "Boylam":38.4413,
+    "Derinlik":16.8,
+    "ML":"1.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"20:01:58",
     "Enlem":39.22,
     "Boylam":28.1352,
