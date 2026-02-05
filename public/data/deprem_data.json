@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"04:14:48",
+    "Enlem":37.3363,
+    "Boylam":37.0858,
+    "Derinlik":5.8,
+    "ML":"1.8",
+    "Yer":"SARIERIK-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"04:12:45",
+    "Enlem":38.5113,
+    "Boylam":39.2103,
+    "Derinlik":9.7,
+    "ML":"1.9",
+    "Yer":"KAVAKTEPE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"03:58:31",
+    "Enlem":36.688,
+    "Boylam":25.4693,
+    "Derinlik":18.1,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"03:54:44",
+    "Enlem":40.8412,
+    "Boylam":31.708,
+    "Derinlik":13.8,
+    "ML":"1.2",
+    "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"03:25:57",
     "Enlem":39.1863,
     "Boylam":28.0785,
