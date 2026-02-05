@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2026.02.05",
+    "Saat":"06:47:44",
+    "Enlem":36.4953,
+    "Boylam":31.0052,
+    "Derinlik":11.1,
+    "ML":"1.5",
+    "Yer":"ANTALYA KORFEZI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"06:19:51",
     "Enlem":38.1482,
     "Boylam":37.8652,
@@ -77,6 +87,16 @@
     "Derinlik":12.9,
     "ML":"2.3",
     "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"05:46:20",
+    "Enlem":36.7487,
+    "Boylam":33.6353,
+    "Derinlik":18.2,
+    "ML":"1.4",
+    "Yer":"COMELEK-MUT (MERSIN)",
     "Cozum":"�lksel"
   },
   {
