@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"03:19:11",
+    "Enlem":38.1077,
+    "Boylam":38.4827,
+    "Derinlik":12.1,
+    "ML":"1.4",
+    "Yer":"KARAKOSE-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"03:09:27",
+    "Enlem":38.0717,
+    "Boylam":37.396,
+    "Derinlik":15.0,
+    "ML":"1.0",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"02:56:04",
+    "Enlem":39.8277,
+    "Boylam":26.2707,
+    "Derinlik":12.9,
+    "ML":"1.6",
+    "Yer":"CAMKOY-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"02:55:21",
     "Enlem":37.4225,
     "Boylam":36.9582,
@@ -17,6 +47,16 @@
     "Derinlik":10.0,
     "ML":"1.5",
     "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"02:30:06",
+    "Enlem":40.268,
+    "Boylam":31.7653,
+    "Derinlik":14.0,
+    "ML":"1.5",
+    "Yer":"YILDIZ-BEYPAZARI (ANKARA)",
     "Cozum":"�lksel"
   },
   {
