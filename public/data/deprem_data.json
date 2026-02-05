@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"08:24:58",
+    "Enlem":38.0245,
+    "Boylam":37.5163,
+    "Derinlik":12.0,
+    "ML":"2.3",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"08:13:46",
+    "Enlem":38.4777,
+    "Boylam":38.0255,
+    "Derinlik":8.2,
+    "ML":"1.4",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"08:06:19",
+    "Enlem":34.792,
+    "Boylam":32.4632,
+    "Derinlik":10.2,
+    "ML":"1.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"07:56:31",
+    "Enlem":39.1948,
+    "Boylam":28.0358,
+    "Derinlik":4.9,
+    "ML":"1.7",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"07:52:30",
+    "Enlem":39.1217,
+    "Boylam":28.3903,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"07:37:57",
     "Enlem":39.168,
     "Boylam":28.3057,
