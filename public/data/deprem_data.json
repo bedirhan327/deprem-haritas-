@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"03:25:57",
+    "Enlem":39.1863,
+    "Boylam":28.0785,
+    "Derinlik":13.7,
+    "ML":"1.0",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"03:23:45",
+    "Enlem":38.0633,
+    "Boylam":38.3845,
+    "Derinlik":14.2,
+    "ML":"1.5",
+    "Yer":"KORUCAK-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"03:19:24",
+    "Enlem":36.089,
+    "Boylam":31.0655,
+    "Derinlik":16.6,
+    "ML":"1.8",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"03:19:11",
     "Enlem":38.1077,
     "Boylam":38.4827,
