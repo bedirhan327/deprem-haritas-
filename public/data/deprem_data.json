@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"20:01:58",
+    "Enlem":39.22,
+    "Boylam":28.1352,
+    "Derinlik":15.4,
+    "ML":"1.6",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"19:26:29",
+    "Enlem":38.9785,
+    "Boylam":28.1772,
+    "Derinlik":30.0,
+    "ML":"1.3",
+    "Yer":"YEGENOBA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"19:16:06",
     "Enlem":38.4318,
     "Boylam":39.092,
     "Derinlik":5.0,
     "ML":"2.5",
     "Yer":"KAMISLIK-SIVRICE (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"18:58:25",
+    "Enlem":37.1148,
+    "Boylam":36.7107,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"KARABURCLU-NURDAGI (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
