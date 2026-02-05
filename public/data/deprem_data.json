@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"14:29:15",
+    "Enlem":39.1622,
+    "Boylam":28.2838,
+    "Derinlik":9.0,
+    "ML":"3.8",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"13:06:44",
     "Enlem":34.7715,
     "Boylam":33.126,
@@ -17,6 +27,16 @@
     "Derinlik":0.0,
     "ML":"1.5",
     "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"13:02:58",
+    "Enlem":39.4283,
+    "Boylam":28.1293,
+    "Derinlik":12.1,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-BIGADIC (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
@@ -77,6 +97,16 @@
     "Derinlik":17.3,
     "ML":"1.4",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"11:49:18",
+    "Enlem":39.0537,
+    "Boylam":28.3555,
+    "Derinlik":4.9,
+    "ML":"1.6",
+    "Yer":"DARGIL-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
