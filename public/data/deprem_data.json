@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"09:14:50",
+    "Enlem":38.4767,
+    "Boylam":38.019,
+    "Derinlik":8.4,
+    "ML":"1.8",
+    "Yer":"KEKLIKPINARI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"08:58:33",
+    "Enlem":38.1425,
+    "Boylam":37.869,
+    "Derinlik":16.9,
+    "ML":"1.6",
+    "Yer":"YOLKURU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"08:54:13",
+    "Enlem":38.015,
+    "Boylam":35.4838,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"DIKME-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"08:24:58",
     "Enlem":38.0245,
     "Boylam":37.5163,
