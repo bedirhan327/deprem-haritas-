@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"23:22:20",
+    "Enlem":40.3193,
+    "Boylam":42.1725,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"PARMAKDERE-SARIKAMIS (KARS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"22:20:33",
+    "Enlem":35.9975,
+    "Boylam":27.6407,
+    "Derinlik":8.1,
+    "ML":"2.2",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"22:15:15",
     "Enlem":39.2153,
     "Boylam":28.0903,
@@ -97,6 +117,16 @@
     "Derinlik":15.4,
     "ML":"1.6",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"19:44:26",
+    "Enlem":39.137,
+    "Boylam":28.3223,
+    "Derinlik":10.5,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
