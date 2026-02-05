@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"13:06:44",
+    "Enlem":34.7715,
+    "Boylam":33.126,
+    "Derinlik":45.4,
+    "ML":"2.2",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"13:03:28",
+    "Enlem":38.2703,
+    "Boylam":38.1597,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"12:58:31",
+    "Enlem":35.1933,
+    "Boylam":33.6098,
+    "Derinlik":26.7,
+    "ML":"1.8",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"12:48:12",
+    "Enlem":39.0242,
+    "Boylam":28.2448,
+    "Derinlik":25.6,
+    "ML":"1.4",
+    "Yer":"BEGEL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"12:37:51",
     "Enlem":38.201,
     "Boylam":38.4458,
@@ -21,6 +61,16 @@
   },
   {
     "Tarih":"2026.02.05",
+    "Saat":"11:18:17",
+    "Enlem":38.0377,
+    "Boylam":35.4745,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"KUZOLUK-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"10:38:50",
     "Enlem":38.016,
     "Boylam":35.5123,
@@ -37,6 +87,16 @@
     "Derinlik":10.2,
     "ML":"1.5",
     "Yer":"KAYALIDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"09:19:41",
+    "Enlem":37.9613,
+    "Boylam":35.4883,
+    "Derinlik":6.6,
+    "ML":"1.4",
+    "Yer":"AVLAGI-YAHYALI (KAYSERI)",
     "Cozum":"�lksel"
   },
   {
