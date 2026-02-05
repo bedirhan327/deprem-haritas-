@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"06:48:31",
+    "Enlem":38.1298,
+    "Boylam":37.9068,
+    "Derinlik":11.1,
+    "ML":"1.4",
+    "Yer":"CIGLIK-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"06:19:51",
     "Enlem":38.1482,
     "Boylam":37.8652,
@@ -37,6 +47,16 @@
     "Derinlik":6.3,
     "ML":"3.2",
     "Yer":"YOLKURU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"06:05:45",
+    "Enlem":39.152,
+    "Boylam":28.3473,
+    "Derinlik":14.1,
+    "ML":"1.1",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
