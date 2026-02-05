@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"10:38:50",
+    "Enlem":38.016,
+    "Boylam":35.5123,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"DIKME-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"10:29:58",
+    "Enlem":39.2405,
+    "Boylam":28.8793,
+    "Derinlik":10.2,
+    "ML":"1.5",
+    "Yer":"KAYALIDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"09:14:50",
     "Enlem":38.4767,
     "Boylam":38.019,
