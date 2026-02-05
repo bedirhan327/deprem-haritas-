@@ -1,5 +1,25 @@
 [
   {
+    "Tarih":"2026.02.06",
+    "Saat":"00:02:08",
+    "Enlem":39.1915,
+    "Boylam":28.9575,
+    "Derinlik":14.6,
+    "ML":"1.4",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"23:56:11",
+    "Enlem":39.2435,
+    "Boylam":28.9702,
+    "Derinlik":9.1,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.05",
     "Saat":"23:22:20",
     "Enlem":40.3193,
