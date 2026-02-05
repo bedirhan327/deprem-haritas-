@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.05",
+    "Saat":"15:13:30",
+    "Enlem":38.8607,
+    "Boylam":26.8387,
+    "Derinlik":11.7,
+    "ML":"2.7",
+    "Yer":"CANDARLI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"15:01:48",
+    "Enlem":39.1575,
+    "Boylam":28.2803,
+    "Derinlik":12.8,
+    "ML":"1.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
+    "Saat":"14:57:41",
+    "Enlem":39.1608,
+    "Boylam":28.2725,
+    "Derinlik":9.6,
+    "ML":"1.9",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.05",
     "Saat":"14:29:15",
     "Enlem":39.1622,
     "Boylam":28.2838,
