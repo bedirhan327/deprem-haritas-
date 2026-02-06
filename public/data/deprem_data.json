@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"07:39:11",
+    "Enlem":40.405,
+    "Boylam":27.3065,
+    "Derinlik":10.0,
+    "ML":"1.1",
+    "Yer":"KARABIGA-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"07:22:43",
     "Enlem":40.5082,
     "Boylam":42.298,
     "Derinlik":20.6,
     "ML":"2.1",
     "Yer":"GEZENEK-SENKAYA (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"07:09:00",
+    "Enlem":35.3422,
+    "Boylam":25.8398,
+    "Derinlik":9.5,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
