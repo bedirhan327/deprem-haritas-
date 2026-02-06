@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"03:31:30",
+    "Enlem":38.112,
+    "Boylam":25.3823,
+    "Derinlik":9.2,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"03:30:17",
+    "Enlem":40.4873,
+    "Boylam":30.2263,
+    "Derinlik":4.6,
+    "ML":"1.1",
+    "Yer":"CENGEL-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"03:20:03",
+    "Enlem":40.4665,
+    "Boylam":30.2357,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"SAFIBEY-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"03:16:38",
+    "Enlem":39.2223,
+    "Boylam":28.0632,
+    "Derinlik":8.2,
+    "ML":"1.5",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"03:14:35",
     "Enlem":39.045,
     "Boylam":26.4517,
