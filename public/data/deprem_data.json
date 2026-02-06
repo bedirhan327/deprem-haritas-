@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"17:16:07",
+    "Enlem":40.7808,
+    "Boylam":31.5153,
+    "Derinlik":13.4,
+    "ML":"1.9",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"17:09:25",
+    "Enlem":39.1132,
+    "Boylam":28.237,
+    "Derinlik":16.6,
+    "ML":"1.5",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"16:56:03",
+    "Enlem":39.231,
+    "Boylam":29.056,
+    "Derinlik":5.0,
+    "ML":"1.0",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"15:55:59",
     "Enlem":39.1743,
     "Boylam":28.2625,
