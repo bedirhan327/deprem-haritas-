@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"01:08:07",
+    "Enlem":39.2458,
+    "Boylam":28.0863,
+    "Derinlik":12.1,
+    "ML":"1.3",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"01:06:42",
+    "Enlem":40.8432,
+    "Boylam":28.7217,
+    "Derinlik":20.2,
+    "ML":"1.8",
+    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"00:15:37",
     "Enlem":40.0948,
     "Boylam":28.6717,
