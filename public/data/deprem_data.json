@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"12:41:15",
+    "Enlem":39.2145,
+    "Boylam":27.9348,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"DUALAR-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"12:29:43",
+    "Enlem":38.3177,
+    "Boylam":38.5465,
+    "Derinlik":12.3,
+    "ML":"1.0",
+    "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"12:20:46",
+    "Enlem":38.2273,
+    "Boylam":37.2438,
+    "Derinlik":10.5,
+    "ML":"1.6",
+    "Yer":"CICEKKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"11:50:41",
     "Enlem":34.949,
     "Boylam":25.9363,
@@ -17,6 +47,16 @@
     "Derinlik":9.5,
     "ML":"1.5",
     "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"11:03:34",
+    "Enlem":41.0632,
+    "Boylam":33.8662,
+    "Derinlik":20.1,
+    "ML":"2.2",
+    "Yer":"YUKARIBERCIN-TOSYA (KASTAMONU)",
     "Cozum":"�lksel"
   },
   {
