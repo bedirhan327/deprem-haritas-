@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"08:39:23",
+    "Enlem":38.1818,
+    "Boylam":38.5175,
+    "Derinlik":15.8,
+    "ML":"1.3",
+    "Yer":"ULUKOY-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"08:31:38",
+    "Enlem":35.8722,
+    "Boylam":23.1117,
+    "Derinlik":5.3,
+    "ML":"3.9",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"08:20:47",
+    "Enlem":40.4683,
+    "Boylam":30.253,
+    "Derinlik":3.0,
+    "ML":"2.0",
+    "Yer":"UMURBEY-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"08:07:49",
     "Enlem":39.0845,
     "Boylam":28.3393,
