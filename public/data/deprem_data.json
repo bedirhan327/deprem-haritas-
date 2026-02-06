@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"03:54:41",
+    "Enlem":39.227,
+    "Boylam":28.9528,
+    "Derinlik":12.1,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"03:46:58",
+    "Enlem":39.2727,
+    "Boylam":28.1443,
+    "Derinlik":6.4,
+    "ML":"1.5",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"03:38:48",
+    "Enlem":35.6563,
+    "Boylam":26.4782,
+    "Derinlik":19.2,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"03:31:30",
     "Enlem":38.112,
     "Boylam":25.3823,
