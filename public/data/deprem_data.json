@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.06",
+    "Saat":"20:22:17",
+    "Enlem":37.1145,
+    "Boylam":28.2448,
+    "Derinlik":11.5,
+    "ML":"2.4",
+    "Yer":"YENIBAGYAKA-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"20:21:17",
+    "Enlem":40.8012,
+    "Boylam":31.5188,
+    "Derinlik":10.0,
+    "ML":"1.5",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"20:06:29",
+    "Enlem":39.2218,
+    "Boylam":28.9463,
+    "Derinlik":21.9,
+    "ML":"0.9",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"18:50:45",
     "Enlem":39.1962,
     "Boylam":28.1403,
