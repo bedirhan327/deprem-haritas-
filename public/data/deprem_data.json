@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"03:03:01",
+    "Enlem":37.3905,
+    "Boylam":36.8723,
+    "Derinlik":6.1,
+    "ML":"1.6",
+    "Yer":"TURKOGLU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"02:54:27",
+    "Enlem":36.3362,
+    "Boylam":36.0632,
+    "Derinlik":5.4,
+    "ML":"1.4",
+    "Yer":"KARLISU-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"02:44:21",
     "Enlem":37.3653,
     "Boylam":38.5852,
