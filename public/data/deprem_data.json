@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"05:45:03",
+    "Enlem":38.081,
+    "Boylam":38.427,
+    "Derinlik":13.9,
+    "ML":"0.7",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"05:37:33",
+    "Enlem":39.5632,
+    "Boylam":25.9343,
+    "Derinlik":8.1,
+    "ML":"1.2",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"05:19:29",
+    "Enlem":39.1723,
+    "Boylam":28.0965,
+    "Derinlik":4.7,
+    "ML":"1.1",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"04:57:04",
     "Enlem":37.5635,
     "Boylam":31.4303,
