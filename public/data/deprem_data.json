@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"07:51:12",
+    "Enlem":39.3003,
+    "Boylam":28.9577,
+    "Derinlik":4.0,
+    "ML":"1.4",
+    "Yer":"YAVU-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"07:47:09",
+    "Enlem":36.8848,
+    "Boylam":27.3015,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"KOS ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"07:42:07",
     "Enlem":38.3348,
     "Boylam":38.8085,
@@ -77,6 +97,16 @@
     "Derinlik":3.1,
     "ML":"1.1",
     "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"06:32:30",
+    "Enlem":37.4043,
+    "Boylam":32.1855,
+    "Derinlik":8.7,
+    "ML":"1.9",
+    "Yer":"AKKISE-AHIRLI (KONYA)",
     "Cozum":"�lksel"
   },
   {
