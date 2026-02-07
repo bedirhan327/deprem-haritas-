@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"12:24:43",
+    "Enlem":39.1588,
+    "Boylam":28.1392,
+    "Derinlik":13.5,
+    "ML":"1.6",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"12:00:22",
+    "Enlem":36.9122,
+    "Boylam":36.4192,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"CATKOY-DORTYOL (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"11:25:04",
+    "Enlem":39.2488,
+    "Boylam":28.0707,
+    "Derinlik":10.4,
+    "ML":"1.8",
+    "Yer":"ALACAATLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"11:23:02",
+    "Enlem":39.1997,
+    "Boylam":27.9738,
+    "Derinlik":9.8,
+    "ML":"2.2",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"10:40:13",
     "Enlem":39.2487,
     "Boylam":28.0648,
