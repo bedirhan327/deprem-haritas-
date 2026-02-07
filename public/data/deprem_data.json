@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"07:18:59",
+    "Enlem":39.1875,
+    "Boylam":27.9598,
+    "Derinlik":7.0,
+    "ML":"1.7",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"06:44:51",
+    "Enlem":39.1468,
+    "Boylam":28.2065,
+    "Derinlik":9.4,
+    "ML":"1.8",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"06:44:09",
+    "Enlem":39.269,
+    "Boylam":26.1382,
+    "Derinlik":3.1,
+    "ML":"1.1",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"06:04:15",
     "Enlem":39.2908,
     "Boylam":26.1912,
