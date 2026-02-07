@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"10:40:13",
+    "Enlem":39.2487,
+    "Boylam":28.0648,
+    "Derinlik":9.4,
+    "ML":"2.2",
+    "Yer":"ALACAATLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"10:17:14",
     "Enlem":37.8268,
     "Boylam":29.609,
@@ -87,6 +97,16 @@
     "Derinlik":15.5,
     "ML":"2.6",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"08:57:51",
+    "Enlem":40.1507,
+    "Boylam":31.7003,
+    "Derinlik":7.6,
+    "ML":"2.4",
+    "Yer":"ULUKOY-NALLIHAN (ANKARA)",
     "Cozum":"�lksel"
   },
   {
