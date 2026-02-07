@@ -1,12 +1,62 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"07:42:07",
+    "Enlem":38.3348,
+    "Boylam":38.8085,
+    "Derinlik":12.8,
+    "ML":"2.0",
+    "Yer":"AKUSAGI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"07:30:59",
+    "Enlem":38.1755,
+    "Boylam":36.8712,
+    "Derinlik":14.2,
+    "ML":"1.5",
+    "Yer":"ESENCE-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"07:26:11",
+    "Enlem":37.0937,
+    "Boylam":28.3033,
+    "Derinlik":3.4,
+    "ML":"1.8",
+    "Yer":"KUYUCAK-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"07:23:49",
+    "Enlem":39.1332,
+    "Boylam":28.3013,
+    "Derinlik":18.3,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"07:18:59",
     "Enlem":39.1875,
     "Boylam":27.9598,
     "Derinlik":7.0,
     "ML":"1.7",
     "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"07:08:13",
+    "Enlem":37.0167,
+    "Boylam":28.958,
+    "Derinlik":5.3,
+    "ML":"1.5",
+    "Yer":"OTMANLAR-KOYCEGIZ (MUGLA)",
     "Cozum":"�lksel"
   },
   {
@@ -37,6 +87,16 @@
     "Derinlik":9.0,
     "ML":"2.8",
     "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"06:00:33",
+    "Enlem":37.0458,
+    "Boylam":28.3388,
+    "Derinlik":6.8,
+    "ML":"1.7",
+    "Yer":"AKYAKA-ULA (MUGLA)",
     "Cozum":"�lksel"
   },
   {
@@ -87,6 +147,16 @@
     "Derinlik":15.3,
     "ML":"1.2",
     "Yer":"MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"04:40:34",
+    "Enlem":37.7522,
+    "Boylam":36.5145,
+    "Derinlik":6.1,
+    "ML":"1.1",
+    "Yer":"AKGUMUS-ANDIRIN (KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
