@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.02.08",
+    "Saat":"00:10:36",
+    "Enlem":39.16,
+    "Boylam":28.3577,
+    "Derinlik":11.3,
+    "ML":"1.4",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"00:09:00",
+    "Enlem":38.173,
+    "Boylam":38.1163,
+    "Derinlik":13.5,
+    "ML":"1.4",
+    "Yer":"OLUKLU-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"23:49:06",
+    "Enlem":38.5883,
+    "Boylam":27.2563,
+    "Derinlik":9.0,
+    "ML":"1.7",
+    "Yer":"KARAORMAN-MENEMEN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.07",
     "Saat":"23:40:13",
     "Enlem":39.2423,
