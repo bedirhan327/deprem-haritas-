@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"04:32:18",
+    "Enlem":40.9,
+    "Boylam":31.6975,
+    "Derinlik":4.5,
+    "ML":"0.8",
+    "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"04:06:08",
+    "Enlem":36.8573,
+    "Boylam":36.7098,
+    "Derinlik":5.2,
+    "ML":"1.1",
+    "Yer":"KAZIKLI-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"03:32:11",
     "Enlem":40.3247,
     "Boylam":23.4917,
