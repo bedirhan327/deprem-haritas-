@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"04:57:04",
+    "Enlem":37.5635,
+    "Boylam":31.4303,
+    "Derinlik":7.7,
+    "ML":"1.9",
+    "Yer":"YESILDAG-BEYSEHIR (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"04:53:53",
+    "Enlem":40.59,
+    "Boylam":27.3288,
+    "Derinlik":15.3,
+    "ML":"1.2",
+    "Yer":"MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"04:32:18",
     "Enlem":40.9,
     "Boylam":31.6975,
     "Derinlik":4.5,
     "ML":"0.8",
     "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"04:31:46",
+    "Enlem":39.2477,
+    "Boylam":28.9692,
+    "Derinlik":11.4,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
