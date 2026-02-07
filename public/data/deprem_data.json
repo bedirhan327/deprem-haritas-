@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.07",
+    "Saat":"14:08:59",
+    "Enlem":38.6397,
+    "Boylam":39.5407,
+    "Derinlik":7.7,
+    "ML":"2.0",
+    "Yer":"ICME-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
+    "Saat":"12:47:19",
+    "Enlem":38.2337,
+    "Boylam":32.5527,
+    "Derinlik":11.7,
+    "ML":"1.5",
+    "Yer":"BICER-SELCUKLU (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.07",
     "Saat":"12:25:16",
     "Enlem":39.1997,
     "Boylam":28.004,
