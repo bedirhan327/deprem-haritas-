@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"05:06:19",
+    "Enlem":37.9792,
+    "Boylam":28.8667,
+    "Derinlik":6.2,
+    "ML":"1.7",
+    "Yer":"KARATAS-SARAYKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"04:58:43",
+    "Enlem":39.1642,
+    "Boylam":28.2353,
+    "Derinlik":8.9,
+    "ML":"2.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"04:01:48",
     "Enlem":39.176,
     "Boylam":28.2723,
