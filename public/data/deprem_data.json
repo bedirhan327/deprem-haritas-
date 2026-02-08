@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"06:08:05",
+    "Enlem":38.0983,
+    "Boylam":37.1308,
+    "Derinlik":5.3,
+    "ML":"1.5",
+    "Yer":"ORTAOREN-EKINOZU (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"05:43:02",
+    "Enlem":39.2063,
+    "Boylam":28.1853,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"05:33:13",
+    "Enlem":39.1953,
+    "Boylam":28.1817,
+    "Derinlik":12.6,
+    "ML":"2.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"05:06:19",
     "Enlem":37.9792,
     "Boylam":28.8667,
