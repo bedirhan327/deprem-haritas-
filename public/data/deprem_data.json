@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"17:39:59",
+    "Enlem":38.2773,
+    "Boylam":38.7562,
+    "Derinlik":4.4,
+    "ML":"2.6",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"17:38:53",
+    "Enlem":38.28,
+    "Boylam":38.7422,
+    "Derinlik":5.0,
+    "ML":"2.7",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"17:09:38",
     "Enlem":39.1795,
     "Boylam":28.1775,
