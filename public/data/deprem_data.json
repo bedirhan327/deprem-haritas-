@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"14:02:55",
+    "Enlem":39.165,
+    "Boylam":28.2827,
+    "Derinlik":11.0,
+    "ML":"1.8",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"13:55:00",
+    "Enlem":36.6713,
+    "Boylam":29.3317,
+    "Derinlik":17.3,
+    "ML":"1.8",
+    "Yer":"ATLIDERE-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"12:51:47",
     "Enlem":35.4875,
     "Boylam":31.297,
