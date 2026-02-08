@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"07:20:27",
+    "Enlem":38.2093,
+    "Boylam":37.2843,
+    "Derinlik":7.0,
+    "ML":"1.4",
+    "Yer":"SOGUTLU-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"07:17:16",
+    "Enlem":39.1687,
+    "Boylam":28.152,
+    "Derinlik":9.3,
+    "ML":"1.6",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"06:08:05",
     "Enlem":38.0983,
     "Boylam":37.1308,
