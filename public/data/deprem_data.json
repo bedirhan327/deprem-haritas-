@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"21:33:53",
+    "Enlem":39.3433,
+    "Boylam":28.4595,
+    "Derinlik":8.8,
+    "ML":"1.6",
+    "Yer":"ASAGICAMLI-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"21:32:05",
+    "Enlem":39.2413,
+    "Boylam":28.9665,
+    "Derinlik":14.9,
+    "ML":"0.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"20:56:04",
+    "Enlem":41.3858,
+    "Boylam":44.032,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"GURCISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"20:44:39",
     "Enlem":39.0963,
     "Boylam":28.317,
@@ -147,6 +177,16 @@
     "Derinlik":4.6,
     "ML":"1.9",
     "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"18:09:46",
+    "Enlem":38.3027,
+    "Boylam":38.7462,
+    "Derinlik":17.0,
+    "ML":"1.2",
+    "Yer":"SARIOT-KALE (MALATYA)",
     "Cozum":"�lksel"
   },
   {
