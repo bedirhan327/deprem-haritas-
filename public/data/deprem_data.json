@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"16:22:51",
+    "Enlem":38.5937,
+    "Boylam":27.2935,
+    "Derinlik":11.7,
+    "ML":"2.9",
+    "Yer":"GURLE-(MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"16:05:11",
+    "Enlem":39.1212,
+    "Boylam":28.3043,
+    "Derinlik":14.9,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"15:51:20",
     "Enlem":39.256,
     "Boylam":28.968,
