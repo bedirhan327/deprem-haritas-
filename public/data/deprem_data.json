@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.08",
+    "Saat":"22:54:39",
+    "Enlem":37.8243,
+    "Boylam":36.644,
+    "Derinlik":8.8,
+    "ML":"1.8",
+    "Yer":"CAGLAYAN-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
+    "Saat":"22:24:28",
+    "Enlem":39.7092,
+    "Boylam":38.8355,
+    "Derinlik":7.6,
+    "ML":"2.4",
+    "Yer":"BABAASLAN-REFAHIYE (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.08",
     "Saat":"22:15:26",
     "Enlem":36.6828,
     "Boylam":26.3242,
