@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"23:12:01",
+    "Enlem":36.3572,
+    "Boylam":27.8935,
+    "Derinlik":52.5,
+    "ML":"1.7",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"23:10:25",
+    "Enlem":37.0707,
+    "Boylam":28.3245,
+    "Derinlik":6.2,
+    "ML":"2.2",
+    "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"22:48:59",
     "Enlem":36.21,
     "Boylam":28.9702,
