@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"15:53:43",
+    "Enlem":38.0077,
+    "Boylam":35.4807,
+    "Derinlik":1.9,
+    "ML":"2.4",
+    "Yer":"AVLAGI-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"15:44:19",
+    "Enlem":39.1463,
+    "Boylam":28.0678,
+    "Derinlik":18.7,
+    "ML":"1.0",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"15:26:18",
+    "Enlem":40.7312,
+    "Boylam":27.4815,
+    "Derinlik":6.2,
+    "ML":"2.3",
+    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"15:12:50",
     "Enlem":39.264,
     "Boylam":28.2365,
     "Derinlik":9.1,
     "ML":"1.1",
     "Yer":"YOLCUPINAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"15:09:44",
+    "Enlem":37.076,
+    "Boylam":28.6155,
+    "Derinlik":5.2,
+    "ML":"1.8",
+    "Yer":"BALCILAR-KOYCEGIZ (MUGLA)",
     "Cozum":"�lksel"
   },
   {
