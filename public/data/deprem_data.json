@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"02:15:40",
+    "Enlem":38.1128,
+    "Boylam":38.5123,
+    "Derinlik":20.4,
+    "ML":"1.1",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"01:50:09",
+    "Enlem":39.178,
+    "Boylam":28.2775,
+    "Derinlik":10.8,
+    "ML":"1.2",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"01:45:53",
+    "Enlem":38.2265,
+    "Boylam":37.9935,
+    "Derinlik":10.8,
+    "ML":"1.5",
+    "Yer":"DEDEKOY-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"01:32:48",
+    "Enlem":40.844,
+    "Boylam":28.7212,
+    "Derinlik":10.6,
+    "ML":"1.7",
+    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"01:21:47",
+    "Enlem":38.4443,
+    "Boylam":26.907,
+    "Derinlik":7.4,
+    "ML":"1.4",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"00:48:16",
     "Enlem":39.0975,
     "Boylam":28.2538,
