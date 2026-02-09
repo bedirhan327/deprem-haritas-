@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"19:56:38",
+    "Enlem":38.0442,
+    "Boylam":37.5287,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"19:53:20",
+    "Enlem":39.2068,
+    "Boylam":27.9653,
+    "Derinlik":11.3,
+    "ML":"2.3",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"19:51:41",
+    "Enlem":39.2148,
+    "Boylam":27.9783,
+    "Derinlik":9.5,
+    "ML":"3.2",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"18:26:52",
     "Enlem":38.109,
     "Boylam":37.7662,
