@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"01:17:38",
+    "Enlem":38.8562,
+    "Boylam":37.427,
+    "Derinlik":13.8,
+    "ML":"1.4",
+    "Yer":"KULAHLI-GURUN (SIVAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"01:11:05",
+    "Enlem":39.1907,
+    "Boylam":28.2,
+    "Derinlik":11.7,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"00:50:40",
     "Enlem":37.9837,
     "Boylam":28.3503,
