@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"22:17:30",
+    "Enlem":37.0658,
+    "Boylam":28.6345,
+    "Derinlik":17.3,
+    "ML":"1.4",
+    "Yer":"KAVAKCALI-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"22:01:00",
+    "Enlem":39.1753,
+    "Boylam":28.2525,
+    "Derinlik":8.6,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"21:37:23",
+    "Enlem":38.3947,
+    "Boylam":37.4793,
+    "Derinlik":24.0,
+    "ML":"1.3",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"21:36:38",
     "Enlem":38.6185,
     "Boylam":33.7988,
     "Derinlik":8.3,
     "ML":"1.9",
     "Yer":"ALTINKAYA-(AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"21:18:58",
+    "Enlem":39.8945,
+    "Boylam":41.7345,
+    "Derinlik":7.4,
+    "ML":"1.8",
+    "Yer":"YASTIKTEPE-PASINLER (ERZURUM)",
     "Cozum":"�lksel"
   },
   {
