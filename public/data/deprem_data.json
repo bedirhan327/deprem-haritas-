@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"04:55:01",
+    "Enlem":36.9945,
+    "Boylam":27.7503,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"MAZIKOY-BODRUM (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"04:38:15",
+    "Enlem":35.4128,
+    "Boylam":27.8707,
+    "Derinlik":12.1,
+    "ML":"2.3",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"04:26:11",
     "Enlem":39.274,
     "Boylam":28.0407,
