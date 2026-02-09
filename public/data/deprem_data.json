@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"16:50:30",
+    "Enlem":40.6532,
+    "Boylam":32.8285,
+    "Derinlik":9.1,
+    "ML":"1.5",
+    "Yer":"YAGCIHUSEYIN-KIZILCAHAMAM (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"16:48:59",
+    "Enlem":40.6215,
+    "Boylam":27.6475,
+    "Derinlik":7.8,
+    "ML":"1.5",
+    "Yer":"TOPAGAC-MARMARA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"16:36:34",
     "Enlem":39.1643,
     "Boylam":28.1145,
