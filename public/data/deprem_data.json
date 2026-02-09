@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"12:17:01",
+    "Enlem":39.1457,
+    "Boylam":28.174,
+    "Derinlik":26.3,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"11:51:44",
     "Enlem":39.082,
     "Boylam":27.89,
@@ -2981,6 +2991,26 @@
   },
   {
     "Tarih":"2026.02.06",
+    "Saat":"21:17:22",
+    "Enlem":34.941,
+    "Boylam":25.922,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"21:07:41",
+    "Enlem":35.0058,
+    "Boylam":25.9073,
+    "Derinlik":5.0,
+    "ML":"4.0",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
     "Saat":"21:05:58",
     "Enlem":38.156,
     "Boylam":37.9308,
@@ -2997,6 +3027,16 @@
     "Derinlik":8.3,
     "ML":"2.4",
     "Yer":"CIMIKOY-AKSEKI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"20:32:05",
+    "Enlem":34.9288,
+    "Boylam":25.8895,
+    "Derinlik":6.0,
+    "ML":"3.9",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
