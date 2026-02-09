@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"15:12:50",
+    "Enlem":39.264,
+    "Boylam":28.2365,
+    "Derinlik":9.1,
+    "ML":"1.1",
+    "Yer":"YOLCUPINAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"15:04:52",
+    "Enlem":39.224,
+    "Boylam":29.0347,
+    "Derinlik":2.4,
+    "ML":"1.0",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"14:50:29",
+    "Enlem":40.0207,
+    "Boylam":40.2582,
+    "Derinlik":12.4,
+    "ML":"1.8",
+    "Yer":"YAYLALAR-(BAYBURT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"14:48:51",
+    "Enlem":40.0222,
+    "Boylam":40.2758,
+    "Derinlik":5.2,
+    "ML":"2.4",
+    "Yer":"SIGIRCI-(BAYBURT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"14:15:00",
     "Enlem":39.099,
     "Boylam":28.256,
@@ -3297,6 +3337,26 @@
     "Derinlik":5.0,
     "ML":"1.0",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"16:47:18",
+    "Enlem":37.4445,
+    "Boylam":42.6505,
+    "Derinlik":13.3,
+    "ML":"2.1",
+    "Yer":"SENOBA-ULUDERE (SIRNAK)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"16:21:05",
+    "Enlem":37.9213,
+    "Boylam":30.4042,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"GUMUSGUN-GONEN (ISPARTA)",
     "Cozum":"�lksel"
   },
   {
