@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"21:36:38",
+    "Enlem":38.6185,
+    "Boylam":33.7988,
+    "Derinlik":8.3,
+    "ML":"1.9",
+    "Yer":"ALTINKAYA-(AKSARAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"21:07:53",
+    "Enlem":39.228,
+    "Boylam":28.1343,
+    "Derinlik":9.4,
+    "ML":"1.6",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"20:56:08",
+    "Enlem":39.188,
+    "Boylam":28.2478,
+    "Derinlik":11.9,
+    "ML":"1.6",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"19:56:38",
     "Enlem":38.0442,
     "Boylam":37.5287,
