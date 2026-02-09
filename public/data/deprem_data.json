@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"13:07:23",
+    "Enlem":39.1297,
+    "Boylam":28.3205,
+    "Derinlik":10.2,
+    "ML":"1.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"12:17:01",
     "Enlem":39.1457,
     "Boylam":28.174,
@@ -3027,6 +3037,16 @@
     "Derinlik":8.3,
     "ML":"2.4",
     "Yer":"CIMIKOY-AKSEKI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.06",
+    "Saat":"20:41:37",
+    "Enlem":34.9067,
+    "Boylam":25.9583,
+    "Derinlik":4.4,
+    "ML":"3.5",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
