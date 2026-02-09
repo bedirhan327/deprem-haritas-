@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"01:39:32",
+    "Enlem":38.0025,
+    "Boylam":28.4197,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"BEKIRLER-NAZILLI (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"01:27:19",
+    "Enlem":36.3742,
+    "Boylam":36.1203,
+    "Derinlik":2.7,
+    "ML":"1.5",
+    "Yer":"TAHTAKOPRU-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"01:21:07",
+    "Enlem":38.5242,
+    "Boylam":31.4198,
+    "Derinlik":5.2,
+    "ML":"2.0",
+    "Yer":"TIPIKOY-AKSEHIR (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"01:17:38",
     "Enlem":38.8562,
     "Boylam":37.427,
