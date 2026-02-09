@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.09",
+    "Saat":"08:14:46",
+    "Enlem":38.2578,
+    "Boylam":37.438,
+    "Derinlik":5.4,
+    "ML":"1.9",
+    "Yer":"IKIZPINAR-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"08:03:13",
+    "Enlem":35.272,
+    "Boylam":26.2127,
+    "Derinlik":5.0,
+    "ML":"3.6",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"07:57:09",
+    "Enlem":37.4775,
+    "Boylam":38.6335,
+    "Derinlik":7.4,
+    "ML":"2.8",
+    "Yer":"YEMISLI-(SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
+    "Saat":"07:30:50",
+    "Enlem":34.9717,
+    "Boylam":25.792,
+    "Derinlik":5.3,
+    "ML":"2.1",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.09",
     "Saat":"07:16:45",
     "Enlem":39.2537,
     "Boylam":29.0087,
