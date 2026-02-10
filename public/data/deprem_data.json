@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"05:39:21",
+    "Enlem":39.1992,
+    "Boylam":27.9657,
+    "Derinlik":11.3,
+    "ML":"2.8",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"05:31:11",
+    "Enlem":39.1662,
+    "Boylam":28.1212,
+    "Derinlik":15.4,
+    "ML":"1.4",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"05:06:02",
     "Enlem":39.2677,
     "Boylam":28.0458,
