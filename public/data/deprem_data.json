@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"20:45:56",
+    "Enlem":39.119,
+    "Boylam":28.3007,
+    "Derinlik":20.1,
+    "ML":"1.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"20:35:22",
+    "Enlem":38.1102,
+    "Boylam":38.429,
+    "Derinlik":11.9,
+    "ML":"1.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"20:31:58",
+    "Enlem":38.1238,
+    "Boylam":38.4177,
+    "Derinlik":3.2,
+    "ML":"2.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"20:30:30",
+    "Enlem":39.1592,
+    "Boylam":28.3075,
+    "Derinlik":11.9,
+    "ML":"2.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"20:19:59",
+    "Enlem":39.171,
+    "Boylam":28.133,
+    "Derinlik":9.2,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"19:56:44",
     "Enlem":38.3835,
     "Boylam":36.0657,
