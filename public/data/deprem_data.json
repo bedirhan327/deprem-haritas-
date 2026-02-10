@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"22:12:05",
+    "Enlem":37.6117,
+    "Boylam":38.53,
+    "Derinlik":13.9,
+    "ML":"1.7",
+    "Yer":"TEPEONU-SAMSAT (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"22:05:00",
+    "Enlem":39.2497,
+    "Boylam":29.0268,
+    "Derinlik":11.4,
+    "ML":"1.8",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"22:01:28",
+    "Enlem":39.2458,
+    "Boylam":29.0328,
+    "Derinlik":5.4,
+    "ML":"2.1",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"21:59:45",
+    "Enlem":39.2498,
+    "Boylam":29.0235,
+    "Derinlik":7.2,
+    "ML":"2.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"20:45:56",
     "Enlem":39.119,
     "Boylam":28.3007,
