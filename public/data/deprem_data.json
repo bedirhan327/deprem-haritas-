@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"01:02:34",
+    "Enlem":39.2517,
+    "Boylam":29.0227,
+    "Derinlik":5.2,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"00:54:36",
+    "Enlem":39.6865,
+    "Boylam":38.7917,
+    "Derinlik":2.4,
+    "ML":"2.2",
+    "Yer":"SERINGOZE-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"00:51:35",
     "Enlem":39.6697,
     "Boylam":38.8023,
