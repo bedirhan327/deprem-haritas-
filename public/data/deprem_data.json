@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"15:20:49",
+    "Enlem":39.5862,
+    "Boylam":25.9682,
+    "Derinlik":3.7,
+    "ML":"1.7",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"15:10:17",
+    "Enlem":39.177,
+    "Boylam":28.9268,
+    "Derinlik":13.9,
+    "ML":"0.7",
+    "Yer":"GUNEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"14:17:32",
     "Enlem":38.9745,
     "Boylam":28.2497,
