@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"14:17:32",
+    "Enlem":38.9745,
+    "Boylam":28.2497,
+    "Derinlik":3.9,
+    "ML":"1.2",
+    "Yer":"KIRAN-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"13:51:14",
+    "Enlem":38.9393,
+    "Boylam":41.75,
+    "Derinlik":4.5,
+    "ML":"1.7",
+    "Yer":"KARAMESE-(MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"13:43:42",
     "Enlem":39.0668,
     "Boylam":41.7468,
