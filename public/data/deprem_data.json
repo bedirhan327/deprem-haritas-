@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.10",
+    "Saat":"17:38:57",
+    "Enlem":39.148,
+    "Boylam":28.3245,
+    "Derinlik":8.8,
+    "ML":"2.0",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"17:36:21",
+    "Enlem":37.389,
+    "Boylam":37.1773,
+    "Derinlik":6.6,
+    "ML":"1.7",
+    "Yer":"CIGDEMTEPE-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"17:26:05",
+    "Enlem":39.2105,
+    "Boylam":28.249,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
     "Saat":"17:06:52",
     "Enlem":39.048,
     "Boylam":28.1702,
     "Derinlik":9.1,
     "ML":"2.4",
     "Yer":"KALEMOGLU-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.10",
+    "Saat":"17:02:48",
+    "Enlem":37.1813,
+    "Boylam":27.8667,
+    "Derinlik":4.0,
+    "ML":"1.5",
+    "Yer":"IKIZKOY-MILAS (MUGLA)",
     "Cozum":"�lksel"
   },
   {
