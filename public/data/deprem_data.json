@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"07:24:48",
+    "Enlem":38.225,
+    "Boylam":38.5658,
+    "Derinlik":4.6,
+    "ML":"2.8",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"06:46:25",
+    "Enlem":40.5567,
+    "Boylam":25.5695,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"06:28:01",
+    "Enlem":39.2345,
+    "Boylam":29.0288,
+    "Derinlik":12.8,
+    "ML":"1.5",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"05:56:31",
     "Enlem":39.25,
     "Boylam":29.0412,
