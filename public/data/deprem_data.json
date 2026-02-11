@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"23:08:20",
+    "Enlem":38.6292,
+    "Boylam":31.0155,
+    "Derinlik":4.9,
+    "ML":"1.4",
+    "Yer":"CAY (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"23:05:55",
+    "Enlem":38.6378,
+    "Boylam":31.0063,
+    "Derinlik":7.4,
+    "ML":"2.7",
+    "Yer":"CAY (AFYONKARAHISAR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"22:56:35",
+    "Enlem":38.1685,
+    "Boylam":38.6597,
+    "Derinlik":9.5,
+    "ML":"1.3",
+    "Yer":"ESENLIK-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"22:51:45",
     "Enlem":39.5402,
     "Boylam":27.518,
@@ -57,6 +87,16 @@
     "Derinlik":5.3,
     "ML":"1.7",
     "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"21:56:37",
+    "Enlem":36.0715,
+    "Boylam":23.7675,
+    "Derinlik":8.2,
+    "ML":"2.2",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
