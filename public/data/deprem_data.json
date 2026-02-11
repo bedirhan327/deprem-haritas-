@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"21:13:01",
+    "Enlem":40.1923,
+    "Boylam":34.095,
+    "Derinlik":15.5,
+    "ML":"1.5",
+    "Yer":"KARAKOSELI-DELICE (KIRIKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"21:10:25",
+    "Enlem":39.205,
+    "Boylam":29.0265,
+    "Derinlik":9.5,
+    "ML":"1.2",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"19:49:44",
     "Enlem":41.9065,
     "Boylam":42.7005,
