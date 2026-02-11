@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"09:37:57",
+    "Enlem":39.2652,
+    "Boylam":28.994,
+    "Derinlik":7.2,
+    "ML":"2.3",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"09:21:36",
+    "Enlem":39.6975,
+    "Boylam":38.8542,
+    "Derinlik":6.1,
+    "ML":"2.4",
+    "Yer":"HAKBILIR-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"08:48:09",
     "Enlem":39.1865,
     "Boylam":28.2605,
