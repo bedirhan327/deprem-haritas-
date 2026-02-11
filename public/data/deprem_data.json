@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"16:12:56",
+    "Enlem":40.2748,
+    "Boylam":27.0637,
+    "Derinlik":12.2,
+    "ML":"1.6",
+    "Yer":"SELVI-BIGA (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"15:35:52",
     "Enlem":39.2263,
     "Boylam":28.168,
@@ -27,6 +37,16 @@
     "Derinlik":15.7,
     "ML":"2.8",
     "Yer":"ALACAATLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"15:24:06",
+    "Enlem":40.0308,
+    "Boylam":34.3823,
+    "Derinlik":10.9,
+    "ML":"2.1",
+    "Yer":"KURBAGLI-SUNGURLU (CORUM)",
     "Cozum":"�lksel"
   },
   {
