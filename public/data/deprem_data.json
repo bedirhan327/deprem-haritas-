@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"13:03:19",
+    "Enlem":38.3948,
+    "Boylam":26.6578,
+    "Derinlik":5.5,
+    "ML":"1.5",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"13:02:37",
+    "Enlem":38.1947,
+    "Boylam":38.5015,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"12:33:12",
     "Enlem":39.1685,
     "Boylam":28.1183,
@@ -17,6 +37,16 @@
     "Derinlik":15.7,
     "ML":"1.8",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"12:28:39",
+    "Enlem":37.2398,
+    "Boylam":31.7315,
+    "Derinlik":4.7,
+    "ML":"1.6",
+    "Yer":"SALIHLER-AKSEKI (ANTALYA)",
     "Cozum":"�lksel"
   },
   {
