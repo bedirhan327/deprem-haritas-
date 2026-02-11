@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"05:56:31",
+    "Enlem":39.25,
+    "Boylam":29.0412,
+    "Derinlik":10.7,
+    "ML":"2.0",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"05:39:24",
+    "Enlem":37.101,
+    "Boylam":33.0675,
+    "Derinlik":6.6,
+    "ML":"1.8",
+    "Yer":"PINARBASI-(KARAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"05:18:55",
+    "Enlem":39.1547,
+    "Boylam":28.275,
+    "Derinlik":9.6,
+    "ML":"2.1",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"04:53:55",
     "Enlem":39.1745,
     "Boylam":28.9532,
