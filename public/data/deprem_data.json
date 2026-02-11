@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"22:10:45",
+    "Enlem":35.0475,
+    "Boylam":33.14,
+    "Derinlik":10.4,
+    "ML":"1.8",
+    "Yer":"KIBRIS-ZUMRUTKOY",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"22:03:08",
+    "Enlem":38.0947,
+    "Boylam":37.452,
+    "Derinlik":5.3,
+    "ML":"1.7",
+    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"21:15:58",
     "Enlem":39.2143,
     "Boylam":28.9955,
     "Derinlik":16.6,
     "ML":"0.9",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"21:14:41",
+    "Enlem":40.2273,
+    "Boylam":34.0668,
+    "Derinlik":15.2,
+    "ML":"1.5",
+    "Yer":"INEGAZILI-SUNGURLU (CORUM)",
     "Cozum":"�lksel"
   },
   {
