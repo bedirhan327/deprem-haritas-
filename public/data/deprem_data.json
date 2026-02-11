@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"17:53:34",
+    "Enlem":39.055,
+    "Boylam":28.0622,
+    "Derinlik":14.3,
+    "ML":"1.6",
+    "Yer":"KOCAKAGAN-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"17:26:56",
+    "Enlem":40.0425,
+    "Boylam":28.7828,
+    "Derinlik":10.5,
+    "ML":"1.8",
+    "Yer":"CINARCIK-ORHANELI (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"17:25:06",
+    "Enlem":40.0553,
+    "Boylam":28.7705,
+    "Derinlik":10.3,
+    "ML":"2.6",
+    "Yer":"CINARCIK-ORHANELI (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"16:47:45",
     "Enlem":40.2877,
     "Boylam":27.0368,
