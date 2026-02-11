@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.02.12",
+    "Saat":"00:39:47",
+    "Enlem":37.679,
+    "Boylam":36.6035,
+    "Derinlik":7.7,
+    "ML":"1.2",
+    "Yer":"YENIDEMIR-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"00:18:57",
+    "Enlem":37.9975,
+    "Boylam":29.1975,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"KURTLUCA-(DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"00:11:07",
+    "Enlem":37.6345,
+    "Boylam":38.7825,
+    "Derinlik":10.6,
+    "ML":"1.5",
+    "Yer":"DARDAGAN-KAHTA (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.11",
     "Saat":"23:31:13",
     "Enlem":38.2078,
