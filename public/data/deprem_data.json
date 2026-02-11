@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"10:25:50",
+    "Enlem":37.7885,
+    "Boylam":27.0488,
+    "Derinlik":18.4,
+    "ML":"1.3",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"10:10:29",
+    "Enlem":40.6662,
+    "Boylam":28.2985,
+    "Derinlik":9.4,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"10:09:47",
+    "Enlem":39.413,
+    "Boylam":25.943,
+    "Derinlik":11.7,
+    "ML":"1.7",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"10:07:39",
+    "Enlem":37.099,
+    "Boylam":27.894,
+    "Derinlik":12.3,
+    "ML":"1.4",
+    "Yer":"BAYIRKOY-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"09:37:57",
     "Enlem":39.2652,
     "Boylam":28.994,
