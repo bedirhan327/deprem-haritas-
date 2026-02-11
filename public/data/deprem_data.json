@@ -11,6 +11,26 @@
   },
   {
     "Tarih":"2026.02.11",
+    "Saat":"09:30:25",
+    "Enlem":38.2577,
+    "Boylam":37.693,
+    "Derinlik":14.8,
+    "ML":"1.4",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"09:26:44",
+    "Enlem":35.9413,
+    "Boylam":32.5962,
+    "Derinlik":26.7,
+    "ML":"1.6",
+    "Yer":"ANAMUR ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"09:21:36",
     "Enlem":39.6975,
     "Boylam":38.8542,
