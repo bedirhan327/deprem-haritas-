@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"02:38:12",
+    "Enlem":39.2388,
+    "Boylam":29.0213,
+    "Derinlik":10.2,
+    "ML":"2.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"02:09:23",
+    "Enlem":39.6863,
+    "Boylam":38.7682,
+    "Derinlik":5.8,
+    "ML":"1.5",
+    "Yer":"KARACA-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"01:59:34",
+    "Enlem":39.2107,
+    "Boylam":28.9932,
+    "Derinlik":15.4,
+    "ML":"1.6",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"01:44:21",
+    "Enlem":40.086,
+    "Boylam":24.7733,
+    "Derinlik":15.0,
+    "ML":"1.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"01:23:45",
     "Enlem":39.6967,
     "Boylam":38.8057,
