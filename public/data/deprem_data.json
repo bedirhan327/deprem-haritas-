@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"19:49:44",
+    "Enlem":41.9065,
+    "Boylam":42.7005,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"ERIM-POSOF (ARDAHAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"19:35:56",
     "Enlem":39.2518,
     "Boylam":29.01,
@@ -17,6 +27,16 @@
     "Derinlik":14.1,
     "ML":"1.4",
     "Yer":"DISBUDAK-LAPSEKI (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"18:52:51",
+    "Enlem":39.0863,
+    "Boylam":28.3248,
+    "Derinlik":17.8,
+    "ML":"1.5",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
@@ -57,6 +77,16 @@
     "Derinlik":10.8,
     "ML":"1.5",
     "Yer":"CAVUSLU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"17:42:02",
+    "Enlem":35.2818,
+    "Boylam":27.007,
+    "Derinlik":8.4,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
