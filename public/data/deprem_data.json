@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.11",
+    "Saat":"03:11:35",
+    "Enlem":38.201,
+    "Boylam":38.4342,
+    "Derinlik":6.5,
+    "ML":"1.8",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"02:51:31",
+    "Enlem":39.2233,
+    "Boylam":29.0063,
+    "Derinlik":26.8,
+    "ML":"1.2",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"02:47:25",
+    "Enlem":37.8398,
+    "Boylam":26.8918,
+    "Derinlik":5.2,
+    "ML":"1.6",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
+    "Saat":"02:44:22",
+    "Enlem":39.2123,
+    "Boylam":29.042,
+    "Derinlik":16.7,
+    "ML":"1.6",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.11",
     "Saat":"02:38:12",
     "Enlem":39.2388,
     "Boylam":29.0213,
