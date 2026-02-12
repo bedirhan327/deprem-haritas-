@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"18:11:23",
+    "Enlem":40.0052,
+    "Boylam":28.8172,
+    "Derinlik":20.5,
+    "ML":"1.3",
+    "Yer":"OMERALTI-MUSTAFAKEMALPASA (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"18:04:56",
+    "Enlem":39.064,
+    "Boylam":25.7257,
+    "Derinlik":12.4,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"17:55:04",
     "Enlem":39.1487,
     "Boylam":28.123,
