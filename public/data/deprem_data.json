@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.02.13",
+    "Saat":"00:31:19",
+    "Enlem":39.5912,
+    "Boylam":27.4698,
+    "Derinlik":10.9,
+    "ML":"1.5",
+    "Yer":"IVRINDI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"00:30:54",
+    "Enlem":37.9875,
+    "Boylam":37.4772,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"23:54:51",
+    "Enlem":38.6032,
+    "Boylam":40.816,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"SAGGOZE-GENC (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
     "Tarih":"2026.02.12",
     "Saat":"23:26:01",
     "Enlem":39.1322,
