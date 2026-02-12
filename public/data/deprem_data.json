@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"13:14:55",
+    "Enlem":36.6843,
+    "Boylam":34.1212,
+    "Derinlik":11.1,
+    "ML":"1.5",
+    "Yer":"KUSTULLU-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"13:14:27",
+    "Enlem":37.9693,
+    "Boylam":38.1242,
+    "Derinlik":2.8,
+    "ML":"1.6",
+    "Yer":"KURUCAOVA-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"12:59:38",
     "Enlem":41.2322,
     "Boylam":28.8088,
