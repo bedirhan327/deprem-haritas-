@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"06:41:22",
+    "Enlem":35.6227,
+    "Boylam":33.3385,
+    "Derinlik":17.2,
+    "ML":"1.6",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"05:46:19",
+    "Enlem":38.1437,
+    "Boylam":37.0385,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"ORTAKLI-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"05:45:59",
+    "Enlem":39.2275,
+    "Boylam":25.9035,
+    "Derinlik":16.2,
+    "ML":"2.3",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"04:33:54",
+    "Enlem":38.1147,
+    "Boylam":37.853,
+    "Derinlik":2.8,
+    "ML":"1.5",
+    "Yer":"TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"03:49:16",
+    "Enlem":39.1958,
+    "Boylam":28.1763,
+    "Derinlik":10.9,
+    "ML":"1.6",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"03:43:01",
+    "Enlem":38.0408,
+    "Boylam":37.6568,
+    "Derinlik":6.2,
+    "ML":"2.2",
+    "Yer":"BEGRE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"02:26:18",
     "Enlem":37.2817,
     "Boylam":32.2983,
