@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"21:10:47",
+    "Enlem":37.055,
+    "Boylam":28.3995,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"ATAKOY-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:54:58",
+    "Enlem":39.1283,
+    "Boylam":28.284,
+    "Derinlik":13.7,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:53:25",
+    "Enlem":39.0345,
+    "Boylam":28.1295,
+    "Derinlik":23.7,
+    "ML":"1.6",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:51:37",
+    "Enlem":37.8698,
+    "Boylam":36.5497,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"KUMARLI-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"20:42:19",
     "Enlem":36.7032,
     "Boylam":25.3785,
@@ -37,6 +77,16 @@
     "Derinlik":10.3,
     "ML":"1.7",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"19:26:59",
+    "Enlem":35.0363,
+    "Boylam":23.001,
+    "Derinlik":13.1,
+    "ML":"2.6",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
