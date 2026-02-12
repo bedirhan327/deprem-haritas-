@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"17:01:56",
+    "Enlem":39.1478,
+    "Boylam":28.2827,
+    "Derinlik":11.6,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"16:58:29",
+    "Enlem":37.1815,
+    "Boylam":28.0477,
+    "Derinlik":16.9,
+    "ML":"2.1",
+    "Yer":"CAMLICA-YATAGAN (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"16:57:36",
+    "Enlem":39.2177,
+    "Boylam":28.1852,
+    "Derinlik":17.8,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"16:09:12",
+    "Enlem":40.8865,
+    "Boylam":36.0257,
+    "Derinlik":10.4,
+    "ML":"2.4",
+    "Yer":"CUCE-LADIK (SAMSUN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"15:07:27",
     "Enlem":37.8772,
     "Boylam":26.912,
