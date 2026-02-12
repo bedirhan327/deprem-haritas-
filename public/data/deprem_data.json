@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"02:01:49",
+    "Enlem":40.4698,
+    "Boylam":30.2258,
+    "Derinlik":5.0,
+    "ML":"3.3",
+    "Yer":"SAFIBEY-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"01:45:04",
+    "Enlem":38.1905,
+    "Boylam":37.7833,
+    "Derinlik":17.5,
+    "ML":"1.6",
+    "Yer":"CAVUSLU-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"01:44:46",
+    "Enlem":40.4395,
+    "Boylam":28.8347,
+    "Derinlik":4.8,
+    "ML":"1.2",
+    "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"00:31:19",
     "Enlem":39.5912,
     "Boylam":27.4698,
