@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"12:15:00",
+    "Enlem":39.4157,
+    "Boylam":38.6075,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"YAKUPLU-ILIC (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"12:04:57",
+    "Enlem":36.2647,
+    "Boylam":33.731,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"AKDERE-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"11:49:29",
     "Enlem":36.3737,
     "Boylam":34.041,
@@ -47,6 +67,16 @@
     "Derinlik":8.2,
     "ML":"1.3",
     "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"10:26:16",
+    "Enlem":37.2568,
+    "Boylam":37.1977,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"SERINTEPE-SEHITKAMIL (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
