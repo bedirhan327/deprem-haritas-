@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"11:49:29",
+    "Enlem":36.3737,
+    "Boylam":34.041,
+    "Derinlik":9.2,
+    "ML":"0.9",
+    "Yer":"ATAYURT-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"11:43:12",
+    "Enlem":39.1655,
+    "Boylam":28.2927,
+    "Derinlik":11.6,
+    "ML":"2.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"11:38:45",
+    "Enlem":36.1785,
+    "Boylam":33.4508,
+    "Derinlik":0.0,
+    "ML":"0.9",
+    "Yer":"SIPAHILI-GULNAR (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"11:33:47",
     "Enlem":38.083,
     "Boylam":36.6563,
