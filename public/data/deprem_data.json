@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"10:05:04",
+    "Enlem":39.7018,
+    "Boylam":38.841,
+    "Derinlik":5.6,
+    "ML":"2.8",
+    "Yer":"HAKBILIR-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"09:46:09",
+    "Enlem":36.8557,
+    "Boylam":34.9072,
+    "Derinlik":19.5,
+    "ML":"2.6",
+    "Yer":"YESILTEPE-TARSUS (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"08:40:30",
     "Enlem":39.174,
     "Boylam":28.2268,
