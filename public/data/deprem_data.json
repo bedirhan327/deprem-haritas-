@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"22:42:19",
+    "Enlem":36.5905,
+    "Boylam":36.3723,
+    "Derinlik":18.0,
+    "ML":"1.3",
+    "Yer":"ALIBEYCAGILI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"22:20:52",
+    "Enlem":40.4655,
+    "Boylam":30.2785,
+    "Derinlik":3.4,
+    "ML":"1.4",
+    "Yer":"CECELER-GEYVE (SAKARYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"21:43:25",
+    "Enlem":39.2263,
+    "Boylam":27.5475,
+    "Derinlik":21.9,
+    "ML":"1.7",
+    "Yer":"DUALAR-SOMA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"21:41:28",
     "Enlem":39.0535,
     "Boylam":28.287,
