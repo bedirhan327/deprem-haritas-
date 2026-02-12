@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"11:33:47",
+    "Enlem":38.083,
+    "Boylam":36.6563,
+    "Derinlik":6.6,
+    "ML":"2.7",
+    "Yer":"GUCUKSU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"11:20:40",
+    "Enlem":40.8972,
+    "Boylam":31.6707,
+    "Derinlik":8.2,
+    "ML":"1.3",
+    "Yer":"MESCICELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"10:05:04",
     "Enlem":39.7018,
     "Boylam":38.841,
