@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"20:42:19",
+    "Enlem":36.7032,
+    "Boylam":25.3785,
+    "Derinlik":15.7,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:28:09",
+    "Enlem":40.8368,
+    "Boylam":31.7002,
+    "Derinlik":4.9,
+    "ML":"1.8",
+    "Yer":"YESILCELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:06:41",
+    "Enlem":39.1005,
+    "Boylam":26.0243,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"19:57:26",
     "Enlem":39.2398,
     "Boylam":29.0253,
