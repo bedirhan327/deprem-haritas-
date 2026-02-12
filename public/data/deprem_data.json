@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"19:57:26",
+    "Enlem":39.2398,
+    "Boylam":29.0253,
+    "Derinlik":10.3,
+    "ML":"1.7",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"19:22:48",
+    "Enlem":39.421,
+    "Boylam":25.9205,
+    "Derinlik":9.5,
+    "ML":"1.7",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"19:11:33",
+    "Enlem":36.497,
+    "Boylam":25.9863,
+    "Derinlik":7.1,
+    "ML":"1.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"18:11:23",
     "Enlem":40.0052,
     "Boylam":28.8172,
