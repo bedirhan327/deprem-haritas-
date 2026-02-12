@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.12",
+    "Saat":"23:26:01",
+    "Enlem":39.1322,
+    "Boylam":28.3052,
+    "Derinlik":11.8,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"23:10:15",
+    "Enlem":39.2018,
+    "Boylam":28.0775,
+    "Derinlik":7.8,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
     "Saat":"22:42:19",
     "Enlem":36.5905,
     "Boylam":36.3723,
@@ -97,6 +117,26 @@
     "Derinlik":15.7,
     "ML":"2.1",
     "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:41:19",
+    "Enlem":37.632,
+    "Boylam":36.1225,
+    "Derinlik":3.6,
+    "ML":"2.0",
+    "Yer":"ESENLI-SUMBAS (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.12",
+    "Saat":"20:32:14",
+    "Enlem":38.824,
+    "Boylam":27.9485,
+    "Derinlik":16.5,
+    "ML":"1.6",
+    "Yer":"BOYALILAR-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
