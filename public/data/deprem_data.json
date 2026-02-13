@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"23:13:12",
+    "Enlem":39.1412,
+    "Boylam":28.2807,
+    "Derinlik":8.3,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"23:01:17",
+    "Enlem":39.2042,
+    "Boylam":28.3183,
+    "Derinlik":8.5,
+    "ML":"2.0",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"22:42:44",
+    "Enlem":37.8807,
+    "Boylam":26.9478,
+    "Derinlik":5.3,
+    "ML":"1.9",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"22:23:05",
     "Enlem":38.8553,
     "Boylam":27.9553,
