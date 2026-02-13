@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"11:36:14",
+    "Enlem":39.2242,
+    "Boylam":28.1902,
+    "Derinlik":7.0,
+    "ML":"1.2",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"11:27:02",
+    "Enlem":38.4033,
+    "Boylam":25.2947,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"11:06:01",
     "Enlem":39.1368,
     "Boylam":28.24,
