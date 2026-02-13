@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"22:10:06",
+    "Enlem":40.8307,
+    "Boylam":31.6873,
+    "Derinlik":6.8,
+    "ML":"2.0",
+    "Yer":"YESILCELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"21:55:50",
+    "Enlem":36.2172,
+    "Boylam":36.0568,
+    "Derinlik":5.6,
+    "ML":"2.0",
+    "Yer":"TOYGARLI-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"21:08:15",
     "Enlem":39.2228,
     "Boylam":28.0435,
     "Derinlik":13.0,
     "ML":"1.4",
     "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"20:50:04",
+    "Enlem":34.5348,
+    "Boylam":23.6913,
+    "Derinlik":14.6,
+    "ML":"3.0",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
