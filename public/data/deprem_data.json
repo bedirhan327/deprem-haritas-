@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"05:04:07",
+    "Enlem":38.0453,
+    "Boylam":37.4477,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"04:50:12",
+    "Enlem":39.2442,
+    "Boylam":29.0103,
+    "Derinlik":7.4,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"04:35:54",
     "Enlem":37.199,
     "Boylam":31.0633,
