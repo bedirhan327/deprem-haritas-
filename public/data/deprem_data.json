@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"06:23:22",
+    "Enlem":38.2937,
+    "Boylam":37.7468,
+    "Derinlik":24.9,
+    "ML":"1.3",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"06:13:26",
+    "Enlem":36.9763,
+    "Boylam":35.9728,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SARIMAZI-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"06:02:08",
+    "Enlem":37.1073,
+    "Boylam":28.3562,
+    "Derinlik":10.8,
+    "ML":"1.7",
+    "Yer":"KIZILAGAC-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"05:54:24",
+    "Enlem":39.1943,
+    "Boylam":28.1625,
+    "Derinlik":9.6,
+    "ML":"2.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"05:50:14",
     "Enlem":38.1243,
     "Boylam":38.1882,
