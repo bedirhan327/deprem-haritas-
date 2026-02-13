@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"15:17:07",
+    "Enlem":39.178,
+    "Boylam":28.1872,
+    "Derinlik":13.1,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"15:15:53",
+    "Enlem":39.1868,
+    "Boylam":28.183,
+    "Derinlik":13.3,
+    "ML":"2.7",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"15:11:10",
+    "Enlem":37.483,
+    "Boylam":38.6812,
+    "Derinlik":10.5,
+    "ML":"1.9",
+    "Yer":"BAHCELI-(SANLIURFA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"14:37:54",
     "Enlem":37.2323,
     "Boylam":29.0425,
@@ -21,6 +51,16 @@
   },
   {
     "Tarih":"2026.02.13",
+    "Saat":"14:18:28",
+    "Enlem":38.937,
+    "Boylam":41.1585,
+    "Derinlik":11.3,
+    "ML":"1.5",
+    "Yer":"KARABEY-(MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"13:54:51",
     "Enlem":37.8703,
     "Boylam":36.6323,
@@ -37,6 +77,16 @@
     "Derinlik":19.8,
     "ML":"1.6",
     "Yer":"AKPINAR-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"13:32:33",
+    "Enlem":38.886,
+    "Boylam":40.9372,
+    "Derinlik":27.6,
+    "ML":"1.9",
+    "Yer":"DUZAGAC-SOLHAN (BINGOL)",
     "Cozum":"�lksel"
   },
   {
