@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"04:35:54",
+    "Enlem":37.199,
+    "Boylam":31.0633,
+    "Derinlik":109.0,
+    "ML":"2.6",
+    "Yer":"DEMIRCILER-SERIK (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"04:21:17",
+    "Enlem":37.0987,
+    "Boylam":28.3633,
+    "Derinlik":17.0,
+    "ML":"2.0",
+    "Yer":"KIZILAGAC-ULA (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"04:20:15",
+    "Enlem":39.2178,
+    "Boylam":28.1102,
+    "Derinlik":8.7,
+    "ML":"1.7",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"04:15:21",
     "Enlem":38.2292,
     "Boylam":37.7503,
