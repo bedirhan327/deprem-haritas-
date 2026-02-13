@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"19:36:59",
+    "Enlem":39.4387,
+    "Boylam":40.3748,
+    "Derinlik":6.0,
+    "ML":"2.4",
+    "Yer":"GELINPERTEK-YEDISU (BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"19:31:18",
+    "Enlem":39.2227,
+    "Boylam":28.0602,
+    "Derinlik":6.0,
+    "ML":"1.5",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"19:30:06",
+    "Enlem":39.1407,
+    "Boylam":28.1285,
+    "Derinlik":12.5,
+    "ML":"1.5",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"18:50:19",
     "Enlem":39.1782,
     "Boylam":28.3995,
