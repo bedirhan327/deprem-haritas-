@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"02:36:06",
+    "Enlem":38.5198,
+    "Boylam":43.2145,
+    "Derinlik":5.0,
+    "ML":"2.5",
+    "Yer":"VAN GOLU",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"02:25:34",
+    "Enlem":38.1153,
+    "Boylam":38.5725,
+    "Derinlik":22.3,
+    "ML":"1.4",
+    "Yer":"ARIKONAK-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"02:01:49",
     "Enlem":40.4698,
     "Boylam":30.2258,
