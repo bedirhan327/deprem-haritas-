@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"23:44:55",
+    "Enlem":38.0938,
+    "Boylam":36.5662,
+    "Derinlik":5.2,
+    "ML":"2.2",
+    "Yer":"YAGMURLU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"23:32:21",
+    "Enlem":37.8328,
+    "Boylam":26.9238,
+    "Derinlik":17.2,
+    "ML":"2.2",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"23:13:12",
     "Enlem":39.1412,
     "Boylam":28.2807,
