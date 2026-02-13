@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"20:20:58",
+    "Enlem":38.1832,
+    "Boylam":36.5978,
+    "Derinlik":7.4,
+    "ML":"2.4",
+    "Yer":"KAVSUT-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"19:57:59",
+    "Enlem":38.5502,
+    "Boylam":38.0275,
+    "Derinlik":5.6,
+    "ML":"2.4",
+    "Yer":"CIVRIL-YAZIHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"19:46:56",
+    "Enlem":38.389,
+    "Boylam":26.834,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"19:36:59",
     "Enlem":39.4387,
     "Boylam":40.3748,
