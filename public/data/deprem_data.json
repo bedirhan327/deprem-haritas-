@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.13",
+    "Saat":"17:56:45",
+    "Enlem":39.3687,
+    "Boylam":27.9787,
+    "Derinlik":8.4,
+    "ML":"2.7",
+    "Yer":"HAMIDIYE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"17:36:19",
+    "Enlem":39.8408,
+    "Boylam":30.2632,
+    "Derinlik":7.6,
+    "ML":"2.0",
+    "Yer":"OKLUBALI-INONU (ESKISEHIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
+    "Saat":"17:31:14",
+    "Enlem":40.5338,
+    "Boylam":27.6792,
+    "Derinlik":6.3,
+    "ML":"1.4",
+    "Yer":"ILHANKOY-ERDEK (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.13",
     "Saat":"16:44:56",
     "Enlem":40.8772,
     "Boylam":31.7857,
