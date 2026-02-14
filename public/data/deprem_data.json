@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"06:41:10",
+    "Enlem":37.8462,
+    "Boylam":36.1067,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"YARDIBI-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"06:38:06",
+    "Enlem":37.8115,
+    "Boylam":36.14,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"AYVACIK-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"06:37:14",
+    "Enlem":37.094,
+    "Boylam":30.5768,
+    "Derinlik":9.9,
+    "ML":"2.4",
+    "Yer":"KOMURCULER-DOSEMEALTI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"06:26:32",
+    "Enlem":38.9523,
+    "Boylam":38.8967,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"UZUNGOL-CEMISGEZEK (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"06:22:20",
+    "Enlem":37.0503,
+    "Boylam":35.9943,
+    "Derinlik":1.7,
+    "ML":"1.7",
+    "Yer":"KUZUCAK-CEYHAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"05:22:31",
     "Enlem":37.2187,
     "Boylam":29.1473,
