@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"22:25:33",
+    "Enlem":37.8625,
+    "Boylam":27.5787,
+    "Derinlik":17.0,
+    "ML":"1.4",
+    "Yer":"MURSALLI-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"22:24:11",
+    "Enlem":37.9605,
+    "Boylam":36.5443,
+    "Derinlik":7.4,
+    "ML":"1.5",
+    "Yer":"KURUCAOVA-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"21:56:15",
     "Enlem":38.2875,
     "Boylam":38.86,
