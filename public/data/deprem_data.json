@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"04:59:21",
+    "Enlem":39.2355,
+    "Boylam":28.9373,
+    "Derinlik":9.4,
+    "ML":"2.0",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"04:58:52",
+    "Enlem":38.2022,
+    "Boylam":38.41,
+    "Derinlik":7.1,
+    "ML":"1.2",
+    "Yer":"UCGOZE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"04:16:23",
     "Enlem":39.1775,
     "Boylam":28.1405,
