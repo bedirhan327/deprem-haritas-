@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"03:20:46",
+    "Enlem":39.5772,
+    "Boylam":26.044,
+    "Derinlik":12.7,
+    "ML":"1.3",
+    "Yer":"GULPINAR-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"03:07:58",
+    "Enlem":39.5893,
+    "Boylam":26.0098,
+    "Derinlik":6.7,
+    "ML":"2.7",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"03:03:13",
+    "Enlem":40.8132,
+    "Boylam":31.505,
+    "Derinlik":12.9,
+    "ML":"1.5",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"02:49:54",
     "Enlem":39.3387,
     "Boylam":27.5937,
