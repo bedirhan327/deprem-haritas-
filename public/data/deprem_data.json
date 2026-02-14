@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"21:56:15",
+    "Enlem":38.2875,
+    "Boylam":38.86,
+    "Derinlik":11.3,
+    "ML":"1.5",
+    "Yer":"YEDIYOL-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"21:54:53",
+    "Enlem":38.294,
+    "Boylam":38.8597,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"YEDIYOL-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"20:53:35",
     "Enlem":39.0688,
     "Boylam":28.3367,
