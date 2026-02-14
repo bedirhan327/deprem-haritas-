@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"08:44:13",
+    "Enlem":40.6548,
+    "Boylam":27.677,
+    "Derinlik":6.0,
+    "ML":"2.5",
+    "Yer":"SARAYLAR-MARMARA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"08:43:13",
+    "Enlem":38.0772,
+    "Boylam":38.4125,
+    "Derinlik":11.6,
+    "ML":"1.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"08:22:01",
+    "Enlem":37.8232,
+    "Boylam":36.1177,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"AYVACIK-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"08:17:56",
+    "Enlem":37.8087,
+    "Boylam":36.2057,
+    "Derinlik":3.1,
+    "ML":"2.2",
+    "Yer":"KAPAKLIKUYU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"07:05:14",
     "Enlem":39.145,
     "Boylam":28.2413,
