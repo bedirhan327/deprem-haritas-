@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"13:20:28",
+    "Enlem":39.2435,
+    "Boylam":28.9685,
+    "Derinlik":11.0,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"13:15:50",
+    "Enlem":39.4473,
+    "Boylam":28.1897,
+    "Derinlik":11.0,
+    "ML":"1.6",
+    "Yer":"OZGOREN-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"13:12:55",
+    "Enlem":39.8233,
+    "Boylam":33.3022,
+    "Derinlik":2.2,
+    "ML":"2.7",
+    "Yer":"HISARKOY-YAHSIHAN (KIRIKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"13:06:58",
+    "Enlem":39.5225,
+    "Boylam":28.1763,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"CALDERE-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"12:54:58",
+    "Enlem":37.873,
+    "Boylam":36.1867,
+    "Derinlik":6.4,
+    "ML":"1.5",
+    "Yer":"KARAKUYU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"12:28:31",
     "Enlem":39.4257,
     "Boylam":38.8708,
