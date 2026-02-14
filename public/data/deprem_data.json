@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"14:40:40",
+    "Enlem":37.6448,
+    "Boylam":36.3287,
+    "Derinlik":6.3,
+    "ML":"1.5",
+    "Yer":"ALTINBOGA-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"14:34:52",
+    "Enlem":40.0355,
+    "Boylam":28.7502,
+    "Derinlik":5.4,
+    "ML":"3.7",
+    "Yer":"ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"14:09:28",
     "Enlem":39.1582,
     "Boylam":28.2517,
