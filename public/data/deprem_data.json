@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"16:48:12",
+    "Enlem":39.7052,
+    "Boylam":38.7975,
+    "Derinlik":2.3,
+    "ML":"1.6",
+    "Yer":"BABAASLAN-REFAHIYE (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"16:42:25",
+    "Enlem":38.2327,
+    "Boylam":38.1557,
+    "Derinlik":10.9,
+    "ML":"1.7",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"16:33:11",
+    "Enlem":38.3443,
+    "Boylam":37.4457,
+    "Derinlik":17.4,
+    "ML":"1.6",
+    "Yer":"BESTEPE-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"16:28:20",
+    "Enlem":38.0793,
+    "Boylam":36.5312,
+    "Derinlik":5.4,
+    "ML":"2.3",
+    "Yer":"ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"15:59:39",
     "Enlem":34.926,
     "Boylam":32.7022,
