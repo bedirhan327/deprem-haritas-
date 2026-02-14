@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"19:48:12",
+    "Enlem":37.8122,
+    "Boylam":36.153,
+    "Derinlik":8.1,
+    "ML":"2.1",
+    "Yer":"AYVACIK-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"19:35:26",
+    "Enlem":38.2543,
+    "Boylam":38.1535,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"19:15:46",
     "Enlem":39.0627,
     "Boylam":28.2868,
