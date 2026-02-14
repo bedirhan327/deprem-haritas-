@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.14",
+    "Saat":"19:15:46",
+    "Enlem":39.0627,
+    "Boylam":28.2868,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"MALAZ-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
+    "Saat":"18:56:14",
+    "Enlem":37.8542,
+    "Boylam":36.108,
+    "Derinlik":14.1,
+    "ML":"1.6",
+    "Yer":"YARDIBI-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.14",
     "Saat":"18:45:00",
     "Enlem":38.0932,
     "Boylam":37.1382,
