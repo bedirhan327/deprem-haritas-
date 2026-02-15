@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"03:53:47",
+    "Enlem":40.369,
+    "Boylam":33.3045,
+    "Derinlik":1.0,
+    "ML":"2.2",
+    "Yer":"GUNDOGMUS-SABANOZU (CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"03:53:23",
+    "Enlem":39.108,
+    "Boylam":28.2893,
+    "Derinlik":13.0,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"03:29:28",
+    "Enlem":39.0833,
+    "Boylam":40.3018,
+    "Derinlik":8.0,
+    "ML":"1.7",
+    "Yer":"GUNGOREN-(BINGOL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"03:22:59",
+    "Enlem":39.1482,
+    "Boylam":28.2368,
+    "Derinlik":4.6,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"03:13:53",
+    "Enlem":39.1862,
+    "Boylam":28.0677,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"02:42:22",
     "Enlem":39.1292,
     "Boylam":28.365,
