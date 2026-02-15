@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"12:25:04",
+    "Enlem":37.9322,
+    "Boylam":36.047,
+    "Derinlik":14.0,
+    "ML":"1.6",
+    "Yer":"MAHMUTLU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"11:56:30",
     "Enlem":37.1228,
     "Boylam":28.3477,
@@ -47,6 +57,16 @@
     "Derinlik":13.6,
     "ML":"2.2",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"08:28:30",
+    "Enlem":40.6178,
+    "Boylam":34.532,
+    "Derinlik":8.4,
+    "ML":"1.6",
+    "Yer":"KARLIK-ISKILIP (CORUM)",
     "Cozum":"�lksel"
   },
   {
