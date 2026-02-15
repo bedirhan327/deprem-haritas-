@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"07:28:10",
+    "Enlem":38.369,
+    "Boylam":38.7827,
+    "Derinlik":3.2,
+    "ML":"2.0",
+    "Yer":"KOZLUK-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"07:26:12",
+    "Enlem":37.0395,
+    "Boylam":28.5887,
+    "Derinlik":7.8,
+    "ML":"3.3",
+    "Yer":"BALCILAR-KOYCEGIZ (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"07:03:16",
     "Enlem":38.0077,
     "Boylam":35.4918,
