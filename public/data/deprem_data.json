@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"18:26:46",
+    "Enlem":39.214,
+    "Boylam":28.9083,
+    "Derinlik":7.5,
+    "ML":"1.7",
+    "Yer":"KOYUNOBA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"18:14:49",
+    "Enlem":39.2492,
+    "Boylam":29.0255,
+    "Derinlik":8.8,
+    "ML":"2.2",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"17:49:52",
     "Enlem":36.6453,
     "Boylam":25.6277,
