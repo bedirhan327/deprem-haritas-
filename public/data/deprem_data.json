@@ -11,12 +11,32 @@
   },
   {
     "Tarih":"2026.02.15",
+    "Saat":"14:01:49",
+    "Enlem":37.9608,
+    "Boylam":35.5092,
+    "Derinlik":22.3,
+    "ML":"1.8",
+    "Yer":"AVLAGI-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"13:25:44",
     "Enlem":38.6045,
     "Boylam":39.528,
     "Derinlik":5.0,
     "ML":"2.4",
     "Yer":"DEGIRMENONU-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"13:18:58",
+    "Enlem":37.7513,
+    "Boylam":27.3907,
+    "Derinlik":21.7,
+    "ML":"1.5",
+    "Yer":"SOKE (AYDIN)",
     "Cozum":"�lksel"
   },
   {
