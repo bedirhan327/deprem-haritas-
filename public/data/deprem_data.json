@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"02:26:17",
+    "Enlem":39.1612,
+    "Boylam":28.205,
+    "Derinlik":9.6,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"02:21:01",
+    "Enlem":37.8803,
+    "Boylam":26.9557,
+    "Derinlik":13.2,
+    "ML":"2.8",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"02:14:14",
+    "Enlem":39.1217,
+    "Boylam":28.258,
+    "Derinlik":8.9,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"02:09:45",
+    "Enlem":40.8218,
+    "Boylam":27.8468,
+    "Derinlik":8.7,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"00:25:39",
     "Enlem":39.1422,
     "Boylam":28.1347,
