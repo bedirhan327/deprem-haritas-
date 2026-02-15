@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"13:14:37",
+    "Enlem":38.1018,
+    "Boylam":38.4337,
+    "Derinlik":5.0,
+    "ML":"2.7",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"13:07:40",
+    "Enlem":38.0558,
+    "Boylam":29.0728,
+    "Derinlik":14.8,
+    "ML":"1.9",
+    "Yer":"BELENARDIC-AKKOY (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"13:04:10",
+    "Enlem":38.0912,
+    "Boylam":38.4332,
+    "Derinlik":1.2,
+    "ML":"2.4",
+    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"12:53:59",
+    "Enlem":35.498,
+    "Boylam":32.7505,
+    "Derinlik":10.6,
+    "ML":"2.4",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"12:25:04",
     "Enlem":37.9322,
     "Boylam":36.047,
