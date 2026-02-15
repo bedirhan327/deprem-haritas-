@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"05:01:37",
+    "Enlem":37.5172,
+    "Boylam":37.2382,
+    "Derinlik":2.1,
+    "ML":"1.7",
+    "Yer":"ARMUTLU-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"04:43:22",
+    "Enlem":39.2093,
+    "Boylam":28.1408,
+    "Derinlik":7.5,
+    "ML":"2.1",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"04:24:11",
+    "Enlem":39.8133,
+    "Boylam":26.1405,
+    "Derinlik":9.8,
+    "ML":"1.4",
+    "Yer":"CAMOBA-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"04:20:30",
     "Enlem":40.578,
     "Boylam":36.0205,
@@ -137,6 +167,16 @@
     "Derinlik":9.6,
     "ML":"2.0",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"02:22:01",
+    "Enlem":37.874,
+    "Boylam":32.0752,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"KIZILOREN-MERAM (KONYA)",
     "Cozum":"�lksel"
   },
   {
