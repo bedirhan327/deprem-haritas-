@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.15",
+    "Saat":"07:03:16",
+    "Enlem":38.0077,
+    "Boylam":35.4918,
+    "Derinlik":16.3,
+    "ML":"1.6",
+    "Yer":"AVLAGI-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"06:55:57",
+    "Enlem":39.2128,
+    "Boylam":28.1338,
+    "Derinlik":7.6,
+    "ML":"2.5",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.15",
     "Saat":"06:20:35",
     "Enlem":37.816,
     "Boylam":36.2132,
