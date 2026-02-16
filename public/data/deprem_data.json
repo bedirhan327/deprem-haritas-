@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"06:49:28",
+    "Enlem":39.1565,
+    "Boylam":28.3357,
+    "Derinlik":8.9,
+    "ML":"1.5",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"06:15:20",
+    "Enlem":39.238,
+    "Boylam":28.9912,
+    "Derinlik":9.0,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"06:14:05",
+    "Enlem":39.2295,
+    "Boylam":28.9967,
+    "Derinlik":9.2,
+    "ML":"1.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"06:01:51",
+    "Enlem":40.8653,
+    "Boylam":28.0878,
+    "Derinlik":12.1,
+    "ML":"1.9",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"05:46:17",
+    "Enlem":41.119,
+    "Boylam":33.5167,
+    "Derinlik":8.5,
+    "ML":"1.8",
+    "Yer":"BOZARMUT-IHSANGAZI (KASTAMONU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"05:43:32",
     "Enlem":39.1955,
     "Boylam":28.2155,
