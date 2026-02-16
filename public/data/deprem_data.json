@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"14:59:10",
+    "Enlem":39.1892,
+    "Boylam":28.203,
+    "Derinlik":4.9,
+    "ML":"1.5",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"14:51:28",
     "Enlem":41.5125,
     "Boylam":41.2745,
     "Derinlik":5.4,
     "ML":"2.2",
     "Yer":"ARHAVI ACIKLARI-ARTVIN (KARADENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"14:49:48",
+    "Enlem":39.9322,
+    "Boylam":44.546,
+    "Derinlik":19.9,
+    "ML":"2.4",
+    "Yer":"TAZEKOY-ARALIK (IGDIR)",
     "Cozum":"�lksel"
   },
   {
@@ -37,6 +57,16 @@
     "Derinlik":11.7,
     "ML":"1.9",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"14:04:36",
+    "Enlem":40.242,
+    "Boylam":27.0258,
+    "Derinlik":2.0,
+    "ML":"0.5",
+    "Yer":"KOZCESME-BIGA (CANAKKALE)",
     "Cozum":"�lksel"
   },
   {
