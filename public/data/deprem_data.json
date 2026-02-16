@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"13:51:25",
+    "Enlem":38.2132,
+    "Boylam":36.7992,
+    "Derinlik":15.0,
+    "ML":"1.8",
+    "Yer":"AGCASAR-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"13:46:20",
+    "Enlem":37.845,
+    "Boylam":36.219,
+    "Derinlik":3.0,
+    "ML":"2.4",
+    "Yer":"KARAKUYU-SAIMBEYLI (ADANA) REVIZE01 (2026.02.16",
+    "Cozum":"13:46:20)"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"13:19:07",
+    "Enlem":39.0273,
+    "Boylam":28.5713,
+    "Derinlik":4.7,
+    "ML":"0.8",
+    "Yer":"YESILOBA-DEMIRCI (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"13:18:22",
     "Enlem":39.2203,
     "Boylam":28.1452,
