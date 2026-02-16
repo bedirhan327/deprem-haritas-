@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"19:49:19",
+    "Enlem":36.1262,
+    "Boylam":36.1158,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"BAHCEKOY-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"19:30:21",
+    "Enlem":36.4257,
+    "Boylam":28.5567,
+    "Derinlik":21.3,
+    "ML":"1.7",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"18:44:48",
+    "Enlem":36.7175,
+    "Boylam":25.6698,
+    "Derinlik":10.2,
+    "ML":"2.3",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"18:29:23",
+    "Enlem":40.8802,
+    "Boylam":28.2403,
+    "Derinlik":12.4,
+    "ML":"1.6",
+    "Yer":"SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"18:11:47",
+    "Enlem":39.545,
+    "Boylam":26.1402,
+    "Derinlik":12.8,
+    "ML":"2.0",
+    "Yer":"GULPINAR-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"17:53:57",
+    "Enlem":39.1488,
+    "Boylam":28.9835,
+    "Derinlik":14.7,
+    "ML":"1.4",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"17:30:08",
+    "Enlem":39.2038,
+    "Boylam":28.1163,
+    "Derinlik":11.2,
+    "ML":"1.8",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"16:43:07",
     "Enlem":37.6162,
     "Boylam":36.0638,
