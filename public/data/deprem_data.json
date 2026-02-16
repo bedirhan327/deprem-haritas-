@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"13:59:19",
+    "Enlem":40.786,
+    "Boylam":30.9838,
+    "Derinlik":4.2,
+    "ML":"1.8",
+    "Yer":"YAZLIK-GOLYAKA (DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"13:51:25",
     "Enlem":38.2132,
     "Boylam":36.7992,
@@ -97,6 +107,16 @@
     "Derinlik":2.9,
     "ML":"2.3",
     "Yer":"ASAGIMIRAHMET-KOVANCILAR (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"09:48:52",
+    "Enlem":38.8387,
+    "Boylam":43.567,
+    "Derinlik":14.9,
+    "ML":"2.5",
+    "Yer":"AKCIFT-(VAN)",
     "Cozum":"�lksel"
   },
   {
