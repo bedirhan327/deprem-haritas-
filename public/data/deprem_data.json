@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"16:43:07",
+    "Enlem":37.6162,
+    "Boylam":36.0638,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"CICEKLIDERE-SUMBAS (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"16:29:08",
+    "Enlem":37.4342,
+    "Boylam":26.6282,
+    "Derinlik":8.2,
+    "ML":"2.1",
+    "Yer":"ONIKI ADALAR (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"16:27:15",
+    "Enlem":40.8573,
+    "Boylam":31.6813,
+    "Derinlik":7.8,
+    "ML":"2.0",
+    "Yer":"YESILCELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"14:59:10",
     "Enlem":39.1892,
     "Boylam":28.203,
