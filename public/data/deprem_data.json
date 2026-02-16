@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.16",
+    "Saat":"14:51:28",
+    "Enlem":41.5125,
+    "Boylam":41.2745,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"ARHAVI ACIKLARI-ARTVIN (KARADENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"14:48:26",
+    "Enlem":38.143,
+    "Boylam":38.5665,
+    "Derinlik":10.9,
+    "ML":"1.8",
+    "Yer":"ARIKONAK-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"14:40:16",
+    "Enlem":37.6587,
+    "Boylam":36.1122,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"ESENLI-SUMBAS (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"14:38:13",
+    "Enlem":39.2417,
+    "Boylam":28.148,
+    "Derinlik":11.7,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"13:59:19",
     "Enlem":40.786,
     "Boylam":30.9838,
@@ -101,6 +141,16 @@
   },
   {
     "Tarih":"2026.02.16",
+    "Saat":"10:08:38",
+    "Enlem":40.4788,
+    "Boylam":42.3658,
+    "Derinlik":13.9,
+    "ML":"1.8",
+    "Yer":"CATALELMA-SENKAYA (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
     "Saat":"09:50:50",
     "Enlem":38.7598,
     "Boylam":40.0582,
@@ -117,6 +167,16 @@
     "Derinlik":14.9,
     "ML":"2.5",
     "Yer":"AKCIFT-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"09:22:19",
+    "Enlem":36.3872,
+    "Boylam":28.707,
+    "Derinlik":19.8,
+    "ML":"1.9",
+    "Yer":"AKDENIZ",
     "Cozum":"�lksel"
   },
   {
