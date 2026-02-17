@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"19:20:47",
+    "Enlem":36.3762,
+    "Boylam":36.3738,
+    "Derinlik":2.6,
+    "ML":"1.8",
+    "Yer":"KAZKELI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"18:59:10",
+    "Enlem":40.932,
+    "Boylam":31.8003,
+    "Derinlik":3.7,
+    "ML":"1.5",
+    "Yer":"HAYRANLAR-MENGEN (BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"18:39:41",
+    "Enlem":39.2262,
+    "Boylam":28.999,
+    "Derinlik":9.0,
+    "ML":"1.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"18:29:20",
+    "Enlem":36.6648,
+    "Boylam":25.7248,
+    "Derinlik":6.7,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"18:23:38",
     "Enlem":36.677,
     "Boylam":25.7567,
