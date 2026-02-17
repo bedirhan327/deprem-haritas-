@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"16:40:00",
+    "Enlem":39.1802,
+    "Boylam":28.3172,
+    "Derinlik":9.5,
+    "ML":"1.9",
+    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"15:48:12",
     "Enlem":39.2318,
     "Boylam":28.9812,
@@ -17,6 +27,16 @@
     "Derinlik":3.2,
     "ML":"1.6",
     "Yer":"AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"15:29:17",
+    "Enlem":35.7255,
+    "Boylam":24.9662,
+    "Derinlik":23.9,
+    "ML":"2.4",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"�lksel"
   },
   {
@@ -77,6 +97,16 @@
     "Derinlik":0.0,
     "ML":"0.9",
     "Yer":"KIRTIL-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"11:51:26",
+    "Enlem":36.72,
+    "Boylam":25.6345,
+    "Derinlik":2.5,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
     "Cozum":"�lksel"
   },
   {
@@ -167,6 +197,16 @@
     "Derinlik":5.5,
     "ML":"1.9",
     "Yer":"SURIYE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"09:00:19",
+    "Enlem":37.5147,
+    "Boylam":36.7488,
+    "Derinlik":12.0,
+    "ML":"1.3",
+    "Yer":"FATMALI-(KAHRAMANMARAS)",
     "Cozum":"�lksel"
   },
   {
@@ -368,6 +408,16 @@
     "ML":"1.1",
     "Yer":"GUNEY-SIMAV (KUTAHYA) REVIZE02 (2026.02.17",
     "Cozum":"05:01:57)"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"04:50:47",
+    "Enlem":34.6125,
+    "Boylam":26.133,
+    "Derinlik":5.8,
+    "ML":"3.0",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
   },
   {
     "Tarih":"2026.02.17",
