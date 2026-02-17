@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"05:11:41",
+    "Enlem":39.249,
+    "Boylam":28.963,
+    "Derinlik":7.3,
+    "ML":"2.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"05:08:56",
+    "Enlem":39.2472,
+    "Boylam":28.961,
+    "Derinlik":6.9,
+    "ML":"2.5",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"05:03:02",
+    "Enlem":39.227,
+    "Boylam":29.0067,
+    "Derinlik":6.4,
+    "ML":"2.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"05:01:57",
+    "Enlem":39.1655,
+    "Boylam":28.9338,
+    "Derinlik":17.1,
+    "ML":"1.1",
+    "Yer":"GUNEY-SIMAV (KUTAHYA) REVIZE02 (2026.02.17",
+    "Cozum":"05:01:57)"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"04:43:26",
+    "Enlem":38.1057,
+    "Boylam":38.3357,
+    "Derinlik":15.4,
+    "ML":"1.0",
+    "Yer":"TASDAMLAR-CELIKHAN (ADIYAMAN) REVIZE02 (2026.02.17",
+    "Cozum":"04:43:26)"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"04:15:42",
+    "Enlem":39.2233,
+    "Boylam":29.0092,
+    "Derinlik":6.6,
+    "ML":"1.8",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"03:56:07",
     "Enlem":39.1358,
     "Boylam":28.9953,
