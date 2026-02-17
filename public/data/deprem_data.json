@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"13:10:56",
+    "Enlem":38.2985,
+    "Boylam":38.6262,
+    "Derinlik":4.4,
+    "ML":"2.4",
+    "Yer":"PELITLI-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"12:53:57",
+    "Enlem":39.9038,
+    "Boylam":28.1155,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SOGUTCAYIRI-SUSURLUK (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"12:41:32",
+    "Enlem":38.087,
+    "Boylam":34.6893,
+    "Derinlik":5.4,
+    "ML":"2.0",
+    "Yer":"YAYLAYOLU-(NIGDE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"12:20:25",
     "Enlem":36.2838,
     "Boylam":33.6885,
