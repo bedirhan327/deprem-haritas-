@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"02:50:48",
+    "Enlem":39.2302,
+    "Boylam":28.997,
+    "Derinlik":10.4,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"02:38:30",
+    "Enlem":39.1535,
+    "Boylam":28.1785,
+    "Derinlik":12.2,
+    "ML":"1.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"02:38:08",
     "Enlem":39.4223,
     "Boylam":28.1887,
