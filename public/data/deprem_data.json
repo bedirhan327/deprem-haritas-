@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"13:57:40",
+    "Enlem":39.241,
+    "Boylam":29.0075,
+    "Derinlik":5.0,
+    "ML":"1.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"13:10:56",
     "Enlem":38.2985,
     "Boylam":38.6262,
@@ -107,6 +117,16 @@
     "Derinlik":16.4,
     "ML":"0.9",
     "Yer":"GUNEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"09:46:20",
+    "Enlem":37.6975,
+    "Boylam":29.1633,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"KARATAS-(DENIZLI)",
     "Cozum":"�lksel"
   },
   {
