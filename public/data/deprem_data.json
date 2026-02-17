@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"18:15:40",
+    "Enlem":39.229,
+    "Boylam":28.2082,
+    "Derinlik":8.0,
+    "ML":"1.6",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"17:50:19",
+    "Enlem":39.028,
+    "Boylam":31.7747,
+    "Derinlik":6.9,
+    "ML":"2.9",
+    "Yer":"CELTIK (KONYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"17:17:41",
     "Enlem":39.2165,
     "Boylam":28.2328,
