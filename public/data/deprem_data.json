@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"15:48:12",
+    "Enlem":39.2318,
+    "Boylam":28.9812,
+    "Derinlik":6.5,
+    "ML":"2.8",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"15:33:03",
+    "Enlem":36.0793,
+    "Boylam":33.5237,
+    "Derinlik":3.2,
+    "ML":"1.6",
+    "Yer":"AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"14:42:58",
+    "Enlem":36.1275,
+    "Boylam":37.3565,
+    "Derinlik":3.8,
+    "ML":"1.9",
+    "Yer":"SURIYE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"13:57:40",
     "Enlem":39.241,
     "Boylam":29.0075,
