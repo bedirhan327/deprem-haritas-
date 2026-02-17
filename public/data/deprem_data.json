@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"23:43:43",
+    "Enlem":39.1613,
+    "Boylam":29.0367,
+    "Derinlik":12.9,
+    "ML":"1.4",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"23:02:39",
+    "Enlem":40.1837,
+    "Boylam":31.754,
+    "Derinlik":15.0,
+    "ML":"2.4",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"22:57:15",
+    "Enlem":38.6405,
+    "Boylam":26.6942,
+    "Derinlik":10.7,
+    "ML":"1.7",
+    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"22:53:44",
     "Enlem":39.2262,
     "Boylam":28.1058,
