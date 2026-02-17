@@ -11,6 +11,36 @@
   },
   {
     "Tarih":"2026.02.17",
+    "Saat":"10:19:16",
+    "Enlem":38.1387,
+    "Boylam":37.2687,
+    "Derinlik":14.4,
+    "ML":"1.9",
+    "Yer":"OZCANLI-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"09:08:06",
+    "Enlem":36.5075,
+    "Boylam":36.7702,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"SURIYE",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"09:00:12",
+    "Enlem":37.283,
+    "Boylam":36.5378,
+    "Derinlik":4.0,
+    "ML":"1.7",
+    "Yer":"CATAK-DUZICI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"08:50:56",
     "Enlem":39.2225,
     "Boylam":28.9672,
