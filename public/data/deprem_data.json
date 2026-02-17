@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"06:57:50",
+    "Enlem":39.2223,
+    "Boylam":29.0097,
+    "Derinlik":7.7,
+    "ML":"1.4",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"06:20:59",
+    "Enlem":36.9907,
+    "Boylam":28.3327,
+    "Derinlik":3.2,
+    "ML":"1.5",
+    "Yer":"CETIBELI-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"06:10:44",
+    "Enlem":39.2202,
+    "Boylam":28.991,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"06:09:27",
+    "Enlem":39.22,
+    "Boylam":29.0182,
+    "Derinlik":10.6,
+    "ML":"1.7",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"05:55:18",
+    "Enlem":38.2288,
+    "Boylam":37.782,
+    "Derinlik":20.0,
+    "ML":"1.1",
+    "Yer":"DEDEYAZI-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"05:45:04",
+    "Enlem":39.6305,
+    "Boylam":27.4783,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"YESILKOY-IVRINDI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"05:13:48",
+    "Enlem":39.1795,
+    "Boylam":28.9382,
+    "Derinlik":17.0,
+    "ML":"1.5",
+    "Yer":"GUNEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"05:11:41",
     "Enlem":39.249,
     "Boylam":28.963,
