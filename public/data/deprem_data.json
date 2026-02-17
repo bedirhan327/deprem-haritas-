@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.17",
+    "Saat":"21:00:43",
+    "Enlem":37.8785,
+    "Boylam":37.7322,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"KARABAHSILI-GOLBASI (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"20:55:12",
+    "Enlem":36.2177,
+    "Boylam":28.488,
+    "Derinlik":8.0,
+    "ML":"3.0",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"20:34:03",
+    "Enlem":36.218,
+    "Boylam":35.9163,
+    "Derinlik":5.7,
+    "ML":"1.5",
+    "Yer":"BUYUKOBA-SAMANDAG (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
+    "Saat":"20:09:40",
+    "Enlem":39.2458,
+    "Boylam":28.1952,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"CAYGOREN-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.17",
     "Saat":"19:20:47",
     "Enlem":36.3762,
     "Boylam":36.3738,
