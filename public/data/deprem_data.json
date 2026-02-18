@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"07:53:52",
+    "Enlem":39.1852,
+    "Boylam":28.1963,
+    "Derinlik":11.0,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"07:19:09",
+    "Enlem":39.1532,
+    "Boylam":29.1353,
+    "Derinlik":10.7,
+    "ML":"0.8",
+    "Yer":"INLICE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"07:01:07",
+    "Enlem":39.12,
+    "Boylam":28.2168,
+    "Derinlik":4.2,
+    "ML":"0.8",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"06:59:25",
+    "Enlem":36.6403,
+    "Boylam":29.3085,
+    "Derinlik":6.2,
+    "ML":"1.8",
+    "Yer":"ZORLAR-FETHIYE (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"06:56:49",
     "Enlem":36.8295,
     "Boylam":28.3613,
@@ -41,12 +81,32 @@
   },
   {
     "Tarih":"2026.02.18",
+    "Saat":"06:12:36",
+    "Enlem":39.0878,
+    "Boylam":28.2343,
+    "Derinlik":5.0,
+    "ML":"1.1",
+    "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"06:02:00",
     "Enlem":39.185,
     "Boylam":28.3148,
     "Derinlik":9.9,
     "ML":"1.6",
     "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"05:56:07",
+    "Enlem":38.9482,
+    "Boylam":28.1517,
+    "Derinlik":7.3,
+    "ML":"1.6",
+    "Yer":"CITAK-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
