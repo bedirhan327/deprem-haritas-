@@ -1,12 +1,72 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"23:22:25",
+    "Enlem":39.5422,
+    "Boylam":27.8658,
+    "Derinlik":11.7,
+    "ML":"1.4",
+    "Yer":"PAMUKCU-(BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"23:09:25",
+    "Enlem":40.3837,
+    "Boylam":28.3892,
+    "Derinlik":8.6,
+    "ML":"2.5",
+    "Yer":"BAYRAMDERE-KARACABEY (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"22:49:14",
+    "Enlem":38.2735,
+    "Boylam":38.6792,
+    "Derinlik":17.0,
+    "ML":"2.1",
+    "Yer":"CAYKOY-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"22:48:49",
+    "Enlem":39.0357,
+    "Boylam":28.1145,
+    "Derinlik":13.0,
+    "ML":"1.5",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"22:44:53",
+    "Enlem":40.3977,
+    "Boylam":28.3735,
+    "Derinlik":4.4,
+    "ML":"1.6",
+    "Yer":"BAYRAMDERE-KARACABEY (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"22:43:14",
     "Enlem":40.3693,
     "Boylam":28.3767,
     "Derinlik":4.1,
     "ML":"3.1",
     "Yer":"BAYRAMDERE-KARACABEY (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"22:29:59",
+    "Enlem":39.6023,
+    "Boylam":27.2055,
+    "Derinlik":12.8,
+    "ML":"1.5",
+    "Yer":"HALILAR-HAVRAN (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
