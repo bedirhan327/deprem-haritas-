@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"06:56:49",
+    "Enlem":36.8295,
+    "Boylam":28.3613,
+    "Derinlik":46.6,
+    "ML":"2.2",
+    "Yer":"ADAKOY-MARMARIS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"06:50:33",
+    "Enlem":39.1208,
+    "Boylam":28.3073,
+    "Derinlik":11.5,
+    "ML":"2.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"06:44:46",
     "Enlem":40.3652,
     "Boylam":28.3925,
     "Derinlik":9.5,
     "ML":"3.0",
     "Yer":"BAYRAMDERE-KARACABEY (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"06:27:50",
+    "Enlem":39.0947,
+    "Boylam":40.2923,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"GUNGOREN-(BINGOL)",
     "Cozum":"�lksel"
   },
   {
