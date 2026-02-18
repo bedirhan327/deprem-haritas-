@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"13:18:21",
+    "Enlem":39.6242,
+    "Boylam":28.9708,
+    "Derinlik":5.4,
+    "ML":"2.4",
+    "Yer":"ALUTCA-HARMANCIK (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"12:53:54",
+    "Enlem":39.2025,
+    "Boylam":28.102,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"12:35:35",
     "Enlem":39.8492,
     "Boylam":28.6992,
