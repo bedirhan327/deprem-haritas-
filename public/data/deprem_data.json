@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"11:58:01",
+    "Enlem":39.2462,
+    "Boylam":23.5595,
+    "Derinlik":8.2,
+    "ML":"2.9",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"11:54:07",
+    "Enlem":39.2525,
+    "Boylam":28.9705,
+    "Derinlik":8.7,
+    "ML":"2.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"11:45:54",
     "Enlem":38.071,
     "Boylam":38.29,
