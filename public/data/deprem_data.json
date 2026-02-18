@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"14:52:02",
+    "Enlem":39.1928,
+    "Boylam":28.2785,
+    "Derinlik":7.7,
+    "ML":"2.1",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"14:40:29",
+    "Enlem":39.1947,
+    "Boylam":28.1602,
+    "Derinlik":7.5,
+    "ML":"1.4",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"14:37:54",
+    "Enlem":39.1427,
+    "Boylam":28.2257,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"14:37:13",
+    "Enlem":36.8143,
+    "Boylam":27.4082,
+    "Derinlik":5.0,
+    "ML":"2.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"14:31:59",
+    "Enlem":39.1533,
+    "Boylam":28.2313,
+    "Derinlik":9.7,
+    "ML":"2.6",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"14:16:54",
     "Enlem":39.1385,
     "Boylam":28.235,
