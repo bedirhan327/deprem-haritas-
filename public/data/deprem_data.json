@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"12:35:35",
+    "Enlem":39.8492,
+    "Boylam":28.6992,
+    "Derinlik":5.2,
+    "ML":"2.0",
+    "Yer":"KARAKOY-MUSTAFAKEMALPASA (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"12:25:30",
+    "Enlem":39.212,
+    "Boylam":28.2815,
+    "Derinlik":12.1,
+    "ML":"1.6",
+    "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"11:58:01",
     "Enlem":39.2462,
     "Boylam":23.5595,
@@ -87,6 +107,16 @@
     "Derinlik":19.1,
     "ML":"1.0",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"09:18:08",
+    "Enlem":39.6172,
+    "Boylam":43.2582,
+    "Derinlik":22.5,
+    "ML":"2.5",
+    "Yer":"OGLAKLI-(AGRI)",
     "Cozum":"�lksel"
   },
   {
