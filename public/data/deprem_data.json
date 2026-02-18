@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.18",
+    "Saat":"11:45:54",
+    "Enlem":38.071,
+    "Boylam":38.29,
+    "Derinlik":8.2,
+    "ML":"1.7",
+    "Yer":"KOSEUSAGI-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
+    "Saat":"11:28:30",
+    "Enlem":38.7885,
+    "Boylam":28.0607,
+    "Derinlik":5.0,
+    "ML":"0.8",
+    "Yer":"CAGLAYAN-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.18",
     "Saat":"11:03:13",
     "Enlem":39.1542,
     "Boylam":28.2417,
