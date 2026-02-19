@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"18:32:52",
+    "Enlem":37.215,
+    "Boylam":28.7317,
+    "Derinlik":9.9,
+    "ML":"3.3",
+    "Yer":"KARACAOREN-(MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"18:07:55",
+    "Enlem":39.5408,
+    "Boylam":26.1032,
+    "Derinlik":11.0,
+    "ML":"2.2",
+    "Yer":"GULPINAR-AYVACIK (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"17:11:18",
     "Enlem":39.2662,
     "Boylam":28.9948,
