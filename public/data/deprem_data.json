@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"08:38:38",
+    "Enlem":40.1993,
+    "Boylam":31.8168,
+    "Derinlik":7.3,
+    "ML":"2.6",
+    "Yer":"SARIAGIL-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"08:31:04",
+    "Enlem":40.849,
+    "Boylam":28.6675,
+    "Derinlik":16.0,
+    "ML":"2.1",
+    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"08:12:54",
     "Enlem":38.9687,
     "Boylam":26.0887,
