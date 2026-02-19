@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"21:50:59",
+    "Enlem":39.1832,
+    "Boylam":28.0965,
+    "Derinlik":9.1,
+    "ML":"2.7",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"21:40:09",
+    "Enlem":39.213,
+    "Boylam":28.1092,
+    "Derinlik":8.0,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"21:27:08",
+    "Enlem":39.2263,
+    "Boylam":28.1343,
+    "Derinlik":6.9,
+    "ML":"1.4",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"21:08:22",
     "Enlem":38.1768,
     "Boylam":38.4993,
