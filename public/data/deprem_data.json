@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"04:46:23",
+    "Enlem":40.8413,
+    "Boylam":28.676,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"04:38:15",
+    "Enlem":37.9313,
+    "Boylam":36.6798,
+    "Derinlik":8.4,
+    "ML":"2.3",
+    "Yer":"CAMLICA-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"04:34:11",
+    "Enlem":39.2515,
+    "Boylam":28.3185,
+    "Derinlik":7.3,
+    "ML":"1.2",
+    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"04:18:40",
     "Enlem":39.1558,
     "Boylam":28.244,
@@ -17,6 +47,16 @@
     "Derinlik":5.0,
     "ML":"2.4",
     "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"04:00:24",
+    "Enlem":38.2128,
+    "Boylam":26.3368,
+    "Derinlik":16.4,
+    "ML":"1.5",
+    "Yer":"CESME ACIKLARI-IZMIR (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
