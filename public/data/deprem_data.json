@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"04:18:40",
+    "Enlem":39.1558,
+    "Boylam":28.244,
+    "Derinlik":11.1,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"04:01:41",
+    "Enlem":35.8105,
+    "Boylam":25.5545,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"03:52:55",
+    "Enlem":38.1058,
+    "Boylam":36.6168,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"03:47:59",
+    "Enlem":37.857,
+    "Boylam":36.7372,
+    "Derinlik":5.1,
+    "ML":"1.5",
+    "Yer":"KOZCAGIZ-(KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"03:42:45",
+    "Enlem":34.4097,
+    "Boylam":25.2735,
+    "Derinlik":12.2,
+    "ML":"2.3",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"03:38:38",
     "Enlem":39.1512,
     "Boylam":28.1453,
