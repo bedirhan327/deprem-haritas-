@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"20:15:04",
+    "Enlem":38.2573,
+    "Boylam":37.7987,
+    "Derinlik":5.7,
+    "ML":"2.3",
+    "Yer":"ORTAKOY-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"19:32:44",
+    "Enlem":39.0843,
+    "Boylam":28.2282,
+    "Derinlik":7.3,
+    "ML":"1.6",
+    "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"19:28:20",
     "Enlem":37.653,
     "Boylam":35.9128,
