@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"06:10:46",
+    "Enlem":38.919,
+    "Boylam":26.0843,
+    "Derinlik":7.1,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"05:59:34",
+    "Enlem":37.1078,
+    "Boylam":29.0382,
+    "Derinlik":9.0,
+    "ML":"2.1",
+    "Yer":"SANDALCIK-ACIPAYAM (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"05:53:24",
+    "Enlem":38.7582,
+    "Boylam":38.0028,
+    "Derinlik":15.2,
+    "ML":"1.4",
+    "Yer":"YAGCA-HEKIMHAN (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"05:45:49",
     "Enlem":38.2847,
     "Boylam":30.987,
