@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"21:08:22",
+    "Enlem":38.1768,
+    "Boylam":38.4993,
+    "Derinlik":27.7,
+    "ML":"1.0",
+    "Yer":"ULUKOY-(MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"21:06:31",
+    "Enlem":37.0565,
+    "Boylam":28.0583,
+    "Derinlik":30.0,
+    "ML":"1.0",
+    "Yer":"KULTAK-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"20:31:46",
+    "Enlem":38.4198,
+    "Boylam":38.8553,
+    "Derinlik":4.6,
+    "ML":"1.6",
+    "Yer":"KUTLUGUN-BASKIL (ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"20:15:04",
     "Enlem":38.2573,
     "Boylam":37.7987,
@@ -27,6 +57,16 @@
     "Derinlik":5.0,
     "ML":"2.2",
     "Yer":"MAHYALAR-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"19:22:45",
+    "Enlem":40.3695,
+    "Boylam":28.3817,
+    "Derinlik":4.8,
+    "ML":"1.4",
+    "Yer":"BAYRAMDERE-KARACABEY (BURSA)",
     "Cozum":"�lksel"
   },
   {
