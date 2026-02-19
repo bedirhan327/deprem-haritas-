@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.19",
+    "Saat":"03:17:22",
+    "Enlem":36.0707,
+    "Boylam":31.3843,
+    "Derinlik":12.2,
+    "ML":"2.6",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"03:00:53",
+    "Enlem":39.3992,
+    "Boylam":25.9728,
+    "Derinlik":10.9,
+    "ML":"1.5",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"02:58:29",
+    "Enlem":39.2235,
+    "Boylam":28.947,
+    "Derinlik":16.6,
+    "ML":"1.0",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
+    "Saat":"02:53:06",
+    "Enlem":39.1667,
+    "Boylam":28.2842,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.19",
     "Saat":"02:48:23",
     "Enlem":39.2643,
     "Boylam":29.0143,
