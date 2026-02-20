@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"02:19:03",
+    "Enlem":38.1533,
+    "Boylam":37.8402,
+    "Derinlik":12.1,
+    "ML":"1.4",
+    "Yer":"POLAT-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"01:55:03",
+    "Enlem":40.493,
+    "Boylam":27.545,
+    "Derinlik":8.5,
+    "ML":"1.4",
+    "Yer":"AVSA-MARMARA (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"01:43:24",
     "Enlem":40.4842,
     "Boylam":27.55,
