@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"18:04:54",
+    "Enlem":38.1398,
+    "Boylam":38.4985,
+    "Derinlik":4.3,
+    "ML":"1.9",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"17:26:42",
+    "Enlem":41.0717,
+    "Boylam":28.9845,
+    "Derinlik":11.9,
+    "ML":"0.5",
+    "Yer":"KAGITHANE (ISTANBUL)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"17:24:01",
     "Enlem":38.6648,
     "Boylam":26.4553,
@@ -15,6 +35,16 @@
     "Enlem":38.6747,
     "Boylam":26.4502,
     "Derinlik":6.4,
+    "ML":"2.1",
+    "Yer":"TEPEBOZ-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"17:17:05",
+    "Enlem":38.6537,
+    "Boylam":26.4552,
+    "Derinlik":8.0,
     "ML":"2.1",
     "Yer":"TEPEBOZ-KARABURUN (IZMIR)",
     "Cozum":"�lksel"
