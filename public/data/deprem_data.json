@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"13:43:57",
+    "Enlem":36.3335,
+    "Boylam":36.2073,
+    "Derinlik":7.7,
+    "ML":"2.9",
+    "Yer":"ZULUFLUHAN-(HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"13:31:50",
+    "Enlem":39.1108,
+    "Boylam":28.2987,
+    "Derinlik":13.1,
+    "ML":"1.7",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"12:50:44",
     "Enlem":36.3345,
     "Boylam":28.5103,
