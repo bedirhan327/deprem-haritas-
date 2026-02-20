@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"15:28:07",
+    "Enlem":37.6582,
+    "Boylam":35.407,
+    "Derinlik":4.9,
+    "ML":"1.3",
+    "Yer":"KUP-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"15:16:51",
+    "Enlem":37.6142,
+    "Boylam":35.4427,
+    "Derinlik":13.2,
+    "ML":"1.8",
+    "Yer":"DARILIK-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"15:07:57",
     "Enlem":40.822,
     "Boylam":27.954,
