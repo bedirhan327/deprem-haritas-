@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"12:08:41",
+    "Enlem":39.1495,
+    "Boylam":28.0913,
+    "Derinlik":13.6,
+    "ML":"1.6",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"11:57:06",
+    "Enlem":36.2412,
+    "Boylam":33.7177,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"ISIKLI-SILIFKE (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"11:55:08",
+    "Enlem":39.4048,
+    "Boylam":25.9607,
+    "Derinlik":16.5,
+    "ML":"2.2",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"11:39:59",
     "Enlem":39.4178,
     "Boylam":25.9418,
