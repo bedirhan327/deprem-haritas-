@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"06:15:37",
+    "Enlem":39.6785,
+    "Boylam":38.8002,
+    "Derinlik":12.2,
+    "ML":"1.9",
+    "Yer":"KARDERE-KEMAH (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"06:10:51",
+    "Enlem":36.3832,
+    "Boylam":36.3648,
+    "Derinlik":7.4,
+    "ML":"4.1",
+    "Yer":"KAZKELI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"06:05:34",
+    "Enlem":39.3962,
+    "Boylam":25.949,
+    "Derinlik":14.0,
+    "ML":"1.8",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"05:27:56",
     "Enlem":38.0893,
     "Boylam":37.0073,
