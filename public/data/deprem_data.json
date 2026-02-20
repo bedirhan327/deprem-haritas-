@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"04:22:53",
+    "Enlem":39.0947,
+    "Boylam":28.3715,
+    "Derinlik":9.2,
+    "ML":"1.2",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"04:06:50",
+    "Enlem":40.6372,
+    "Boylam":32.8082,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"YAGCIHUSEYIN-KIZILCAHAMAM (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"04:00:33",
+    "Enlem":39.4252,
+    "Boylam":25.9353,
+    "Derinlik":5.1,
+    "ML":"1.7",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"03:47:47",
     "Enlem":39.2482,
     "Boylam":28.9993,
