@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"01:12:28",
+    "Enlem":37.771,
+    "Boylam":35.0583,
+    "Derinlik":3.3,
+    "ML":"1.5",
+    "Yer":"ELEKGOLU-CAMARDI (NIGDE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"00:51:32",
+    "Enlem":38.187,
+    "Boylam":37.3537,
+    "Derinlik":4.2,
+    "ML":"1.5",
+    "Yer":"AKBAYIR-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"00:25:38",
     "Enlem":39.1002,
     "Boylam":27.7903,
