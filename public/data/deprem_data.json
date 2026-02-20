@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"19:01:23",
+    "Enlem":38.6922,
+    "Boylam":26.4343,
+    "Derinlik":26.3,
+    "ML":"1.9",
+    "Yer":"HASSEKI-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"18:51:30",
+    "Enlem":41.0525,
+    "Boylam":35.653,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"SIVRIKESE-HAVZA (SAMSUN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"18:44:52",
     "Enlem":39.1807,
     "Boylam":28.1578,
