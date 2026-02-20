@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"06:33:16",
+    "Enlem":34.4802,
+    "Boylam":26.0917,
+    "Derinlik":27.5,
+    "ML":"2.9",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"06:24:35",
+    "Enlem":35.6135,
+    "Boylam":26.6615,
+    "Derinlik":15.5,
+    "ML":"3.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"06:15:37",
     "Enlem":39.6785,
     "Boylam":38.8002,
@@ -17,6 +37,16 @@
     "Derinlik":7.4,
     "ML":"4.1",
     "Yer":"KAZKELI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"06:08:29",
+    "Enlem":39.1552,
+    "Boylam":29.4647,
+    "Derinlik":14.3,
+    "ML":"1.2",
+    "Yer":"DOGANCILAR-CAVDARHISAR (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
