@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"20:47:04",
+    "Enlem":35.2135,
+    "Boylam":32.9768,
+    "Derinlik":71.9,
+    "ML":"1.3",
+    "Yer":"KIBRIS-GUZELYURT",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"20:39:47",
+    "Enlem":39.6123,
+    "Boylam":39.6502,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"YALINCA-(ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"19:52:20",
+    "Enlem":36.9963,
+    "Boylam":32.0057,
+    "Derinlik":17.4,
+    "ML":"1.8",
+    "Yer":"CIMIKOY-AKSEKI (ANTALYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"19:22:39",
     "Enlem":39.1783,
     "Boylam":27.9493,
