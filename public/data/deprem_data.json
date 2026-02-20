@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"05:09:18",
+    "Enlem":39.2585,
+    "Boylam":28.9588,
+    "Derinlik":11.5,
+    "ML":"0.8",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"05:06:53",
+    "Enlem":39.24,
+    "Boylam":28.9987,
+    "Derinlik":11.8,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"05:01:16",
+    "Enlem":36.6722,
+    "Boylam":25.6443,
+    "Derinlik":11.3,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"04:53:34",
+    "Enlem":40.8597,
+    "Boylam":41.7732,
+    "Derinlik":7.2,
+    "ML":"1.5",
+    "Yer":"DEMIRKENT-YUSUFELI (ARTVIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"04:51:49",
     "Enlem":39.2492,
     "Boylam":28.9877,
