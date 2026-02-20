@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"02:34:50",
+    "Enlem":37.6582,
+    "Boylam":35.4292,
+    "Derinlik":8.7,
+    "ML":"1.6",
+    "Yer":"KUP-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"02:15:34",
     "Enlem":37.9507,
     "Boylam":36.2942,
     "Derinlik":5.0,
     "ML":"1.5",
     "Yer":"KAZANDERE-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"01:52:55",
+    "Enlem":37.1363,
+    "Boylam":36.2795,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"ARSLANLI-(OSMANIYE)",
     "Cozum":"�lksel"
   },
   {
