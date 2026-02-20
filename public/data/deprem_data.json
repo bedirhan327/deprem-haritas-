@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.20",
+    "Saat":"16:46:15",
+    "Enlem":37.9278,
+    "Boylam":35.9235,
+    "Derinlik":28.2,
+    "ML":"1.6",
+    "Yer":"GOBELLI-FEKE (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
+    "Saat":"16:31:29",
+    "Enlem":39.4002,
+    "Boylam":25.9632,
+    "Derinlik":12.8,
+    "ML":"2.2",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.20",
     "Saat":"15:28:07",
     "Enlem":37.6582,
     "Boylam":35.407,
