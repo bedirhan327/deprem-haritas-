@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"08:08:08",
+    "Enlem":38.603,
+    "Boylam":39.5945,
+    "Derinlik":5.5,
+    "ML":"2.3",
+    "Yer":"YUKARIBAG-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"07:57:52",
+    "Enlem":38.6078,
+    "Boylam":39.5738,
+    "Derinlik":6.6,
+    "ML":"1.7",
+    "Yer":"YUKARIBAG-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"07:48:27",
     "Enlem":38.2985,
     "Boylam":38.7537,
