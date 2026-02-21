@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"18:50:39",
+    "Enlem":38.324,
+    "Boylam":38.8437,
+    "Derinlik":9.5,
+    "ML":"1.7",
+    "Yer":"UYANIK-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"18:46:54",
+    "Enlem":39.1975,
+    "Boylam":28.1667,
+    "Derinlik":23.1,
+    "ML":"1.1",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"18:43:38",
+    "Enlem":39.1595,
+    "Boylam":28.9755,
+    "Derinlik":20.9,
+    "ML":"1.1",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"18:28:19",
     "Enlem":39.1215,
     "Boylam":28.3663,
