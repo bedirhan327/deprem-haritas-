@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"21:23:33",
+    "Enlem":38.0452,
+    "Boylam":38.1923,
+    "Derinlik":24.5,
+    "ML":"1.1",
+    "Yer":"PINARBASI-CELIKHAN (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"21:08:34",
+    "Enlem":37.1562,
+    "Boylam":27.8488,
+    "Derinlik":16.8,
+    "ML":"1.4",
+    "Yer":"BAGDAMLARI-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"20:54:50",
+    "Enlem":39.205,
+    "Boylam":29.0348,
+    "Derinlik":5.5,
+    "ML":"1.0",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"20:49:12",
+    "Enlem":39.1045,
+    "Boylam":28.3632,
+    "Derinlik":10.7,
+    "ML":"1.0",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"20:47:29",
+    "Enlem":39.2632,
+    "Boylam":28.9043,
+    "Derinlik":12.4,
+    "ML":"0.8",
+    "Yer":"KAYALIDERE-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"20:20:20",
     "Enlem":39.23,
     "Boylam":28.94,
