@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"09:50:36",
+    "Enlem":38.8372,
+    "Boylam":27.9362,
+    "Derinlik":2.7,
+    "ML":"1.3",
+    "Yer":"BOYALILAR-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"09:31:07",
+    "Enlem":38.1583,
+    "Boylam":38.4595,
+    "Derinlik":16.8,
+    "ML":"1.3",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"09:07:55",
     "Enlem":39.2163,
     "Boylam":28.1408,
@@ -17,6 +37,16 @@
     "Derinlik":8.7,
     "ML":"1.1",
     "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"08:56:59",
+    "Enlem":38.0707,
+    "Boylam":32.7405,
+    "Derinlik":0.0,
+    "ML":"0.9",
+    "Yer":"KARAOMERLER-SELCUKLU (KONYA)",
     "Cozum":"�lksel"
   },
   {
