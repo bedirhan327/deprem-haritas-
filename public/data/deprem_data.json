@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"04:19:19",
+    "Enlem":39.415,
+    "Boylam":25.9195,
+    "Derinlik":5.4,
+    "ML":"1.8",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"03:57:08",
+    "Enlem":38.1265,
+    "Boylam":36.8865,
+    "Derinlik":8.5,
+    "ML":"1.2",
+    "Yer":"KAMISCIK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"03:55:10",
+    "Enlem":38.1095,
+    "Boylam":36.935,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"TOMBAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"03:51:29",
+    "Enlem":38.2198,
+    "Boylam":36.9213,
+    "Derinlik":2.6,
+    "ML":"1.5",
+    "Yer":"AFSIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"03:43:34",
     "Enlem":39.1378,
     "Boylam":28.1667,
