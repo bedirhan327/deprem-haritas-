@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"02:44:40",
+    "Enlem":39.2267,
+    "Boylam":28.9945,
+    "Derinlik":14.0,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"02:39:50",
+    "Enlem":38.6923,
+    "Boylam":26.492,
+    "Derinlik":6.4,
+    "ML":"2.3",
+    "Yer":"BOZKOY-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"02:19:03",
     "Enlem":38.1533,
     "Boylam":37.8402,
