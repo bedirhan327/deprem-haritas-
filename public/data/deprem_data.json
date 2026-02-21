@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"04:30:22",
+    "Enlem":38.6937,
+    "Boylam":26.4663,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"TEPEBOZ-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"04:25:44",
+    "Enlem":38.6733,
+    "Boylam":36.6913,
+    "Derinlik":1.1,
+    "ML":"1.8",
+    "Yer":"CAVDAR-SARIZ (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"04:19:19",
     "Enlem":39.415,
     "Boylam":25.9195,
