@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"14:38:37",
+    "Enlem":36.61,
+    "Boylam":25.685,
+    "Derinlik":5.7,
+    "ML":"2.1",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"14:18:31",
+    "Enlem":38.2887,
+    "Boylam":38.7307,
+    "Derinlik":7.0,
+    "ML":"1.8",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"14:12:07",
+    "Enlem":37.662,
+    "Boylam":35.3862,
+    "Derinlik":4.7,
+    "ML":"1.5",
+    "Yer":"YETIMLI-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"13:39:09",
+    "Enlem":39.4777,
+    "Boylam":33.0977,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"AFSAR-BALA (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"13:23:53",
+    "Enlem":38.2743,
+    "Boylam":38.1948,
+    "Derinlik":9.7,
+    "ML":"1.6",
+    "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"13:17:20",
     "Enlem":37.6993,
     "Boylam":35.3918,
