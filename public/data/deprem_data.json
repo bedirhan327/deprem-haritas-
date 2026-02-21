@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"06:09:56",
+    "Enlem":37.5272,
+    "Boylam":35.4125,
+    "Derinlik":4.8,
+    "ML":"2.4",
+    "Yer":"GIREGIYENIKOY-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"06:09:20",
+    "Enlem":39.2177,
+    "Boylam":28.1407,
+    "Derinlik":9.4,
+    "ML":"1.5",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"05:49:03",
     "Enlem":38.6023,
     "Boylam":39.5795,
@@ -37,6 +57,16 @@
     "Derinlik":7.2,
     "ML":"2.4",
     "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"05:31:52",
+    "Enlem":39.2313,
+    "Boylam":28.9602,
+    "Derinlik":7.6,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"�lksel"
   },
   {
