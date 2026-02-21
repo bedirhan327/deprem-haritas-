@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"13:17:20",
+    "Enlem":37.6993,
+    "Boylam":35.3918,
+    "Derinlik":3.1,
+    "ML":"2.2",
+    "Yer":"BUYUKCAKIR-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"13:12:56",
+    "Enlem":40.1967,
+    "Boylam":29.44,
+    "Derinlik":15.4,
+    "ML":"1.5",
+    "Yer":"SOGUKSU-KESTEL (BURSA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"13:10:02",
+    "Enlem":36.351,
+    "Boylam":28.8908,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"13:01:05",
     "Enlem":39.1862,
     "Boylam":28.3248,
