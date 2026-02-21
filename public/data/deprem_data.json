@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"06:51:56",
+    "Enlem":38.291,
+    "Boylam":38.7475,
+    "Derinlik":12.0,
+    "ML":"1.5",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"06:43:13",
+    "Enlem":38.2792,
+    "Boylam":38.7687,
+    "Derinlik":5.6,
+    "ML":"4.5",
+    "Yer":"KARSIYAKA-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"06:09:56",
     "Enlem":37.5272,
     "Boylam":35.4125,
