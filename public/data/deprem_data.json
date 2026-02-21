@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"15:03:01",
+    "Enlem":38.282,
+    "Boylam":38.7378,
+    "Derinlik":5.2,
+    "ML":"1.5",
+    "Yer":"BALPINARI-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"14:38:37",
     "Enlem":36.61,
     "Boylam":25.685,
@@ -107,6 +117,26 @@
     "Derinlik":16.3,
     "ML":"1.2",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"12:19:39",
+    "Enlem":37.7065,
+    "Boylam":35.6907,
+    "Derinlik":12.3,
+    "ML":"1.7",
+    "Yer":"CELENUSAGI-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"11:31:12",
+    "Enlem":39.2398,
+    "Boylam":27.7547,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"TEKELI ISIKLAR-SOMA (MANISA)",
     "Cozum":"�lksel"
   },
   {
