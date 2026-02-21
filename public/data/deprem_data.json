@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"00:43:22",
+    "Enlem":36.6735,
+    "Boylam":36.1013,
+    "Derinlik":8.8,
+    "ML":"2.6",
+    "Yer":"SARISEKI-ISKENDERUN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"00:38:25",
+    "Enlem":37.6673,
+    "Boylam":35.4367,
+    "Derinlik":5.0,
+    "ML":"3.1",
+    "Yer":"KUP-ALADAG (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"00:20:08",
+    "Enlem":39.1742,
+    "Boylam":28.154,
+    "Derinlik":13.1,
+    "ML":"1.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"00:02:59",
     "Enlem":37.031,
     "Boylam":31.8148,
