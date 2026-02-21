@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"18:28:19",
+    "Enlem":39.1215,
+    "Boylam":28.3663,
+    "Derinlik":18.6,
+    "ML":"1.2",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"18:19:29",
     "Enlem":40.5538,
     "Boylam":28.9835,
     "Derinlik":7.6,
     "ML":"1.1",
     "Yer":"SELIMIYE-ARMUTLU (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"18:19:16",
+    "Enlem":38.2633,
+    "Boylam":38.0975,
+    "Derinlik":9.7,
+    "ML":"1.1",
+    "Yer":"GORGU-YESILYURT (MALATYA)",
     "Cozum":"�lksel"
   },
   {
