@@ -31,6 +31,16 @@
   },
   {
     "Tarih":"2026.02.21",
+    "Saat":"21:24:55",
+    "Enlem":37.3745,
+    "Boylam":34.9737,
+    "Derinlik":9.0,
+    "ML":"1.9",
+    "Yer":"BELEMEDIK-POZANTI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"21:23:33",
     "Enlem":38.0452,
     "Boylam":38.1923,
@@ -47,6 +57,16 @@
     "Derinlik":16.8,
     "ML":"1.4",
     "Yer":"BAGDAMLARI-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"21:04:13",
+    "Enlem":39.108,
+    "Boylam":28.1295,
+    "Derinlik":22.1,
+    "ML":"0.9",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
     "Cozum":"�lksel"
   },
   {
