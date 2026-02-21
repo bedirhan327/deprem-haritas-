@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"20:20:20",
+    "Enlem":39.23,
+    "Boylam":28.94,
+    "Derinlik":15.1,
+    "ML":"1.3",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"20:17:49",
+    "Enlem":38.5312,
+    "Boylam":26.45,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"YAYLAKOY-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"19:27:53",
+    "Enlem":38.2865,
+    "Boylam":38.1978,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"19:25:10",
+    "Enlem":37.2323,
+    "Boylam":27.812,
+    "Derinlik":4.9,
+    "ML":"1.9",
+    "Yer":"ASLANYAKA-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"19:18:24",
     "Enlem":38.9075,
     "Boylam":28.8053,
