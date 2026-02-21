@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.21",
+    "Saat":"22:09:07",
+    "Enlem":36.9957,
+    "Boylam":28.1067,
+    "Derinlik":21.2,
+    "ML":"1.5",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"22:08:22",
+    "Enlem":35.0887,
+    "Boylam":25.3845,
+    "Derinlik":22.5,
+    "ML":"2.2",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
+    "Saat":"21:40:49",
+    "Enlem":39.1997,
+    "Boylam":28.0025,
+    "Derinlik":4.5,
+    "ML":"1.6",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.21",
     "Saat":"21:23:33",
     "Enlem":38.0452,
     "Boylam":38.1923,
