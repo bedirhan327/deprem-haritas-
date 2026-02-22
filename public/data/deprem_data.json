@@ -31,6 +31,36 @@
   },
   {
     "Tarih":"2026.02.22",
+    "Saat":"14:48:53",
+    "Enlem":37.929,
+    "Boylam":27.3402,
+    "Derinlik":1.3,
+    "ML":"2.4",
+    "Yer":"ACARLAR-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"14:30:54",
+    "Enlem":39.1205,
+    "Boylam":28.3132,
+    "Derinlik":21.1,
+    "ML":"1.2",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"14:10:32",
+    "Enlem":39.1043,
+    "Boylam":28.3568,
+    "Derinlik":13.4,
+    "ML":"1.2",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"13:54:29",
     "Enlem":40.224,
     "Boylam":31.7393,
