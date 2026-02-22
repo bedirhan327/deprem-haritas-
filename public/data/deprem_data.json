@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"19:45:51",
+    "Enlem":39.1338,
+    "Boylam":28.3187,
+    "Derinlik":10.2,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"19:30:03",
+    "Enlem":37.7495,
+    "Boylam":36.2813,
+    "Derinlik":3.5,
+    "ML":"2.0",
+    "Yer":"CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"19:05:55",
+    "Enlem":40.8378,
+    "Boylam":31.6843,
+    "Derinlik":16.5,
+    "ML":"1.4",
+    "Yer":"YESILCELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"18:52:18",
+    "Enlem":38.2003,
+    "Boylam":38.7013,
+    "Derinlik":1.1,
+    "ML":"1.7",
+    "Yer":"ALIHAN-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"18:50:01",
     "Enlem":39.0988,
     "Boylam":28.3663,
