@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"15:24:10",
+    "Enlem":37.9935,
+    "Boylam":37.6658,
+    "Derinlik":8.4,
+    "ML":"1.8",
+    "Yer":"KAPIDERE-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"15:20:00",
+    "Enlem":39.7223,
+    "Boylam":23.8607,
+    "Derinlik":12.4,
+    "ML":"2.5",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"15:09:20",
     "Enlem":39.7433,
     "Boylam":23.8818,
     "Derinlik":20.7,
     "ML":"3.9",
     "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"13:54:29",
+    "Enlem":40.224,
+    "Boylam":31.7393,
+    "Derinlik":7.0,
+    "ML":"2.2",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"13:52:45",
+    "Enlem":38.8373,
+    "Boylam":27.9377,
+    "Derinlik":4.2,
+    "ML":"0.8",
+    "Yer":"BOYALILAR-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
