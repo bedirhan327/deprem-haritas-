@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"02:13:58",
+    "Enlem":39.2023,
+    "Boylam":28.0732,
+    "Derinlik":10.5,
+    "ML":"2.1",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"02:06:09",
+    "Enlem":37.908,
+    "Boylam":27.3775,
+    "Derinlik":3.1,
+    "ML":"1.4",
+    "Yer":"ACARLAR-SELCUK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"01:48:44",
+    "Enlem":40.841,
+    "Boylam":31.6648,
+    "Derinlik":5.1,
+    "ML":"1.8",
+    "Yer":"YESILCELE-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"01:42:21",
+    "Enlem":38.1173,
+    "Boylam":36.6123,
+    "Derinlik":5.3,
+    "ML":"2.2",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"01:31:06",
     "Enlem":39.836,
     "Boylam":26.271,
