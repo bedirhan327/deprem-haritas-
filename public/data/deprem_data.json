@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"20:15:19",
+    "Enlem":39.1342,
+    "Boylam":28.3542,
+    "Derinlik":5.3,
+    "ML":"1.5",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"20:14:37",
+    "Enlem":38.989,
+    "Boylam":39.384,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"KAYABAG-PERTEK (TUNCELI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"20:07:02",
+    "Enlem":37.4002,
+    "Boylam":30.0463,
+    "Derinlik":18.6,
+    "ML":"2.4",
+    "Yer":"AKOREN-KEMER (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"19:54:09",
+    "Enlem":37.6383,
+    "Boylam":35.7697,
+    "Derinlik":31.4,
+    "ML":"1.2",
+    "Yer":"KABAKTEPE-KOZAN (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"19:45:51",
     "Enlem":39.1338,
     "Boylam":28.3187,
