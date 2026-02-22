@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"22:40:07",
+    "Enlem":39.1362,
+    "Boylam":28.3058,
+    "Derinlik":12.1,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"22:32:32",
+    "Enlem":37.2855,
+    "Boylam":35.1812,
+    "Derinlik":11.8,
+    "ML":"2.0",
+    "Yer":"HACILI-KARAISALI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"22:14:11",
     "Enlem":39.1002,
     "Boylam":28.3458,
