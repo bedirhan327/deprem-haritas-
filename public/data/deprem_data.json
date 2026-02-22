@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"16:47:31",
+    "Enlem":40.6247,
+    "Boylam":36.8268,
+    "Derinlik":5.2,
+    "ML":"1.8",
+    "Yer":"BUZKOY-NIKSAR (TOKAT)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"16:42:22",
+    "Enlem":39.1378,
+    "Boylam":28.1858,
+    "Derinlik":14.2,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"15:47:46",
+    "Enlem":39.242,
+    "Boylam":28.0595,
+    "Derinlik":6.5,
+    "ML":"1.7",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"15:25:07",
+    "Enlem":37.1835,
+    "Boylam":27.9,
+    "Derinlik":5.5,
+    "ML":"1.7",
+    "Yer":"KARACAAGAC-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"15:24:10",
     "Enlem":37.9935,
     "Boylam":37.6658,
@@ -17,6 +57,16 @@
     "Derinlik":12.4,
     "ML":"2.5",
     "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"15:19:12",
+    "Enlem":38.8153,
+    "Boylam":27.9068,
+    "Derinlik":4.6,
+    "ML":"0.7",
+    "Yer":"KULAKSIZLAR-AKHISAR (MANISA)",
     "Cozum":"�lksel"
   },
   {
