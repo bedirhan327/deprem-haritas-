@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"03:41:02",
+    "Enlem":38.4398,
+    "Boylam":37.7162,
+    "Derinlik":7.1,
+    "ML":"1.3",
+    "Yer":"KAYNAK-DARENDE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"03:34:54",
+    "Enlem":38.7072,
+    "Boylam":26.48,
+    "Derinlik":11.0,
+    "ML":"1.8",
+    "Yer":"BOZKOY-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"03:13:57",
     "Enlem":39.1782,
     "Boylam":28.2892,
