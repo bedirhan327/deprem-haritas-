@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"05:01:05",
+    "Enlem":36.2448,
+    "Boylam":28.077,
+    "Derinlik":66.0,
+    "ML":"1.7",
+    "Yer":"RODOS ADASI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"04:58:30",
+    "Enlem":39.2182,
+    "Boylam":28.121,
+    "Derinlik":12.8,
+    "ML":"1.3",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"04:56:08",
+    "Enlem":37.3302,
+    "Boylam":36.4923,
+    "Derinlik":2.3,
+    "ML":"1.2",
+    "Yer":"CITLI-DUZICI (OSMANIYE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"03:41:02",
     "Enlem":38.4398,
     "Boylam":37.7162,
