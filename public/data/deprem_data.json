@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"01:31:06",
+    "Enlem":39.836,
+    "Boylam":26.271,
+    "Derinlik":2.2,
+    "ML":"1.6",
+    "Yer":"CAMKOY-EZINE (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"01:11:09",
+    "Enlem":39.1357,
+    "Boylam":28.346,
+    "Derinlik":5.2,
+    "ML":"1.2",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"00:19:36",
     "Enlem":34.7007,
     "Boylam":29.1232,
