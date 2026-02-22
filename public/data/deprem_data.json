@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"07:11:30",
+    "Enlem":36.7172,
+    "Boylam":36.109,
+    "Derinlik":11.3,
+    "ML":"2.0",
+    "Yer":"PAYAS-DORTYOL (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"07:09:21",
+    "Enlem":36.7073,
+    "Boylam":36.088,
+    "Derinlik":8.8,
+    "ML":"2.8",
+    "Yer":"SARISEKI-ISKENDERUN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"06:56:48",
+    "Enlem":38.1135,
+    "Boylam":36.5875,
+    "Derinlik":9.2,
+    "ML":"1.6",
+    "Yer":"KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"06:41:11",
+    "Enlem":37.8888,
+    "Boylam":36.1845,
+    "Derinlik":9.6,
+    "ML":"1.3",
+    "Yer":"KARAKUYU-SAIMBEYLI (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"06:40:20",
     "Enlem":39.0963,
     "Boylam":28.2665,
