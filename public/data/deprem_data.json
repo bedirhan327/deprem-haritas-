@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"15:09:20",
+    "Enlem":39.7433,
+    "Boylam":23.8818,
+    "Derinlik":20.7,
+    "ML":"3.9",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"13:12:06",
+    "Enlem":39.1252,
+    "Boylam":28.306,
+    "Derinlik":19.3,
+    "ML":"1.3",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"12:59:28",
+    "Enlem":40.79,
+    "Boylam":31.1083,
+    "Derinlik":14.1,
+    "ML":"1.6",
+    "Yer":"YENIKARAKOY-(DUZCE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"12:46:32",
     "Enlem":40.0367,
     "Boylam":42.103,
     "Derinlik":6.3,
     "ML":"2.3",
     "Yer":"DALBASI-HORASAN (ERZURUM)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"12:35:15",
+    "Enlem":39.0255,
+    "Boylam":28.3897,
+    "Derinlik":15.0,
+    "ML":"1.3",
+    "Yer":"DARGIL-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
@@ -31,12 +71,42 @@
   },
   {
     "Tarih":"2026.02.22",
+    "Saat":"12:06:06",
+    "Enlem":38.2923,
+    "Boylam":38.169,
+    "Derinlik":1.9,
+    "ML":"1.4",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"11:51:21",
+    "Enlem":35.3253,
+    "Boylam":27.825,
+    "Derinlik":6.5,
+    "ML":"2.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"11:46:10",
     "Enlem":39.1293,
     "Boylam":28.3752,
     "Derinlik":10.2,
     "ML":"1.4",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"11:36:37",
+    "Enlem":39.0795,
+    "Boylam":28.3868,
+    "Derinlik":4.9,
+    "ML":"1.3",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
     "Cozum":"�lksel"
   },
   {
