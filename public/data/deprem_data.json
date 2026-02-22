@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"02:51:44",
+    "Enlem":39.231,
+    "Boylam":28.1823,
+    "Derinlik":10.0,
+    "ML":"1.4",
+    "Yer":"SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"02:43:03",
+    "Enlem":37.8735,
+    "Boylam":29.3933,
+    "Derinlik":12.9,
+    "ML":"1.2",
+    "Yer":"YOKUSBASI-HONAZ (DENIZLI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"02:41:25",
+    "Enlem":39.1838,
+    "Boylam":28.2625,
+    "Derinlik":9.9,
+    "ML":"1.2",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"02:23:36",
+    "Enlem":36.0732,
+    "Boylam":27.1135,
+    "Derinlik":7.0,
+    "ML":"1.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"01:57:05",
     "Enlem":36.3572,
     "Boylam":36.0422,
