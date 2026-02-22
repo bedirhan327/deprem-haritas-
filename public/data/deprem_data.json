@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.22",
+    "Saat":"09:10:13",
+    "Enlem":38.3358,
+    "Boylam":38.815,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"AKUSAGI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"09:07:07",
+    "Enlem":38.3378,
+    "Boylam":38.8078,
+    "Derinlik":9.0,
+    "ML":"2.2",
+    "Yer":"AKUSAGI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
+    "Saat":"09:01:56",
+    "Enlem":39.3913,
+    "Boylam":38.6258,
+    "Derinlik":7.0,
+    "ML":"2.2",
+    "Yer":"YAKUPLU-ILIC (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.22",
     "Saat":"08:36:36",
     "Enlem":39.1267,
     "Boylam":28.3045,
