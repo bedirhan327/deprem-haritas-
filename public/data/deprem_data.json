@@ -11,6 +11,86 @@
   },
   {
     "Tarih":"2026.02.23",
+    "Saat":"06:54:16",
+    "Enlem":39.9682,
+    "Boylam":27.8992,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"KOCOGLU-MANYAS (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"06:49:09",
+    "Enlem":39.222,
+    "Boylam":27.9667,
+    "Derinlik":8.3,
+    "ML":"1.6",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"06:38:02",
+    "Enlem":37.8875,
+    "Boylam":26.9107,
+    "Derinlik":8.3,
+    "ML":"2.4",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"06:37:12",
+    "Enlem":39.1658,
+    "Boylam":28.3352,
+    "Derinlik":17.8,
+    "ML":"1.6",
+    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"06:27:44",
+    "Enlem":40.7485,
+    "Boylam":31.502,
+    "Derinlik":5.5,
+    "ML":"1.4",
+    "Yer":"YUMRUKAYA-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"06:09:09",
+    "Enlem":38.8792,
+    "Boylam":26.4093,
+    "Derinlik":7.3,
+    "ML":"2.3",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"05:49:52",
+    "Enlem":39.0043,
+    "Boylam":25.8545,
+    "Derinlik":9.0,
+    "ML":"1.7",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"04:47:40",
+    "Enlem":40.621,
+    "Boylam":28.9878,
+    "Derinlik":6.9,
+    "ML":"1.6",
+    "Yer":"SENKOY-CINARCIK (YALOVA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"04:44:45",
     "Enlem":38.9008,
     "Boylam":26.484,
