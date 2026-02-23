@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"08:09:47",
+    "Enlem":39.1143,
+    "Boylam":28.3525,
+    "Derinlik":5.1,
+    "ML":"1.8",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"07:58:47",
+    "Enlem":39.228,
+    "Boylam":28.1455,
+    "Derinlik":9.4,
+    "ML":"1.9",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"07:55:50",
+    "Enlem":37.8735,
+    "Boylam":26.9435,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"07:21:15",
     "Enlem":37.8838,
     "Boylam":26.9413,
     "Derinlik":10.0,
     "ML":"3.6",
     "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"06:59:52",
+    "Enlem":39.4247,
+    "Boylam":26.0148,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
     "Cozum":"�lksel"
   },
   {
