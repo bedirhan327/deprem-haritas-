@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"09:22:44",
+    "Enlem":39.144,
+    "Boylam":28.3027,
+    "Derinlik":11.6,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"09:09:54",
+    "Enlem":40.3463,
+    "Boylam":24.1283,
+    "Derinlik":11.4,
+    "ML":"3.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"09:01:18",
+    "Enlem":38.6667,
+    "Boylam":26.4763,
+    "Derinlik":12.9,
+    "ML":"2.6",
+    "Yer":"BOZKOY-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"08:36:12",
     "Enlem":41.0127,
     "Boylam":30.811,
