@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"12:33:52",
+    "Enlem":38.0768,
+    "Boylam":37.3605,
+    "Derinlik":6.7,
+    "ML":"2.0",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"12:27:35",
+    "Enlem":36.5993,
+    "Boylam":34.2045,
+    "Derinlik":4.3,
+    "ML":"1.5",
+    "Yer":"UCTEPE-ERDEMLI (MERSIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"12:16:26",
     "Enlem":39.1163,
     "Boylam":28.3415,
     "Derinlik":16.4,
     "ML":"1.6",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"12:04:17",
+    "Enlem":37.9015,
+    "Boylam":26.922,
+    "Derinlik":14.4,
+    "ML":"1.7",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"12:03:37",
+    "Enlem":37.0423,
+    "Boylam":28.3375,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"AKYAKA-ULA (MUGLA)",
     "Cozum":"�lksel"
   },
   {
