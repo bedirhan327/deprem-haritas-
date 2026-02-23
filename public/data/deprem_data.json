@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"22:00:49",
+    "Enlem":37.2287,
+    "Boylam":27.7518,
+    "Derinlik":7.6,
+    "ML":"1.8",
+    "Yer":"AGACLIHUYUK-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"21:57:23",
+    "Enlem":41.922,
+    "Boylam":43.257,
+    "Derinlik":7.5,
+    "ML":"2.3",
+    "Yer":"TURKGOZU-POSOF (ARDAHAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"21:45:58",
     "Enlem":39.9237,
     "Boylam":25.8968,
