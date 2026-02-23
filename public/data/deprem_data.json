@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"17:58:55",
+    "Enlem":38.069,
+    "Boylam":26.8162,
+    "Derinlik":17.7,
+    "ML":"1.6",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"17:44:14",
+    "Enlem":40.9765,
+    "Boylam":28.9615,
+    "Derinlik":16.6,
+    "ML":"0.9",
+    "Yer":"ISTANBUL",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"17:21:46",
     "Enlem":40.1743,
     "Boylam":32.9685,
