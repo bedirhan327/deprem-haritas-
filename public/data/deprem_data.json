@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"17:21:46",
+    "Enlem":40.1743,
+    "Boylam":32.9685,
+    "Derinlik":5.7,
+    "ML":"1.8",
+    "Yer":"SIGIRLIHACI-CUBUK (ANKARA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"17:13:06",
+    "Enlem":38.5285,
+    "Boylam":39.3448,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"CEVIZDERE-(ELAZIG)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"17:06:25",
     "Enlem":39.2335,
     "Boylam":28.0332,
