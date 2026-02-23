@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"04:01:39",
+    "Enlem":39.481,
+    "Boylam":28.1893,
+    "Derinlik":8.5,
+    "ML":"1.3",
+    "Yer":"CAMKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"03:44:38",
+    "Enlem":39.2368,
+    "Boylam":29.0397,
+    "Derinlik":8.6,
+    "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"03:44:03",
+    "Enlem":38.243,
+    "Boylam":38.6065,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"03:42:29",
+    "Enlem":39.1572,
+    "Boylam":28.2438,
+    "Derinlik":10.1,
+    "ML":"0.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"03:41:09",
+    "Enlem":38.8962,
+    "Boylam":26.4762,
+    "Derinlik":4.5,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"03:18:24",
     "Enlem":39.144,
     "Boylam":28.3213,
