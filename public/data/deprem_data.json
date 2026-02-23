@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"20:21:27",
+    "Enlem":37.1323,
+    "Boylam":36.9533,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"IKIZKUYU-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"20:20:42",
+    "Enlem":36.6733,
+    "Boylam":25.8007,
+    "Derinlik":4.4,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"19:51:02",
     "Enlem":38.4418,
     "Boylam":38.8562,
