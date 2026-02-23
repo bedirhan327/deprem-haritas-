@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"16:13:44",
+    "Enlem":39.1875,
+    "Boylam":29.1098,
+    "Derinlik":5.4,
+    "ML":"0.8",
+    "Yer":"TOKAT-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"16:04:56",
+    "Enlem":36.5587,
+    "Boylam":25.5665,
+    "Derinlik":10.6,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"16:03:55",
+    "Enlem":39.3983,
+    "Boylam":25.9437,
+    "Derinlik":12.6,
+    "ML":"2.1",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"15:49:02",
+    "Enlem":38.1248,
+    "Boylam":27.4358,
+    "Derinlik":4.7,
+    "ML":"2.0",
+    "Yer":"TULUM-TORBALI (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"15:41:45",
     "Enlem":38.0903,
     "Boylam":36.995,
