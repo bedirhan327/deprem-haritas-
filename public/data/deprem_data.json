@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"15:41:45",
+    "Enlem":38.0903,
+    "Boylam":36.995,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"KARADUT-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"15:30:31",
+    "Enlem":38.1583,
+    "Boylam":27.4427,
+    "Derinlik":4.1,
+    "ML":"2.0",
+    "Yer":"TASKESIK-TORBALI (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"15:29:12",
+    "Enlem":39.1745,
+    "Boylam":28.271,
+    "Derinlik":19.6,
+    "ML":"2.7",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"15:26:06",
+    "Enlem":39.2217,
+    "Boylam":28.1518,
+    "Derinlik":15.7,
+    "ML":"3.3",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"14:30:31",
     "Enlem":36.8937,
     "Boylam":35.4368,
