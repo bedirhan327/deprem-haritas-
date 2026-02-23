@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"19:32:59",
+    "Enlem":38.5393,
+    "Boylam":26.51,
+    "Derinlik":5.2,
+    "ML":"1.7",
+    "Yer":"KOSEDERE-KARABURUN (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"19:04:15",
+    "Enlem":39.2028,
+    "Boylam":29.0833,
+    "Derinlik":9.8,
+    "ML":"1.1",
+    "Yer":"TOKAT-HISARCIK (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"18:52:18",
+    "Enlem":40.0722,
+    "Boylam":44.4802,
+    "Derinlik":20.0,
+    "ML":"2.1",
+    "Yer":"TURKIYE-ERMENISTAN SINIR BOLGESI",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"17:58:55",
     "Enlem":38.069,
     "Boylam":26.8162,
