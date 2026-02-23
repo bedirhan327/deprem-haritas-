@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"21:18:38",
+    "Enlem":37.9702,
+    "Boylam":27.6857,
+    "Derinlik":6.4,
+    "ML":"1.7",
+    "Yer":"MESELI-GERMENCIK (AYDIN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"21:15:00",
+    "Enlem":40.9018,
+    "Boylam":33.5035,
+    "Derinlik":5.5,
+    "ML":"1.8",
+    "Yer":"YAYLAOREN-ILGAZ (CANKIRI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"20:23:16",
+    "Enlem":39.1505,
+    "Boylam":28.2495,
+    "Derinlik":12.6,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"20:21:27",
     "Enlem":37.1323,
     "Boylam":36.9533,
