@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"14:30:31",
+    "Enlem":36.8937,
+    "Boylam":35.4368,
+    "Derinlik":12.7,
+    "ML":"1.9",
+    "Yer":"YUREGIR (ADANA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"13:05:12",
+    "Enlem":37.4308,
+    "Boylam":29.8153,
+    "Derinlik":29.6,
+    "ML":"1.4",
+    "Yer":"CALTEPE-YESILOVA (BURDUR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"13:03:20",
     "Enlem":39.2232,
     "Boylam":27.9852,
