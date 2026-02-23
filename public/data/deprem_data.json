@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.23",
+    "Saat":"11:50:48",
+    "Enlem":37.2218,
+    "Boylam":27.8363,
+    "Derinlik":0.0,
+    "ML":"2.2",
+    "Yer":"ULAS-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"11:40:38",
+    "Enlem":40.3193,
+    "Boylam":24.0983,
+    "Derinlik":12.6,
+    "ML":"2.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
+    "Saat":"11:37:33",
+    "Enlem":37.2138,
+    "Boylam":27.8377,
+    "Derinlik":8.6,
+    "ML":"2.9",
+    "Yer":"ULAS-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.23",
     "Saat":"10:17:27",
     "Enlem":38.0358,
     "Boylam":36.4897,
