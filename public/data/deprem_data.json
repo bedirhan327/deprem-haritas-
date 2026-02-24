@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"10:28:17",
+    "Enlem":39.1332,
+    "Boylam":28.3408,
+    "Derinlik":13.2,
+    "ML":"1.8",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"09:49:46",
+    "Enlem":40.7118,
+    "Boylam":35.3067,
+    "Derinlik":15.7,
+    "ML":"1.5",
+    "Yer":"PEKMEZCI-MERZIFON (AMASYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"09:44:54",
     "Enlem":40.634,
     "Boylam":43.4642,
