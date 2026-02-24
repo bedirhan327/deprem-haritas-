@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"07:45:10",
+    "Enlem":37.2367,
+    "Boylam":27.8207,
+    "Derinlik":5.3,
+    "ML":"2.6",
+    "Yer":"ASLANYAKA-MILAS (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"06:20:23",
+    "Enlem":39.2235,
+    "Boylam":28.9718,
+    "Derinlik":14.9,
+    "ML":"1.9",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"05:54:43",
+    "Enlem":39.3747,
+    "Boylam":26.2647,
+    "Derinlik":4.1,
+    "ML":"1.7",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"05:54:38",
     "Enlem":37.9388,
     "Boylam":27.6072,
