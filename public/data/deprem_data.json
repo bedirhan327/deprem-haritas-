@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"08:51:05",
+    "Enlem":39.8092,
+    "Boylam":26.8443,
+    "Derinlik":9.0,
+    "ML":"1.7",
+    "Yer":"CIRPILAR-BAYRAMIC (CANAKKALE)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"08:49:51",
+    "Enlem":39.123,
+    "Boylam":28.3348,
+    "Derinlik":9.0,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"08:45:55",
     "Enlem":39.0372,
     "Boylam":25.9563,
