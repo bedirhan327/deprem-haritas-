@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"17:41:17",
+    "Enlem":40.1832,
+    "Boylam":24.1455,
+    "Derinlik":2.2,
+    "ML":"2.6",
+    "Yer":"YUNANISTAN",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"17:22:33",
+    "Enlem":35.628,
+    "Boylam":32.365,
+    "Derinlik":39.3,
+    "ML":"2.1",
+    "Yer":"AKDENIZ",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"16:42:34",
     "Enlem":39.1103,
     "Boylam":29.1002,
