@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"08:04:19",
+    "Enlem":37.7167,
+    "Boylam":36.5247,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"AKGUMUS-ANDIRIN (KAHRAMANMARAS) REVIZE01 (2026.02.24",
+    "Cozum":"08:04:19)"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"08:00:36",
+    "Enlem":39.2262,
+    "Boylam":29.008,
+    "Derinlik":8.9,
+    "ML":"2.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"07:45:10",
     "Enlem":37.2367,
     "Boylam":27.8207,
