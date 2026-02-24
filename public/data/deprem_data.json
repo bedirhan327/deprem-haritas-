@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"11:58:52",
+    "Enlem":35.074,
+    "Boylam":26.6852,
+    "Derinlik":6.3,
+    "ML":"3.7",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"11:54:17",
     "Enlem":37.874,
     "Boylam":28.7678,
@@ -28,6 +38,16 @@
     "ML":"1.9",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR) REVIZE01 (2026.02.24",
     "Cozum":"11:02:55)"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"10:50:26",
+    "Enlem":40.0218,
+    "Boylam":27.1432,
+    "Derinlik":24.0,
+    "ML":"1.6",
+    "Yer":"YAYKIN-CAN (CANAKKALE)",
+    "Cozum":"�lksel"
   },
   {
     "Tarih":"2026.02.24",
