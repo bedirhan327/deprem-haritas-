@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"03:36:07",
+    "Enlem":37.1203,
+    "Boylam":27.6638,
+    "Derinlik":11.2,
+    "ML":"1.8",
+    "Yer":"MUMCULAR-BODRUM (MUGLA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"03:32:10",
+    "Enlem":39.2872,
+    "Boylam":29.1865,
+    "Derinlik":6.9,
+    "ML":"2.4",
+    "Yer":"YENICE-EMET (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"03:24:32",
+    "Enlem":39.1133,
+    "Boylam":28.268,
+    "Derinlik":4.9,
+    "ML":"1.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"02:53:22",
+    "Enlem":39.1885,
+    "Boylam":28.1048,
+    "Derinlik":4.6,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"02:45:34",
     "Enlem":39.4052,
     "Boylam":25.9223,
