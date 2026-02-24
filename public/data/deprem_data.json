@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"02:45:34",
+    "Enlem":39.4052,
+    "Boylam":25.9223,
+    "Derinlik":6.2,
+    "ML":"1.4",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"02:35:38",
+    "Enlem":39.2113,
+    "Boylam":28.0937,
+    "Derinlik":4.6,
+    "ML":"1.4",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"02:30:18",
+    "Enlem":38.6857,
+    "Boylam":43.3338,
+    "Derinlik":20.6,
+    "ML":"1.6",
+    "Yer":"GULSUNLER-(VAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"02:28:00",
     "Enlem":38.643,
     "Boylam":43.106,
