@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.24",
+    "Saat":"13:34:14",
+    "Enlem":35.2592,
+    "Boylam":33.5513,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"13:14:57",
+    "Enlem":38.1113,
+    "Boylam":37.0442,
+    "Derinlik":23.5,
+    "ML":"1.4",
+    "Yer":"CALIS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"13:08:49",
+    "Enlem":39.0873,
+    "Boylam":28.0338,
+    "Derinlik":20.5,
+    "ML":"1.0",
+    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"12:47:58",
+    "Enlem":39.0643,
+    "Boylam":28.3372,
+    "Derinlik":11.5,
+    "ML":"1.2",
+    "Yer":"DARGIL-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
+    "Saat":"12:15:39",
+    "Enlem":37.9927,
+    "Boylam":35.5285,
+    "Derinlik":3.8,
+    "ML":"2.5",
+    "Yer":"AVLAGI-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.24",
     "Saat":"12:04:37",
     "Enlem":36.2128,
     "Boylam":33.6712,
