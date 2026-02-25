@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.25",
+    "Saat":"05:29:31",
+    "Enlem":39.2302,
+    "Boylam":28.9497,
+    "Derinlik":10.1,
+    "ML":"1.1",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"05:21:40",
+    "Enlem":38.1827,
+    "Boylam":38.5928,
+    "Derinlik":8.0,
+    "ML":"1.1",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"05:12:10",
+    "Enlem":39.227,
+    "Boylam":28.319,
+    "Derinlik":13.3,
+    "ML":"0.8",
+    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
     "Saat":"05:04:00",
     "Enlem":37.9375,
     "Boylam":38.1458,
