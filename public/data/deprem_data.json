@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.25",
+    "Saat":"12:36:28",
+    "Enlem":39.1875,
+    "Boylam":28.9938,
+    "Derinlik":15.2,
+    "ML":"1.6",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"12:26:46",
+    "Enlem":38.0453,
+    "Boylam":36.6387,
+    "Derinlik":6.4,
+    "ML":"1.9",
+    "Yer":"GUCUKSU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"12:24:05",
+    "Enlem":38.3373,
+    "Boylam":38.813,
+    "Derinlik":5.3,
+    "ML":"2.3",
+    "Yer":"AKUSAGI-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"12:16:11",
+    "Enlem":38.0463,
+    "Boylam":35.245,
+    "Derinlik":8.0,
+    "ML":"2.4",
+    "Yer":"DEREBAG-YAHYALI (KAYSERI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
     "Saat":"12:09:06",
     "Enlem":36.6037,
     "Boylam":33.3917,
