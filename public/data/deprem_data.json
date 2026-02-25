@@ -1,6 +1,66 @@
 [
   {
     "Tarih":"2026.02.25",
+    "Saat":"06:18:57",
+    "Enlem":39.126,
+    "Boylam":28.3553,
+    "Derinlik":9.1,
+    "ML":"2.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"06:08:25",
+    "Enlem":39.0922,
+    "Boylam":28.9947,
+    "Derinlik":16.4,
+    "ML":"1.4",
+    "Yer":"SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"06:06:45",
+    "Enlem":39.1305,
+    "Boylam":28.3433,
+    "Derinlik":11.1,
+    "ML":"3.1",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"06:02:05",
+    "Enlem":39.103,
+    "Boylam":28.3635,
+    "Derinlik":11.6,
+    "ML":"2.6",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"06:01:40",
+    "Enlem":38.5163,
+    "Boylam":38.0458,
+    "Derinlik":3.3,
+    "ML":"2.5",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"06:00:27",
+    "Enlem":39.1748,
+    "Boylam":28.1827,
+    "Derinlik":14.4,
+    "ML":"2.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
     "Saat":"05:29:31",
     "Enlem":39.2302,
     "Boylam":28.9497,
