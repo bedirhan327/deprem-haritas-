@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.25",
+    "Saat":"03:47:59",
+    "Enlem":39.5645,
+    "Boylam":28.895,
+    "Derinlik":19.7,
+    "ML":"1.1",
+    "Yer":"DEREKOY-DURSUNBEY (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"03:47:04",
+    "Enlem":39.1923,
+    "Boylam":28.975,
+    "Derinlik":27.0,
+    "ML":"1.0",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"03:42:58",
+    "Enlem":39.245,
+    "Boylam":28.9408,
+    "Derinlik":7.3,
+    "ML":"1.4",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
     "Saat":"02:59:42",
     "Enlem":40.7425,
     "Boylam":28.6158,
