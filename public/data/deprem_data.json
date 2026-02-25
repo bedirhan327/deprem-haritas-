@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.25",
+    "Saat":"19:50:44",
+    "Enlem":37.177,
+    "Boylam":36.955,
+    "Derinlik":1.5,
+    "ML":"2.0",
+    "Yer":"SAKCAGOZE-NURDAGI (GAZIANTEP)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"19:40:11",
+    "Enlem":39.2185,
+    "Boylam":28.1185,
+    "Derinlik":8.1,
+    "ML":"1.6",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.25",
     "Saat":"18:22:37",
     "Enlem":40.0202,
     "Boylam":28.7905,
