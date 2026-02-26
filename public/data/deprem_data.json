@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.26",
+    "Saat":"07:42:53",
+    "Enlem":38.3857,
+    "Boylam":38.7912,
+    "Derinlik":12.1,
+    "ML":"1.4",
+    "Yer":"KOZLUK-KALE (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"07:29:05",
+    "Enlem":38.7217,
+    "Boylam":42.384,
+    "Derinlik":15.2,
+    "ML":"1.7",
+    "Yer":"SAKA-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
     "Saat":"07:19:06",
     "Enlem":39.192,
     "Boylam":28.2435,
@@ -67,6 +87,16 @@
     "Derinlik":4.9,
     "ML":"1.6",
     "Yer":"UGURKOY-ILIC (ERZINCAN)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"06:09:24",
+    "Enlem":37.0617,
+    "Boylam":36.9545,
+    "Derinlik":7.3,
+    "ML":"1.3",
+    "Yer":"KUZOLUK-NURDAGI (GAZIANTEP)",
     "Cozum":"�lksel"
   },
   {
