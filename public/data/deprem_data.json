@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.26",
+    "Saat":"03:44:20",
+    "Enlem":39.2058,
+    "Boylam":28.1483,
+    "Derinlik":7.8,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"03:39:26",
+    "Enlem":39.109,
+    "Boylam":28.3583,
+    "Derinlik":10.9,
+    "ML":"1.1",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"03:37:05",
+    "Enlem":39.1523,
+    "Boylam":28.4687,
+    "Derinlik":24.6,
+    "ML":"1.0",
+    "Yer":"DEVLETLIBABA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
     "Saat":"03:07:20",
     "Enlem":39.1302,
     "Boylam":28.3383,
@@ -67,6 +97,16 @@
     "Derinlik":7.6,
     "ML":"1.8",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"01:05:40",
+    "Enlem":38.6418,
+    "Boylam":37.592,
+    "Derinlik":11.9,
+    "ML":"1.4",
+    "Yer":"KARABACAK-DARENDE (MALATYA)",
     "Cozum":"�lksel"
   },
   {
