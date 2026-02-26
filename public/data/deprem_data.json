@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.26",
+    "Saat":"09:57:06",
+    "Enlem":38.6962,
+    "Boylam":42.4123,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"SAKA-AHLAT (BITLIS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"09:07:11",
+    "Enlem":39.1007,
+    "Boylam":27.4985,
+    "Derinlik":0.0,
+    "ML":"1.7",
+    "Yer":"ARPASEKI-KINIK (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
     "Saat":"08:09:36",
     "Enlem":39.2072,
     "Boylam":29.3332,
