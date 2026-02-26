@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.26",
+    "Saat":"05:47:05",
+    "Enlem":38.7437,
+    "Boylam":27.8623,
+    "Derinlik":7.0,
+    "ML":"1.8",
+    "Yer":"HACIBASTANLAR-GOLMARMARA (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"05:43:13",
+    "Enlem":39.2252,
+    "Boylam":28.1585,
+    "Derinlik":10.4,
+    "ML":"1.2",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"05:42:13",
+    "Enlem":39.0962,
+    "Boylam":28.2275,
+    "Derinlik":4.9,
+    "ML":"1.5",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
     "Saat":"05:37:14",
     "Enlem":39.2402,
     "Boylam":27.961,
