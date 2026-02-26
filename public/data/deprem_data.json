@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.02.27",
+    "Saat":"02:14:19",
+    "Enlem":39.1795,
+    "Boylam":41.4497,
+    "Derinlik":5.0,
+    "ML":"2.3",
+    "Yer":"VARTO (MUS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"02:08:45",
+    "Enlem":39.0778,
+    "Boylam":28.3848,
+    "Derinlik":15.1,
+    "ML":"1.2",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"01:46:42",
+    "Enlem":38.0855,
+    "Boylam":37.6295,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"01:38:38",
+    "Enlem":38.0735,
+    "Boylam":37.3507,
+    "Derinlik":6.5,
+    "ML":"1.8",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
     "Saat":"00:07:36",
     "Enlem":39.1455,
     "Boylam":28.339,
