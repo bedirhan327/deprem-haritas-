@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.26",
+    "Saat":"05:37:14",
+    "Enlem":39.2402,
+    "Boylam":27.961,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"HACET-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
+    "Saat":"05:34:57",
+    "Enlem":40.8487,
+    "Boylam":31.6362,
+    "Derinlik":7.5,
+    "ML":"2.8",
+    "Yer":"CUKUROREN-(BOLU)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.26",
     "Saat":"05:05:57",
     "Enlem":40.7347,
     "Boylam":29.3508,
