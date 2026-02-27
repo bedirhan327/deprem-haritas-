@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.28",
+    "Saat":"00:51:56",
+    "Enlem":36.5813,
+    "Boylam":36.3243,
+    "Derinlik":5.5,
+    "ML":"2.4",
+    "Yer":"YILANLI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"00:48:43",
+    "Enlem":39.2783,
+    "Boylam":28.9563,
+    "Derinlik":15.2,
+    "ML":"1.2",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.28",
     "Saat":"00:08:57",
     "Enlem":39.126,
     "Boylam":28.3982,
