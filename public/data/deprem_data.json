@@ -21,6 +21,36 @@
   },
   {
     "Tarih":"2026.02.27",
+    "Saat":"11:26:30",
+    "Enlem":39.2073,
+    "Boylam":28.9435,
+    "Derinlik":14.6,
+    "ML":"1.4",
+    "Yer":"HAMZABEY-SIMAV (KUTAHYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"10:44:38",
+    "Enlem":39.4403,
+    "Boylam":25.9637,
+    "Derinlik":14.6,
+    "ML":"1.6",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"10:40:48",
+    "Enlem":39.411,
+    "Boylam":25.9907,
+    "Derinlik":9.7,
+    "ML":"2.3",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
     "Saat":"10:04:09",
     "Enlem":37.877,
     "Boylam":29.4357,
