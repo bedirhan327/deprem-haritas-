@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.27",
+    "Saat":"20:40:18",
+    "Enlem":36.4132,
+    "Boylam":36.294,
+    "Derinlik":12.8,
+    "ML":"1.5",
+    "Yer":"TOPBOGAZI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"20:33:20",
+    "Enlem":36.4147,
+    "Boylam":36.2903,
+    "Derinlik":12.1,
+    "ML":"2.0",
+    "Yer":"TOPBOGAZI-KIRIKHAN (HATAY)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
     "Saat":"20:18:06",
     "Enlem":39.2375,
     "Boylam":28.1015,
