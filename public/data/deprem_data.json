@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.02.27",
+    "Saat":"05:39:03",
+    "Enlem":39.3985,
+    "Boylam":25.9358,
+    "Derinlik":2.5,
+    "ML":"1.9",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"05:38:17",
+    "Enlem":39.3957,
+    "Boylam":25.9412,
+    "Derinlik":9.6,
+    "ML":"2.0",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"05:19:41",
+    "Enlem":38.3198,
+    "Boylam":27.8412,
+    "Derinlik":15.8,
+    "ML":"1.5",
+    "Yer":"KIZILCA-ODEMIS (IZMIR)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"05:15:26",
+    "Enlem":39.4013,
+    "Boylam":25.9283,
+    "Derinlik":5.2,
+    "ML":"1.9",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"05:06:42",
+    "Enlem":39.4008,
+    "Boylam":25.9388,
+    "Derinlik":6.7,
+    "ML":"2.0",
+    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.27",
     "Saat":"05:03:52",
     "Enlem":38.6187,
     "Boylam":43.0792,
