@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.28",
+    "Saat":"06:56:51",
+    "Enlem":37.9782,
+    "Boylam":38.1415,
+    "Derinlik":9.7,
+    "ML":"1.8",
+    "Yer":"KURUCAOVA-DOGANSEHIR (MALATYA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"06:55:41",
+    "Enlem":39.214,
+    "Boylam":27.904,
+    "Derinlik":8.1,
+    "ML":"1.5",
+    "Yer":"DUALAR-KIRKAGAC (MANISA)",
+    "Cozum":"�lksel"
+  },
+  {
+    "Tarih":"2026.02.28",
     "Saat":"05:58:36",
     "Enlem":40.5832,
     "Boylam":27.1583,
