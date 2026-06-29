@@ -1,5 +1,7 @@
 import dynamic from "next/dynamic";
 import Head from "next/head";
+import { AnimatedDock } from "../components/ui/animated-dock";
+import { Map, BarChart2, List } from "lucide-react";
 
 const Dashboard = dynamic(
   async () => {
@@ -80,6 +82,53 @@ const Dashboard = dynamic(
       const [depremData, setDepremData] = useState([]);
       const [loading, setLoading] = useState(true);
       const [time, setTime] = useState("");
+      const [activeTab, setActiveTab] = useState("map");
+      const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+      const dockItems = useMemo(() => [
+        {
+          id: "map",
+          label: "Harita",
+          Icon: <Map size={22} />,
+          active: activeTab === "map",
+          onClick: () => setActiveTab("map")
+        },
+        {
+          id: "stats",
+          label: "İstatistik",
+          Icon: <BarChart2 size={22} />,
+          active: activeTab === "stats",
+          onClick: () => setActiveTab("stats")
+        },
+        {
+          id: "recent",
+          label: "Liste",
+          Icon: <List size={22} />,
+          active: activeTab === "recent",
+          onClick: () => setActiveTab("recent")
+        }
+      ], [activeTab]);
+
+      const limitItems = useMemo(() => [
+        {
+          id: "100",
+          Icon: <span className="text-[11px] font-bold">100</span>,
+          active: limit === 100,
+          onClick: () => setLimit(100)
+        },
+        {
+          id: "500",
+          Icon: <span className="text-[11px] font-bold">500</span>,
+          active: limit === 500,
+          onClick: () => setLimit(500)
+        },
+        {
+          id: "1000",
+          Icon: <span className="text-[11px] font-bold">1K</span>,
+          active: limit === 1000,
+          onClick: () => setLimit(1000)
+        }
+      ], [limit]);
 
       const seismicColor = useCallback((ml) => {
         if (ml >= 6) return "#F87171";
@@ -238,45 +287,33 @@ const Dashboard = dynamic(
       }, [geoData, depremData, limit, seismicColor]);
 
       return (
-        <div className="grid h-screen w-screen grid-cols-[280px_1fr_310px] grid-rows-[auto_1fr_auto] overflow-hidden bg-bg-base">
+        <div className="flex flex-col lg:grid h-screen w-screen lg:grid-cols-[280px_1fr_310px] lg:grid-rows-[auto_1fr_auto] overflow-hidden bg-bg-base relative pb-[88px] lg:pb-0">
 
           {/* ═══ HEADER ═══ */}
-          <header className="col-span-3 flex items-center justify-between px-5 py-3
-                             bg-bg-surface border-b border-border-default a-down">
+          <header className="lg:col-span-3 grid grid-cols-1 sm:grid-cols-3 items-center gap-3 px-4 lg:px-5 py-3
+                             bg-bg-surface border-b border-border-default a-down flex-shrink-0">
 
-            <div className="flex items-center gap-3">
-              <div>
-                <h1 className="text-[16px] font-extrabold tracking-tight text-text-primary">Türkiye Deprem Haritası</h1>
-                <p className="text-[12px] text-text-faint mt-0.5">Gerçek Zamanlı Sismik Aktivite Takip Sistemi</p>
-              </div>
+            <div className="flex flex-col justify-center sm:col-span-1">
+              <h1 className="text-[15px] sm:text-[16px] font-extrabold tracking-tight text-text-primary">Türkiye Deprem Haritası</h1>
+              <p className="text-[11px] sm:text-[12px] text-text-faint mt-0.5 truncate max-w-[220px] sm:max-w-none">Gerçek Zamanlı Sismik Aktivite Takip Sistemi</p>
             </div>
 
-            <div className="flex items-center gap-3">
-              <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border"
+            <div className="flex justify-center items-center sm:col-span-1">
+              <AnimatedDock items={limitItems} className="!h-10 !px-2 !pb-1.5 !gap-1" />
+            </div>
+
+            <div className="flex items-center justify-center sm:justify-end gap-2 sm:gap-3 sm:col-span-1">
+              <div className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-full border"
                    style={{ background: "#F8717112", borderColor: "#F8717130" }}>
                 <span className="h-2 w-2 rounded-full" style={{ background: "#F87171", animation: "pulse-live 2s ease-in-out infinite" }} />
                 <span className="text-[11px] font-bold uppercase tracking-wider" style={{ color: "#F87171" }}>Canlı</span>
               </div>
-
-              <div className="flex gap-1 rounded-lg bg-bg-base border border-border-default p-1">
-                {[100, 500, 1000].map((n) => (
-                  <button key={n} onClick={() => setLimit(n)}
-                    className={`px-3.5 py-1.5 rounded-md text-[11px] font-semibold transition-all duration-200 ${
-                      limit === n
-                        ? "bg-text-primary text-bg-base"
-                        : "text-text-muted hover:text-text-secondary hover:bg-bg-elevated"
-                    }`}>
-                    Son {n}
-                  </button>
-                ))}
-              </div>
+              <div className="hidden lg:block text-[12px] font-mono text-text-faint tabular-nums ml-1">{time}</div>
             </div>
-
-            <div className="text-[12px] font-mono text-text-faint tabular-nums">{time}</div>
           </header>
 
           {/* ═══ LEFT SIDEBAR ═══ */}
-          <aside className="flex flex-col gap-2.5 overflow-y-auto p-4 pr-2 a-sl">
+          <aside className={`flex-col gap-2.5 overflow-y-auto p-4 pr-2 a-sl ${activeTab === 'stats' ? 'flex flex-1' : 'hidden lg:flex'}`}>
             <span className="px-1 text-[11px] font-bold uppercase tracking-[0.15em] text-text-faint mb-1">
               İSTATİSTİKLER
             </span>
@@ -318,7 +355,7 @@ const Dashboard = dynamic(
           </aside>
 
           {/* ═══ MAP ═══ */}
-          <main className="relative border-x border-border-default overflow-hidden a-up d2">
+          <main className={`relative lg:border-x border-border-default overflow-hidden a-up d2 ${activeTab === 'map' ? 'block flex-1' : 'hidden lg:block'}`}>
             {loading && (
               <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-bg-base gap-4">
                 <div className="h-10 w-10 rounded-full border-[3px] border-border-default border-t-text-primary"
@@ -333,33 +370,33 @@ const Dashboard = dynamic(
                  className="map-tip rounded-xl px-4 py-3 min-w-[220px] border shadow-2xl shadow-black/50"
                  style={{ background: "#18181B", borderColor: "#3F3F46" }} />
 
-            <div className="absolute bottom-4 left-4 z-10 rounded-xl border border-border-default px-4 py-3"
-                 style={{ background: "rgba(9,9,11,0.92)", backdropFilter: "blur(12px)" }}>
-              <span className="text-[10px] font-bold uppercase tracking-[0.12em] text-text-faint">Büyüklük</span>
-              <div className="mt-2 flex gap-4">
+            <div className="absolute bottom-4 left-4 z-10 flex items-end gap-2 sm:gap-4 pointer-events-none">
+              <div className="flex items-center gap-2 sm:gap-4 rounded-xl border border-border-default bg-bg-surface px-3 sm:px-4 py-2 shadow-lg pointer-events-auto h-[44px]">
+                <div className="text-[10px] font-bold uppercase tracking-widest text-text-faint">
+                  Büyüklük
+                </div>
                 {[
-                  { color: "#34D399", label: "< 2.0" },
-                  { color: "#FBBF24", label: "2 – 4" },
-                  { color: "#FB923C", label: "4 – 6" },
-                  { color: "#F87171", label: "6 +" },
+                  { label: "< 2", color: "#34D399" },
+                  { label: "2-4", color: "#FBBF24" },
+                  { label: "4-6", color: "#FB923C" },
+                  { label: "6+", color: "#F87171" }
                 ].map((l) => (
                   <div key={l.label} className="flex items-center gap-1.5">
-                    <span className="h-2.5 w-2.5 rounded-full" style={{ background: l.color, boxShadow: `0 0 8px ${l.color}40` }} />
-                    <span className="text-[11px] font-medium text-text-secondary">{l.label}</span>
+                    <span className="h-2.5 w-2.5 rounded-full" style={{ background: l.color }} />
+                    <span className="text-[11px] font-mono text-text-primary">{l.label}</span>
                   </div>
                 ))}
               </div>
+
+              <div className="pointer-events-auto lg:hidden">
+                <AnimatedDock items={dockItems} className="!h-[44px] !pb-1.5 !px-2" />
+              </div>
             </div>
 
-            <div className="absolute top-4 right-4 z-10 rounded-lg border border-border-default px-3 py-2
-                            text-[11px] font-mono text-text-faint"
-                 style={{ background: "rgba(9,9,11,0.88)", backdropFilter: "blur(12px)" }}>
-              Scroll → Yakınlaştır
-            </div>
           </main>
 
           {/* ═══ RIGHT SIDEBAR ═══ */}
-          <aside className="flex flex-col overflow-hidden p-4 pl-2 a-sr">
+          <aside className={`flex-col overflow-hidden p-4 pl-2 a-sr ${activeTab === 'recent' ? 'flex flex-1' : 'hidden lg:flex'}`}>
             <div className="flex items-center justify-between mb-3">
               <span className="text-[11px] font-bold uppercase tracking-[0.15em] text-text-faint">SON DEPREMLER</span>
               <span className="text-[11px] font-mono text-text-faint bg-bg-surface border border-border-default px-2 py-0.5 rounded">{recentQuakes.length}</span>
@@ -372,23 +409,32 @@ const Dashboard = dynamic(
           </aside>
 
           {/* ═══ FOOTER ═══ */}
-          <footer className="col-span-3 flex items-center justify-between px-5 py-2
-                             bg-bg-surface border-t border-border-default a-up d4">
-            <div className="flex items-center gap-2.5">
-              <span className="text-[11px] text-text-faint">Built with</span>
+          <footer className="lg:col-span-3 flex items-center justify-between px-4 lg:px-5 py-2
+                             bg-bg-surface border-t border-border-default a-up d4 flex-shrink-0">
+            <div className="flex items-center gap-1.5 sm:gap-2.5">
+              <span className="text-[9px] sm:text-[11px] text-text-faint">Built with</span>
               {["Next.js", "D3.js", "Tailwind", "Airflow"].map((t) => (
-                <span key={t} className="rounded-md bg-bg-base border border-border-default px-2.5 py-0.5 text-[10px] font-mono text-text-muted">{t}</span>
+                <span key={t} className="rounded-md bg-bg-base border border-border-default px-1.5 sm:px-2.5 py-0.5 text-[8px] sm:text-[10px] font-mono text-text-muted">{t}</span>
               ))}
             </div>
-            <div className="flex items-center gap-5">
-              <span className="text-[11px] text-text-faint">Veri: Kandilli Rasathanesi & AFAD</span>
+            <div className="flex items-center gap-2 sm:gap-5">
+              <span className="text-[9px] sm:text-[11px] text-text-faint">Kandilli & AFAD</span>
               <a href="https://github.com/bedirhan327" target="_blank" rel="noopener noreferrer"
-                 className="text-[11px] text-text-muted hover:text-text-primary transition-colors flex items-center gap-1.5">
-                <svg className="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+                 className="text-[9px] sm:text-[11px] text-text-muted hover:text-text-primary transition-colors flex items-center gap-1 sm:gap-1.5">
+                <svg className="h-3 w-3 sm:h-3.5 sm:w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
                 GitHub
               </a>
             </div>
           </footer>
+
+          {/* ═══ MOBILE DOCK FOR SIDEBARS ═══ */}
+          {activeTab !== 'map' && (
+            <div className="fixed bottom-6 left-0 right-0 z-[100] lg:hidden flex justify-center pointer-events-none">
+              <div className="pointer-events-auto shadow-2xl shadow-black/50 rounded-2xl">
+                <AnimatedDock items={dockItems} className="!h-[44px] !pb-1.5 !px-2" />
+              </div>
+            </div>
+          )}
         </div>
       );
     }
