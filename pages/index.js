@@ -284,16 +284,16 @@ const Dashboard = dynamic(
             {stats ? (
               <>
                 <StatCard label="Toplam Deprem" value={stats.total} detail={`Son ${limit} kayıt`}
-                          icon="📍" color="#E4E4E7" delay="d1" />
+                          icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>} color="#E4E4E7" delay="d1" />
                 <StatCard label="Ort. Büyüklük" value={stats.avgMag} unit="ML" detail="Yerel Büyüklük"
-                          icon="📐" color="#34D399" delay="d2" />
+                          icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>} color="#34D399" delay="d2" />
                 <StatCard label="En Büyük Deprem" value={stats.maxMag} unit="ML" detail={stats.maxLoc}
-                          icon="⚠️" color="#F87171" delay="d3" />
+                          icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>} color="#F87171" delay="d3" />
                 <StatCard label="4+ Büyüklük" value={stats.above4} detail="Hissedilen depremler"
-                          icon="🔔" color="#FBBF24" delay="d4" />
+                          icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"></path><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"></path></svg>} color="#FBBF24" delay="d4" />
                 <StatCard label="Ort. Derinlik" value={stats.avgDepth} unit="km"
                           detail={`Min ${stats.minDepth} — Maks ${stats.maxDepth} km`}
-                          icon="🔽" color="#C084FC" delay="d5" />
+                          icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><polyline points="19 12 12 19 5 12"></polyline></svg>} color="#C084FC" delay="d5" />
 
                 <div className="rounded-xl bg-bg-surface border border-border-default px-4 py-4
                                transition-all duration-300 hover:bg-bg-elevated hover:border-border-hover a-up d6 mt-2">
