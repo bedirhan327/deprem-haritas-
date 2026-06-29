@@ -104,17 +104,24 @@ export default async function handler(req, res) {
     
     // Token bilgilerini kaydet (tercihler dahil)
     const existingToken = tokens.get(token);
+    
+    // Tercihleri birleştir: Yeni tercihler varsa onları kullan, yoksa eskisini koru
+    const defaultPreferences = {
+      notifyThreshold: 1,
+      distanceThreshold: 400,
+      minMagnitude: 6,
+      location: null
+    };
+    
+    const mergedPreferences = preferences 
+      ? { ...defaultPreferences, ...existingToken?.preferences, ...preferences }
+      : (existingToken?.preferences || defaultPreferences);
+    
     tokens.set(token, {
       platform: detectedPlatform,
       createdAt: existingToken?.createdAt || new Date().toISOString(),
-      deviceInfo: deviceInfo || null,
-      preferences: preferences || existingToken?.preferences || {
-        // Varsayılan tercihler
-        notifyThreshold: 1,
-        distanceThreshold: 400,
-        minMagnitude: 6,
-        location: null
-      },
+      deviceInfo: deviceInfo || existingToken?.deviceInfo || null,
+      preferences: mergedPreferences,
       updatedAt: new Date().toISOString()
     });
     
@@ -132,6 +139,9 @@ export default async function handler(req, res) {
       isNew ? "✅ Yeni token kaydedildi:" : "🔄 Mevcut token güncellendi:",
       `${platformEmoji[detectedPlatform] || "❓"} ${detectedPlatform} - ${token.substring(0, 30)}...`
     );
+    if (!isNew && preferences) {
+      console.log("📝 Tercihler güncellendi:", JSON.stringify(mergedPreferences));
+    }
     console.log("📊 Toplam token sayısı:", tokens.size);
 
     return res.status(200).json({ 
