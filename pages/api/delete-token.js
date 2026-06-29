@@ -40,7 +40,7 @@ async function getTokensMap() {
       map.set(token, info);
     });
     return map;
-  } catch (error) {
+  } catch (_error) {
     return new Map();
   }
 }
@@ -58,7 +58,7 @@ async function saveTokensMap(tokensMap) {
     });
     await redis.set('push_tokens', tokensObj);
     return true;
-  } catch (error) {
+  } catch (_error) {
     return false;
   }
 }

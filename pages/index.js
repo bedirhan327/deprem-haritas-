@@ -83,7 +83,6 @@ const Dashboard = dynamic(
       const [loading, setLoading] = useState(true);
       const [time, setTime] = useState("");
       const [activeTab, setActiveTab] = useState("map");
-      const [isMenuOpen, setIsMenuOpen] = useState(false);
 
       const dockItems = useMemo(() => [
         {
