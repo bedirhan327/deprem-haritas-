@@ -9,22 +9,22 @@ const Dashboard = dynamic(
     /* ═══ StatCard ═══ */
     function StatCard({ label, value, unit, detail, icon, color, delay }) {
       return (
-        <div className={`group relative rounded-xl border border-border-default bg-bg-surface p-4
+        <div className={`group relative rounded-xl border border-border-default bg-bg-surface px-4 py-3
                          transition-all duration-300 hover:bg-bg-elevated hover:border-border-hover
                          hover:-translate-y-0.5 a-up ${delay}`}>
           <div className="absolute inset-x-4 top-0 h-px rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500"
                style={{ background: `linear-gradient(90deg, transparent, ${color}, transparent)` }} />
-          <div className="flex items-center justify-between mb-3">
-            <span className="text-[11px] font-semibold uppercase tracking-[0.1em] text-text-muted">{label}</span>
-            <span className="flex h-7 w-7 items-center justify-center rounded-lg text-xs"
-                  style={{ background: `${color}18` }}>{icon}</span>
+          <div className="flex items-start justify-between mb-1.5">
+            <span className="text-[11px] font-bold uppercase tracking-wider text-text-muted">{label}</span>
+            <span className="flex h-6 w-6 items-center justify-center rounded-md text-[11px]"
+                  style={{ background: `${color}18`, color }}>{icon}</span>
           </div>
-          <div className="flex items-baseline gap-1.5">
-            <span className={`text-[28px] font-extrabold tracking-tight leading-none a-pop ${delay}`}
+          <div className="flex items-end gap-1.5">
+            <span className={`text-[32px] font-bold tracking-tighter leading-none a-pop ${delay}`}
                   style={{ color }}>{value}</span>
-            {unit && <span className="text-sm font-medium text-text-faint">{unit}</span>}
+            {unit && <span className="text-[13px] font-medium text-text-faint mb-0.5">{unit}</span>}
           </div>
-          {detail && <p className="mt-2 text-[11px] text-text-faint leading-snug">{detail}</p>}
+          {detail && <p className="mt-1 text-[11px] text-text-faint uppercase tracking-wide truncate">{detail}</p>}
         </div>
       );
     }
@@ -32,13 +32,13 @@ const Dashboard = dynamic(
     /* ═══ MagBar ═══ */
     function MagBar({ label, count, max, color }) {
       return (
-        <div className="flex items-center gap-2.5">
-          <span className="w-8 text-[11px] font-mono text-text-muted flex-shrink-0">{label}</span>
-          <div className="flex-1 h-2 rounded-full bg-bg-base overflow-hidden">
+        <div className="flex items-center gap-3">
+          <span className="w-7 text-[12px] font-mono text-text-muted flex-shrink-0">{label}</span>
+          <div className="flex-1 h-2 rounded-full bg-bg-elevated overflow-hidden">
             <div className="h-full rounded-full transition-all duration-[1s] ease-out"
                  style={{ width: `${max > 0 ? (count / max) * 100 : 0}%`, background: color }} />
           </div>
-          <span className="w-8 text-right text-[11px] font-mono text-text-muted flex-shrink-0">{count}</span>
+          <span className="w-8 text-right text-[12px] font-mono text-text-muted flex-shrink-0">{count}</span>
         </div>
       );
     }
@@ -238,19 +238,16 @@ const Dashboard = dynamic(
       }, [geoData, depremData, limit, seismicColor]);
 
       return (
-        <div className="grid h-screen w-screen grid-cols-[270px_1fr_310px] grid-rows-[auto_1fr_auto] overflow-hidden bg-bg-base">
+        <div className="grid h-screen w-screen grid-cols-[280px_1fr_310px] grid-rows-[auto_1fr_auto] overflow-hidden bg-bg-base">
 
           {/* ═══ HEADER ═══ */}
           <header className="col-span-3 flex items-center justify-between px-5 py-3
                              bg-bg-surface border-b border-border-default a-down">
 
             <div className="flex items-center gap-3">
-              <div className="flex h-9 w-9 items-center justify-center rounded-lg text-base bg-text-primary">
-                <span className="grayscale-0">🌍</span>
-              </div>
               <div>
-                <h1 className="text-[15px] font-bold tracking-tight text-text-primary">Türkiye Deprem Haritası</h1>
-                <p className="text-[11px] text-text-faint">Gerçek Zamanlı Sismik Aktivite Takip Sistemi</p>
+                <h1 className="text-[16px] font-extrabold tracking-tight text-text-primary">Türkiye Deprem Haritası</h1>
+                <p className="text-[12px] text-text-faint mt-0.5">Gerçek Zamanlı Sismik Aktivite Takip Sistemi</p>
               </div>
             </div>
 
@@ -279,9 +276,9 @@ const Dashboard = dynamic(
           </header>
 
           {/* ═══ LEFT SIDEBAR ═══ */}
-          <aside className="flex flex-col gap-2.5 overflow-y-auto p-3 pr-1.5 a-sl">
-            <span className="px-1 text-[10px] font-bold uppercase tracking-[0.14em] text-text-faint mb-0.5">
-              İstatistikler
+          <aside className="flex flex-col gap-2.5 overflow-y-auto p-4 pr-2 a-sl">
+            <span className="px-1 text-[11px] font-bold uppercase tracking-[0.15em] text-text-faint mb-1">
+              İSTATİSTİKLER
             </span>
 
             {stats ? (
@@ -298,12 +295,12 @@ const Dashboard = dynamic(
                           detail={`Min ${stats.minDepth} — Maks ${stats.maxDepth} km`}
                           icon="🔽" color="#C084FC" delay="d5" />
 
-                <div className="rounded-xl bg-bg-surface border border-border-default p-4
-                               transition-all duration-300 hover:bg-bg-elevated hover:border-border-hover a-up d6">
-                  <span className="text-[11px] font-semibold uppercase tracking-[0.1em] text-text-muted">
+                <div className="rounded-xl bg-bg-surface border border-border-default px-4 py-4
+                               transition-all duration-300 hover:bg-bg-elevated hover:border-border-hover a-up d6 mt-2">
+                  <span className="text-[11px] font-bold uppercase tracking-[0.1em] text-text-muted">
                     Büyüklük Dağılımı
                   </span>
-                  <div className="mt-3 flex flex-col gap-2.5">
+                  <div className="mt-4 flex flex-col gap-3">
                     <MagBar label="< 2"  count={stats.dist.calm}     max={distMax} color="#34D399" />
                     <MagBar label="2–4"  count={stats.dist.mild}     max={distMax} color="#FBBF24" />
                     <MagBar label="4–6"  count={stats.dist.strong}   max={distMax} color="#FB923C" />
@@ -362,12 +359,12 @@ const Dashboard = dynamic(
           </main>
 
           {/* ═══ RIGHT SIDEBAR ═══ */}
-          <aside className="flex flex-col overflow-hidden p-3 pl-1.5 a-sr">
-            <div className="flex items-center justify-between mb-2.5">
-              <span className="text-[10px] font-bold uppercase tracking-[0.14em] text-text-faint">Son Depremler</span>
+          <aside className="flex flex-col overflow-hidden p-4 pl-2 a-sr">
+            <div className="flex items-center justify-between mb-3">
+              <span className="text-[11px] font-bold uppercase tracking-[0.15em] text-text-faint">SON DEPREMLER</span>
               <span className="text-[11px] font-mono text-text-faint bg-bg-surface border border-border-default px-2 py-0.5 rounded">{recentQuakes.length}</span>
             </div>
-            <div className="flex flex-col gap-1.5 overflow-y-auto flex-1 pr-0.5">
+            <div className="flex flex-col gap-2 overflow-y-auto flex-1 pr-1">
               {recentQuakes.map((eq, i) => (
                 <EqItem key={i} eq={eq} idx={i} getColor={seismicColor} />
               ))}
